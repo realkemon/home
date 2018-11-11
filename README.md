@@ -1,11 +1,7 @@
-<img src="https://github.com/realkemon/home/blob/master/gfx/avatar.png" width="64"/> Cedric a.k.a. 'kemon'
+<img src="https://github.com/realkemon/home/blob/master/gfx/avatar.png" width="64"/> Cedric a.k.a. 'kemon' 
 ==========
 
 *The Devil of Details*
-
-* Level-Design: [TODO: wiki page]
-* 2D-Design: [TODO: wiki page]
-* Contact: [kemon#3871](https://discordapp.com/invite/UBAZFys) on Discord
 
 
 INTRODUCTION
@@ -15,16 +11,16 @@ I'm a Europe-based hobby game developer in the idtech3 engine environment. For [
 
 ### Level-Design
 
-There are two sides to my work as a Level-Designer. The first one being own projects that I designed and created from the ground up and the second one being map-overhauls for ET:L. For more information, please refer to the wiki entry. [TODO: wiki page]
+There are two sides to my work as a Level-Designer. The first one being own projects that I designed and created from the ground up and the second one being map-overhauls for ET:L.
 
 **OWN LEVELS**
 
-![Dingenskirchen](https://github.com/realkemon/home/blob/master/maps/dingenskirchen.png) | ![Stiglitz](https://github.com/realkemon/home/blob/master/maps/stiglitz.png)
+![Dingenskirchen](https://github.com/realkemon/home/blob/master/levelshots/dingenskirchen.png) | ![Stiglitz](https://github.com/realkemon/home/blob/master/levelshots/stiglitz.png)
 :---:|:---:
 Dingenskirchen | Stiglitz
 
 **MAP OVERHAULS**
 
-![Frostbite, by Moonkey](https://github.com/realkemon/home/blob/master/maps/etl_frostbite.png) | ![Bergen, by Detoeni](https://github.com/realkemon/home/blob/master/maps/etl_bergen.png) | ![Ice](https://github.com/realkemon/home/blob/master/maps/etl_ice.png)
+![Frostbite, by Moonkey](https://github.com/realkemon/home/blob/master/levelshots/etl_frostbite.png) | ![Bergen, by Detoeni](https://github.com/realkemon/home/blob/master/levelshots/etl_bergen.png) | ![Ice](https://github.com/realkemon/home/blob/master/levelshots/etl_ice.png)
 :---:|:---:|:---:
 Frostbite, by Moonkey | Bergen, by Detoeni | Ice

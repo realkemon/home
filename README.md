@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/QPiQl8o.png" width="64"/> kemon
+<img src="https://github.com/realkemon/home/blob/master/gfx/avatar.png" width="64"/> kemon
 ==========
 
 *The Devil of Details*

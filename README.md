@@ -24,9 +24,9 @@ There are two sides to my work as a Level-Designer. The first one being own proj
 
 **MAP OVERHAULS**
 
-![Frostbite, by Moonkey](https://github.com/realkemon/home/blob/master/maps/frostbite.png)
-![Bergen, by Detoeni](https://github.com/realkemon/home/blob/master/maps/bergen.png)
-![Ice](https://github.com/realkemon/home/blob/master/maps/ice.png)
+![Frostbite, by Moonkey](https://github.com/realkemon/home/blob/master/maps/etl_frostbite.png)
+![Bergen, by Detoeni](https://github.com/realkemon/home/blob/master/maps/etl_bergen.png)
+![Ice](https://github.com/realkemon/home/blob/master/maps/etl_ice.png)
 
 
 

@@ -1,7 +1,7 @@
 'Ice'
 ==========
 
-<img src="https://github.com/realkemon/home/blob/master/maps/etl_ice.png" width="256"/> | <space>
+<img src="https://github.com/realkemon/home/blob/master/levelshots/etl_ice.png" width="256"/> | <space>
 :---|:---
 Status | version 2
 Release | 11/11/2018

@@ -12,6 +12,7 @@ Index
 ============
 [Home](https://github.com/realkemon/home/blob/master/README.md#-cedric-aka-kemon)
 * [Story](https://github.com/realkemon/home/blob/master/etl_ice.md#story)
+* [Media](https://github.com/realkemon/home/blob/master/etl_ice.md#media)
 * [Changelog](https://github.com/realkemon/home/blob/master/etl_ice.md#changelog)
   * [to version 1](https://github.com/realkemon/home/blob/master/etl_ice.md#to-version-1)
   * [to original](https://github.com/realkemon/home/blob/master/etl_ice.md#to-original)
@@ -28,6 +29,32 @@ Facing the Allied advances, the Axis quickly retreated and abandoned the coastal
 The Axis forces must get hold of the documents left behind in the quickly abandoned fortress and radio them to the headquarters for safe-keeping. 
 The Allies attempt to hold the fortress until further reinforcements can make their way to the location.
 
+
+Media
+============
+
+![1](https://i.imgur.com/kGQFCb7.jpg)
+![2](https://i.imgur.com/t3KXEJs.jpg)
+![3](https://i.imgur.com/XL5RDGK.jpg)
+![4](https://i.imgur.com/IwRmfYe.jpg)
+![5](https://i.imgur.com/syRV8Qx.jpg)
+![6](https://i.imgur.com/PTXnU1t.jpg)
+![7](https://i.imgur.com/yDSG2rR.jpg)
+![8](https://i.imgur.com/KDQQFuR.jpg)
+![9](https://i.imgur.com/nlLEQmQ.jpg)
+![10](https://i.imgur.com/kWjm7iP.jpg)
+![11](https://i.imgur.com/3DsdwRv.jpg)
+![12](https://i.imgur.com/2dnqKX1.jpg)
+![13](https://i.imgur.com/75HqIus.jpg)
+![14](https://i.imgur.com/0oQ932U.jpg)
+![15](https://i.imgur.com/TXWiLvb.jpg)
+![16](https://i.imgur.com/uLU9mlw.jpg)
+![17](https://i.imgur.com/A8lzoOH.jpg)
+![18](https://i.imgur.com/LZlQS4u.jpg)
+![19](https://i.imgur.com/5nsN4dU.jpg)
+![20](https://i.imgur.com/24bRlwN.jpg)
+![21](https://i.imgur.com/MaujE2l.jpg)
+![22](https://i.imgur.com/1C9sQQj.jpg)
 
 Changelog
 ============

@@ -1,30 +1,50 @@
 ![Ice](https://github.com/realkemon/home/blob/master/gfx/banner_ice.png)
 ==========
 
-<img src="https://github.com/realkemon/home/blob/master/levelshots/etl_ice.png" width="256"/> | <img src="https://github.com/realkemon/home/blob/master/levelshots/etl_ice_cc.jpg" width="256"/>
-:---|:---
-Status | version 2
-Release | 11/11/2018
-Players | 16v16
-Download | <a href="https://www.moddb.com/mods/etlegacy/addons/etl-ice-v2" title="Download ETL Ice v2 - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/170820.png" alt="ETL Ice v2" /></a>
-
-Index
-============
-[Home](https://github.com/realkemon/home/blob/master/README.md#-cedric-aka-kemon)
-* [Story](https://github.com/realkemon/home/blob/master/etl_ice.md#story)
-* [Media](https://github.com/realkemon/home/blob/master/etl_ice.md#media)
-* [Design Thoughts](https://github.com/realkemon/home/blob/master/etl_ice.md#design-thoughts)
-  * [Lighting](https://github.com/realkemon/home/blob/master/etl_ice.md#lighting)
-  * [Interior](https://github.com/realkemon/home/blob/master/etl_ice.md#interior)
-  * [Transition](https://github.com/realkemon/home/blob/master/etl_ice.md#transition)
-  * [Duct](https://github.com/realkemon/home/blob/master/etl_ice.md#duct)
-* [Changelog](https://github.com/realkemon/home/blob/master/etl_ice.md#changelog)
-  * [to version 1](https://github.com/realkemon/home/blob/master/etl_ice.md#to-version-1)
-  * [to original](https://github.com/realkemon/home/blob/master/etl_ice.md#to-original)
-* [Specs](https://github.com/realkemon/home/blob/master/etl_ice.md#specs)
-  * [overview](https://github.com/realkemon/home/blob/master/etl_ice.md#overview)
-  * [compile parameters](https://github.com/realkemon/home/blob/master/etl_ice.md#compile-parameters)
-
+<table>
+ <tr>
+  <td><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_ice.png" width="256"/></td>
+  <td><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_ice_cc.jpg" width="256"/></td>
+  <td rowspan="5"><b>Index:</b><br>
+<a href="https://github.com/realkemon/home/blob/master/README.md#-cedric-aka-kemon">Home</a><br>
+<ul>
+ <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#story">Story</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#media">Media</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#design-thoughts">Design Thoughts</a></li>
+ <ul>
+  <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#lighting">Lighting</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#interior">Interior</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#transition">Transition</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#duct">Duct</a></li>
+ </ul>
+ <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#changelog">Changelog</a></li>
+ <ul>
+  <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#version-2">version 2</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#version-1">version 1</a></li>
+ </ul>
+ <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#specs">Specs</a></li>
+ <ul>
+  <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#overview">overview</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#compile-parameters">compile parameters</a></li>
+ </ul></td>
+ </tr>
+ <tr>
+  <td>Status</td>
+  <td>version 2</td>
+ </tr>
+ <tr> 
+  <td>Release</td>
+  <td>11/11/2018</td>
+ </tr>
+ <tr>
+  <td>Players</td>
+  <td>16v16</td>
+ </tr>
+ <tr>
+  <td>Download</td>
+  <td><a href="https://www.moddb.com/mods/etlegacy/addons/etl-ice-v2" title="Download ETL Ice v2 - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/170820.png" alt="ETL Ice v2" /></a></td>
+ </tr>
+</table>
 
 Story
 ============
@@ -93,7 +113,7 @@ The fourth bigger thing that I stumbled across was the duct in the forward bunke
 Changelog
 ============
 
-### to version 1:
+### version 2:
 
 * Added antenna to radio transmitter building.
 *	Added missing tracemap. Thank you IR4 and Ensiform for reporting.
@@ -117,7 +137,7 @@ Changelog
 * Adjusted walls in the two hididng spots in the bunker to be closer to original Ice. Thank you ryven for reporting.
 * Adjusted side wall to look pre-damaged. Thank you ryven for reporting.
 
-### to original:
+### version 1:
 * Improved VO announcements. 
   * As long as both Main Entrance and Side Wall are active VO is: "defend/destroy entrances".
   * As soon as one has been breached VO is: "defend/destroy the side OR main entrance".

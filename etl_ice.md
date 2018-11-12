@@ -33,6 +33,8 @@ The Allies attempt to hold the fortress until further reinforcements can make th
 Media
 ============
 
+Below are some comparison screenshots in the before-after style. On the left is the scene in original Ice and on the right roughly the same scene of the overhauled version. Both versions below use the standard texture set, so all differences are related to map work rather than HD textures.
+
 ![1](https://i.imgur.com/kGQFCb7.jpg)
 ![2](https://i.imgur.com/t3KXEJs.jpg)
 ![3](https://i.imgur.com/XL5RDGK.jpg)

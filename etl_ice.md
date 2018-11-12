@@ -16,6 +16,8 @@ Index
   * [to version 1](https://github.com/realkemon/home/blob/master/etl_ice.md#to-version-1)
   * [to original](https://github.com/realkemon/home/blob/master/etl_ice.md#to-original)
 * [Specs](https://github.com/realkemon/home/blob/master/etl_ice.md#specs)
+  * [overview](https://github.com/realkemon/home/blob/master/etl_ice.md#overview)
+  * [compile parameters](https://github.com/realkemon/home/blob/master/etl_ice.md#compile-parameters)
 
 
 Story

@@ -17,10 +17,10 @@ There are two sides to my work as a Level-Designer. The first one being own proj
 
 ![Dingenskirchen](https://github.com/realkemon/home/blob/master/levelshots/dingenskirchen.png) | ![Stiglitz](https://github.com/realkemon/home/blob/master/levelshots/stiglitz.png)
 :---:|:---:
-Dingenskirchen | Stiglitz
+![Dingenskirchen](https://github.com/realkemon/home/blob/master/gfx/banner_dingenskirchen.png) | ![Stiglitz](https://github.com/realkemon/home/blob/master/gfx/banner_stiglitz.png)
 
 **MAP OVERHAULS**
 
 ![Frostbite, by Moonkey](https://github.com/realkemon/home/blob/master/levelshots/etl_frostbite.png) | ![Bergen, by Detoeni](https://github.com/realkemon/home/blob/master/levelshots/etl_bergen.png) | ![Ice](https://github.com/realkemon/home/blob/master/levelshots/etl_ice.png)
 :---:|:---:|:---:
-Frostbite, by Moonkey | Bergen, by Detoeni | [Ice](https://github.com/realkemon/home/blob/master/etl_ice.md#ice)
+![Frostbite, by Moonkey](https://github.com/realkemon/home/blob/master/gfx/banner_frostbite.png) | ![Bergen, by Detoeni](https://github.com/realkemon/home/blob/master/gfx/banner_bergen.png) | [![Ice](https://github.com/realkemon/home/blob/master/gfx/banner_stiglitz.png)](https://github.com/realkemon/home/blob/master/etl_ice.md#ice)

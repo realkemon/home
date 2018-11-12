@@ -16,8 +16,8 @@ Index
 ============
 * [Story](https://github.com/realkemon/home/blob/master/etl_ice.md#story)
 * [Changelog](https://github.com/realkemon/home/blob/master/etl_ice.md#changelog)
- * [to version 1](https://github.com/realkemon/home/blob/master/etl_ice.md#to-version-1)
- * [to original](https://github.com/realkemon/home/blob/master/etl_ice.md#to-original)
+  * [to version 1](https://github.com/realkemon/home/blob/master/etl_ice.md#to-version-1)
+  * [to original](https://github.com/realkemon/home/blob/master/etl_ice.md#to-original)
 * [Specs](https://github.com/realkemon/home/blob/master/etl_ice.md#specs)
 
 

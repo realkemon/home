@@ -58,6 +58,33 @@ Below are some comparison screenshots in the before-after style. On the left is 
 ![21](https://i.imgur.com/MaujE2l.jpg)
 ![22](https://i.imgur.com/1C9sQQj.jpg)
 
+Design Thoughts
+============
+
+Before actually starting to work on the overhaul, it is important to have a deeper look at the original map. On the one hand, focus should be on unique design elements, which can later be emphasised. On the other hand, problematic issues need to be identified. These can be purely visual, but also include elements that serve a direct purpose for gameplay, but have no realistic background/purpose.
+
+### Lighting
+When looking at the original Ice, the first thing that became apparent is the lack of lighting. There hardly seems to be any variation, which makes the map look slightly dull. Below are comparison aerial shots of the outside world, showcasing the difference in lighting.
+![light1](https://i.imgur.com/PxxQcJX.jpg)
+![light2](https://i.imgur.com/Iz7oQ4K.jpg)
+![light3](https://i.imgur.com/3NI8BxZ.jpg)
+
+### Interior
+Another part where in my opinion the visuals differed from realistic expectations were the interiors. On several occasions snowy textures were used in rooms with no direct connection to the outside. These have been replaced with 'temperate' textures.
+![interior1](https://i.imgur.com/S3k525d.jpg)
+![interior2](https://i.imgur.com/A8lzoOH.jpg)
+![interior3](https://i.imgur.com/3DsdwRv.jpg)
+
+### Transition
+I was always unsure on one aspect in the original Ice. Is the structure a castle, a bunker or a mix? For both functionality cases example rooms can be found, however I felt that this difference hasn't been made very clear. Since the interior needed to be redesigned anyway, because of the points above, I decided to try and make this transition a bit more clearly. For the castle part I used RtCW as inspiration. The lower part of the castle was then transformed into the castle cellar with dusty textures and cobwebs. The transition to the bunker was made by actually breaking through the original castle wall and building the bunker wall up behind it.
+![transition1](https://i.imgur.com/7HUMhae.jpg)
+![transition2](https://i.imgur.com/UAW15PH.jpg)
+
+### Duct
+The fourth bigger thing that I stumbled across was the duct in the forward bunker. While it clearly serves a direct gameplay purpose by connecting the forward bunker with the neighbouring rooms and preventing enemies to enter the forward bunker through them, it has questionable application in reality. There are no traces of any purpose in the bunker structure. Is it an air-duct? Is it supposed to have pipes run through? What I settled on is a logistic system to move goods around the room. The original already included several boxes and crates, giving the bunker the impression of a storage facility. By implementing a logistic system, I feel like this aspect was emphasised and the duct has been given a realistic purpose.
+![duct1](https://i.imgur.com/jS3UITv.jpg)
+![duct2](https://i.imgur.com/4VUhRIR.jpg)
+
 Changelog
 ============
 

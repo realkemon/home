@@ -11,19 +11,14 @@ Download | <a href="https://www.moddb.com/mods/etlegacy/addons/etl-bergen-v3" ti
 Index
 ============
 [Home](https://github.com/realkemon/home/blob/master/README.md#-cedric-aka-kemon)
-* [Story](https://github.com/realkemon/home/blob/master/etl_ice.md#story)
-* [Media](https://github.com/realkemon/home/blob/master/etl_ice.md#media)
-* [Design Thoughts](https://github.com/realkemon/home/blob/master/etl_ice.md#design-thoughts)
-  * [Lighting](https://github.com/realkemon/home/blob/master/etl_ice.md#lighting)
-  * [Interior](https://github.com/realkemon/home/blob/master/etl_ice.md#interior)
-  * [Transition](https://github.com/realkemon/home/blob/master/etl_ice.md#transition)
-  * [Duct](https://github.com/realkemon/home/blob/master/etl_ice.md#duct)
-* [Changelog](https://github.com/realkemon/home/blob/master/etl_ice.md#changelog)
-  * [to version 1](https://github.com/realkemon/home/blob/master/etl_ice.md#to-version-1)
-  * [to original](https://github.com/realkemon/home/blob/master/etl_ice.md#to-original)
-* [Specs](https://github.com/realkemon/home/blob/master/etl_ice.md#specs)
-  * [overview](https://github.com/realkemon/home/blob/master/etl_ice.md#overview)
-  * [compile parameters](https://github.com/realkemon/home/blob/master/etl_ice.md#compile-parameters)
+* [Story](https://github.com/realkemon/home/blob/master/etl_bergen.md#story)
+* [Changelog](https://github.com/realkemon/home/blob/master/etl_bergen.md#changelog)
+  * [to version 2](https://github.com/realkemon/home/blob/master/etl_bergen.md#to-version-2)
+  * [to version 1](https://github.com/realkemon/home/blob/master/etl_bergen.md#to-version-1)
+  * [to original](https://github.com/realkemon/home/blob/master/etl_bergen.md#to-original)
+* [Specs](https://github.com/realkemon/home/blob/master/etl_bergen.md#specs)
+  * [overview](https://github.com/realkemon/home/blob/master/etl_bergen.md#overview)
+  * [compile parameters](https://github.com/realkemon/home/blob/master/etl_bergen.md#compile-parameters)
 
 
 Story

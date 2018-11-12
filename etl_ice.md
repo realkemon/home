@@ -6,10 +6,6 @@
 Status | version 2
 Release | 11/11/2018
 Players | 16 v 16
-Total Brushes | 12.271
-Total Patches | 334
-Total Entities | 1.244
-Ingame Entities | 278
 Download | <a href="https://www.moddb.com/mods/etlegacy/addons/etl-ice-v2" title="Download ETL Ice v2 - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/170820.png" alt="ETL Ice v2" /></a>
 
 Index
@@ -76,6 +72,13 @@ Changelog
 Specs
 ============
 
+### Overview
+Map | Ice
+:---|:---
+Total Brushes | 12.271
+Total Patches | 334
+Total Entities | 1.244
+Ingame Entities | 278
 ### Compile parameters:
 ```
 [q3map2] -meta -v -mv 1024 -mi 6144 -samplesize 6 "[MapFile]"

@@ -136,7 +136,7 @@ Specs
 ============
 
 ### Overview
-Map | Ice
+<space> | Specs
 :---|:---
 Total Brushes | 12.271
 Total Patches | 334

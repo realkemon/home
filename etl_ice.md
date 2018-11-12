@@ -5,7 +5,7 @@
 :---|:---
 Status | version 2
 Release | 11/11/2018
-Players | 16 v 16
+Players | 16v16
 Download | <a href="https://www.moddb.com/mods/etlegacy/addons/etl-ice-v2" title="Download ETL Ice v2 - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/170820.png" alt="ETL Ice v2" /></a>
 
 Index

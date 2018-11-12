@@ -23,4 +23,4 @@ Dingenskirchen | Stiglitz
 
 ![Frostbite, by Moonkey](https://github.com/realkemon/home/blob/master/levelshots/etl_frostbite.png) | ![Bergen, by Detoeni](https://github.com/realkemon/home/blob/master/levelshots/etl_bergen.png) | ![Ice](https://github.com/realkemon/home/blob/master/levelshots/etl_ice.png)
 :---:|:---:|:---:
-Frostbite, by Moonkey | Bergen, by Detoeni | [Ice](https://github.com/realkemon/home/blob/master/etl_ice.md)
+Frostbite, by Moonkey | Bergen, by Detoeni | [Ice](https://github.com/realkemon/home/blob/master/etl_ice.md#ice)

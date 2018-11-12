@@ -1,4 +1,4 @@
-'Ice'
+![Ice](https://github.com/realkemon/home/blob/master/gfx/banner_ice.png)
 ==========
 
 <img src="https://github.com/realkemon/home/blob/master/levelshots/etl_ice.png" width="256"/> | <img src="https://github.com/realkemon/home/blob/master/levelshots/etl_ice_cc.jpg" width="256"/>

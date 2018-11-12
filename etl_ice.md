@@ -12,13 +12,13 @@ Total Entities | 1.244
 Ingame Entities | 278
 Download | <a href="https://www.moddb.com/mods/etlegacy/addons/etl-ice-v2" title="Download ETL Ice v2 - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/170820.png" alt="ETL Ice v2" /></a>
 
-
-### Compile parameters:
-```
-[q3map2] -meta -v -mv 1024 -mi 6144 -samplesize 6 "[MapFile]"
-[q3map2] -vis -saveprt -v "[MapFile]"
-[q3map2] -light -samples 5 -samplesize 6 -v -thresh 0.05 -patchshadows -dirty -dirtdepth 256 -external -lightmapsize 512 -shade -bounce 2 "[MapFile]"
-```
+Index
+============
+* [Story](https://github.com/realkemon/home/blob/master/etl_ice.md#story)
+* [Changelog](https://github.com/realkemon/home/blob/master/etl_ice.md#changelog)
+ * [to version 1](https://github.com/realkemon/home/blob/master/etl_ice.md#to-version-1)
+ * [to original](https://github.com/realkemon/home/blob/master/etl_ice.md#to-original)
+* [Specs](https://github.com/realkemon/home/blob/master/etl_ice.md#specs)
 
 
 Story
@@ -28,6 +28,7 @@ In an attempt to locate the X-Labs run by Deathshead in occupied Norway, the All
 Facing the Allied advances, the Axis quickly retreated and abandoned the coastal fortress leaving behind crucial documents depicting Axis troop movement and strongholds. 
 The Axis forces must get hold of the documents left behind in the quickly abandoned fortress and radio them to the headquarters for safe-keeping. 
 The Allies attempt to hold the fortress until further reinforcements can make their way to the location.
+
 
 Changelog
 ============
@@ -69,3 +70,14 @@ Changelog
 * Construciton materials have been made in the style of original maps.
 * Doors have been widened to allow for faster movement.
 * Visual changes have been made.
+
+
+Specs
+============
+
+### Compile parameters:
+```
+[q3map2] -meta -v -mv 1024 -mi 6144 -samplesize 6 "[MapFile]"
+[q3map2] -vis -saveprt -v "[MapFile]"
+[q3map2] -light -samples 5 -samplesize 6 -v -thresh 0.05 -patchshadows -dirty -dirtdepth 256 -external -lightmapsize 512 -shade -bounce 2 "[MapFile]"
+```

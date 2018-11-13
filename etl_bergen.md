@@ -162,12 +162,12 @@ Development
 
 ### Specs
 
-<space> | version 3 | original
+<space> | original | version 3
 :---|:---|:---
-Total Brushes | 15.527 | 15.898
-Total Patches | 809 | 1.179
-Total Entities | 1.518 | 1.194
-Ingame Entities | 525 | 568
+Total Brushes | 15.898 | 15.527
+Total Patches | 1.179 | 809
+Total Entities | 1.194 | 1.518
+Ingame Entities | 568 | 525
  
  ### Source
 

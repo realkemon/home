@@ -99,7 +99,7 @@ The very iconic look of the door control panels, which are linked to the generat
 Changelog
 ============
 
-### version 3:
+### version 3
 
 * Fixed caulk in terrain at forward bunker and northern courtyard. Thank you ryven for reporting.
 * Fixed side entrance being unplantable when footbridge was constructed. Thank you Harlekin for reporting.
@@ -121,7 +121,7 @@ Changelog
 * Reduced brushcount of terrain significantly and added hills between forward bunker and rear base to increase VIS blocking and performance. Thank you Aciz and ryven for reporting.
 
 
-### version 2:
+### version 2
 
 * Various clipping issues have been fixed, where players could get stuck. Thank you Aciz and WuTangH for reporting.
 * Various TJ possibilities have been removed, to prevent not intended, easy access to map objectives. Thank you Aciz for reporting.
@@ -136,7 +136,7 @@ Changelog
 * Moved a hovering lamp at the transmitter controls bunker. Thank you Aciz for reporting.
 
 
-### version 1:
+### version 1
 
 * VO announcements have been adapted by Radar.
   * As long as both Main and Side Entrance are active VO is: “defend/destroy entrances”

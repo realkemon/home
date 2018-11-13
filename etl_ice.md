@@ -117,7 +117,7 @@ The fourth bigger thing that I stumbled across was the duct in the forward bunke
 Changelog
 ============
 
-### version 2:
+### version 2
 
 * Added antenna to radio transmitter building.
 *	Added missing tracemap. Thank you IR4 and Ensiform for reporting.
@@ -141,7 +141,7 @@ Changelog
 * Adjusted walls in the two hididng spots in the bunker to be closer to original Ice. Thank you ryven for reporting.
 * Adjusted side wall to look pre-damaged. Thank you ryven for reporting.
 
-### version 1:
+### version 1
 * Improved VO announcements. 
   * As long as both Main Entrance and Side Wall are active VO is: "defend/destroy entrances".
   * As soon as one has been breached VO is: "defend/destroy the side OR main entrance".
@@ -166,9 +166,21 @@ Total Brushes | 12.271
 Total Patches | 334
 Total Entities | 1.244
 Ingame Entities | 278
-### Compile parameters:
+ 
+### Source
+
+Since we are talking about an open-sourced game, in my opinion as much as possible should be available to the public. In that spirit, the map source, along with sources of my other maps, can be found in the repo. It is kept updated with all latest changes, which means the map-source does not necessarily reflect the status of the last release. If you encounter any issues, I would prefer it if you contacted me or simply opened an issue on the tracker, instead of recompiling a version yourself.
+
+[Download](https://github.com/realkemon/home/tree/master/maps)
+|:---|
+[Activity Tracker](https://github.com/realkemon/home/milestone/1)
+
+### Compile parameters
+
 ```
 [q3map2] -meta -v -mv 1024 -mi 6144 -samplesize 6 "[MapFile]"
 [q3map2] -vis -saveprt -v "[MapFile]"
 [q3map2] -light -samples 5 -samplesize 6 -v -thresh 0.05 -patchshadows -dirty -dirtdepth 256 -external -lightmapsize 512 -shade -bounce 2 "[MapFile]"
 ```
+
+

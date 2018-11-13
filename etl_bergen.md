@@ -63,7 +63,7 @@ As Operation Arrow descends on the Bergen area of Norway the Axis must protect t
 Changelog
 ============
 
-### to version 2:
+### version 3:
 
 * Fixed caulk in terrain at forward bunker and northern courtyard. Thank you ryven for reporting.
 * Fixed side entrance being unplantable when footbridge was constructed. Thank you Harlekin for reporting.
@@ -85,7 +85,7 @@ Changelog
 * Reduced brushcount of terrain significantly and added hills between forward bunker and rear base to increase VIS blocking and performance. Thank you Aciz and ryven for reporting.
 
 
-### to version 1:
+### version 2:
 
 * Various clipping issues have been fixed, where players could get stuck. Thank you Aciz and WuTangH for reporting.
 * Various TJ possibilities have been removed, to prevent not intended, easy access to map objectives. Thank you Aciz for reporting.
@@ -100,7 +100,7 @@ Changelog
 * Moved a hovering lamp at the transmitter controls bunker. Thank you Aciz for reporting.
 
 
-### to original:
+### version 1:
 
 * VO announcements have been adapted by Radar.
   * As long as both Main and Side Entrance are active VO is: “defend/destroy entrances”
@@ -132,6 +132,14 @@ Total Brushes | 15.520
 Total Patches | 811
 Total Entities | 1.517
 Ingame Entities | 524
+ 
+ ### Source
+
+Since we are talking about an open-sourced game, in my opinion as much as possible should be available to the public. In that spirit, the map source, along with sources of my other maps, can be found in the repo. It is kept updated with all latest changes, which means the map-source does not necessarily reflect the status of the last release. If you encounter any issues, I would prefer it if you contacted me or simply opened an issue on the tracker, instead of recompiling a version yourself.
+
+[Download](https://github.com/realkemon/home/tree/master/maps)
+|:---|
+Activity Tracker
 
 ### Compile parameters:
 ```

@@ -173,7 +173,7 @@ Since we are talking about an open-sourced game, in my opinion as much as possib
 
 [Download](https://github.com/realkemon/home/tree/master/maps)
 |:---|
-Activity Tracker
+[Activity Tracker](https://github.com/realkemon/home/milestone/2)
 
 ### Compile parameters:
 ```

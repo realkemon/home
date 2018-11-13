@@ -12,7 +12,7 @@
  <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#media">Media</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#changelog">Changelog</a></li>
  <ul>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#version-5">version 6</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#version-6-pending">version 6</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#version-5">version 5</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#version-4">version 4</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#version-3">version 3</a></li>

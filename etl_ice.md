@@ -1,4 +1,4 @@
-ETL Ice
+![Ice](https://github.com/realkemon/home/blob/master/gfx/banner_ice.png)
 ==========
 
 <table>
@@ -51,7 +51,6 @@ ETL Ice
  </tr>
 </table>
 
-![Ice](https://github.com/realkemon/home/blob/master/gfx/banner_ice.png)
 
 Story
 ============

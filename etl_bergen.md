@@ -1,24 +1,54 @@
 ![Bergen](https://github.com/realkemon/home/blob/master/gfx/banner_bergen.png)
 ==========
 
-<img src="https://github.com/realkemon/home/blob/master/levelshots/etl_bergen.png" width="256"/> | <img src="https://github.com/realkemon/home/blob/master/levelshots/etl_bergen_cc.jpg" width="256"/>
-:---|:---
-Status | version 3
-Release | 20/10/2018
-Players | 16v16
-Download | <a href="https://www.moddb.com/mods/etlegacy/addons/etl-bergen-v3" title="Download ETL Bergen v3 - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/169701.png" alt="ETL Bergen v3" /></a>
-
-Index
-============
-[Home](https://github.com/realkemon/home/blob/master/README.md#-cedric-aka-kemon)
-* [Story](https://github.com/realkemon/home/blob/master/etl_bergen.md#story)
-* [Changelog](https://github.com/realkemon/home/blob/master/etl_bergen.md#changelog)
-  * [to version 2](https://github.com/realkemon/home/blob/master/etl_bergen.md#to-version-2)
-  * [to version 1](https://github.com/realkemon/home/blob/master/etl_bergen.md#to-version-1)
-  * [to original](https://github.com/realkemon/home/blob/master/etl_bergen.md#to-original)
-* [Specs](https://github.com/realkemon/home/blob/master/etl_bergen.md#specs)
-  * [overview](https://github.com/realkemon/home/blob/master/etl_bergen.md#overview)
-  * [compile parameters](https://github.com/realkemon/home/blob/master/etl_bergen.md#compile-parameters)
+<table>
+ <tr>
+  <td><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_bergen.png" width="256"/></td>
+  <td><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_bergen_cc.jpg" width="256"/></td>
+  <td rowspan="6"><b>Index:</b><br>
+<a href="https://github.com/realkemon/home/blob/master/README.md#-cedric-aka-kemon">Home</a><br>
+<ul>
+ <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#story">Story</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#media">Media</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#design-thoughts">Design Thoughts</a></li>
+ <ul>
+  <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#lighting">Lighting</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#interior">Interior</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#transition">Transition</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#duct">Duct</a></li>
+ </ul>
+ <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#changelog">Changelog</a></li>
+ <ul>
+  <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#version-2">version 2</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#version-1">version 1</a></li>
+ </ul>
+ <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#development">Development</a></li>
+ <ul>
+  <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#specs">specs</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#compile-parameters">compile parameters</a></li>
+ </ul></td>
+ </tr>
+ <tr>
+  <td>BSP name</td>
+  <td>etl_bergen_v3</td>
+ </tr>
+ <tr>
+  <td>Status</td>
+  <td>version 3</td>
+ </tr>
+ <tr> 
+  <td>Release</td>
+  <td>20/10/2018</td>
+ </tr>
+ <tr>
+  <td>Players</td>
+  <td>16v16</td>
+ </tr>
+ <tr>
+  <td>Download</td>
+  <td><a href="https://www.moddb.com/mods/etlegacy/addons/etl-bergen-v3" title="Download ETL Bergen v3 - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/169701.png" alt="ETL Bergen v3" /></a></td>
+ </tr>
+</table>
 
 
 Story

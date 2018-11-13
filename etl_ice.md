@@ -1,4 +1,4 @@
-![Ice](https://github.com/realkemon/home/blob/master/gfx/banner_ice.png)
+ETL Ice
 ==========
 
 <table>
@@ -50,6 +50,8 @@
   <td><a href="https://www.moddb.com/mods/etlegacy/addons/etl-ice-v2" title="Download ETL Ice v2 - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/170820.png" alt="ETL Ice v2" /></a></td>
  </tr>
 </table>
+
+![Ice](https://github.com/realkemon/home/blob/master/gfx/banner_ice.png)
 
 Story
 ============

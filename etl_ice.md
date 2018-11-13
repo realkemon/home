@@ -184,6 +184,5 @@ Since we are talking about an open-sourced game, in my opinion as much as possib
 [q3map2] -vis -saveprt -v "[MapFile]"
 [q3map2] -light -samples 5 -samplesize 6 -v -thresh 0.05 -patchshadows -dirty -dirtdepth 256 -external -lightmapsize 512 -shade -bounce 2 "[MapFile]"
 ```
-<div style="text-align: left"> <a href="https://github.com/realkemon/home/blob/master/README.md#-cedric-aka-kemon">:arrow_backward: Return to Home</a> </div>
-<div style="text-align: right"> <a href="https://github.com/realkemon/home/blob/master/etl_ice.md#">:arrow_double_up: Back to the Top</a> </div>
+[:arrow_backward: Return to Home](https://github.com/realkemon/home/blob/master/README.md#-cedric-aka-kemon) <space><space><space><space><space><space><space><space><space><space>[:arrow_double_up: Back to the Top](https://github.com/realkemon/home/blob/master/etl_ice.md#)
  

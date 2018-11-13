@@ -162,7 +162,7 @@ Development
 ============
 
 ### Specs
-<space> | overhaul | original
+<space> | version 2 | original
 :---|:---|:---
 Total Brushes | 12.271 | 7.590
 Total Patches | 334 | 32

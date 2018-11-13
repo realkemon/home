@@ -9,7 +9,8 @@ INTRODUCTION
 
 I'm a Europe-based hobby game developer in the idtech3 engine environment. For [ET: Legacy](https://github.com/etlegacy), an open source project aiming to restore the good old days of [Wolfenstein: Enemy Territory](https://github.com/id-Software/Enemy-Territory), I work as a Level-Designer, 2D-Artist and Community Manager.
 
-### Level-Design
+Level-Design
+============
 
 There are two sides to my work as a Level-Designer. The first one being own projects that I designed and created from the ground up and the second one being map-overhauls for ET:L.
 

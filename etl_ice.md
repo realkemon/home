@@ -186,4 +186,4 @@ Since we are talking about an open-sourced game, in my opinion as much as possib
 ```
 
 
-[:arrow_backward: Return to Home]https://github.com/realkemon/home/blob/master/README.md#-cedric-aka-kemon [:arrow_double_up: Back to the Top]https://github.com/realkemon/home/blob/master/etl_ice.md#
+[:arrow_backward: Return to Home](https://github.com/realkemon/home/blob/master/README.md#-cedric-aka-kemon) [:arrow_double_up: Back to the Top](https://github.com/realkemon/home/blob/master/etl_ice.md#)

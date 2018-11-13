@@ -12,11 +12,12 @@
  <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#media">Media</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#changelog">Changelog</a></li>
  <ul>
+  <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#version-5">version 6</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#version-5">version 5</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#version-4">version 4</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#version-3">version 3</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#version-2">version 2</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#version-1">version 1</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#version-4">version 4</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#version-3">version 3</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#version-2">version 2</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#version-1">version 1</a></li>
  </ul>
  <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#development">Development</a></li>
  <ul>
@@ -78,7 +79,11 @@ Both versions below use the standard texture set, so all differences are related
 Changelog
 ============
 
-### version 5:
+### version 6 (pending)
+
+* Added crates to provide cover at Allied spawn cabins
+
+### version 5
 
 * Fixed bug where the Allied CP didn’t get destroyed properly
 * Fixed models that had their origin positioned in a structural brush
@@ -93,7 +98,7 @@ Changelog
 * Transformed world_clips into a func_static allowing for better spectator movement to simplify shoutcasting
 * Increased overall lighting from 15 to 20
 
-### version 4:
+### version 4
 
 * Axis garage spawn bug has been resolved
 * Board in the objective room has been made destructible
@@ -102,18 +107,18 @@ Changelog
 * Slightly improved structural VIS blocking
 
 
-### version 3:
+### version 3
 
 * The player is now able to stop and revert Storage Wall movement by activating the button again.
 * Alarm now also sounds when the Service Door has been dynamited before the Storage Wall and Main Door.
 * Structural mesh and VIS blocking has been improved
 * Visual changes were made
 
-### version 2:
+### version 2
 
 This version was a closed beta release and therefore no concrete changelog is available.
 
-### version 1:
+### version 1
 
 This version was a closed beta release and therefore no concrete changelog is available.
 

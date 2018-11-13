@@ -58,6 +58,40 @@ The Unterseebootwaffe of the 11th flotilla is harassing Allied shipping in the N
 As Operation Arrow descends on the Bergen area of Norway the Axis must protect the base from Allied attempts at sabotage.
 
 
+Design Thoughts
+============
+
+Before actually starting to work on the overhaul, it is important to have a deeper look at the original map. On the one hand, focus should be on unique design elements, which can later be emphasised. On the other hand, problematic issues need to be identified. These can be purely visual, but also include elements that serve a direct purpose for gameplay, but have no realistic background/purpose.
+
+### Doors
+
+When looking at the original Bergen, one thing that strikes the eye is the style of the doors. They are not rectangular, but rather have a 45° angle in the top corners. As this is a very unique style of doors, it was important to preserve and emphasise it where possible. In that spirit all doors have received the same setup to prevent misalignment of textures and ensure an uniform appearance.
+![door1](https://i.imgur.com/omREEXQ.jpg)
+![door2](https://i.imgur.com/cxi6l1t.jpg)
+
+### Wall Elements
+
+A second unqiue style are the wall elements in the bunker corridors. Where possible, these have been enlarged and added. Their contrast has been increased as well, to make them pop a bit more.
+![element1](https://i.imgur.com/9e58Fr8.jpg)
+![element2](https://i.imgur.com/LKcIcC3.jpg)
+
+### Submarine Bay
+
+The submarine bay is definitely one of the most iconic areas in the map, along with the generator room. One way to further strengthen the character of this area was to implement additional elements supporting the realistic background. In other words, elements that tell a story and imply a realistic meaning to increase the immersion in the level. One aspect was to extend the transport system of torpedos from the back courtyard into the submarine bay. Torpedos brought in that way needed to be loaded onto the submarine, which is why cranes were added around the docks. Aside from those, other elements included moveable bridges to cross from docks to docked submarines safely as well as random generators and pipes.
+![submarine1](https://i.imgur.com/frIjRBY.jpg)
+![submarine2](https://i.imgur.com/RyBJYe4.jpg)
+
+### Generator
+
+As mentioned above, the generator room is one of the most iconic areas in this map. In attempt to increase the depth in this area, the floor was replaced by a metal grid and an underground level has been created to make the room seem larger and humbling. The generator has been rebuilt using the standard texture set and was given a more worn-down/industrial look.
+![generator1](https://i.imgur.com/4nGQqgJ.jpg)
+![generator2](https://i.imgur.com/7gySbtu.jpg)
+![generator3](https://i.imgur.com/CzBMEYB.jpg)
+
+### Door Panels
+
+The very iconic look of the door control panels, which are linked to the generator *(built = functioning)*, has also received a make-over. Partly, because custom textures should be avoided where possible and partly to enable the player to tell even faster whether or not the control panels are working or not. To achieve this, two lights have been added that are red when the generator is destroyed and switch to green once it's working. The arrow has received a wobbling effect when it is green to simulate pressure variation in the system. Furthermore, audio feedback was added to the levers when they are not functioning, to let the player know that his activation triggered something, but it is not working.
+![panel1](https://i.imgur.com/BFuBFy6.jpg)
 
 
 Changelog

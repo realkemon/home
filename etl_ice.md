@@ -22,9 +22,9 @@
   <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#version-2">version 2</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#version-1">version 1</a></li>
  </ul>
- <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#specs">Specs</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#development">Development</a></li>
  <ul>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#overview">overview</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#specs">specs</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#compile-parameters">compile parameters</a></li>
  </ul></td>
  </tr>
@@ -152,10 +152,10 @@ Changelog
 * Visual changes have been made.
 
 
-Specs
+Development
 ============
 
-### Overview
+### Specs
 <space> | Specs
 :---|:---
 Total Brushes | 12.271

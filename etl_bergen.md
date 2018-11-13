@@ -1,4 +1,4 @@
-![Bergen](https://github.com/realkemon/home/blob/master/gfx/banner_bergen.png)
+[ETL] Bergen, by Detoeni
 ==========
 
 <table>
@@ -156,7 +156,6 @@ Changelog
 * Visual changes have been made.
 
 
-
 Development
 ============
 
@@ -178,6 +177,7 @@ Since we are talking about an open-sourced game, in my opinion as much as possib
 [Activity Tracker](https://github.com/realkemon/home/milestone/2)
 
 ### Compile parameters:
+(Note: `-samplesize 16` needs to be added to the -BSP phase as well to function properly. This will be done for next version.)
 ```
 [q3map2] -meta -v -mv 1024 -mi 6144 “[MapFile]”
 [q3map2] -vis -saveprt -v “[MapFile]”

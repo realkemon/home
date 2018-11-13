@@ -126,12 +126,12 @@ Specs
 
 ### Overview
 
-<space> | Specs
-:---|:---
-Total Brushes | 15.520
-Total Patches | 811
-Total Entities | 1.517
-Ingame Entities | 524
+<space> | version 3 | original
+:---|:---|:---
+Total Brushes | 15.520 | 15.898
+Total Patches | 811 | 1.179
+Total Entities | 1.517 | 1.194
+Ingame Entities | 524 | 568
  
  ### Source
 

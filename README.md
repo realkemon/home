@@ -35,6 +35,6 @@ cs_office | de_aztec | de_nuke | cs_italy
 
 **Map List**
 
-![Frostbite, by Moonkey](https://github.com/realkemon/home/blob/master/levelshots/etl_frostbite.png) | [![Bergen, by Detoeni](https://github.com/realkemon/home/blob/master/levelshots/etl_bergen.png)](https://github.com/realkemon/home/blob/master/etl_bergen.md#) | [![Ice](https://github.com/realkemon/home/blob/master/levelshots/etl_ice.png)](https://github.com/realkemon/home/blob/master/etl_ice.md#)
+[![Frostbite, by Moonkey](https://github.com/realkemon/home/blob/master/levelshots/etl_frostbite.png)](https://github.com/realkemon/home/blob/master/etl_frostbite.md#) | [![Bergen, by Detoeni](https://github.com/realkemon/home/blob/master/levelshots/etl_bergen.png)](https://github.com/realkemon/home/blob/master/etl_bergen.md#) | [![Ice](https://github.com/realkemon/home/blob/master/levelshots/etl_ice.png)](https://github.com/realkemon/home/blob/master/etl_ice.md#)
 :---:|:---:|:---:
-**Frostbite, by Moonkey** | [**Bergen, by Detoeni**](https://github.com/realkemon/home/blob/master/etl_bergen.md#) | [**Ice**](https://github.com/realkemon/home/blob/master/etl_ice.md#)
+[**Frostbite, by Moonkey**](https://github.com/realkemon/home/blob/master/etl_frostbite.md#) | [**Bergen, by Detoeni**](https://github.com/realkemon/home/blob/master/etl_bergen.md#) | [**Ice**](https://github.com/realkemon/home/blob/master/etl_ice.md#)

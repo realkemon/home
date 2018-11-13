@@ -5,7 +5,7 @@
  <tr>
   <td><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_ice.png" width="256"/></td>
   <td><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_ice_cc.jpg" width="256"/></td>
-  <td rowspan="5"><b>Index:</b><br>
+  <td rowspan="6"><b>Index:</b><br>
 <a href="https://github.com/realkemon/home/blob/master/README.md#-cedric-aka-kemon">Home</a><br>
 <ul>
  <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#story">Story</a></li>
@@ -27,6 +27,10 @@
   <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#specs">specs</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#compile-parameters">compile parameters</a></li>
  </ul></td>
+ </tr>
+ <tr>
+  <td>BSP name</td>
+  <td>etl_ice_v2</td>
  </tr>
  <tr>
   <td>Status</td>

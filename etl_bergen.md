@@ -85,14 +85,14 @@ The submarine bay is definitely one of the most iconic areas in the map, along w
 
 ### Generator
 
-As mentioned above, the generator room is one of the most iconic areas in this map. In attempt to increase the depth in this area, the floor was replaced by a metal grid and an underground level has been created to make the room seem larger and humbling. The generator has been rebuilt using the standard texture set and was given a more worn-down/industrial look.
+As mentioned above, the generator room is one of the most iconic areas in this map. In an attempt to increase the depth in this area, the floor was replaced by a metal grid and an underground level has been created to make the room seem larger and humbling. The generator has been rebuilt using the standard texture set and was given a more worn-down/industrial look.
 ![generator1](https://i.imgur.com/4nGQqgJ.jpg)
 ![generator2](https://i.imgur.com/7gySbtu.jpg)
 ![generator3](https://i.imgur.com/CzBMEYB.jpg)
 
 ### Door Panels
 
-The very iconic look of the door control panels, which are linked to the generator *(built = functioning)*, has also received a make-over. Partly, because custom textures should be avoided where possible and partly to enable the player to tell even faster whether or not the control panels are working or not. To achieve this, two lights have been added that are red when the generator is destroyed and switch to green once it's working. The arrow has received a wobbling effect when it is green to simulate pressure variation in the system. Furthermore, audio feedback was added to the levers when they are not functioning, to let the player know that his activation triggered something, but it is not working.
+The very iconic look of the door control panels, which are linked to the generator *(built = functioning)*, has also received a make-over. Partly, because custom textures should be avoided where possible and partly to enable the player to tell even faster whether or not the control panels are working or not. To achieve this, two lights have been added that are red when the generator is destroyed and switch to green once it's working. The arrow has received a wobbling effect when it is green to simulate pressure variation in the system. Furthermore, audio feedback was added to the levers when they are not functioning, to let the player know that their activation triggered something, but it is not working.
 ![panel1](https://i.imgur.com/BFuBFy6.jpg)
 
 

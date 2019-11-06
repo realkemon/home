@@ -20,6 +20,7 @@ Pointe du Hoc
   <li><a href="https://github.com/realkemon/home/blob/master/pointe_du_hoc.md#clifftop">Clifftop</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pointe_du_hoc.md#gameplay">Gameplay</a></li>
  </ul>
+ <li><a href="https://github.com/realkemon/home/blob/master/pointe_du_hoc.md#screenshots">Screenshots</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pointe_du_hoc.md#technical-notes">Technical Notes</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pointe_du_hoc.md#development">Development</a></li>
  <ul>
@@ -163,7 +164,7 @@ In-game Entities | 459
  
  ### Source
 
-Since we are talking about an open-sourced game, in my opinion as much as possible should be available to the public. In that spirit, the map source, along with sources of my other maps, can be found in the repo. It is kept updated with all latest changes, which means the map-source does not necessarily reflect the status of the last release. If you encounter any issues, I would prefer it if you contacted me or simply opened an issue on the tracker, instead of recompiling a version yourself.
+Since we are talking about an open-source game, in my opinion as much as possible should be available to the public. In that spirit, the map source, along with sources of my other maps, can be found in the repo. It is kept updated with all latest changes, which means the map-source does not necessarily reflect the status of the last release. If you encounter any issues, I would prefer it if you contacted me or simply opened an issue on the tracker, instead of recompiling a version yourself.
 
 [Download](https://github.com/realkemon/home/tree/master/maps)
 |:---|

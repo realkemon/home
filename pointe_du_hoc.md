@@ -4,7 +4,7 @@ Pointe du Hoc
 <table>
  <tr>
   <td><img src="https://github.com/realkemon/home/blob/master/levelshots/hoc.png" width="256"/></td>
-  <td><img src="https://github.com/realkemon/home/blob/master/levelshots/hoc_cc.jpg" width="256"/></td>
+  <td><img src="https://github.com/realkemon/home/blob/master/levelshots/hoc_cc.png" width="256"/></td>
   <td rowspan="6"><b>Index:</b><br>
 <a href="https://github.com/realkemon/home/blob/master/README.md#-cedric-aka-kemon">Home</a><br>
 <ul>
@@ -90,17 +90,14 @@ The objective shouldn't be easy for either side, but it should also not be possi
 
 Especially, the vulnerable position of the Allies while climbing the cliff needs to be taken into account.
 The Allies have received 4 different initial spawns for up to 8 players each. Given the triangular shape of the cliff, the climbable area is twice the total distance of the [Seawall Battery](http://simonoc.com/pages/design/games_pro/et_battery.htm) beach, for which the Allies have received 12 different climbing rope locations. Therefore, the outermost Allied spawns have a relatively safe climb up the cliff, but a longer travel distance along the trenches on top of the cliff.
-![ropes](https://i.imgur.com/FCfc4H2.jpg)
-![commandmap](https://i.imgur.com/XeYU50p.jpg)
+[![cliff](https://i.imgur.com/FCfc4H2m.jpg)](https://i.imgur.com/FCfc4H2.jpg) [![commandmap](https://i.imgur.com/XeYU50pm.jpg)](https://i.imgur.com/XeYU50p.jpg)
 
 ### Clifftop
 
 The triangular shape furthermore ensures that while there is a large climbable area, the area on the cliff top is comparably small with the main defensive strongholds being layed out along the central axis through the cliff head.
 Previous to the real-life attack, the clifftop has also been shelled by Allied artillery. For the map this means that the terrain is riddled by craters aside from the constructed trenches. This combination results in a very bumpy terrain that obstructs long distance line of sight. Linked with the foggy atmosphere, the players are forced to work together in smaller teams and fight through close to middle range combat to the objective.
 The small craters provide makeshift shelter for both teams to regroup and then push together as a fireteam.
-![clifftop1](https://i.imgur.com/hleZX8t.jpg)
-![clifftop1](https://i.imgur.com/D8bXoZJ.jpg)
-![clifftop1](https://i.imgur.com/LRjJ34b.jpg)
+[![clifftop1](https://i.imgur.com/hleZX8tm.jpg)](https://i.imgur.com/hleZX8t.jpg) [![clifftop1](https://i.imgur.com/D8bXoZJ.jpg)](https://i.imgur.com/D8bXoZJm.jpg) [![clifftop1](https://i.imgur.com/LRjJ34bm.jpg)](https://i.imgur.com/LRjJ34b.jpg)
 
 ### Gameplay
 
@@ -113,7 +110,7 @@ There are 3 structures:
 To give all three fortifications a strategic value and promote strategic decisions when to push which structure, the capturable flag and the command post have been linked. If one team holds both the flag and has constructed the command post, the flag is temporarily secured. Meaning that the enemy team first has to destroy the command post before capturing the flag spawn. 
 
 The primary objective in the Hinterlands, the second stage of the map, is for the Allies to destroy the 6 artillery guns. They are grouped in two different locations with 3 guns each and need to be dynamited. For this objective I have used the layout of [Würzburg Radar](http://simonoc.com/pages/design/games_pro/et_radar.htm) as inspiration due to its proven gameplay. Therefore, the guns are separated by hedgelines giving the Allies 3 different attack routes to reach the objectives.
-![commandmap](https://i.imgur.com/XeYU50p.jpg)
+[![commandmap](https://i.imgur.com/XeYU50pm.jpg)](https://i.imgur.com/XeYU50p.jpg)
 
 
 Technical Notes
@@ -122,12 +119,12 @@ Technical Notes
 The general idea behind the VIS blocking in this map can be seen in the images below.
 **G** being the sky area and the top of the minefield. The minefield dividing the map into first and second stage also acts as a VIS block like the blue rectangle.
 Therefore, the clifftop and Hinterlands are strictly separated for players below the minefield, which is nearly always the case.
-![VIS1](https://i.imgur.com/iwnoh0a.jpg)
-![VIS2](https://i.imgur.com/UqihERk.jpg)
-![VIS3](https://i.imgur.com/yzecXFG.jpg)
-![VIS4](https://i.imgur.com/46uQuv3.jpg)
-![VIS5](https://i.imgur.com/qk6uLRV.jpg)
-![VIS6](https://i.imgur.com/wpVNfZX.jpg)
+[![VIS1](https://i.imgur.com/iwnoh0am.jpg)](https://i.imgur.com/iwnoh0a.jpg)
+[![VIS2](https://i.imgur.com/UqihERkm.jpg)](https://i.imgur.com/UqihERk.jpg)
+[![VIS3](https://i.imgur.com/yzecXFGm.jpg)](https://i.imgur.com/yzecXFG.jpg)
+[![VIS4](https://i.imgur.com/46uQuv3m.jpg)](https://i.imgur.com/46uQuv3.jpg)
+[![VIS5](https://i.imgur.com/qk6uLRVm.jpg)](https://i.imgur.com/qk6uLRV.jpg)
+[![VIS6](https://i.imgur.com/wpVNfZXm.jpg)](https://i.imgur.com/wpVNfZX.jpg)
 
 
 Development

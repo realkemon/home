@@ -27,19 +27,20 @@
 INTRODUCTION
 ============
 
-I'm a Europe-based hobby game developer in the idtech3 engine environment. For [ET: Legacy](https://github.com/etlegacy), an open source project aiming to restore the good old days of [Wolfenstein: Enemy Territory](https://github.com/id-Software/Enemy-Territory), I work as a Level-Designer, 2D-Artist and Community Manager.
+My name is Cedric a.k.a. kemon, a Europe-based Level Designer, Environment- and 2D Artist. I'm part of the game development team of [ET: Legacy](https://github.com/etlegacy), an open source project aiming to restore the good old days of [Wolfenstein: Enemy Territory](https://github.com/id-Software/Enemy-Territory). So far my game development experience mainly revolves around to the idtech3 engine environment. However, I have also gained experience in both Unity and Unreal Engine 4. In 2019 I participated in a [Game Jam](https://stefan.ensmann.de/en/among-silhouettes/) using the Unity Engine.
 
 
-Level-Design
+Level Design
 ============
 
-There are two sides to my work as a Level-Designer. The first one being own projects that I designed and created from the ground up and the second one being map-overhauls for ET:L.
+There are two sides to my work as a Level Designer. The first one being own projects that I created from scratch start to finish. So far these include Dingenskirchen, Stiglitz and Pointe du Hoc. The latter two having been created as part of the annual [Trackbase map contests](https://contest.trackbase.net/).
+The second aspect to my efforts are map overhauls for ET: Legacy. These overhauls are mainly intended as visual enhancements to bring maps with proven gameplay to more modern visual standards. The only exception for gameplay changes are reports by the majority of the competitive player community regarding bugs or possible enhancements to gameplay. 
 
 ### Own Levels
 
-![Dingenskirchen](https://github.com/realkemon/home/blob/master/levelshots/dingenskirchen.png) | ![Stiglitz](https://github.com/realkemon/home/blob/master/levelshots/stiglitz.png)
-:---:|:---:
-**Dingenskirchen** | **Stiglitz**
+![Dingenskirchen](https://github.com/realkemon/home/blob/master/levelshots/dingenskirchen.png) | ![Stiglitz](https://github.com/realkemon/home/blob/master/levelshots/stiglitz.png) | ![Pointe du Hoc](https://github.com/realkemon/home/blob/master/levelshots/hoc.png)
+:---:|:---:|:---:
+**Dingenskirchen** | **Stiglitz** | **Pointe du Hoc**
 
 ### Map Overhauls
 

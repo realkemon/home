@@ -8,26 +8,24 @@ Pointe du Hoc
   <td rowspan="6"><b>Index:</b><br>
 <a href="https://github.com/realkemon/home/blob/master/README.md#-cedric-aka-kemon">Home</a><br>
 <ul>
- <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#story">Story</a></li>
- <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#design-thoughts">Design Thoughts</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pointe_du_hoc.md#story">Story</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pointe_du_hoc.md#objectives">Objectives</a></li>
  <ul>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#doors">Doors</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#wall-elements">Wall Elements</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#submarine-bay">Submarine Bay</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#generator">Generator</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#door-panels">Door Panels</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pointe_du_hoc.md#allies">Allies</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pointe_du_hoc.md#axis">Axis</a></li>
  </ul>
- <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#changelog">Changelog</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pointe_du_hoc.md#design-thoughts">Design Thoughts</a></li>
  <ul>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#version-3">version 3</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#version-2">version 2</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#version-1">version 1</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pointe_du_hoc.md#cliff">Cliff</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pointe_du_hoc.md#clifftop">Clifftop</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pointe_du_hoc.md#gameplay">Gameplay</a></li>
  </ul>
- <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#development">Development</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pointe_du_hoc.md#technical-notes">Technical Notes</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pointe_du_hoc.md#development">Development</a></li>
  <ul>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#specs">Specs</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#source">Source</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#compile-parameters">Compile Parameters</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pointe_du_hoc.md#specs">Specs</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pointe_du_hoc.md#source">Source</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pointe_du_hoc.md#compile-parameters">Compile Parameters</a></li>
  </ul></td>
  </tr>
  <tr>
@@ -63,7 +61,7 @@ To grant safe passage for the Allied ships during D-Day a small operation is lau
 Objectives
 ============
 
-**Allies:**
+### Allies
 
 * Capture the Forward Bunker.
 * Construct a Command Post.
@@ -71,7 +69,7 @@ Objectives
 * Dynamite the East Artillery Guns.
 * Dynamite the West Artillery Guns.
 
-**Axis:**
+### Axis
 
 * Do not lose the Forward Bunker to the Allies.
 * Construct a Command Post.
@@ -104,7 +102,7 @@ The small craters provide makeshift shelter for both teams to regroup and then p
 ![clifftop1](https://i.imgur.com/D8bXoZJ.jpg)
 ![clifftop1](https://i.imgur.com/LRjJ34b.jpg)
 
-### Objectives
+### Gameplay
 
 While the cliff area is rather large, as mentioned, the most important fortifications are layed out along the central axis through the cliff head. 
 There are 3 structures: 

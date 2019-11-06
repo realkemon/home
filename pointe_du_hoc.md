@@ -82,8 +82,7 @@ Design Thoughts
 ============
 
 This map is based on the real-life [Pointe du Hoc](https://en.wikipedia.org/wiki/Pointe_du_Hoc). Therefore, a few design thoughts had to be taken into account.
-The Allies suffered 135 killed/wounded and the Axis 50 killed/wounded during this operation. This imbalance makes sense realistically, but isn't great for a multiplayer map.
-The objective shouldn't be easy for either side, but it should also not be possible for one team to full-hold/steamroll the enemy. 
+The Allies suffered 135 killed/wounded and the Axis 50 killed/wounded during this operation. This imbalance isn't pretty good for a multiplayer map. The objective shouldn't be easy for either side, but it should also not be possible for one team to full-hold/steamroll the enemy. 
 
 
 ### Cliff

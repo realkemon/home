@@ -113,7 +113,24 @@ To give all three fortifications a strategic value and promote strategic decisio
 
 The primary objective in the Hinterlands, the second stage of the map, is for the Allies to destroy the 6 artillery guns. They are grouped in two different locations with 3 guns each and need to be dynamited. For this objective I have used the layout of [Würzburg Radar](http://simonoc.com/pages/design/games_pro/et_radar.htm) as inspiration due to its proven gameplay. Therefore, the guns are separated by hedgelines giving the Allies 3 different attack routes to reach the objectives.
 
-[![cliff](https://i.imgur.com/FCfc4H2m.jpg)](https://i.imgur.com/FCfc4H2.jpg)
+
+Screenshots
+============
+
+[![hoc1](https://i.imgur.com/2JIDZ0Sm.jpg)](https://i.imgur.com/2JIDZ0S.jpg)
+[![hoc2](https://i.imgur.com/u3oX0f6m.jpg)](https://i.imgur.com/u3oX0f6.jpg)
+[![hoc3](https://i.imgur.com/PLu5rQim.jpg)](https://i.imgur.com/PLu5rQi.jpg)
+[![hoc4](https://i.imgur.com/XeQgAjzm.jpg)](https://i.imgur.com/XeQgAjz.jpg)
+[![hoc5](https://i.imgur.com/bV1vUcFm.jpg)](https://i.imgur.com/bV1vUcF.jpg)
+[![hoc6](https://i.imgur.com/o90vhYsm.jpg)](https://i.imgur.com/o90vhYs.jpg)
+[![hoc7](https://i.imgur.com/tzkXdcIm.jpg)](https://i.imgur.com/tzkXdcI.jpg)
+[![hoc8](https://i.imgur.com/Xx6srBEm.jpg)](https://i.imgur.com/Xx6srBE.jpg)
+[![hoc9](https://i.imgur.com/sxk0BSHm.jpg)](https://i.imgur.com/sxk0BSH.jpg)
+[![hoc10](https://i.imgur.com/crRgEJ3m.jpg)](https://i.imgur.com/crRgEJ3.jpg)
+[![hoc11](https://i.imgur.com/iq1zrxqm.jpg)](https://i.imgur.com/iq1zrxq.jpg)
+
+
+
 
 
 Technical Notes

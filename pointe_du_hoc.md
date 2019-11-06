@@ -90,7 +90,7 @@ The Allies suffered 135 killed/wounded and the Axis 50 killed/wounded during thi
 Especially, the vulnerable position of the Allies while climbing the cliff needs to be taken into account.
 The Allies have received 4 different initial spawns for up to 8 players each. Given the triangular shape of the cliff, the climbable area is twice the total distance of the [Seawall Battery](http://simonoc.com/pages/design/games_pro/et_battery.htm) beach, for which the Allies have received 12 different climbing rope locations. Therefore, the outermost Allied spawns have a relatively safe climb up the cliff, but a longer travel distance along the trenches on top of the cliff.
 
-[![cliff](https://i.imgur.com/FCfc4H2m.jpg)](https://i.imgur.com/FCfc4H2.jpg) [![commandmap](https://i.imgur.com/XeYU50pm.jpg)](https://i.imgur.com/XeYU50p.jpg)
+[![commandmap](https://i.imgur.com/XeYU50pm.jpg)](https://i.imgur.com/XeYU50p.jpg)
 
 ### Clifftop
 
@@ -111,6 +111,8 @@ There are 3 structures:
 To give all three fortifications a strategic value and promote strategic decisions when to push which structure, the capturable flag and the command post have been linked. If one team holds both the flag and has constructed the command post, the flag is temporarily secured. Meaning that the enemy team first has to destroy the command post before capturing the flag spawn. 
 
 The primary objective in the Hinterlands, the second stage of the map, is for the Allies to destroy the 6 artillery guns. They are grouped in two different locations with 3 guns each and need to be dynamited. For this objective I have used the layout of [Würzburg Radar](http://simonoc.com/pages/design/games_pro/et_radar.htm) as inspiration due to its proven gameplay. Therefore, the guns are separated by hedgelines giving the Allies 3 different attack routes to reach the objectives.
+
+[![cliff](https://i.imgur.com/FCfc4H2m.jpg)](https://i.imgur.com/FCfc4H2.jpg) 
 
 
 Screenshots
@@ -165,7 +167,7 @@ Since we are talking about an open-sourced game, in my opinion as much as possib
 
 [Download](https://github.com/realkemon/home/tree/master/maps)
 |:---|
-Activity Tracker (Not yet active)
+[Activity Tracker](https://github.com/realkemon/home/milestone/4)
 
 ### Compile parameters
 ```

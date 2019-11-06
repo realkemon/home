@@ -9,6 +9,7 @@
    <td><b>Index:</b><br>
 <a href="https://github.com/realkemon/home/blob/master/README.md#introduction">Introduction</a><br>
 <ul>
+ <li><a href="https://github.com/realkemon/home/blob/master/README.md#twitch">Twitch</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/README.md#level-design">Level Design</a></li>
  <ul>
   <li><a href="https://github.com/realkemon/home/blob/master/README.md#own-levels">Own Levels</a></li>
@@ -27,7 +28,14 @@
 INTRODUCTION
 ============
 
-My name is Cedric a.k.a. kemon, a Europe-based Level Designer, Environment- and 2D Artist. I'm part of the game development team of [ET: Legacy](https://github.com/etlegacy), an open source project aiming to restore the good old days of [Wolfenstein: Enemy Territory](https://github.com/id-Software/Enemy-Territory). So far my game development experience mainly revolves around to the idtech3 engine environment. However, I have also gained experience in both Unity and Unreal Engine 4. In 2019 I participated in a [Game Jam](https://stefan.ensmann.de/en/among-silhouettes/) using the Unity Engine.
+My name is Cedric a.k.a. kemon, a Europe-based Level Designer, Environment- and 2D Artist as well as a Twitch streamer. I'm part of the game development team of [ET: Legacy](https://github.com/etlegacy), an open source project aiming to restore the good old days of [Wolfenstein: Enemy Territory](https://github.com/id-Software/Enemy-Territory). So far my game development experience mainly revolves around to the idtech3 engine environment. However, I have also gained experience in both Unity and Unreal Engine 4. In 2019 I participated in a [Game Jam](https://stefan.ensmann.de/en/among-silhouettes/) using the Unity Engine.
+
+
+Twitch
+============
+
+My motivation to create a [Twitch channel](https://www.twitch.tv/realkemon) was mainly influenced by [simonoc](http://simonoc.com/) who is a very talented level designer in the quake engine environment and a huge personal inspiration for me. I started my Twitch channel in September 2019 and have streamed the development progress of Pointe du Hoc, my submission for the 2019 Trackbase map contest. 
+If you are interested in my work then I would love to welcome you to my [stream](https://www.twitch.tv/realkemon) at some time. Content will range from personal Level Design projects, over ET: Legacy related development efforts to occasionally game streams.
 
 
 Level Design

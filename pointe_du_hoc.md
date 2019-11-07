@@ -89,7 +89,7 @@ The Allies suffered 135 killed/wounded and the Axis 50 killed/wounded during thi
 ### Cliff
 
 Especially, the vulnerable position of the Allies while climbing the cliff needs to be taken into account.
-The Allies have received 4 different initial spawns for up to 8 players each. Given the triangular shape of the cliff, the climbable area is twice the total distance of the [Seawall Battery](http://simonoc.com/pages/design/games_pro/et_battery.htm) beach, for which the Allies have received 12 different climbing rope locations. Therefore, the outermost Allied spawns have a relatively safe climb up the cliff, but a longer travel distance along the trenches on top of the cliff.
+The Allies have received 4 different initial spawns with up to 8 players each. Given the triangular shape of the cliff, the climbable area is twice the total distance of the [Seawall Battery](http://simonoc.com/pages/design/games_pro/et_battery.htm) beach, for which the Allies have received 12 different climbing rope locations. Therefore, the outermost Allied spawns have a relatively safe climb up the cliff, but a longer travel distance along the trenches on top of the cliff.
 
 [![commandmap](https://i.imgur.com/XeYU50pm.jpg)](https://i.imgur.com/XeYU50p.jpg)
 

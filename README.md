@@ -12,15 +12,6 @@
  <li><a href="https://github.com/realkemon/home/blob/master/README.md#et-legacy">ET: Legacy</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/README.md#twitch">Twitch</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/README.md#level-design">Level Design</a></li>
- <ul>
-  <li><a href="https://github.com/realkemon/home/blob/master/README.md#own-levels">Own Levels</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/README.md#map-overhauls">Map Overhauls</a></li>
-  <ul>
-    <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#">Frostbite, by Moonkey</a></li>
-    <li><a href="https://github.com/realkemon/home/edit/master/etl_bergen.md#">Bergen, by Detoeni</a></li>
-    <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#">Ice</a></li>
-  </ul>
- </ul>
  </td>
  </tr>
 </table>
@@ -62,9 +53,9 @@ The second aspect to my efforts are map overhauls for [ET: Legacy](https://githu
 Own Levels
 ----------
 
-![Dingenskirchen](https://github.com/realkemon/home/blob/master/levelshots/dingenskirchen.png) | ![Stiglitz](https://github.com/realkemon/home/blob/master/levelshots/stiglitz.png) | ![Pointe du Hoc](https://github.com/realkemon/home/blob/master/levelshots/hoc.png)
+![Dingenskirchen](https://github.com/realkemon/home/blob/master/levelshots/dingenskirchen.png) | ![Stiglitz](https://github.com/realkemon/home/blob/master/levelshots/stiglitz.png) | [![Pointe du Hoc](https://github.com/realkemon/home/blob/master/levelshots/hoc.png)](https://github.com/realkemon/home/blob/master/pointe_du_hoc.md)
 :---:|:---:|:---:
-**Dingenskirchen** | **Stiglitz** | **Pointe du Hoc**
+**Dingenskirchen** | **Stiglitz** | [**Pointe du Hoc**](https://github.com/realkemon/home/blob/master/pointe_du_hoc.md)
 
 
 Map Overhauls

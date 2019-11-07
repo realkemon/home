@@ -10,6 +10,7 @@
 <a href="https://github.com/realkemon/home/blob/master/README.md#introduction">Introduction</a><br>
 <ul>
  <li><a href="https://github.com/realkemon/home/blob/master/README.md#twitch">Twitch</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/README.md#twitch">Twitch</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/README.md#level-design">Level Design</a></li>
  <ul>
   <li><a href="https://github.com/realkemon/home/blob/master/README.md#own-levels">Own Levels</a></li>
@@ -28,8 +29,14 @@
 INTRODUCTION
 ============
 
-Hello there. I'm Cedric a.k.a. kemon, a Europe-based Level Designer, Environment- and 2D Artist as well as a Twitch streamer. I'm part of the game development team of [ET: Legacy](https://github.com/etlegacy), an open source project aiming to restore the good old days of [Wolfenstein: Enemy Territory](https://github.com/id-Software/Enemy-Territory). So far my game development experience mainly revolves around to the idtech3 engine environment. However, I have also gained experience in both Unity and Unreal Engine 4. In 2019 I participated in a [Game Jam](https://stefan.ensmann.de/en/among-silhouettes/) using the Unity Engine.
+I'm Cedric a.k.a. kemon, a Europe-based Level Designer, Environment- and 2D Artist and as of late also a Twitch streamer. I'm part of the game development team of [ET: Legacy](https://github.com/etlegacy), an open source project aiming to restore the good old days of [Wolfenstein: Enemy Territory](https://github.com/id-Software/Enemy-Territory). So far my game development experience mainly revolves around to the idtech3 engine environment. However, I have also gained experience in both Unity and Unreal Engine 4 through various tutorial sessions and a [Game Jam](https://stefan.ensmann.de/en/among-silhouettes/) in 2019.
 
+
+ET: Legacy
+============
+
+My involvement with ET: Legacy started around 2013 when I joined the IRC channel and decided to start working on texture replication in HD to get away from the proprietary license. Since then, I have replicated the world textures in a 2048x2048 pixel standard [(asset repo)](https://drive.google.com/drive/folders/0Bw7Yu-pqzcSaLXEtVEVjZF82UEU), visually overhauled proven community maps and trying my best at community interaction and reaching out to potential helping hands and sister projects for possible cooperations. Future plans include continuing with map overhauls, restructuring the [wiki](https://dev.etlegacy.com/projects/etlegacy/wiki/index) to make it the first landing page for all questions revolving around ET: Legacy and many more.
+[>>> Read more](https://github.com/realkemon/home/blob/master/etlegacy.md)
 
 Twitch
 ============

@@ -7,7 +7,7 @@
 <table>
  <tr>
    <td><b>Index:</b><br>
-<a href="https://github.com/realkemon/home/blob/master/README.md#introduction">Introduction</a><br>
+<a href="https://github.com/realkemon/home/blob/master/README.md#about-me">About Me</a><br>
 <ul>
  <li><a href="https://github.com/realkemon/home/blob/master/README.md#et-legacy">ET: Legacy</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/README.md#twitch">Twitch</a></li>
@@ -17,7 +17,7 @@
 </table>
 
 
-INTRODUCTION
+About Me
 ============
 
 I'm Cedric a.k.a. kemon, a Europe-based Level Designer, Environment- and Texture Artist and as of late also a Twitch streamer. I'm part of the game development team of [ET: Legacy](https://github.com/etlegacy), an open source project aiming to restore the good old days of [Wolfenstein: Enemy Territory](https://github.com/id-Software/Enemy-Territory). So far my game development experience mainly revolves around to the idtech3 engine environment. However, I have also gained experience in both Unity and Unreal Engine 4 through various tutorial sessions and a [Game Jam](https://stefan.ensmann.de/en/among-silhouettes/) in 2019.

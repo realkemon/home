@@ -26,7 +26,7 @@ I'm Cedric a.k.a. kemon, a Europe-based Level Designer, Environment- and Texture
 ET: Legacy
 ============
 
-My involvement with [ET: Legacy](https://github.com/etlegacy) started around 2013 when I joined the IRC channel and decided to start working on texture replication in HD to get away from the proprietary license. Since then, I have replicated the [world textures](https://drive.google.com/drive/folders/0Bw7Yu-pqzcSaLXEtVEVjZF82UEU) in a 2048x2048 pixel standard, visually overhauled proven community maps and am doing my best for community management as well as reaching out to potential helping hands and sister projects for possible cooperations. Future plans include continuing with map overhauls, restructuring the [wiki](https://dev.etlegacy.com/projects/etlegacy/wiki/index) to make it the first landing page for all questions revolving around ET: Legacy, familiarising myself with 3D modelling to create new playermodels and many more.
+> My involvement with [ET: Legacy](https://github.com/etlegacy) started around 2013 when I joined the IRC channel and decided to start working on texture replication in HD to get away from the proprietary license. Since then, I have replicated the [world textures](https://drive.google.com/drive/folders/0Bw7Yu-pqzcSaLXEtVEVjZF82UEU) in a 2048x2048 pixel standard, visually overhauled proven community maps and am doing my best for community management as well as reaching out to potential helping hands and sister projects for possible cooperations. Future plans include continuing with map overhauls, restructuring the [wiki](https://dev.etlegacy.com/projects/etlegacy/wiki/index) to make it the first landing page for all questions revolving around ET: Legacy, familiarising myself with 3D modelling to create new playermodels and many more.
 
 [>>> Read more](https://github.com/realkemon/home/blob/master/etlegacy.md)
 
@@ -34,9 +34,7 @@ My involvement with [ET: Legacy](https://github.com/etlegacy) started around 201
 Twitch
 ============
 
-I started my Twitch channel in September 2019 and have since streamed the development progress of [Pointe du Hoc](https://github.com/realkemon/home/blob/master/pointe_du_hoc.md), my submission for the 2019 Trackbase map contest. 
-If you are interested in my work then I would love to welcome you to my [stream](https://www.twitch.tv/realkemon) some time. 
-Future content plans include continued work on the map overhauls for ET: Legacy, own Level Design projects including a mapping tutorial series, possibly 3D modelling attempts for new player models and occasionally I might also stream game sessions.
+> I started my Twitch channel in September 2019 and have since streamed the development progress of [Pointe du Hoc](https://github.com/realkemon/home/blob/master/pointe_du_hoc.md), my submission for the 2019 Trackbase map contest. If you are interested in my work then I would love to welcome you to my [stream](https://www.twitch.tv/realkemon) some time. Future content plans include continued work on the map overhauls for ET: Legacy, own Level Design projects including a mapping tutorial series, possibly 3D modelling attempts for new player models and occasionally I might also stream game sessions.
 
 [>>> Read more](https://github.com/realkemon/home/blob/master/twitch.md)
 
@@ -44,8 +42,7 @@ Future content plans include continued work on the map overhauls for ET: Legacy,
 Level Design
 ============
 
-There are two sides to my work as a Level Designer. The first one being own projects that I created from scratch start to finish. So far these include Dingenskirchen, Stiglitz and [Pointe du Hoc](https://github.com/realkemon/home/blob/master/pointe_du_hoc.md). The latter two having been created as part of the annual [Trackbase map contests](https://contest.trackbase.net/).
-The second aspect to my efforts are map overhauls for [ET: Legacy](https://github.com/etlegacy). These overhauls are mainly intended as visual enhancements to bring maps with proven gameplay to more modern visual standards. The only exception for gameplay changes are reports by the majority of the competitive player community regarding bugs or possible enhancements to gameplay. 
+> There are two sides to my work as a Level Designer. The first one being own projects that I created from scratch start to finish. So far these include Dingenskirchen, Stiglitz and [Pointe du Hoc](https://github.com/realkemon/home/blob/master/pointe_du_hoc.md). The latter two having been created as part of the annual [Trackbase map contests](https://contest.trackbase.net/). The second aspect to my efforts are map overhauls for [ET: Legacy](https://github.com/etlegacy). These overhauls are mainly intended as visual enhancements to bring maps with proven gameplay to more modern visual standards. The only exception for gameplay changes are reports by the majority of the competitive player community regarding bugs or possible enhancements to gameplay. 
 
 [>>> Read more](https://github.com/realkemon/home/blob/master/level_design.md)
 

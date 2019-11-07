@@ -34,7 +34,7 @@ ET: Legacy
 Twitch
 ============
 
-> I started my Twitch channel in September 2019 and have since streamed the development progress of [Pointe du Hoc](https://github.com/realkemon/home/blob/master/pointe_du_hoc.md), my submission for the 2019 Trackbase map contest. If you are interested in my work then I would love to welcome you to my [stream](https://www.twitch.tv/realkemon) some time. Future content plans include continued work on the map overhauls for ET: Legacy, own Level Design projects including a mapping tutorial series, possibly 3D modelling attempts for new player models and occasionally I might also stream game sessions.
+> I started my Twitch channel in September 2019 and have since streamed the development progress of [Pointe du Hoc](https://github.com/realkemon/home/blob/master/pointe_du_hoc.md), my submission for the 2019 Trackbase map contest. If you are interested in my work then I would love to welcome you to my [stream](https://www.twitch.tv/realkemon) some time. Future content plans include continued work on the map overhauls for ET: Legacy, own Level Design projects including a tutorial series, possibly 3D modelling attempts for new player models and occasionally even game sessions.
 
 [>>> Read more](https://github.com/realkemon/home/blob/master/twitch.md)
 

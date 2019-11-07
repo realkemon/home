@@ -32,17 +32,22 @@ INTRODUCTION
 I'm Cedric a.k.a. kemon, a Europe-based Level Designer, Environment- and 2D Artist and as of late also a Twitch streamer. I'm part of the game development team of [ET: Legacy](https://github.com/etlegacy), an open source project aiming to restore the good old days of [Wolfenstein: Enemy Territory](https://github.com/id-Software/Enemy-Territory). So far my game development experience mainly revolves around to the idtech3 engine environment. However, I have also gained experience in both Unity and Unreal Engine 4 through various tutorial sessions and a [Game Jam](https://stefan.ensmann.de/en/among-silhouettes/) in 2019.
 
 
-<img src="https://raw.githubusercontent.com/etlegacy/etlegacy-assets/master/logo/vertical_black.png" width="64"/> ET: Legacy
+ET: Legacy
 ============
 
-My involvement with ET: Legacy started around 2013 when I joined the IRC channel and decided to start working on texture replication in HD to get away from the proprietary license. Since then, I have replicated the world textures in a 2048x2048 pixel standard, visually overhauled proven community maps and trying my best at community interaction and reaching out to potential helping hands and sister projects for possible cooperations. Future plans include continuing with map overhauls, restructuring the [wiki](https://dev.etlegacy.com/projects/etlegacy/wiki/index) to make it the first landing page for all questions revolving around ET: Legacy and many more.
+My involvement with ET: Legacy started around 2013 when I joined the IRC channel and decided to start working on texture replication in HD to get away from the proprietary license. Since then, I have replicated the world textures in a 2048x2048 pixel standard, visually overhauled proven community maps and am doing my best for community management as well as reaching out to potential helping hands and sister projects for possible cooperations. Future plans include continuing with map overhauls, restructuring the [wiki](https://dev.etlegacy.com/projects/etlegacy/wiki/index) to make it the first landing page for all questions revolving around ET: Legacy, familiarising myself with 3D modelling to create new playermodels and many more.
+
 [>>> Read more](https://github.com/realkemon/home/blob/master/etlegacy.md)
+
 
 Twitch
 ============
 
-My motivation to create a [Twitch channel](https://www.twitch.tv/realkemon) was mainly influenced by [simonoc](http://simonoc.com/) who is a very talented level designer in the quake engine environment and a huge personal inspiration for me. I started my Twitch channel in September 2019 and have streamed the development progress of Pointe du Hoc, my submission for the 2019 Trackbase map contest. 
-If you are interested in my work then I would love to welcome you to my [stream](https://www.twitch.tv/realkemon) at some time. Content will range from personal Level Design projects, over ET: Legacy related development efforts to occasionally game streams.
+I started my Twitch channel in September 2019 and have since streamed the development progress of [Pointe du Hoc](https://github.com/realkemon/home/blob/master/pointe_du_hoc.md), my submission for the 2019 Trackbase map contest. 
+If you are interested in my work then I would love to welcome you to my [stream](https://www.twitch.tv/realkemon) some time. 
+Future content plans include continued work on the map overhauls for ET: Legacy, own Level Design projects including a mapping tutorial series, possibly 3D modelling attempts for new player models and occasionally I might also stream game sessions.
+
+[>>> Read more](https://github.com/realkemon/home/blob/master/twitch.md)
 
 
 Level Design

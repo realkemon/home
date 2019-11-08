@@ -45,19 +45,3 @@ Level Design
 > There are two sides to my work as a Level Designer. The first one being own projects that I created from scratch start to finish. So far these include Dingenskirchen, Stiglitz and [Pointe du Hoc](https://github.com/realkemon/home/blob/master/pages/pointe_du_hoc.md). The latter two having been created as part of the annual [Trackbase map contests](https://contest.trackbase.net/). The second aspect to my efforts are map overhauls for [ET: Legacy](https://github.com/etlegacy). These overhauls are mainly intended as visual enhancements to bring maps with proven gameplay to more modern visual standards. The only exception for gameplay changes are reports by the majority of the competitive player community regarding bugs or possible enhancements to gameplay. 
 
 [>>> Read more](https://github.com/realkemon/home/blob/master/pages/level_design.md)
-
-
-Own Levels
-----------
-
-[![Dingenskirchen](https://github.com/realkemon/home/blob/master/levelshots/dingenskirchen.png)](https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md) | [![Stiglitz](https://github.com/realkemon/home/blob/master/levelshots/stiglitz.png)](https://github.com/realkemon/home/blob/master/pages/stiglitz.md) | [![Pointe du Hoc](https://github.com/realkemon/home/blob/master/levelshots/hoc.png)](https://github.com/realkemon/home/blob/master/pages/pointe_du_hoc.md)
-:---:|:---:|:---:
-[**Dingenskirchen**](https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md) | [**Stiglitz**](https://github.com/realkemon/home/blob/master/pages/stiglitz.md) | [**Pointe du Hoc**](https://github.com/realkemon/home/blob/master/pages/pointe_du_hoc.md)
-
-
-Map Overhauls
-----------
-
-[![Frostbite, by Moonkey](https://github.com/realkemon/home/blob/master/levelshots/etl_frostbite.png)](https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#) | [![Bergen, by Detoeni](https://github.com/realkemon/home/blob/master/levelshots/etl_bergen.png)](https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#) | [![Ice](https://github.com/realkemon/home/blob/master/levelshots/etl_ice.png)](https://github.com/realkemon/home/blob/master/pages/etl_ice.md#)
-:---:|:---:|:---:
-[**Frostbite, by Moonkey**](https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#) | [**Bergen, by Detoeni**](https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#) | [**Ice**](https://github.com/realkemon/home/blob/master/pages/etl_ice.md#)

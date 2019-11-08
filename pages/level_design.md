@@ -1,11 +1,13 @@
 Level Design
 ==========
 
+There are three sides to my work as a Level Designer. The first one being own projects that I created from scratch start to finish. So far these are [Dingenskirchen](https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md), [Stiglitz](https://github.com/realkemon/home/blob/master/pages/stiglitz.md) and [Pointe du Hoc](https://github.com/realkemon/home/blob/master/pages/pointe_du_hoc.md). The second aspect of my efforts are map overhauls for [ET: Legacy](https://github.com/realkemon/home/blob/master/pages/etlegacy.md), which include [Frostbite, by Moonkey](https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md), [Bergen, by Detoeni](https://github.com/realkemon/home/blob/master/pages/etl_bergen.md) and [Ice](https://github.com/realkemon/home/blob/master/pages/etl_ice.md). The last aspect is a planned video tutorial series where I intend to create a tutorial map for new players while recording and narrating its development doubling as a video tutorial series for new Level Designers.
+
 
 <table>
  <tr>
    <td><b>Index:</b><br>
-<a href="https://github.com/realkemon/home/blob/master/README.md#about-me">:arrow_backward: Home</a><br>
+<a href="https://github.com/realkemon/home/blob/master/README.md">:arrow_backward: Home</a><br>
 <ul>
  <li><a href="https://github.com/realkemon/home/blob/master/README.md#et-legacy">ET: Legacy</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/README.md#twitch">Twitch</a></li>
@@ -13,12 +15,6 @@ Level Design
  </td>
  </tr>
 </table>
-
-
-General
-==========
-
-There are three sides to my work as a Level Designer. The first one being own projects that I created from scratch start to finish. So far these are [Dingenskirchen](https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md), [Stiglitz](https://github.com/realkemon/home/blob/master/pages/stiglitz.md) and [Pointe du Hoc](https://github.com/realkemon/home/blob/master/pages/pointe_du_hoc.md). The second aspect of my efforts are map overhauls for [ET: Legacy](https://github.com/realkemon/home/blob/master/pages/etlegacy.md), which include [Frostbite, by Moonkey](https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md), [Bergen, by Detoeni](https://github.com/realkemon/home/blob/master/pages/etl_bergen.md) and [Ice](https://github.com/realkemon/home/blob/master/pages/etl_ice.md). The last aspect is a planned video tutorial series where I intend to create a tutorial map for new players while recording and narrating its development doubling as a video tutorial series for new Level Designers.
 
 
 Own Levels

@@ -50,9 +50,9 @@ Level Design
 Own Levels
 ----------
 
-![Dingenskirchen](https://github.com/realkemon/home/blob/master/levelshots/dingenskirchen.png) | ![Stiglitz](https://github.com/realkemon/home/blob/master/levelshots/stiglitz.png) | [![Pointe du Hoc](https://github.com/realkemon/home/blob/master/levelshots/hoc.png)](https://github.com/realkemon/home/blob/master/pages/pointe_du_hoc.md)
+[![Dingenskirchen](https://github.com/realkemon/home/blob/master/levelshots/dingenskirchen.png)](https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md) | [![Stiglitz](https://github.com/realkemon/home/blob/master/levelshots/stiglitz.png)](https://github.com/realkemon/home/blob/master/pages/stiglitz.md) | [![Pointe du Hoc](https://github.com/realkemon/home/blob/master/levelshots/hoc.png)](https://github.com/realkemon/home/blob/master/pages/pointe_du_hoc.md)
 :---:|:---:|:---:
-**Dingenskirchen** | **Stiglitz** | [**Pointe du Hoc**](https://github.com/realkemon/home/blob/master/pages/pointe_du_hoc.md)
+[**Dingenskirchen**](https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md) | [**Stiglitz**](https://github.com/realkemon/home/blob/master/pages/stiglitz.md) | [**Pointe du Hoc**](https://github.com/realkemon/home/blob/master/pages/pointe_du_hoc.md)
 
 
 Map Overhauls

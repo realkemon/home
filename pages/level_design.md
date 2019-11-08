@@ -9,9 +9,10 @@ There are three sides to my work as a Level Designer. The first one being own pr
    <td><b>Index:</b><br>
 <a href="https://github.com/realkemon/home/blob/master/README.md">:arrow_backward: Home</a><br>
 <ul>
- <li><a href="https://github.com/realkemon/home/blob/master/README.md#et-legacy">ET: Legacy</a></li>
- <li><a href="https://github.com/realkemon/home/blob/master/README.md#twitch">Twitch</a></li>
- <li><a href="https://github.com/realkemon/home/blob/master/README.md#level-design">Level Design</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pages/level_design.md#background">Background</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pages/level_design.md#own-levels">Own Levels</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pages/level_design.md#map-overhauls">Map Overhauls</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pages/level_design.md#tutorial-series">Tutorial Series</a></li>
  </td>
  </tr>
 </table>
@@ -68,7 +69,7 @@ Map Overhauls
 [**Frostbite, by Moonkey**](https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#) | [**Bergen, by Detoeni**](https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#) | [**Ice**](https://github.com/realkemon/home/blob/master/pages/etl_ice.md#)
 
 
-Tutorial series
+Tutorial Series
 ==========
 
-TODO
+**UNDER CONSTRUCTION**

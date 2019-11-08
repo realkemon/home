@@ -7,12 +7,12 @@ There are three sides to my work as a Level Designer. The first one being **own 
 <table>
  <tr>
    <td><b>Index:</b><br>
-<a href="https://github.com/realkemon/home/blob/master/README.md">:arrow_backward: Home</a><br>
-<ul>
- <li><a href="https://github.com/realkemon/home/blob/master/pages/level_design.md#background">Background</a></li>
- <li><a href="https://github.com/realkemon/home/blob/master/pages/level_design.md#own-levels">Own Levels</a></li>
- <li><a href="https://github.com/realkemon/home/blob/master/pages/level_design.md#map-overhauls">Map Overhauls</a></li>
- <li><a href="https://github.com/realkemon/home/blob/master/pages/level_design.md#tutorial-series">Tutorial Series</a></li>
+    <ul>
+     <li><a href="https://github.com/realkemon/home/blob/master/pages/level_design.md#background">Background</a></li>
+     <li><a href="https://github.com/realkemon/home/blob/master/pages/level_design.md#own-levels">Own Levels</a></li>
+     <li><a href="https://github.com/realkemon/home/blob/master/pages/level_design.md#map-overhauls">Map Overhauls</a></li>
+     <li><a href="https://github.com/realkemon/home/blob/master/pages/level_design.md#tutorial-series">Tutorial Series</a></li>
+    </ul>
  </td>
  </tr>
 </table>

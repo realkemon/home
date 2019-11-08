@@ -28,7 +28,7 @@ Background
  </tr>
  <tr>
   <td><b>2010</b></td>
-  <td>I started changing things in Fueldump to see what would happen in-game. Investigating the official map sources enabled me to learn from professional examples and test in working environments.</td>
+  <td>I started changing things in <a href="https://forums.splashdamage.com/t/fueldump-tunnelexit-texture-problem/129412">Fueldump</a> to see what would happen in-game. Investigating the official map sources enabled me to learn from professional examples and test in working environments.</td>
  </tr>
  <tr>
   <td><b>2011</b></td>

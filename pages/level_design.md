@@ -17,6 +17,41 @@ There are three sides to my work as a Level Designer. The first one being own pr
 </table>
 
 
+Background
+==========
+
+<table>
+ <tr>
+  <td><b>2008</b></td>
+  <td>The <a href="https://www.splashdamage.com/news/wolfenstein-enemy-territory-map-source-files-released/">source files</a> of the six official Wolfenstein: Enemy Territory maps were released by <a href="https://www.splashdamage.com/">SplashDamage</a>. This marked the beginning of my journey, which initially consisted of me familiarising myself with the level editor by moving around existing prefabs from other mappers and building own structures without following plans.</td>
+ </tr>
+ <tr>
+  <td><b>2010</b></td>
+  <td>I started changing things in Fueldump to see what would happen in-game. Investigating the official map sources enabled me to learn from professional examples and test in working environments.</td>
+ </tr>
+ <tr>
+  <td><b>2011</b></td>
+  <td>I then decided to apply the gained knowledge in an own project. <a href="https://github.com/realkemon/home/blob/master/pages/pointe_du_hoc.md">Pointe du Hoc</a> was born and turned out to be a constant learning experience. That resulted in me restarting the project a grand total of 8 times before putting it aside in 2014.</td>
+ </tr>
+ <tr>
+  <td><b>2014</b></td>
+  <td>Over the course of the 3 years working on Pointe du Hoc I gained valuable experience which I then wanted to apply on a clean slate. Hence, 2014 marked the birth of <a href="https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md">Dingenskirchen</a>, the first map I managed to release together with <a href="https://forums.splashdamage.com/u/phisherman/summary">phisherman</a> who created its script.</td>
+ </tr>
+ <tr>
+  <td><b>2017</b></td>
+  <td>Previously, I only received feedback to specific questions I asked, however, having an own map released meant qualitative feedback from all angles came my way. This enabled me to release a heavily improved second version of Dingenskirchen.</td>
+ </tr>
+ <tr>
+  <td><b>2018</b></td>
+  <td>I participated in the annual <a href="https://contest.trackbase.net/">Trackbase map contest</a> where I learned to create a map from scratch in a limited timeframe of 7 months. Creating <a href="https://github.com/realkemon/home/blob/master/pages/stiglitz.md">Stiglitz</a> was a valuable experience as it forced me to prioritise features and have a clear roadmap for development.</td>
+ </tr>
+ <tr>
+  <td><b>2019</b></td>
+  <td>The second iteration of that contest required a historical background. That was the chance to revive <a href="https://github.com/realkemon/home/blob/master/pages/pointe_du_hoc.md">Pointe du Hoc</a> which I had been carrying around for nearly 9 years by then. Streaming its development on <a href="https://github.com/realkemon/home/blob/master/pages/twitch.md">Twitch</a> required me to have a clear roadmap, which in turn enabled me to reduce development time back to back to 2 months.</td>
+ </tr>
+</table>
+
+
 Own Levels
 ----------
 
@@ -24,9 +59,7 @@ Own Levels
 :---:|:---:|:---:
 [**Dingenskirchen**](https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md) | [**Stiglitz**](https://github.com/realkemon/home/blob/master/pages/stiglitz.md) | [**Pointe du Hoc**](https://github.com/realkemon/home/blob/master/pages/pointe_du_hoc.md)
 
-I started experimenting with Level Design back in 2008 when [SplashDamage](https://www.splashdamage.com/) released the [source files](https://www.splashdamage.com/news/wolfenstein-enemy-territory-map-source-files-released/) of all six official maps. Initially, I familiarised myself with the level editor by moving around existing prefabs from other mappers and building own structures without following plans. [**In 2010**](https://forums.splashdamage.com/t/fueldump-tunnelexit-texture-problem/129412) I started investigating the official map sources to learn from professional examples. [**In 2011**](https://forums.splashdamage.com/t/pointe-du-hoc-mapping-project/130773) I then decided to apply the gained knowledge in an own project. [Pointe du Hoc](https://github.com/realkemon/home/blob/master/pages/pointe_du_hoc.md) was born and turned out to be a constant learning experience. That resulted in me restarting the project a grand total of 8 times before putting it aside in 2014. Over the course of the 3 years working on Pointe du Hoc I gained valuable experience which I then wanted to apply on a clean slate. Hence, [**2014**](https://forums.splashdamage.com/t/map-release-dingenskirchen-a-tribute/144206) marked the birth of [Dingenskirchen](https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md), the first map I managed to release together with [phisherman](https://forums.splashdamage.com/u/phisherman/summary) who created its script. [**In 2017**](https://forums.splashdamage.com/t/map-release-dingenskirchen-a-tribute/144206/89), after receiving valuable feedback regarding gameplay aspects, I was able to release a heavily improved second version. [**In 2018**](https://forums.splashdamage.com/t/map-stiglitz/233171) I participated in the annual [Trackbase map contest](https://contest.trackbase.net/) where I learned to create a map from scratch in a limited timeframe of 7 months. Creating [Stiglitz](https://github.com/realkemon/home/blob/master/pages/stiglitz.md) was a valuable experience as it forced me to prioritise features and have a clear roadmap for development. The [**2019**](https://contest.trackbase.net/) iteration of that contest had the requirement of a `historical background`. That was the chance to revive [Pointe du Hoc](https://github.com/realkemon/home/blob/master/pages/pointe_du_hoc.md) which I had been carrying around for nearly 9 years by then. Applying everything I have ever learned on previous map projects, I managed to create the map start to finish from scratch within 2 months while streaming the development on [Twitch](https://github.com/realkemon/home/blob/master/pages/twitch.md). This was possibly the biggest achievement and my proudest moment of my entire level design career. Not only was it the realisation of my very first project, it also was the start of my Twitch channel. 
 
-Currently, a third version of Dingenskirchen is under development and scheduled to be released in the coming months and a second version of Stiglitz is planned.
 
 
 

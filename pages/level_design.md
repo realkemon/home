@@ -76,10 +76,10 @@ Tutorial Series
 
 Section 1: basic mapping
 ----------
-Part 1: References, Layout, Structural vs Detail, Hint brushes
-Part 2: First detail pass
-Part 3: Manual terrain creation in Radiant using brushwork
-Part 4: Second detail pass
+* Part 1: References, Layout, Structural vs Detail, Hint brushes
+* Part 2: First detail pass
+* Part 3: Manual terrain creation in Radiant using brushwork
+* Part 4: Second detail pass
 
 Section 2: entities
 ----------

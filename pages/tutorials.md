@@ -6,6 +6,8 @@ Tutorials **[WORK IN PROGRESS]**
    <td><b>Index:</b><br>
     <ul>
      <li><a href="https://github.com/realkemon/home/blob/master/pages/tutorials.md#overview">Overview</a></li>
+     <li><a href="https://github.com/realkemon/home/blob/master/pages/tutorials.md#mechanics">Mechanics</a></li>
+     <li><a href="https://github.com/realkemon/home/blob/master/pages/tutorials.md#parts">Parts</a></li>
     </ul>
  </td>
  </tr>

@@ -36,7 +36,7 @@ Background
  </tr>
  <tr>
   <td><b>2014</b></td>
-  <td>Over the course of the 3 years working on Pointe du Hoc I gained valuable experience which I then wanted to apply on a clean slate. Hence, 2014 marked the birth of <a href="https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md">Dingenskirchen</a>, the first map I managed to release together with <a href="https://forums.splashdamage.com/u/phisherman/summary">phisherman</a> who created its script.</td>
+  <td>Over the course of the 3 years working on Pointe du Hoc I gained valuable experience which I then wanted to apply on a clean slate. Hence, 2014 marked the birth of <a href="https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md">Dingenskirchen</a>, the first map I managed to release.</td>
  </tr>
  <tr>
   <td><b>2017</b></td>
@@ -73,3 +73,15 @@ Tutorial Series
 ==========
 
 **UNDER CONSTRUCTION**
+
+Part 1: Talking points
+album: https://imgur.com/a/zAJ4N28
+• collecting visual references
+• layout sketch
+• minimalistic blockout / structural mesh (bridges, ramps and other elements needed for gameplay test -> detail)
+• VIS test with detail brushes
+• 'show **blocksize**' option in Radiant (show how to change `_blocksize`)
+• align blockout brushes to blocksize
+• hint brush placement (DOs and DONTs)
+• hint vs subtle hint
+

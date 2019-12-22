@@ -27,16 +27,28 @@ album: https://imgur.com/a/zAJ4N28
   - ineffective use of `hint` brushes
   - ineffective structural brush at cabinets
   - gap in structural mesh at crane area due to small grid
- * **lessons**
-  - start with structural mesh
-  - keep structural mesh aligned with `_blocksize` grid
-  - use big gridsizes for structural brushes to avoid unintended gaps
-  - always check the portal view plugin to evaluate the structural mesh
-  - efficient use of `hint` brushes
 * start minimalistic blockout / structural mesh of tutorial map
 * VIS test with detail brushes
 * hint brush placement (DOs and DONTs)
 * hint vs subtle hint
+* add gameplay elements as detail brushes _(stick to editor textures and rough shapes and forms)_
+  - smaller structures not blocking engine VIS, but player line of sight _(fences, boxes, sheds, etc.)_
+  - height differences to get a feel for timings and fights uphill _(bridges, plateaus, hills, etc.)_
 * think about gameplay timings and routes
   - how long does it take the attacker to get somewhere and the defender to set up position there
   - not applicable here because it's a singleplayer tutorial map
+* stress-test the map with other players to spot flaws in gameplay and problematic areas for performance
+* improve map layout based on player feedback and iterate through this phase until gameplay is stable
+
+
+* **lessons**
+  - check for references on the theme of your map
+  - create layout sketches and go through the map design in your head multiple times while continuously improving
+  - start with the underlying structural mesh
+  - keep structural mesh aligned with `_blocksize` grid
+  - use big gridsizes for structural brushes to avoid unintended gaps
+  - always check the portal view plugin to evaluate the structural mesh
+  - efficient use of `hint` brushes
+  - add gameplay elements such as boxes, fences, slopes and other smaller structures as detail brushes
+  - gather players for early stress tests of the map layout
+  - iteratively improve the map layout until gameplay and performance are stable

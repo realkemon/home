@@ -4,6 +4,9 @@ Part 1: Talking points
 album: https://imgur.com/a/zAJ4N28
 * collecting visual references
 * layout sketch (this map does not serve as map layout tutorial -> singleplayer map)
+  - important to spend a lot of time and thoughts on the layout
+  - play it through in your head over and over
+  - iterate through the layout and continuously improve until you're happy 
 * start with empty skybox
 * show `_blocksize` grid
 * VIS compile to introduce portal view plugin

@@ -37,3 +37,6 @@ album: https://imgur.com/a/zAJ4N28
 * VIS test with detail brushes
 * hint brush placement (DOs and DONTs)
 * hint vs subtle hint
+* think about gameplay timings and routes
+  - how long does it take the attacker to get somewhere and the defender to set up position there
+  - not applicable here because it's a singleplayer tutorial map

@@ -27,7 +27,7 @@ album: https://imgur.com/a/zAJ4N28
   - ineffective use of `hint` brushes
   - ineffective structural brush at cabinets
   - gap in structural mesh at crane area due to small grid
- * **Lessons:**
+ * **lessons**
   - start with structural mesh
   - keep structural mesh aligned with `_blocksize` grid
   - use big gridsizes for structural brushes to avoid unintended gaps

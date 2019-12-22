@@ -120,7 +120,7 @@ Parts
 Section 1: world
 ----------
 * [Part 1: References, Layout, Structural vs Detail, Hint brushes](https://github.com/realkemon/home/blob/master/pages/tut_part1.md)
-* Part 2: First detail pass
+* [Part 2: Detail blockout, early gameplay test](https://github.com/realkemon/home/blob/master/pages/tut_part2.md)
 * Part 3: Manual terrain creation in Radiant using brushwork
 * Part 4: Second detail pass
 * Part 5: Sky _(moving clouds; cloud mask; lightning)_

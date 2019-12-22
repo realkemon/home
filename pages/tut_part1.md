@@ -7,6 +7,7 @@ album: https://imgur.com/a/zAJ4N28
 * start with empty skybox
 * show `_blocksize` grid
 * VIS compile to introduce portal view plugin
+* change `_blocksize` value
 * create simple structural wall with detail brushes on other side
   - #1 one completely misaligned to `_blocksize` grid
   - #2 one too short height
@@ -14,11 +15,22 @@ album: https://imgur.com/a/zAJ4N28
   - #4 one aligned with `_blocksize` grid
 * add `hint` brushes closing the gap for #2 and #3 -> useless
 * change `hint` brushes to go orthogonally -> now also sealed off
-
-[CONTINUE HERE]
-* minimalistic blockout / structural mesh
+* load `railgun_final.map` to show bad examples
+  - bunker entrances are structural
+  - track switch is structural
+  - CP stairs are structural
+  - no structural block between Allied spawn and track switch
+  - no structural block between Axis spawn and Depot Yard
+  - ineffective use of `hint` brushes
+  - ineffective structural brush at cabinets
+  - gap in structural mesh at crane area due to small grid
+ * **Lessons:**
+  - start with structural mesh
+  - keep structural mesh aligned with `_blocksize` grid
+  - use big gridsizes for structural brushes to avoid unintended gaps
+  - always check the portal view plugin to evaluate the structural mesh
+  - efficient use of `hint` brushes
+* start minimalistic blockout / structural mesh of tutorial map
 * VIS test with detail brushes
-* 'show **blocksize**' option in Radiant (show how to change `_blocksize`)
-* align blockout brushes to blocksize
 * hint brush placement (DOs and DONTs)
 * hint vs subtle hint

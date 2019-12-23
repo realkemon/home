@@ -1,4 +1,6 @@
 Part 4: Talking points
 =========
 
-[TODO]
+* moving clouds
+* cloud mask
+* lightning

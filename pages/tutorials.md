@@ -122,8 +122,10 @@ Section 1: world
 * [Part 1: References, Layout, Structural vs Detail, Hint Brushes, Gameplay Blockout](https://github.com/realkemon/home/blob/master/pages/tut_part1.md)
 * [Part 2: T-Junctions, Initial Detail Pass](https://github.com/realkemon/home/blob/master/pages/tut_part2.md)
 * [Part 3: Manual Brushwork Terrain, Blending Shaders](https://github.com/realkemon/home/blob/master/pages/tut_part3.md)
-* [Part 4: Skybox, Ambient vs Minlight, Fog, Atmospheric Effects](https://github.com/realkemon/home/blob/master/pages/tut_part4.md)
-* Part 6: Lighting pass _(ambient vs. minlight; light vs. lightJunior; surfacelight; coronas; dynamic lighting)_
+* [Part 4: Skybox, Ambient vs Minlight, Fog, Atmospheric Effects, Dynamic Atmospheric Effects](https://github.com/realkemon/home/blob/master/pages/tut_part4.md)
+* [Part 5: Lighting, Light vs LightJunior, SurfaceLight, Coronas, Dynamic Lighting](https://github.com/realkemon/home/blob/master/pages/tut_part5.md)
+
+
 * Part 8: Water _(basic; foam blend; deformVertex; waterfall)_
 * Part 4: Second detail pass
 * Part 9: Atmospheric effects _(fog; precipitation; dynamic precipitation)_ 

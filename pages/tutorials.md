@@ -114,29 +114,28 @@ Mechanics
 * Document run objective.
 
 
-Parts
+Streams
 ==========
 
-Section 1: world
-----------
 * [Part 1: References, Layout, Structural vs Detail, Hint Brushes, Gameplay Blockout](https://github.com/realkemon/home/blob/master/pages/tut_part1.md)
 * [Part 2: T-Junctions, Initial Detail Pass](https://github.com/realkemon/home/blob/master/pages/tut_part2.md)
 * [Part 3: Manual Brushwork Terrain, Blending Shaders](https://github.com/realkemon/home/blob/master/pages/tut_part3.md)
 * [Part 4: Skybox, Ambient vs Minlight, Fog, Atmospheric Effects, Dynamic Atmospheric Effects](https://github.com/realkemon/home/blob/master/pages/tut_part4.md)
 * [Part 5: Lighting, Light vs LightJunior, SurfaceLight, Coronas, Dynamic Lighting](https://github.com/realkemon/home/blob/master/pages/tut_part5.md)
+* [Part 6: Water, Foam Blending, DeformVertex, Waterfall](https://github.com/realkemon/home/blob/master/pages/tut_part6.md)
+* [Part 7: **Func_Door_Rotating**, Target Locks, Team Door, Area Portals, Explosive-Door Combination](https://github.com/realkemon/home/blob/master/pages/tut_part7.md)
+* [Part 8: **Func_Rotating**, **Func_Penulum**, Landmine Problem](https://github.com/realkemon/home/blob/master/pages/tut_part8.md)
 
+[CONTINUE HERE]
 
-* Part 8: Water _(basic; foam blend; deformVertex; waterfall)_
 * Part 4: Second detail pass
-* Part 9: Atmospheric effects _(fog; precipitation; dynamic precipitation)_ 
 * Part 10: Sounds _(conditional; world; voice commander; news)_
 * Part 11: Limbo cams
 * Part 12: Win conditions and intermission cam
 
 Section 2: entities
 ----------
-* Part 13: Team door _(func_door_rotating; possibly with areaportal)_
-* Part 14: Rotating radar _(func_rotating)_
+
 * Part 15: 2-tier bridge _(multi-staged func_constructibles)_
 * Part 16: Command post _(neutral constructibles)_
 * Part 17: Cabinets _(conditional functionality when linked with CP)_

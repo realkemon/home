@@ -123,31 +123,17 @@ Streams
 * [Part 4: Skybox, Ambient vs Minlight, Fog, Atmospheric Effects, Dynamic Atmospheric Effects](https://github.com/realkemon/home/blob/master/pages/tut_part4.md)
 * [Part 5: Lighting, Light vs LightJunior, SurfaceLight, Coronas, Dynamic Lighting](https://github.com/realkemon/home/blob/master/pages/tut_part5.md)
 * [Part 6: Water, Foam Blending, DeformVertex, Waterfall](https://github.com/realkemon/home/blob/master/pages/tut_part6.md)
-* [Part 7: **Func_Door_Rotating**, Target Locks, Team Door, Area Portals, Explosive-Door Combination](https://github.com/realkemon/home/blob/master/pages/tut_part7.md)
-* [Part 8: **Func_Rotating**, **Func_Penulum**, Landmine Problem](https://github.com/realkemon/home/blob/master/pages/tut_part8.md)
-
-[CONTINUE HERE]
-
-* Part 4: Second detail pass
-* Part 10: Sounds _(conditional; world; voice commander; news)_
-* Part 11: Limbo cams
-* Part 12: Win conditions and intermission cam
-
-Section 2: entities
-----------
-
-* Part 15: 2-tier bridge _(multi-staged func_constructibles)_
-* Part 16: Command post _(neutral constructibles)_
-* Part 17: Cabinets _(conditional functionality when linked with CP)_
-* Part 18: CP spawn _(conditional functionality when linked with CP)_
-* Part 19: Mine cart _(button activated simple script_mover)_
-* Part 20: Door generator _(conditional moving parts, remapshader, sounds)_
-* Part 21: Door _(lever activated; linked to generator; abort and change movement direction)_
-* Part 22: Dynamitable Truck barrier _(func_explosive)_
-* Part 23: Satchelable Door generator _(conditional moving parts, debris, flames, smoke)_
-* Part 24: Castle drawbridge _(conditional script_mover; rotate open in a falling manner; linked to generator)_
-* Part 25: Escortable truck _(advanced script_mover)_
-* Part 26: AT gun _(automatically rotate towards target; shoot and destroy truck)_
-* Part 27: Document run objective _(conditional red outline on truck bed)_
-* Part 28: Escortable tank _(similar to truck, tighter corners; rotate turret and shoot)_
-* Part 29: Forward flag spawn
+* [Part 7: **Func_Rotating**, **Func_Penulum**, Landmine Problem](https://github.com/realkemon/home/blob/master/pages/tut_part7.md)
+* [Part 8: **Func_Explosive** vs **Func_Constructible**, Command Map Icons](https://github.com/realkemon/home/blob/master/pages/tut_part8.md)
+* [Part 9: **Func_Door_Rotating**, **Target Lock**, Team Door, Area Portals, Explosive-Door Combination](https://github.com/realkemon/home/blob/master/pages/tut_part9.md)
+* [Part 10: **Func_Constructible**, Multi-Tiered Constructibles](https://github.com/realkemon/home/blob/master/pages/tut_part10.md)
+* [Part 11: Command Post, Neutral Constructibles, CP spawn, Cabinets](https://github.com/realkemon/home/blob/master/pages/tut_part11.md)
+* [Part 12: **Script_Mover**, Button Activation, Forwards-Backwards Movement, Conditional Sounds](https://github.com/realkemon/home/blob/master/pages/tut_part12.md)
+* [Part 13: Door Generator, Linked Lever-Activated Door, Conditional Moving Parts, RemapShaders](https://github.com/realkemon/home/blob/master/pages/tut_part13.md)
+* [Part 14: Capturable Flag Spawn](https://github.com/realkemon/home/blob/master/pages/tut_part14.md)
+* [Part 15: Escortable **Script_Mover**, Truck and Tank](https://github.com/realkemon/home/blob/master/pages/tut_part15.md)
+* [Part 16: Anti-Tank Gun, Automatic Rotation on Target, Missile Effects](https://github.com/realkemon/home/blob/master/pages/tut_part16.md)
+* [Part 17: Document Run Objective](https://github.com/realkemon/home/blob/master/pages/tut_part17.md)
+* [Part 18: Win Conditions, Limbo Cameras, Intermission Camera, .objdata, .arena](https://github.com/realkemon/home/blob/master/pages/tut_part18.md)
+* [Part 19: Ambient Sounds, Voice Commander, Fireteam Locations](https://github.com/realkemon/home/blob/master/pages/tut_part19.md)
+* [Part 20: Final Detail Pass, .ase Models, Compile Parameters

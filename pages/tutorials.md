@@ -136,4 +136,4 @@ Streams
 * [Part 17: Document Run Objective](https://github.com/realkemon/home/blob/master/pages/tut_part17.md)
 * [Part 18: Win Conditions, Limbo Cameras, Intermission Camera, .objdata, .arena](https://github.com/realkemon/home/blob/master/pages/tut_part18.md)
 * [Part 19: Ambient Sounds, Voice Commander, Fireteam Locations](https://github.com/realkemon/home/blob/master/pages/tut_part19.md)
-* [Part 20: Final Detail Pass, .ase Models, Compile Parameters
+* [Part 20: Final Detail Pass, .ase Models, Compile Parameters](https://github.com/realkemon/home/blob/master/pages/tut_part20.md)

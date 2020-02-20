@@ -44,7 +44,7 @@ The images above show that if the player is within the "(BSP) leaf" A6:F11, all 
 <table style="background-color:#302429">
  <tr>
   <td>
-    <img src="https://raw.githubusercontent.com/realkemon/home/master/gfx/avatar.png"> </td>
+    <img src="https://raw.githubusercontent.com/realkemon/home/master/gfx/avatar.png" width="128"> </td>
   <td>
     <b>To summarise, the basics of visibility blocking are:</b>
     <p>As soon as the engine can draw a direct line of sight from anywhere within its current "(BSP) leaf" to anywhere within another "(BSP) leaf", the entire contents of that other "(BSP) leaf" are rendered.</p>

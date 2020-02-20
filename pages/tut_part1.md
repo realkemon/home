@@ -32,7 +32,7 @@ In the test scenario above you can see that the "portals" divide our map into 4 
 * The blue lines are our "portals".
 * The highly energetic owl is our player.
 ______________________
-![Scenario1 grid1](https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/scenario1_grid1.png) | ![Scenario1 grid2](https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/scenario1_grid2.png)
+![Scenario1 grid1](https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/scenario1_grid1.jpg) | ![Scenario1 grid2](https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/scenario1_grid2.jpg)
 :---:|:---:
 ![Scenario1 ingame1](https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/shot0000.png) | ![Scenario1 ingame2](https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/shot0001.png)
 
@@ -58,7 +58,7 @@ Structural brushes
 The engine automatically generates additional "portals" along structural brushes if they are not aligned with the default "portals". These additional "portals" aren't always in our favour, as you can see in the scenario below. 
 We still have a structural wall that blocks direct line of sight from the player to the detail blocks in I0:L3. However, this time the details are rendered, because the engine can draw a direct line of sight from the player's current "(BSP) leaf" to I0:L3.
 ______________________
-![Scenario2](https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/scenario2.png) | ![Scenario2 VIS](https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/scenario2_vis.png) | ![Scenario2 grid](https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/scenario2_grid.png)
+![Scenario2](https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/scenario2.png) | ![Scenario2 VIS](https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/scenario2_vis.png) | ![Scenario2 grid](https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/scenario2_grid.jpg)
 :---:|:---:|:---:
 
 *This is our second test scenario with a misaligned structural brush.*

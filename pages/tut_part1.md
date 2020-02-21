@@ -6,8 +6,7 @@ This part will walk you through how the engine processes visibility, so we are a
 
 [![VIS](http://img.youtube.com/vi/jNqhtJueO3Y/0.jpg)](http://www.youtube.com/watch?v=jNqhtJueO3Y "Part 1: Visibility Blocking")
 
-*The video above is a fast run-down of the basics of visibility blocking. 
-For a more extended documentation see this page below.*
+<i>The video above is a fast run-down of the basics of visibility blocking. <p> For a more extended documentation see this page below.</i>
 ______________________
 Basics
 ------

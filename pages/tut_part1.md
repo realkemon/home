@@ -8,13 +8,13 @@ This part will walk you through how the engine processes visibility, so we are a
  <tr>
   <td><a href="http://www.youtube.com/watch?v=jNqhtJueO3Y"><img src="http://img.youtube.com/vi/jNqhtJueO3Y/0.jpg"></a></td>
   <td rowspan="2"> <b>Index:</b><br>
-<a href="https://github.com/realkemon/home/blob/master/tutorials.md">Tutorials</a><br>
+<a href="https://github.com/realkemon/home/blob/master/pages/tutorials.md">Tutorials</a><br>
 <ul>
- <li><a href="https://github.com/realkemon/home/blob/master/tut_part1.md#basics">Basics</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#basics">Basics</a></li>
  <ul>
-  <li><a href="https://github.com/realkemon/home/blob/master/tut_part1.md#Default-Portals">Default Portals</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/tut_part1.md#Automatic-Portals">Automatic Portals</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/tut_part1.md#Manual-Portals">Manual Portals</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Default-Portals">Default Portals</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Automatic-Portals">Automatic Portals</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Manual-Portals">Manual Portals</a></li>
  </ul>
  </td>
  </tr>
@@ -22,6 +22,7 @@ This part will walk you through how the engine processes visibility, so we are a
   <td><i>The video above is a fast run-down of the basics of visibility blocking. <br> For a more extended documentation see this page below.</td>
  </tr>
 </table>
+
 ______________________
 Basics
 ======

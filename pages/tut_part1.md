@@ -4,8 +4,10 @@ Part 1: Visibility Blocking
 The idtech3 engine is from a time where videogames didn't come with an amount of detail that you can see in modern games. While your computer hardware has improved substantially, the effectiveness of the engine hasn't so much. That is why even with modern computers we need to be mindful of performance when creating maps for the game. 
 This part will walk you through how the engine processes visibility, so we are able to control exactly what the engine renders at any given time in our map.
 
-[INSERT VIDEO HERE]
+[![VIS](http://img.youtube.com/vi/jNqhtJueO3Y/0.jpg)](http://www.youtube.com/watch?v=jNqhtJueO3Y "Part 1: Visibility Blocking")
 
+*The video above is a fast run-down of the basics of visibility blocking. 
+For a more extended documentation see this page below.*
 ______________________
 Basics
 ------

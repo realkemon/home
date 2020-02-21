@@ -4,11 +4,29 @@ Part 1: Visibility Blocking
 The idtech3 engine is from a time where videogames didn't come with an amount of detail that you can see in modern games. While your computer hardware has improved substantially, the effectiveness of the engine hasn't so much. That is why even with modern computers we need to be mindful of performance when creating maps for the game. 
 This part will walk you through how the engine processes visibility, so we are able to control exactly what the engine renders at any given time in our map.
 
-|[![VIS](http://img.youtube.com/vi/jNqhtJueO3Y/0.jpg)](http://www.youtube.com/watch?v=jNqhtJueO3Y "Part 1: Visibility Blocking")|
-|:---:|
-|<i>The video above is a fast run-down of the basics of visibility blocking. <br> For a more extended documentation see this page below.</i>|
+<table>
+ <tr>
+  <td><a href="http://www.youtube.com/watch?v=jNqhtJueO3Y"><img src="http://img.youtube.com/vi/jNqhtJueO3Y/0.jpg"></a></td>
+  <td rowspan="2"> <b>Index:</b><br>
+<a href="https://github.com/realkemon/home/blob/master/tutorials.md">Tutorials</a><br>
+<ul>
+ <li><a href="https://github.com/realkemon/home/blob/master/tut_part1.md#basics">Basics</a></li>
+ <ul>
+  <li><a href="https://github.com/realkemon/home/blob/master/tut_part1.md#Default-Portals">Default Portals</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/tut_part1.md#Automatic-Portals">Automatic Portals</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/tut_part1.md#Manual-Portals">Manual Portals</a></li>
+ </ul>
+ </td>
+ </tr>
+ <tr>
+  <td><i>The video above is a fast run-down of the basics of visibility blocking. <br> For a more extended documentation see this page below.</td>
+ </tr>
+</table>
 ______________________
 Basics
+======
+
+Default Portals
 ------
 Let's begin with some good and bad news. The bad news is, that the engine doesn't simply render only what the player sees. The good news, however, is that we have full control over what the engine renders. For that, we need to understand some basics first.
 
@@ -65,7 +83,7 @@ The images above show that if the player is within the (BSP) leaf A6:F11, all of
 </table>
 
 ______________________
-Structural brushes
+Automatic Portals
 ------
 We can derive from the test scenarios above that while portals divide our map up into (BSP) leaves, they themselves are not blocking line of sight. What actually is blocking line of sight are the **structural brushes** in our map. These, in turn, directly influence the placement of additional portals, which further divide our map into smaller (BSP) leaves. 
  
@@ -100,7 +118,7 @@ The (BSP) leaf which the player is currently in (G6:L11) extends past the plane 
 </table>
 
 ______________________
-Hint brushes
+Manual Portals
 ------
 
 In a regular map it's not realistic to have all of our structural brushes aligned with the default portals. Nevertheless, since we still want to ensure stable performance, we need to find a way to fix these problems. Luckily, the engine provides an option to manually create portals in our map by placing **"hint"** brushes. 

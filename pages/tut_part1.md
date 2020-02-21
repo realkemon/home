@@ -114,7 +114,7 @@ To manually place a portal, we can create a new brush with one face in the plane
  </tr>
 </table>
 
-Our second test scenario was lacking effective visibility blocking, so we added a manual hint brush "portal" as we can see in the images above. These manual "portals" behave exactly the same way as other "portals", which is why our entire map is now divided along the structural wall. This, in turn, means that the detail in I0:L3 isn't being rendered anymore from I6:L11, as we can see in the images below.
+Our second test scenario was lacking effective visibility blocking, so we added a manual hint brush "portal" as we can see in the images above. These manual "portals" behave exactly the same way as other "portals", which is why our entire map is now divided along the structural wall. This, in turn, prevents the engine from rendering the detail in I0:L3, as we can see in the images below.
 
 <table>
  <tr>

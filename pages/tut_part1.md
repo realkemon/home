@@ -22,7 +22,7 @@ Let's begin with some good and bad news. The bad news is, that the engine doesn'
 </table>
 
 During a `-vis` compile, your map automatically gets split up into several uniform cubes. Those cubes are separated from each other by the colourful planes that you can see in the comparison images above. To have the correct terminology, let's refer to the cubes as **"(BSP) leaves"** and to the colourful planes as **"portals"**.
-Because our entire map is split up into those "(BSP) leaves", the player is in one of them at all times. From the current "(BSP leaf", the engine then creates a list of all other "(BSP) leaves" to which it can draw a direct line of sight. It then renders everything that is within those "(BSP) leaves", whether the player can see it or not.
+Because our entire map is split up into those (BSP) leaves, the player is in one of them at all times. From the current (BSP leaf, the engine then creates a list of all other (BSP) leaves to which it can draw a direct line of sight. It then renders everything that is within those (BSP) leaves, whether the player can see it or not.
 
 <table>
  <tr>
@@ -34,7 +34,7 @@ Because our entire map is split up into those "(BSP) leaves", the player is in o
  </tr>
 </table>
 
-In the test scenario above you can see that the "portals" divide our map into 4 "(BSP) leaves". The map includes a structural wall (in orange) and detail brushes (in red). The structural wall is perfectly aligned with one of the "portals" as we can see in the 2D workspace views. Below we have the same scenario in a simplified grid image (top-down) and in-game shots.
+In the test scenario above you can see that the portals divide our map into 4 (BSP) leaves. The map includes a structural wall (in orange) and detail brushes (in red). The structural wall is perfectly aligned with one of the portals as we can see in the 2D workspace views. Below we have the same scenario in a simplified grid image (top-down) and in-game shots.
 * The red cubes are our detail brushes.
 * The grey block is our structural wall.
 * The blue lines are our "portals".
@@ -54,19 +54,19 @@ In the test scenario above you can see that the "portals" divide our map into 4 
  </tr>
 </table>
 
-The images above show that if the player is within the "(BSP) leaf" A6:F11, all of the detail is being rendered. It doesn't matter whether or not the player actually sees the detail in G0:L4. However, as soon as the player moves over to the "(BSP) leaf" G6:L11, the contents of G0:L4 aren't rendered anymore. This is because the structural wall prevents the engine from drawing a direct line of sight in-between those two "(BSP) leaves".
+The images above show that if the player is within the (BSP) leaf A6:F11, all of the detail is being rendered. It doesn't matter whether or not the player actually sees the detail in G0:L4. However, as soon as the player moves over to the (BSP) leaf G6:L11, the contents of G0:L4 aren't rendered anymore. This is because the structural wall prevents the engine from drawing a direct line of sight in-between those two (BSP) leaves.
 
 <table>
  <tr>
   <td><img src="https://raw.githubusercontent.com/realkemon/home/master/gfx/avatar.png" width="128"> </td>
-  <td><b>NOTE:</b><p>As soon as the engine can draw a direct line of sight from anywhere within its current "(BSP) leaf" to anywhere within another "(BSP) leaf", the entire contents of that other "(BSP) leaf" are rendered.</p></td>
+  <td><b>NOTE:</b><p>As soon as the engine can draw a direct line of sight from anywhere within its current "(BSP) leaf" to anywhere within another (BSP) leaf, the entire contents of that other (BSP) leaf are rendered.</p></td>
  </tr>
 </table>
 
 ______________________
 Structural brushes
 ------
-We can derive from the test scenarios above that while "portals" divide our map up into "(BSP) leaves", they themselves are not blocking line of sight. What actually is blocking line of sight are the **structural brushes** in our map. These, in turn, directly influence the placement of additional "portals", which further divide our map into smaller "(BSP) leaves". 
+We can derive from the test scenarios above that while portals divide our map up into (BSP) leaves, they themselves are not blocking line of sight. What actually is blocking line of sight are the **structural brushes** in our map. These, in turn, directly influence the placement of additional portals, which further divide our map into smaller (BSP) leaves. 
  
 <table>
  <tr>
@@ -78,7 +78,7 @@ We can derive from the test scenarios above that while "portals" divide our map 
  </tr>
 </table>
 
-In the scenario above we can see that our now shortened and moved structural brush (in orange) doesn't adhere to the default "portals" in the centre anymore. This results in additional "portals" being created by the engine at those edges of the brush that are not connected to any "portal". These are not always in our favour as we can see in the images below.
+In the scenario above we can see that our now shortened and moved structural brush (in orange) doesn't adhere to the default portals in the centre anymore. This results in additional portals being created by the engine at those edges of the brush that are not connected to any portal. These are not always in our favour as we can see in the images below.
 <table>
  <tr>
   <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/scenario2_grid.jpg"></td>
@@ -89,12 +89,12 @@ In the scenario above we can see that our now shortened and moved structural bru
  </tr>
 </table>
 
-While the structural wall still blocks line of sight for the player to I0:L3, the "portal" mesh isn't effective anymore. 
-The "(BSP) leaf" which the player is currently in (G6:L11) extends past the plane of the structural wall (H-I). For that reason, it is possible for the engine to draw a direct line of sight in-between G6:L11 and I0:L3. That, in turn, prompts the engine to render the detail contents for the player although they don't actually see them.
+While the structural wall still blocks line of sight for the player to I0:L3, the portal mesh isn't effective anymore. 
+The (BSP) leaf which the player is currently in (G6:L11) extends past the plane of the structural wall (H-I). For that reason, it is possible for the engine to draw a direct line of sight in-between G6:L11 and I0:L3. That, in turn, prompts the engine to render the detail contents for the player although they don't actually see them.
 <table>
  <tr>
   <td><img src="https://raw.githubusercontent.com/realkemon/home/master/gfx/avatar.png" width="128"> </td>
-  <td><b>REMEMBER:</b><p>As soon as the engine can draw a direct line of sight from <b>anywhere</b> within its current "(BSP) leaf" to <b>anywhere</b> within another "(BSP) leaf", the entire contents of that other "(BSP) leaf" are rendered.</p></td>
+  <td><b>REMEMBER:</b><p>As soon as the engine can draw a direct line of sight from <b>anywhere</b> within its current (BSP) leaf to <b>anywhere</b> within another (BSP) leaf, the entire contents of that other (BSP) leaf are rendered.</p></td>
  </tr>
 </table>
 
@@ -102,19 +102,19 @@ ______________________
 Hint brushes
 ------
 
-In a regular map it's not realistic to have all of our structural brushes aligned with the default "portals". Nevertheless, since we still want to ensure stable performance, we need to find a way to fix these problems. Luckily, the engine provides an option to manually create "portals" in our map by placing **"hint"** brushes. 
-To manually place a portal, we can create a new brush with one face in the plane we want our "portal" to be in. To all faces of that brush we assign `common/hintskip`, except for the face where we want our manual "portal" to be. To that face we assign `common/hint`.
+In a regular map it's not realistic to have all of our structural brushes aligned with the default portals. Nevertheless, since we still want to ensure stable performance, we need to find a way to fix these problems. Luckily, the engine provides an option to manually create portals in our map by placing **"hint"** brushes. 
+To manually place a portal, we can create a new brush with one face in the plane we want our portal to be in. To all faces of that brush we assign `common/hintskip`, except for the face where we want our manual portal to be. To that face we assign `common/hint`.
 <table>
  <tr>
   <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/scenario3.png"></td>
   <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/scenario3_vis.png"></td>
  </tr>
  <tr>
-  <td colspan="2"><i>This is our third test scenario with a manual hint brush "portal".</i></td>
+  <td colspan="2"><i>This is our third test scenario with a manual hint brush portal.</i></td>
  </tr>
 </table>
 
-Our second test scenario was lacking effective visibility blocking, so we added a manual hint brush "portal" as we can see in the images above. These manual "portals" behave exactly the same way as other "portals", which is why our entire map is now divided along the structural wall. This, in turn, prevents the engine from rendering the detail in I0:L3, as we can see in the images below.
+Our second test scenario was lacking effective visibility blocking, so we added a manual hint brush portal as we can see in the images above. These manual portals behave exactly the same way as other portals, which is why our entire map is now divided along the structural wall. This, in turn, prevents the engine from rendering the detail in I0:L3, as we can see in the images below.
 
 <table>
  <tr>

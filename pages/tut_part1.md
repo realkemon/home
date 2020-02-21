@@ -11,7 +11,6 @@ Basics
 ------
 Let's begin with some good and bad news. The bad news is, that the engine doesn't simply render only what the player sees. The good news, however, is that we have full control over what the engine renders. For that, we need to understand some basics first.
 
-______________________
 <table>
  <tr>
   <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/map.png"></td>
@@ -22,11 +21,9 @@ ______________________
  </tr>
 </table>
 
-______________________
-
 During a `-vis` compile, your map automatically gets split up into several uniform cubes. Those cubes are separated from each other by the colourful planes that you can see in the comparison images above. To have the correct terminology, let's refer to the cubes as **"(BSP) leaves"** and to the colourful planes as **"portals"**.
 Because our entire map is split up into those "(BSP) leaves", the player is in one of them at all times. From the current "(BSP leaf", the engine then creates a list of all other "(BSP) leaves" to which it can draw a direct line of sight. It then renders everything that is within those "(BSP) leaves", whether the player can see it or not.
-______________________
+
 <table>
  <tr>
   <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/scenario1.png"></td>
@@ -37,14 +34,12 @@ ______________________
  </tr>
 </table>
 
-______________________
-
 In the test scenario above you can see that the "portals" divide our map into 4 "(BSP) leaves". The map includes a structural wall (in orange) and detail brushes (in red). The structural wall is perfectly aligned with one of the "portals" as we can see in the 2D workspace views. Below we have the same scenario in a simplified grid image (top-down) and in-game shots.
 * The red cubes are our detail brushes.
 * The grey block is our structural wall.
 * The blue lines are our "portals".
 * The highly energetic owl is our player.
-______________________
+
 <table>
  <tr>
   <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/scenario1_grid1.jpg"></td>
@@ -59,9 +54,8 @@ ______________________
  </tr>
 </table>
 
-______________________
 The images above show that if the player is within the "(BSP) leaf" A6:F11, all of the detail is being rendered. It doesn't matter whether or not the player actually sees the detail in G0:L4. However, as soon as the player moves over to the "(BSP) leaf" G6:L11, the contents of G0:L4 aren't rendered anymore. This is because the structural wall prevents the engine from drawing a direct line of sight in-between those two "(BSP) leaves".
-______________________
+
 <table>
  <tr>
   <td><img src="https://raw.githubusercontent.com/realkemon/home/master/gfx/avatar.png" width="128"> </td>

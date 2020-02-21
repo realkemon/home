@@ -62,7 +62,7 @@ ______________________
 ______________________
 The images above show that if the player is within the "(BSP) leaf" A6:F11, all of the detail is being rendered. It doesn't matter whether or not the player actually sees the detail in G0:L4. However, as soon as the player moves over to the "(BSP) leaf" G6:L11, the contents of G0:L4 aren't rendered anymore. This is because the structural wall prevents the engine from drawing a direct line of sight in-between those two "(BSP) leaves".
 ______________________
-# <table>
+<table>
  <tr>
   <td><img src="https://raw.githubusercontent.com/realkemon/home/master/gfx/avatar.png" width="128"> </td>
   <td><b>NOTE:</b><p>As soon as the engine can draw a direct line of sight from anywhere within its current "(BSP) leaf" to anywhere within another "(BSP) leaf", the entire contents of that other "(BSP) leaf" are rendered.</p></td>
@@ -99,7 +99,7 @@ In the scenario above we can see that our now shortened and moved structural bru
 ______________________
 While the structural wall still blocks line of sight for the player to I0:L3, the "portal" mesh isn't effective anymore. 
 The "(BSP) leaf" which the player is currently in (G6:L11) extends past the plane of the structural wall (H-I). For that reason, it is possible for the engine to draw a direct line of sight in-between G6:L11 and I0:L3. That, in turn, prompts the engine to render the detail contents for the player although they don't actually see them.
-# <table>
+<table>
  <tr>
   <td><img src="https://raw.githubusercontent.com/realkemon/home/master/gfx/avatar.png" width="128"> </td>
   <td><b>REMEMBER:</b><p>As soon as the engine can draw a direct line of sight from <b>anywhere</b> within its current "(BSP) leaf" to <b>anywhere</b> within another "(BSP) leaf", the entire contents of that other "(BSP) leaf" are rendered.</p></td>

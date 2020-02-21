@@ -68,7 +68,6 @@ Structural brushes
 ------
 We can derive from the test scenarios above that while "portals" divide our map up into "(BSP) leaves", they themselves are not blocking line of sight. What actually is blocking line of sight are the **structural brushes** in our map. These, in turn, directly influence the placement of additional "portals", which further divide our map into smaller "(BSP) leaves". 
  
-______________________
 <table>
  <tr>
   <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/scenario2.png"></td>
@@ -90,7 +89,6 @@ In the scenario above we can see that our now shortened and moved structural bru
  </tr>
 </table>
 
-______________________
 While the structural wall still blocks line of sight for the player to I0:L3, the "portal" mesh isn't effective anymore. 
 The "(BSP) leaf" which the player is currently in (G6:L11) extends past the plane of the structural wall (H-I). For that reason, it is possible for the engine to draw a direct line of sight in-between G6:L11 and I0:L3. That, in turn, prompts the engine to render the detail contents for the player although they don't actually see them.
 <table>
@@ -101,8 +99,6 @@ The "(BSP) leaf" which the player is currently in (G6:L11) extends past the plan
 </table>
 
 ______________________
-
-
 Hint brushes
 ------
 

@@ -46,17 +46,17 @@ Below that, we have the same scenario as simplified grid images (top-down) and i
 
 <table>
  <tr>
-  <td><b>In NetRadiant</b></td>
+  <td><b>In Radiant</b></td>
   <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/scenario1.png"></td>
   <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/scenario1_vis.png"></td>
  </tr>
   <tr>
-   <td><b>As simplified grid</b></td>
+   <td><b>As Grid</b></td>
   <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/scenario1_grid1.jpg"></td>
   <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/scenario1_grid2.jpg"></td>
  </tr>
  <tr>
-  <td><b>In-game</b></td>
+  <td><b>In Game</b></td>
   <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/shot0000.png"></td>
   <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/shot0001.png"></td>
  </tr>

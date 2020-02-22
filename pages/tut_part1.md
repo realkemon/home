@@ -15,6 +15,7 @@ This part will walk you through how the engine processes visibility, so we are a
   <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Default-Portals">Default Portals</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Automatic-Portals">Automatic Portals</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Manual-Portals">Manual Portals</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#conclusion">Conclusion</a></li>
  </ul>
  </td>
  </tr>

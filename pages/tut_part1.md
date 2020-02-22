@@ -109,7 +109,7 @@ In a regular map it's not realistic to have all of our structural brushes aligne
 To manually place a portal, we can create a new brush with one face in the plane we want our portal to be in. To all faces of that brush we assign `common/hintskip`, except for the face where we want our manual portal to be. To that face we assign `common/hint`.
 
 ### Test Scenario
-Our second test scenario was lacking effective visibility blocking, so we added a manual hint brush portal as we can see in the images below. These manual portals behave exactly the same way as other portals, which is why our entire map is now divided along the structural wall. This, in turn, prevents the engine from rendering the detail in I0:L3.
+Our second test scenario was lacking effective visibility blocking, so we added a manual hint brush portal, which we can see in the images below. These manual portals behave exactly the same way as other portals, which is why our entire map is now divided along the structural wall. This, in turn, prevents the engine from rendering the detail in I0:L3.
 
 <table>
  <tr>

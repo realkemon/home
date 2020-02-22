@@ -132,8 +132,7 @@ Our second test scenario was lacking effective visibility blocking, so we added 
 
 ## Conclusion
 The engine processes visibility by attempting to draw **direct lines of sight** in-between (BSP) leaves. As soon as the engine can draw a direct line of sight from **anywhere** within its current (BSP) leaf to **anywhere** within another (BSP) leaf, the entire contents of that other (BSP) leaf are rendered. 
-(BSP) leaves are separated by portals and we have learned that there are three ways the engine can be prompted to generate a portal *(default, automatic and manual)*. This means, we have three different options through which we can influence how visibility is being processed in our map. 
-In the following section we will have a closer look on how to work with each portal type to achieve maximum results for performance. 
+(BSP) leaves are separated by portals and we have learned that there are three ways the engine can be prompted to generate a portal *(default, automatic and manual)*. This means, we have three different options through which we can influence how visibility is being processed in our map. <br> In the following section we will have a closer look on how to work with each portal type to achieve maximum results for performance. 
 <table>
  <tr>
   <td><img src="https://raw.githubusercontent.com/realkemon/home/master/gfx/avatar.png" width="128"> </td>

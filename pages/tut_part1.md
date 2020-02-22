@@ -131,5 +131,14 @@ Our second test scenario was lacking effective visibility blocking, so we added 
 </table>
 
 ## Conclusion
-The engine processes visibility by attempting to draw direct lines of sight in-between (BSP) leaves. (BSP) leaves are separated by portals and we have learned that there are three ways the engine can be prompted to generate a portal *(default, automatic and manual)*. This means, we have three different options through which we can influence how visibility is being processed in our map. An efficient portal mesh in our map translates to better performance because the engine only has to calculate what is really necessary at all times. 
-In the following section we will have a closer look on how to work with each portal type to achieve maximum results for performance.
+The engine processes visibility by attempting to draw **direct lines of sight** in-between (BSP) leaves. As soon as the engine can draw a direct line of sight from **anywhere** within its current (BSP) leaf to **anywhere** within another (BSP) leaf, the entire contents of that other (BSP) leaf are rendered. 
+(BSP) leaves are separated by portals and we have learned that there are three ways the engine can be prompted to generate a portal *(default, automatic and manual)*. This means, we have three different options through which we can influence how visibility is being processed in our map. 
+In the following section we will have a closer look on how to work with each portal type to achieve maximum results for performance. 
+<table>
+ <tr>
+  <td><img src="https://raw.githubusercontent.com/realkemon/home/master/gfx/avatar.png" width="128"> </td>
+  <td><b>NOTE:</b><p>The differentiation into <i>"default"</i>, <i>"automatic"</i> and <i>"manual"</i> portals is only done to structure this tutorial. While it is true that there are those three ways to create portals, the resulting portals are treated exactly the same by the engine and have the exact same effects for performance.</p></td>
+ </tr>
+</table>
+
+# Section 2

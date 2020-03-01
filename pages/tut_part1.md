@@ -3,7 +3,7 @@ Part 1: Visibility Blocking
 
  The idtech3 engine is from a time where videogames didn't come with an amount of detail that you can see in modern games. While your computer hardware has improved substantially, the effectiveness of the engine hasn't so much. That is why even with modern computers we need to be mindful of performance when creating maps for the game.
 
-Starting the map development with a layout sketch forces us to plan the placement of routes and objectives from the start and enables us to spot problematic areas for performance as well as gameplay early on. For this we need to understand some basics first, which is why the first section of this tutorial will explain how we can control what the game renders at every point in time. The second section will implement those findings in our tutorial map.
+Starting the map development with a layout sketch forces us to plan the placement of routes and objectives from the start and enables us to spot problematic areas for performance as well as gameplay early on. For this we need to understand some basics first, which is why the first section of this tutorial will explain how we can control what the game renders at any point in time. The second section will implement those findings in our tutorial map.
 
 <table>
  <tr>

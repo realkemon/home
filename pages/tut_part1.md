@@ -2,7 +2,8 @@ Part 1: Visibility Blocking
 =========
 
 The idtech3 engine is from a time where videogames didn't come with an amount of detail that you can see in modern games. While your computer hardware has improved substantially, the effectiveness of the engine hasn't so much. That is why even with modern computers we need to be mindful of performance when creating maps for the game. 
-This part will walk you through how the engine processes visibility, so we are able to control exactly what the engine renders at any given time in our map.
+<br> Starting the map development with a layout sketch forces us to plan the placement of routes and objectives from the start and enables us to spot problematic areas for performance as well as gameplay early on. 
+<br> For this we need to understand some basics first, which is why the first section of this tutorial will explain how we can control what the game renders at every point in time. The second section will implement those findings in our tutorial map.
 
 <table>
  <tr>
@@ -10,12 +11,18 @@ This part will walk you through how the engine processes visibility, so we are a
   <td rowspan="2"> <b>Index:</b><br>
 <a href="https://github.com/realkemon/home/blob/master/pages/tutorials.md">Tutorials</a><br>
 <ul>
- <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#basics">Basics</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#theory">Theory</a></li>
  <ul>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Default-Portals">Default Portals</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Automatic-Portals">Automatic Portals</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Manual-Portals">Manual Portals</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#conclusion">Conclusion</a></li>
+ </ul>
+ <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#practise">Practise</a></li>
+ <ul>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Map-Layout">Map Layout</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Structural-Mesh">Structural Mesh</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Manual-Portals">Hint Brushes</a></li>
  </ul>
  </td>
  </tr>
@@ -25,7 +32,7 @@ This part will walk you through how the engine processes visibility, so we are a
 </table>
 
 ______________________
-# Basics
+# Theory
 Let's begin with some good and bad news. The bad news is, that the engine doesn't simply render only what the player sees. The good news, however, is that we have full control over what the engine renders. For that, we need to understand some basics first.
 
 ## Default Portals
@@ -140,4 +147,12 @@ The engine processes visibility by attempting to draw **direct lines of sight** 
  </tr>
 </table>
 
-# Section 2
+______________________
+# Practise
+
+
+## Map Layout
+
+## Structural Mesh
+
+## Hint Brushes 

@@ -149,10 +149,21 @@ The engine processes visibility by attempting to draw **direct lines of sight** 
 
 ______________________
 # Practise
-
+In the previous section we learned that portals divide our map up into (BSP) leaves for which the engine calculates visibility. By creating strucutral brushes that block line of sight through those portals we can influence the engine to only render what is necessary. To fine tune this entire process, we can also place hint brushes at key spots in our map for maximum control. <br> This section uses the findings above and tries to implement them in our tutorial map.
 
 ## Map Layout
+When starting development of a multiplayer map for any game, it is especially helpful to create a layout sketch early on. That way we are forced to think about gameplay aspects from the very start. We can also use the findings from the previous section to already roughly evaluate performance. To facilitate this, we can use regular squared paper for our layout sketch. This enables us to translate our layout into the grid-based Radiant very easily.
 
+[INSERT LAYOUT SKETCH OF TUTORIAL MAP AND COMPARE WITH LEVEL-EDITOR SHOT OF TUTORIAL MAP]
+
+In the comparison images above we can see that the grid of the squared paper translates perfectly to the grid in Radiant. Because of that, we can already align our map with the <a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Default-Portals">default portals</a> in our layout sketch to avoid the generation of <a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Automatic-Portals">automatic portals</a>, which could potentially undermine our performance. Of course it's not possible to always align all routes to the default portals as you can see with the side tunnel in [INSERT GRID OF SIDE TUNNEL]. Nevertheless, in those cases it is still good practise to align as many walls with the default portals as possible, which keeps the number of additionally generated portals to a minimum. As a rule of thumb, one square on our paper sketch translates to one square in Radiant of gridsize 256. Below are level-editor images from various maps to give us a sense of dimensions for how large one square in grid 256 really is. 
+
+[INSERT LEVEL-EDITOR SHOTS OF VARIOUS MAPS TO GIVE A SENSE OF DIMENSION OF GRID 256]
+
+
+
+
+ 
 ## Structural Mesh
 
 ## Hint Brushes 

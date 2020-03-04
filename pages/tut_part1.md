@@ -153,33 +153,35 @@ The engine processes visibility by attempting to draw **direct lines of sight** 
 
 ______________________
 # Practise
-In the previous section we learned that portals divide our map up into (BSP) leaves with which the engine calculates visibility. By creating strucutral brushes that block line of sight through those portals we influence the engine to only render what is necessary. Placing hint brushes at key spots in our map ultimately gives us maximum control to fine-tune this process. <br> This section uses the findings above and tries to implement them in our tutorial map.
+In the previous section we learned that portals divide our map up into (BSP) leaves with which the engine calculates visibility. By creating strucutral brushes that block line of sight through those portals we lead the engine to only render what is necessary. Placing hint brushes at key spots in our map gives us ultimate control to fine-tune this process. <br> We are going to use these findings and implement them into our tutorial map in the section below.
 
 ## Map Layout
-When starting development of a multiplayer map for any game, it is especially helpful to create a layout sketch early on. That forces us to think about gameplay aspects from the very start. The previous findings enable us to already spot possibly problematic areas for performance in the rough layout sketch. To facilitate this, we can use regular squared paper for our layout sketch to translate it into the grid-based Radiant very easily.
+When starting development of a multiplayer map for any game, it is especially helpful to create a layout sketch early on. On the one hand, this forces us to think about gameplay aspects from the very start. On the other hand, the previous findings enable us to already spot possibly problematic areas for performance in the initial layout sketch. Thinking about gameplay and performance at such an early stage means that there is no work lost when adjustments have to be made. The earlier we spot flaws, the easier it is to combat them.
 
 [INSERT LAYOUT SKETCH OF TUTORIAL MAP AND COMPARE WITH LEVEL-EDITOR SHOT OF TUTORIAL MAP]
 
-The comparison images above show that the grid of the squared paper translates perfectly to the grid in Radiant. Because of that, we can already align our map with the <a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Default-Portals">default portals</a> in our layout sketch to avoid the generation of <a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Automatic-Portals">automatic portals</a>, which could potentially undermine our performance. Of course it's not possible to always align all routes to the default portals as you can see with the side tunnel in [INSERT COORDINATES OF SIDE TUNNEL]. Nevertheless, in those cases it is still good practise to align as many walls with the default portals as possible to keep the number of automatically generated portals to a minimum. 
+The comparison images above show that the grid of regular squared paper translates perfectly to the grid in Radiant. Because of that, we can already align our map with the <a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Default-Portals">default portals</a> in our layout sketch to avoid the generation of <a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Automatic-Portals">automatic portals</a>, which could potentially undermine our performance. Of course it's not possible to always align all routes to the default portals as you can see with the side tunnel in [INSERT COORDINATES OF SIDE TUNNEL]. Nevertheless, in those cases it is still good practise to align as many walls with the default portals as possible to keep the number of automatically generated portals to a minimum. 
 
 ### Dimensions
-As a rule of thumb, one square on our paper sketch translates to one square in Radiant of gridsize 256. Below are level-editor images from various maps to give us a sense of dimensions for how large one square in grid 256 really is. 
+As a rule of thumb, one square on our paper sketch translates to one square in Radiant of gridsize 256. To give us a further sense of dimensions, we can refer to the command map images depicted below. 
+The conclusion that we can draw from those images is that on grid 256 and regular squared paper there are rough dimensions that we can keep in mind. For example, a main road in a village setting is [3-4?] squares, a smaller footpath as a side route is about [2?] squares and a village courtyard about [5-6x5-6?] squares. We can use these estimates to create a layout that is going to feel natural to the player from the start to prevent the need for too many adjustments to scaling.
 
-[INSERT LEVEL-EDITOR SHOTS OF VARIOUS MAPS TO GIVE A SENSE OF DIMENSION OF GRID 256]
-[GOLDRUSH, BREMEN, CAEN, BRAUNDORF, ERDENBERG, SUPPLY, RADAR, OASIS, FUELDUMP]
-
-The conclusion that we can draw from the images above is that on grid 256 and regular squared paper there are rough dimensions that we can keep in mind. For example, a main road in a village setting is [3-4?] squares, a smaller footpath as a side route is about [2?] squares, a closed of courtyard in a village is about [5-6x5-6?] squares. These dimensions are a first estimate that we can use to create a layout that is going to feel natural to the player. Obviously, this does not substitute gameplay tests with players in-game, however, it enables us to create realistic and natural environments from the start without the need for too many iterations of improvement. We all have expecations stemming from experiences in the real world and houses being too tall or roads being too wide are immediately noticeable as intrinsic flaws. 
+[INSERT COMMAND MAP ON GRID IMAGES OF VARIOUS MAPS TO GIVE A SENSE OF DIMENSION OF GRID 256]
+[GOLDRUSH, BREMEN, SUPPLY, CAEN, RADAR, SPECIAL DELIVERY, BRAUNDORF, ERDENBERG, OASIS]
 
 ### Distances
-Only being immersive, however, will not convince the players to play our map. Especially, in competitive multiplayer games, gameplay is the most important aspect. Below are level-editor images from various maps to give us a sense of distances between objectives.
-
-[INSERT LEVEL-EDITOR SHOTS OF VARIOUS MAPS TO GIVE A SENSE OF DISTANCES IN-BETWEEN OBJECTIVES]
-[GOLDRUSH, BREMEN, CAEN, BRAUNDORF, ERDENBERG, SUPPLY, RADAR, OASIS,FUELDUMP]
-
-There are various conclusions that we can draw from the images above. Naturally, we don't simply want to copy existing layouts, however, all insights help our map become the best verison of itself. Obviously, the final objective types influence the distances between them, which is why there are document-run maps, either pure or with subsequent vehicle escort, as well as maps with dynamitable objective(s) depicted above. Basing our map layout on conclusions from good-practise examples gives us a high chance of having decent gameplay way before the first gameplay test with players.
+Only feeling natural and realistic in scale, however, will not convince the players to play our map. Especially, in competitive multiplayer games, gameplay is the most important aspect. 
+There are various conclusions that we can draw from the images above. Naturally, we don't simply want to copy existing layouts, however, all insights help our map become the best verison of itself. Obviously, the final objective types influence the distances between them, which is why the images above include document-run maps, either pure or with subsequent vehicle escort, as well as maps with dynamitable objective(s). Basing our map layout on conclusions from good-practise examples gives us a high chance of having decent gameplay already way before the first gameplay test with players.
 
 
 ## Structural Mesh
 After evaluating our layout sketch in regards to its dimensions of structures, distances in-between objectives and alignment with the default portals, we can start translating it into our level-editor.
+
+### Brushwork
+
+### Portals
+
+### VIS Blocking
+
 
 ## Hint Brushes 

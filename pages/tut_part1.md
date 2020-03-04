@@ -171,13 +171,15 @@ As a rule of thumb, one square on our paper sketch translates to one square in R
 The conclusion that we can draw from the images above is that on grid 256 and regular squared paper there are rough dimensions that we can keep in mind. For example, a main road in a village setting is [3-4?] squares, a smaller footpath as a side route is about [2?] squares, a closed of courtyard in a village is about [5-6x5-6?] squares. These dimensions are a first estimate that we can use to create a layout that is going to feel natural to the player. Obviously, this does not substitute gameplay tests with players in-game, however, it enables us to create realistic and natural environments from the start without the need for too many iterations of improvement. We all have expecations stemming from experiences in the real world and houses being too tall or roads being too wide are immediately noticeable as intrinsic flaws. 
 
 ### Distances
-An immersive map alone, however, will not convince the players to play our map. Especially, in competitive multiplayer games, gameplay is the most important aspect. Below are level-editor images from various maps to give us a sense of distances between objectives.
+Only being immersive, however, will not convince the players to play our map. Especially, in competitive multiplayer games, gameplay is the most important aspect. Below are level-editor images from various maps to give us a sense of distances between objectives.
 
 [INSERT LEVEL-EDITOR SHOTS OF VARIOUS MAPS TO GIVE A SENSE OF DISTANCES IN-BETWEEN OBJECTIVES]
 [GOLDRUSH, BREMEN, CAEN, BRAUNDORF, ERDENBERG, SUPPLY, RADAR, OASIS,FUELDUMP]
 
-There are various conclusions that we can draw from the images above. Naturally, we don't simply want to copy existing layouts, however, all insights that we can get help our map become the best verison of itself. Obviously, the final objective types influence the distances between them, which is why there are document-run maps, either pure or with subsequent vehicle escort as well as maps with dynamitable objective(s) depicted above. Again, we are not aiming for simply copying existing map layouts, but the insights we can draw from them help us with balancing the gameplay in our layout sketch. Basing our map layout on conclusions from good-practise examples gives us a high chance of having decent gameplay way before the first gameplay test with players.
- 
+There are various conclusions that we can draw from the images above. Naturally, we don't simply want to copy existing layouts, however, all insights help our map become the best verison of itself. Obviously, the final objective types influence the distances between them, which is why there are document-run maps, either pure or with subsequent vehicle escort, as well as maps with dynamitable objective(s) depicted above. Basing our map layout on conclusions from good-practise examples gives us a high chance of having decent gameplay way before the first gameplay test with players.
+
+
 ## Structural Mesh
+After evaluating our layout sketch in regards to its dimensions of structures, distances in-between objectives and alignment with the default portals, we can start translating it into our level-editor.
 
 ## Hint Brushes 

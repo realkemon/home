@@ -171,7 +171,8 @@ The conclusion that we can draw from those images is that on grid 256 and regula
 
 ### Distances
 Only feeling natural and realistic in scale, however, will not convince the players to play our map. Especially, in competitive multiplayer games, gameplay is the most important aspect. 
-There are various conclusions that we can draw from the images above. Naturally, we don't simply want to copy existing layouts, however, all insights help our map become the best verison of itself. Obviously, the final objective types influence the distances between them, which is why the images above include document-run maps, either pure or with subsequent vehicle escort, as well as maps with dynamitable objective(s). Basing our map layout on conclusions from good-practise examples gives us a high chance of having decent gameplay already way before the first gameplay test with players.
+Basing our map layout on conclusions from good-practise examples gives us a high chance of having decent gameplay already way before the first gameplay test with players. Naturally, we don't simply want to copy existing layouts, however, all insights help our map become the best verison of itself. There are various conclusions that we can draw from the images above.
+[ACTUALLY NOTE DOWN SOME CONCLUSIONS]
 
 
 ## Structural Mesh

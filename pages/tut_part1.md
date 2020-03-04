@@ -26,7 +26,10 @@ Starting the map development with a layout sketch forces us to plan the placemen
    <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Distances">Distances</a></li>
   </ul>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Structural-Mesh">Structural Mesh</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Manual-Portals">Hint Brushes</a></li>
+  <ul>
+   <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Brushwork">Brushwork</a></li>
+   <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Portals">Portals</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#VIS-Blocking">VIS Blocking</a></li>
  </ul>
  </td>
  </tr>

@@ -169,8 +169,35 @@ The comparison images above show that the grid of regular squared paper translat
 As a rule of thumb, one square on our paper sketch translates to one square in Radiant of gridsize 256. To give us a further sense of dimensions, we can refer to the command map images depicted below. 
 The conclusion that we can draw from those images is that on grid 256 and regular squared paper there are rough dimensions that we can keep in mind. For example, a main road in a village setting is [3-4?] squares, a smaller footpath as a side route is about [2?] squares and a village courtyard about [5-6x5-6?] squares. We can use these estimates to create a layout that is going to feel natural to the player from the start to prevent the need for too many adjustments to scaling.
 
-[INSERT COMMAND MAP ON GRID IMAGES OF VARIOUS MAPS TO GIVE A SENSE OF DIMENSION OF GRID 256]
-[GOLDRUSH, SUPPLY, RADAR, FROSTBITE, OASIS, ERDENBERG]
+<table>
+ <tr>
+  <td rowspan="2"><b>Vehicle Escort</b></td>
+  <td>GoldRush</td>
+  <td>Supply Depot</td>
+ </tr>
+ <tr>
+  <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/grid_goldrush.png"></td>
+  <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/grid_goldrush.png"></td>
+ </tr>
+ <tr>
+  <td rowspan="2"><b>Document Run</b></td>
+  <td>Würzburg Radar</td>
+  <td>Frostbite</td>
+ </tr>
+ <tr>
+  <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/grid_radar.png"></td>
+  <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/grid_radar.png"></td>
+ </tr>
+ <tr>
+  <td rowspan="2"><b>Dynamite</b></td>
+  <td>Siwa Oasis</td>
+  <td>Erdenberg</td>
+ </tr>
+ <tr>
+  <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/grid_oasis.png"></td>
+  <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/grid_oasis.png"></td>
+ </tr>
+ </table>
 
 ### Distances
 Only feeling natural and realistic in scale, however, will not convince the players to play our map. Especially, in competitive multiplayer games, gameplay is the most important aspect. 

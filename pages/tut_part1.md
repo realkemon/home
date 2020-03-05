@@ -172,7 +172,7 @@ The conclusion that we can draw from those images is that on grid 256 and regula
 <table>
  <tr>
   <td rowspan="2"><b>Vehicle Escort</b></td>
-  <td>GoldRush</td>
+  <td>Gold Rush</td>
   <td>Supply Depot</td>
  </tr>
  <tr>

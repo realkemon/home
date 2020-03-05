@@ -170,7 +170,7 @@ As a rule of thumb, one square on our paper sketch translates to one square in R
 The conclusion that we can draw from those images is that on grid 256 and regular squared paper there are rough dimensions that we can keep in mind. For example, a main road in a village setting is [3-4?] squares, a smaller footpath as a side route is about [2?] squares and a village courtyard about [5-6x5-6?] squares. We can use these estimates to create a layout that is going to feel natural to the player from the start to prevent the need for too many adjustments to scaling.
 
 [INSERT COMMAND MAP ON GRID IMAGES OF VARIOUS MAPS TO GIVE A SENSE OF DIMENSION OF GRID 256]
-[GOLDRUSH, BREMEN, SUPPLY, CAEN, RADAR, SPECIAL DELIVERY, BRAUNDORF, ERDENBERG, OASIS]
+[GOLDRUSH, SUPPLY, RADAR, FROSTBITE, OASIS, ERDENBERG]
 
 ### Distances
 Only feeling natural and realistic in scale, however, will not convince the players to play our map. Especially, in competitive multiplayer games, gameplay is the most important aspect. 

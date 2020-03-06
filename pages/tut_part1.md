@@ -172,30 +172,30 @@ The conclusion that we can draw from those images is that on grid 256 and regula
 <table>
  <tr>
   <td rowspan="2"><b>Vehicle Escort</b></td>
+  <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/grid_goldrush.png"></td>
+  <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/grid_supply.png"></td>
+ </tr>
+ <tr>
   <td>Gold Rush</td>
   <td>Supply Depot</td>
  </tr>
  <tr>
-  <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/grid_goldrush.png"></td>
-  <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/grid_goldrush.png"></td>
+  <td rowspan="2"><b>Document Run</b></td>
+  <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/grid_radar.png"></td>
+  <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/grid_frostbite.png"></td>
  </tr>
  <tr>
-  <td rowspan="2"><b>Document Run</b></td>
   <td>Würzburg Radar</td>
   <td>Frostbite</td>
  </tr>
  <tr>
-  <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/grid_radar.png"></td>
-  <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/grid_radar.png"></td>
+  <td rowspan="2"><b>Dynamite</b></td>
+  <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/grid_oasis.png"></td>
+  <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/grid_erdenberg.png"></td>
  </tr>
  <tr>
-  <td rowspan="2"><b>Dynamite</b></td>
   <td>Siwa Oasis</td>
   <td>Erdenberg</td>
- </tr>
- <tr>
-  <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/grid_oasis.png"></td>
-  <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/grid_oasis.png"></td>
  </tr>
  </table>
 

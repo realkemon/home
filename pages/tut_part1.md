@@ -166,8 +166,24 @@ When starting development of a multiplayer map for any game, it is especially he
 The comparison images above show that the grid of regular squared paper translates perfectly to the grid in Radiant. Because of that, we can already align our map with the <a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Default-Portals">default portals</a> in our layout sketch to avoid the generation of <a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Automatic-Portals">automatic portals</a>, which could potentially undermine our performance. Of course it's not possible to always align all routes to the default portals as you can see with the side tunnel in [INSERT COORDINATES OF SIDE TUNNEL]. Nevertheless, in those cases it is still good practise to align as many walls with the default portals as possible to keep the number of automatically generated portals to a minimum. 
 
 ### Dimensions
-As a rule of thumb, one square on our paper sketch translates to one square in Radiant of gridsize 256. To give us a further sense of dimensions, we can refer to the command map images depicted below. 
-The conclusion that we can draw from those images is that on grid 256 and regular squared paper there are rough dimensions that we can keep in mind. For example, a main road in a village setting is [3-4?] squares, a smaller footpath as a side route is about [2?] squares and a village courtyard about [5-6x5-6?] squares. We can use these estimates to create a layout that is going to feel natural to the player from the start to prevent the need for too many adjustments to scaling.
+As a rule of thumb, one square on our paper sketch translates to one square in Radiant of gridsize 256. To give us a further sense of dimensions, we can refer to the command map images depicted below. We can use these estimates to create a layout that is going to feel natural to the player from the start to prevent the need for too many adjustments to scaling.
+
+<table>
+ <tr>
+  <td><img src="https://raw.githubusercontent.com/realkemon/home/master/gfx/avatar.png" width="128"> </td>
+  <td><b>CONCLUSION:</b><p>On grid 256 and regular squared paper a main road is 1-2 squares, a smaller footpath as a side route is around 1 square and a  courtyard measures around 4x4 squares. </p></td>
+ </tr>
+</table>
+
+### Distances
+Only feeling natural and realistic in scale, however, will not convince the players to play our map. Especially, in competitive multiplayer games, gameplay is the most important aspect. Naturally, we don't simply want to copy existing layouts, however, basing our map layout on good-practise examples enables us to have decent gameplay even before the first player test. 
+
+<table>
+ <tr>
+  <td><img src="https://raw.githubusercontent.com/realkemon/home/master/gfx/avatar.png" width="128"> </td>
+  <td><b>CONCLUSION:</b><p>[TODO]</p></td>
+ </tr>
+</table>
 
 <table>
  <tr>
@@ -199,10 +215,7 @@ The conclusion that we can draw from those images is that on grid 256 and regula
  </tr>
  </table>
 
-### Distances
-Only feeling natural and realistic in scale, however, will not convince the players to play our map. Especially, in competitive multiplayer games, gameplay is the most important aspect. 
-Basing our map layout on conclusions from good-practise examples gives us a high chance of having decent gameplay already way before the first gameplay test with players. Naturally, we don't simply want to copy existing layouts, however, all insights help our map become the best verison of itself. There are various conclusions that we can draw from the images above.
-[ACTUALLY NOTE DOWN SOME CONCLUSIONS]
+
 
 
 ## Structural Mesh

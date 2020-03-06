@@ -28,6 +28,7 @@ Starting the map development with a layout sketch forces us to plan the placemen
   </ul>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Structural-Mesh">Structural Mesh</a></li>
   <ul>
+   <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Repetition">Repetition</a></li>
    <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Brushwork">Brushwork</a></li>
    <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Portals">Portals</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#VIS-Blocking">VIS Blocking</a></li>
@@ -213,7 +214,10 @@ Only feeling natural and realistic in scale, however, will not convince the play
  </table>
 
 ## Structural Mesh
-After evaluating our layout sketch in regards to its dimensions of structures, distances in-between objectives and alignment with the default portals, we can start translating it into our level-editor. In the comparison images below we can again see that in scenario 1 there is a significant amount of portal clutter being created. That is because we did not align our structural mesh with the <a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Default-Portals">default portals</a>, which prompted the generation of <a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Automatic-Portals">automatic portals</a>. Scenario 2 shows that if we align our structural mesh with the default portals, we end up with a very clean and efficient portal mesh.
+After evaluating our layout sketch in regards to its dimensions of structures, distances in-between objectives and alignment with the default portals, we can start translating it into our level-editor. 
+
+### Repetition
+In the comparison images below we can again see that in scenario 1 there is a significant amount of portal clutter being created. That is because we did not align our structural mesh with the <a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Default-Portals">default portals</a>, which prompted the generation of <a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Automatic-Portals">automatic portals</a>. Scenario 2 shows that if we align our structural mesh with the default portals, we end up with a very clean and efficient portal mesh.
 
 ### Brushwork
 

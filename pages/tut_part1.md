@@ -9,7 +9,8 @@ Starting the map development with a layout sketch forces us to plan the placemen
  <tr>
   <td><a href="http://www.youtube.com/watch?v=jNqhtJueO3Y"><img src="http://img.youtube.com/vi/jNqhtJueO3Y/0.jpg"></a></td>
   <td rowspan="2"> <b>Index:</b><br>
-<a href="https://github.com/realkemon/home/blob/master/pages/tutorials.md">Tutorials</a><br>
+   <a href="https://github.com/realkemon/home/blob/master/pages/tutorials.md">Back</a><br>
+   <a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#part-1-visibility-blocking">Part 1: Visibility Blocking</a>
 <ul>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#theory">Theory</a></li>
  <ul>

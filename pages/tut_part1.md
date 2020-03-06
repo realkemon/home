@@ -151,7 +151,7 @@ The engine processes visibility by attempting to draw **direct lines of sight** 
 <table>
  <tr>
   <td><img src="https://raw.githubusercontent.com/realkemon/home/master/gfx/avatar.png" width="128"> </td>
-  <td><b>NOTE:</b><p>The differentiation into <i>"default"</i>, <i>"automatic"</i> and <i>"manual"</i> portals is only done to structure this tutorial. While it is true that there are those three ways to create portals, the resulting portals are treated exactly the same by the engine and have the exact same effects for performance.</p></td>
+  <td><b>NOTE:</b><p>The differentiation into <i>"default"</i>, <i>"automatic"</i> and <i>"manual"</i> portals is only done to structure this tutorial. They are all treated exactly the same and have the exact same effects for performance.</p></td>
  </tr>
 </table>
 
@@ -182,7 +182,7 @@ Only feeling natural and realistic in scale, however, will not convince the play
 <table>
  <tr>
   <td><img src="https://raw.githubusercontent.com/realkemon/home/master/gfx/avatar.png" width="128"> </td>
-  <td><b>CONCLUSION:</b><p>[TODO]</p></td>
+  <td><b>NOTE:</b><p>For a more in-depth guide for distances refer to <a href="https://forums.splashdamage.com/t/et-competition-maps-guidelines/116254">this thread</a>. In general, the distance from spawn to objective combined with the respective spawn times should be shorter for the attacking team.</p></td>
  </tr>
 </table>
 

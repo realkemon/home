@@ -115,7 +115,7 @@ The active (BSP) leaf (G6:L11) extends past the plane of the structural wall (H-
 <table>
  <tr>
   <td><img src="https://raw.githubusercontent.com/realkemon/home/master/gfx/avatar.png" width="128"> </td>
-  <td><b>REMEMBER:</b><p>As soon as the engine can draw a direct line of sight from <b>anywhere</b> within its current (BSP) leaf to <b>anywhere</b> within another (BSP) leaf, the entire contents of that other (BSP) leaf are rendered.</p></td>
+  <td><b>NOTE:</b><p>As soon as the engine can draw a direct line of sight from <b>anywhere</b> within its current (BSP) leaf to <b>anywhere</b> within another (BSP) leaf, the entire contents of that other (BSP) leaf are rendered.</p></td>
  </tr>
 </table>
 
@@ -162,17 +162,13 @@ In the previous section we learned that portals divide our map up into (BSP) lea
 ## Map Layout
 When starting development of a multiplayer map for any game, it is especially helpful to create a layout sketch early on. On the one hand, this forces us to think about gameplay aspects from the very start. On the other hand, the previous findings enable us to already spot possibly problematic areas for performance in the initial layout sketch. Thinking about gameplay and performance at such an early stage means that there is no work lost when adjustments have to be made. The earlier we spot flaws, the easier it is to combat them.
 
-[INSERT LAYOUT SKETCH OF TUTORIAL MAP AND COMPARE WITH LEVEL-EDITOR SHOT OF TUTORIAL MAP]
-
-The comparison images above show that the grid of regular squared paper translates perfectly to the grid in Radiant. Because of that, we can already align our map with the <a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Default-Portals">default portals</a> in our layout sketch to avoid the generation of <a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Automatic-Portals">automatic portals</a>, which could potentially undermine our performance. Of course it's not possible to always align all routes to the default portals as you can see with the side tunnel in [INSERT COORDINATES OF SIDE TUNNEL]. Nevertheless, in those cases it is still good practise to align as many walls with the default portals as possible to keep the number of automatically generated portals to a minimum. 
-
 ### Dimensions
 As a rule of thumb, one square on our paper sketch translates to one square in Radiant of gridsize 256. To give us a further sense of dimensions, we can refer to the command map images depicted below. We can use these estimates to create a layout that is going to feel natural to the player from the start to prevent the need for too many adjustments to scaling.
 
 <table>
  <tr>
   <td><img src="https://raw.githubusercontent.com/realkemon/home/master/gfx/avatar.png" width="128"> </td>
-  <td><b>CONCLUSION:</b><p>On grid 256 and regular squared paper a main road is 1-2 squares, a smaller footpath as a side route is around 1 square and a  courtyard measures around 4x4 squares. </p></td>
+  <td><b>NOTE:</b><p>On grid 256 and regular squared paper a main road is 1-2 squares, a smaller footpath as a side route is around 1 square and a  courtyard measures around 4x4 squares. </p></td>
  </tr>
 </table>
 
@@ -216,11 +212,8 @@ Only feeling natural and realistic in scale, however, will not convince the play
  </tr>
  </table>
 
-
-
-
 ## Structural Mesh
-After evaluating our layout sketch in regards to its dimensions of structures, distances in-between objectives and alignment with the default portals, we can start translating it into our level-editor.
+After evaluating our layout sketch in regards to its dimensions of structures, distances in-between objectives and alignment with the default portals, we can start translating it into our level-editor. In the comparison images below we can again see that the grid of regular squared paper translates perfectly to the grid in Radiant. We also see that in scenario 1 there is a significantly amount of portal clutter being created. That is because we did not align our structural mesh with the <a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Default-Portals">default portals</a>, which prompted the generation of <a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Automatic-Portals">automatic portals</a>. Scenario 2 shows that if we align our structural mesh with the default portals, we end up with a very clean and efficient portal mesh.
 
 ### Brushwork
 

@@ -22,7 +22,7 @@ Layout Sketch
  </tr>
  <tr>
   <td><i>
-Most ET maps consist of 2 phases, where an objective in the first phase triggers the forward spawn switch. The second phase generally includes an optional spawn point commonly linked to a Command Post that allows for more strategic rotations.</td>
+Most ET maps consist of 2 phases, where an objective in phase 1 triggers the forward spawn switch. Phase 2 generally includes an optional spawn point that allows for more strategic rotations.</td>
  </tr>
 </table>
 

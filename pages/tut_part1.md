@@ -148,7 +148,7 @@ Our second test scenario was lacking effective visibility blocking, so we added 
 
 ## Conclusion
 The engine processes visibility by attempting to draw **direct lines of sight** in-between (BSP) leaves. As soon as the engine can draw a direct line of sight from **anywhere** within its current (BSP) leaf to **anywhere** within another (BSP) leaf, the entire contents of that other (BSP) leaf are rendered. 
-(BSP) leaves are separated by portals and we have learned that there are three ways the engine can be prompted to generate a portal *(default, automatic and manual)*. This means, we have three different options through which we can influence how visibility is being processed in our map. <br> In the following section we will have a closer look on how to work with each portal type to achieve maximum results for performance. 
+(BSP) leaves are separated by portals and we have learned that there are three ways the engine can be prompted to generate a portal *(default, automatic and manual)*. This means, we have three different options through which we can influence how visibility is being processed in our map.
 <table>
  <tr>
   <td><img src="https://raw.githubusercontent.com/realkemon/home/master/gfx/avatar.png" width="128"> </td>
@@ -218,12 +218,10 @@ Below are grid images of various maps that you can have a look at to get a feeli
  </table>
 
 ## Structural Mesh
-After evaluating our layout sketch in regards to its dimensions of structures, distances in-between objectives and alignment with the default portals, we can start translating it into our level-editor. 
-
-### Repetition
-In the comparison images below we can again see that in scenario 1 there is a significant amount of portal clutter being created. That is because we did not align our structural mesh with the <a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Default-Portals">default portals</a>, which prompted the generation of <a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Automatic-Portals">automatic portals</a>. Scenario 2 shows that if we align our structural mesh with the default portals, we end up with a very clean and efficient portal mesh.
+Once we have a refined layout sketch that we are happy with in terms of estimated gameplay and performance, we can start to translate the layout into Radiant. Again, this process is simplified substantually when using regular squared paper for the layout sketch as that gridsize directly translates to grid 256 in Radiant.
 
 ### Brushwork
+
 
 ### Portals
 

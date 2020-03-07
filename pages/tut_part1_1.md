@@ -1,7 +1,7 @@
 Visibility Blocking
 =========
 
-Let's begin with some good and bad news. The bad news is, that the engine doesn't simply render only what the player sees. The good news, however, is that we have full control over what the engine renders. For that, we need to understand some basics first.
+
 
 <table>
  <tr>
@@ -27,8 +27,7 @@ Let's begin with some good and bad news. The bad news is, that the engine doesn'
  </tr>
 </table>
 
-______________________
-
+Let's begin with some good and bad news. The bad news is, that the engine doesn't simply render only what the player sees. The good news, however, is that we have full control over what the engine renders. For that, we need to understand some basics first.
 
 ## Default Portals
 During a `-vis` compile, your map automatically gets split up into several uniform cubes. Those cubes are separated from each other by the colourful planes that we can see in the comparison images below. To have the correct terminology, let's refer to the cubes as **"(BSP) leaves"** and to the colourful planes as **"portals"**.

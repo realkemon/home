@@ -1,6 +1,24 @@
 Tutorials **[WORK IN PROGRESS]**
 ==========
 
+# Overview
+## Part 1: Foundations
+<ul>
+ <li>Visibility Blocking</li>
+ <li>Layout Sketch</li>
+ <li>Structural Mesh</li>
+</ul>
+## Part 2: Initial Detail Pass
+<ul>
+ <li>Performance Measures</li>
+ <li>Manual Terrain</li>
+ <li>Initial Details</li>
+</ul>
+ 
+
+
+_________________________________________
+_________________________________________
 <table>
  <tr>
    <td><b>Index:</b><br>

@@ -37,8 +37,8 @@ Only feeling natural and realistic in scale, however, will not convince the play
 <table>
  <tr>
   <td><img src="https://raw.githubusercontent.com/realkemon/home/master/gfx/avatar.png" width="128"> </td>
-  <td><b>EXAMPLE:</b><p><b>Würzburg Radar:</b> Axis spawn cycle is 10 seconds longer than Allied. Travel time to East Radar is ~15 seconds from Allied CP and ~10 seconds from Axis spawn. Average duration to objective is 5s shorter for attackers.</p>
-   <p><b>Fueldump:</b> Axis spawn cycle is 10 seconds longer than Allied. Travel time to Fueldepot is ~30 seconds from Allied CP and ~10 seconds from Axis spawn. Average duration to objective is 10s shorter for defenders.</p>
+  <td><b>EXAMPLE:</b><p><b>Würzburg Radar:</b> Axis spawn cycle is 10 seconds longer than Allied. Travel time to East Radar is ~15 seconds from Allied CP and ~10 seconds from Axis spawn. Average duration to objective is 5s shorter for attackers.<br><b>-> GOOD</b></p>
+   <p><b>Fueldump:</b> Axis spawn cycle is 10 seconds longer than Allied. Travel time to Fueldepot is ~30 seconds from Allied CP and ~10 seconds from Axis spawn. Average duration to objective is 10s shorter for defenders.<br><b>-> BAD</b></p>
 </td>
  </tr>
 </table>

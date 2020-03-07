@@ -167,24 +167,25 @@ When starting development of a multiplayer map for any game, it is especially he
 </table>
 
 ## Dimensions
-As a rule of thumb, one square on our paper sketch translates to one square in Radiant of gridsize 256. To give us a further sense of dimensions, we can refer to the command map images depicted below. We can use these estimates to create a layout that is going to feel natural to the player from the start to prevent the need for too many adjustments to scaling.
-
-<table>
- <tr>
-  <td><img src="https://raw.githubusercontent.com/realkemon/home/master/gfx/avatar.png" width="128"> </td>
-  <td><b>NOTE:</b><p>On grid 256 and regular squared paper a main road is 1-2 squares, a smaller footpath as a side route is around 1 square and a  courtyard measures around 4x4 squares. </p></td>
- </tr>
-</table>
+As a rule of thumb, one square on our paper sketch translates to one square in Radiant of gridsize 256. To give us a further sense of dimensions, we can refer to the grid images depicted below. We can use these estimates to create a layout that is going to feel natural to the player from the start to prevent the need for too many adjustments to scaling.
 
 ## Distances
-Only feeling natural and realistic in scale, however, will not convince the players to play our map. Especially, in competitive multiplayer games, gameplay is the most important aspect. Naturally, we don't simply want to copy existing layouts, however, basing our map layout on good-practise examples enables us to have decent gameplay even before the first player test. 
+Only feeling natural and realistic in scale, however, will not convince the players to play our map. Especially, in competitive multiplayer games, gameplay is the most important aspect. Naturally, we don't simply want to copy existing layouts, however, basing our map layout on good-practise examples enables us to have decent gameplay even before the first player test. In general, the distance from spawn to the objective plus the difference in spawn times should be lower for the attacker to prevent stale gameplay.
 
 <table>
  <tr>
   <td><img src="https://raw.githubusercontent.com/realkemon/home/master/gfx/avatar.png" width="128"> </td>
-  <td><b>NOTE:</b><p>For a more in-depth guide for distances refer to <a href="https://forums.splashdamage.com/t/et-competition-maps-guidelines/116254">this thread</a>. In general, the distance from spawn to objective combined with the respective spawn times should be shorter for the attacking team.</p></td>
+  <td><b>EXAMPLE:</b><p><b>Würzburg Radar:</b> Axis spawn cycle is 10 seconds longer than Allied. Travel time to East Radar is ~15 seconds from Allied CP and ~10 seconds from Axis spawn. Average duration to objective is 5s shorter for attackers.</p>
+   <p><b>Fueldump:</b> Axis spawn cycle is 10 seconds longer than Allied. Travel time to Fueldepot is ~30 seconds from Allied CP and ~10 seconds from Axis spawn. Average duration to objective is 10s shorter for defenders.</p>
+</td>
  </tr>
 </table>
+
+## Routes
+The area of the final objective should have multiple entry points to prevent the defenders from camping a single route. However, transforming the map into swiss-cheese leads to players getting lost on the one hand and on the other it encourages the defenders to simply camp directly at the objective. While the distances to objectives should be attacker biased, the individual routes should be slightly favourable to defenders in terms of cover. That is because the defending team has to split up and defend multiple routes, while the attacking team should stick together for a decisive push on one route. 
+
+
+Below are grid images of various maps that you can have a look at to get a feeling for the dimensions of structures, distances in-between objectives and placement of routes.
 
 <table>
  <tr>

@@ -8,28 +8,13 @@ Let's begin with some good and bad news. The bad news is, that the engine doesn'
   <td><a href="http://www.youtube.com/watch?v=jNqhtJueO3Y"><img src="http://img.youtube.com/vi/jNqhtJueO3Y/0.jpg"></a></td>
   <td rowspan="2"> <b>Index:</b><br>
    <a href="https://github.com/realkemon/home/blob/master/pages/tutorials.md">Back</a><br>
-   <a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#part-1-visibility-blocking">Part 1: Visibility Blocking</a>
-<ul>
- <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#theory">Theory</a></li>
- <ul>
-  <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Default-Portals">Default Portals</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Automatic-Portals">Automatic Portals</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Manual-Portals">Manual Portals</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#conclusion">Conclusion</a></li>
- </ul>
- <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#practise">Practise</a></li>
- <ul>
-  <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Map-Layout">Map Layout</a></li>
-  <ul>
-   <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Dimensions">Dimensions</a></li>
-   <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Distances">Distances</a></li>
-  </ul>
-  <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Structural-Mesh">Structural Mesh</a></li>
-  <ul>
-   <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Repetition">Repetition</a></li>
-   <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Brushwork">Brushwork</a></li>
-   <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#Portals">Portals</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md#VIS-Blocking">VIS Blocking</a></li>
+   <a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md">Part 1: Foundation</a>
+   <ul>
+    <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_1.md#visibility-blocking">Visibility Blocking</a></li>
+    <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_1.md#Default-Portals">Default Portals</a></li>
+    <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_1.md#Automatic-Portals">Automatic Portals</a></li>
+    <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_1.md#Manual-Portals">Manual Portals</a></li>
+    <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_1.md#conclusion">Conclusion</a></li>
  </ul>
  </td>
  </tr>

@@ -1,6 +1,31 @@
 Layout Sketch
 =========
 
+<table>
+ <tr>
+  <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/basic_structure.jpg" width="512"></td>
+  <td rowspan="2"> <b>Index:</b><br>
+   <a href="https://github.com/realkemon/home/blob/master/pages/tutorials.md">Back</a><br>
+   <a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md">Part 1: Foundation</a>
+   <ul>
+    <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_1.md">Visibility Blocking</a></li>
+    <ul>
+    <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_1.md#Default-Portals">Default Portals</a></li>
+    <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_1.md#Automatic-Portals">Automatic Portals</a></li>
+    <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_1.md#Manual-Portals">Manual Portals</a></li>
+    <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_1.md#conclusion">Conclusion</a></li>
+ </ul>
+    <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_2.md">Visibility Blocking</a></li>
+    <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_3.md">Structural Mesh</a></li>
+   </ul>
+ </td>
+ </tr>
+ <tr>
+  <td><i>
+When starting development of a multiplayer map for any game, it is especially helpful to create a layout sketch early on. On the one hand, this forces us to think about gameplay aspects from the very start. On the other hand, the previous findings enable us to already spot possibly problematic areas for performance in the initial layout sketch. The earlier we spot flaws, the easier it is to combat them.</td>
+ </tr>
+</table>
+
 When starting development of a multiplayer map for any game, it is especially helpful to create a layout sketch early on. On the one hand, this forces us to think about gameplay aspects from the very start. On the other hand, the previous findings enable us to already spot possibly problematic areas for performance in the initial layout sketch. The earlier we spot flaws, the easier it is to combat them.
 <table>
  <tr>

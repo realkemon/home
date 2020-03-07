@@ -157,13 +157,16 @@ The engine processes visibility by attempting to draw **direct lines of sight** 
 </table>
 
 ______________________
-# Practise
-In the previous section we learned that portals divide our map up into (BSP) leaves with which the engine calculates visibility. By creating strucutral brushes that block line of sight through those portals we lead the engine to only render what is necessary. Placing hint brushes at key spots in our map gives us ultimate control to fine-tune this process. <br> We are going to use these findings and implement them into our tutorial map in the section below.
+# Layout Sketch
+When starting development of a multiplayer map for any game, it is especially helpful to create a layout sketch early on. On the one hand, this forces us to think about gameplay aspects from the very start. On the other hand, the previous findings enable us to already spot possibly problematic areas for performance in the initial layout sketch. The earlier we spot flaws, the easier it is to combat them.
+<table>
+ <tr>
+  <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/basic structure.png" width="512"> </td>
+  <td><b>BASIC STRUCTURE:</b><p>Most ET maps consist of 2 phases, where an objective in the first phase triggers the forward spawn switch. The second phase generally includes an optional spawn point commonly linked to a Command Post that allows for more strategic rotations.</p></td>
+ </tr>
+</table>
 
-## Map Layout
-When starting development of a multiplayer map for any game, it is especially helpful to create a layout sketch early on. On the one hand, this forces us to think about gameplay aspects from the very start. On the other hand, the previous findings enable us to already spot possibly problematic areas for performance in the initial layout sketch. Thinking about gameplay and performance at such an early stage means that there is no work lost when adjustments have to be made. The earlier we spot flaws, the easier it is to combat them.
-
-### Dimensions
+## Dimensions
 As a rule of thumb, one square on our paper sketch translates to one square in Radiant of gridsize 256. To give us a further sense of dimensions, we can refer to the command map images depicted below. We can use these estimates to create a layout that is going to feel natural to the player from the start to prevent the need for too many adjustments to scaling.
 
 <table>
@@ -173,7 +176,7 @@ As a rule of thumb, one square on our paper sketch translates to one square in R
  </tr>
 </table>
 
-### Distances
+## Distances
 Only feeling natural and realistic in scale, however, will not convince the players to play our map. Especially, in competitive multiplayer games, gameplay is the most important aspect. Naturally, we don't simply want to copy existing layouts, however, basing our map layout on good-practise examples enables us to have decent gameplay even before the first player test. 
 
 <table>

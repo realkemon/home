@@ -10,12 +10,16 @@ Let's begin with some good and bad news. The bad news is, that the engine doesn'
    <a href="https://github.com/realkemon/home/blob/master/pages/tutorials.md">Back</a><br>
    <a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md">Part 1: Foundation</a>
    <ul>
-    <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_1.md#visibility-blocking">Visibility Blocking</a></li>
+    <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_1.md">Visibility Blocking</a></li>
+    <ul>
     <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_1.md#Default-Portals">Default Portals</a></li>
     <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_1.md#Automatic-Portals">Automatic Portals</a></li>
     <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_1.md#Manual-Portals">Manual Portals</a></li>
     <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_1.md#conclusion">Conclusion</a></li>
  </ul>
+    <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_2.md">Visibility Blocking</a></li>
+    <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_3.md">Structural Mesh</a></li>
+   </ul>
  </td>
  </tr>
  <tr>

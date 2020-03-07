@@ -22,17 +22,11 @@ Layout Sketch
  </tr>
  <tr>
   <td><i>
-When starting development of a multiplayer map for any game, it is especially helpful to create a layout sketch early on. On the one hand, this forces us to think about gameplay aspects from the very start. On the other hand, the previous findings enable us to already spot possibly problematic areas for performance in the initial layout sketch. The earlier we spot flaws, the easier it is to combat them.</td>
+Most ET maps consist of 2 phases, where an objective in the first phase triggers the forward spawn switch. The second phase generally includes an optional spawn point commonly linked to a Command Post that allows for more strategic rotations.</td>
  </tr>
 </table>
 
 When starting development of a multiplayer map for any game, it is especially helpful to create a layout sketch early on. On the one hand, this forces us to think about gameplay aspects from the very start. On the other hand, the previous findings enable us to already spot possibly problematic areas for performance in the initial layout sketch. The earlier we spot flaws, the easier it is to combat them.
-<table>
- <tr>
-  <td><img src="https://raw.githubusercontent.com/realkemon/home/master/pages/tut_part1/basic_structure.jpg" width="512"> </td>
-  <td><b>BASIC STRUCTURE:</b><p>Most ET maps consist of 2 phases, where an objective in the first phase triggers the forward spawn switch. The second phase generally includes an optional spawn point commonly linked to a Command Post that allows for more strategic rotations.</p></td>
- </tr>
-</table>
 
 ## Dimensions
 As a rule of thumb, one square on our paper sketch translates to one square in Radiant of gridsize 256. To give us a further sense of dimensions, we can refer to the grid images depicted below. We can use these estimates to create a layout that is going to feel natural to the player from the start to prevent the need for too many adjustments to scaling.

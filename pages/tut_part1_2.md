@@ -9,6 +9,11 @@ Layout Sketch
    <ul>
     <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_1.md">Visibility Blocking</a></li>
     <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_2.md">Layout Sketch</a></li>
+    <ul>
+     <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_2.md#dimensions">Dimensions</a></li>
+     <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_2.md#distances">Distances</a></li>
+     <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_2.md#routes">Routes</a></li>
+    </ul>
     <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_3.md">Structural Mesh</a></li>
    </ul>
  </td>

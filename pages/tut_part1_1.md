@@ -1,8 +1,6 @@
 Visibility Blocking
 =========
 
-
-
 <table>
  <tr>
   <td><a href="http://www.youtube.com/watch?v=jNqhtJueO3Y"><img src="http://img.youtube.com/vi/jNqhtJueO3Y/0.jpg"></a></td>
@@ -140,3 +138,6 @@ The engine processes visibility by attempting to draw **direct lines of sight** 
   <td><b>NOTE:</b><p>The differentiation into <i>"default"</i>, <i>"automatic"</i> and <i>"manual"</i> portals is only done to structure this tutorial. They are all treated exactly the same and have the exact same effects for performance.</p></td>
  </tr>
 </table>
+
+[:arrow_backward: Back](https://github.com/realkemon/home/blob/master/pages/tut_part1.md) | [:arrow_forward: Proceed](https://github.com/realkemon/home/blob/master/pages/tut_part1_2.md)
+:---:|:---:

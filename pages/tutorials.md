@@ -20,7 +20,10 @@ Tutorials **[WORK IN PROGRESS]**
 </table>
  
 # Overview
-## [Part 1: Foundation]("https://github.com/realkemon/home/blob/master/pages/tut_part1.md")
+
+[Part 1: Foundation](https://github.com/realkemon/home/blob/master/pages/tut_part1.md)
+------
+
 <ul>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_1.md">Visibility Blocking</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_2.md">Layout Sketch</a></li>

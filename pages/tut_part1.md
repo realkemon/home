@@ -15,7 +15,13 @@ Part 1: Foundation
  </tr>
 </table>
 
-The idtech3 engine is from a time where videogames didn't come with an amount of detail that you can see in modern games. While your computer hardware has improved substantially, the effectiveness of the engine hasn't so much. That is why even with modern computers we need to be mindful of performance when creating maps for the game.
+<table>
+ <tr>
+  <td><img src="https://raw.githubusercontent.com/realkemon/home/master/gfx/avatar.png" width="256"> </td>
+  <td><i>The idtech3 engine is from a time where videogames didn't come with an amount of detail that you can see in modern games. While your computer hardware has improved substantially, the effectiveness of the engine hasn't so much. That is why even with modern computers we need to be mindful of performance when creating maps for the game</i>.</td> </tr>
+</table>
+
+
 
 The comparison images below are essentially what we will cover in this tutorial part. They depict two scenarios of the exact same map. The only difference is the location of the map relative to the world. 
 

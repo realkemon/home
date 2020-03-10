@@ -3,8 +3,7 @@ Visibility Blocking
 
 <table>
  <tr>
-  <td><a href="http://www.youtube.com/watch?v=jNqhtJueO3Y"><img src="http://img.youtube.com/vi/jNqhtJueO3Y/0.jpg"></a></td>
-  <td rowspan="2"> <b>Index:</b><br>
+  <td> <b>Index:</b><br>
    <a href="https://github.com/realkemon/home/blob/master/pages/tutorials.md">Back</a><br>
    <a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md">Part 1: Foundation</a>
    <ul>
@@ -20,12 +19,11 @@ Visibility Blocking
    </ul>
  </td>
  </tr>
- <tr>
-  <td><i>The video above is a fast run-down of the basics of visibility blocking. <br> For a more extended documentation see this page below.</td>
- </tr>
 </table>
 
-Let's begin with some good and bad news. The bad news is, that the engine doesn't simply render only what the player sees. The good news, however, is that we have full control over what the engine renders. For that, we need to understand some basics first.
+Let's begin with some good and bad news. The bad news is, that the engine doesn't simply render only what the player sees. The good news, however, is that we have full control over what the engine renders. For that, we need to understand some basics first. The video below is a fast run-down of the basics of visibility blocking. For a more extended documentation see the rest of this page.
+
+<a href="http://www.youtube.com/watch?v=jNqhtJueO3Y"><img src="http://img.youtube.com/vi/jNqhtJueO3Y/0.jpg"></a>
 
 ## Default Portals
 During a `-vis` compile, your map automatically gets split up into several uniform cubes. Those cubes are separated from each other by the colourful planes that we can see in the comparison images below. To have the correct terminology, let's refer to the cubes as **"(BSP) leaves"** and to the colourful planes as **"portals"**.

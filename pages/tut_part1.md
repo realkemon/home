@@ -5,7 +5,7 @@ Part 1: Foundation
  <tr>
   <td> <b>Index:</b><br>
    <a href="https://github.com/realkemon/home/blob/master/pages/tutorials.md">Home</a><br>
-   <a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md">Part 1: Foundation</a>
+   <a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md"><b>Part 1: Foundation</b></a>
    <ul>
     <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_1.md">Visibility Blocking</a></li>
     <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_2.md">Layout Sketch</a></li>

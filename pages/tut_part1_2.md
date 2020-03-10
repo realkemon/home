@@ -20,7 +20,7 @@ Layout Sketch
  </tr>
 </table>
 
-When starting development of a multiplayer map for any game, it is especially helpful to create a layout sketch early on. On the one hand, this forces us to think about gameplay aspects from the very start. On the other hand, the previous findings enable us to already spot possibly problematic areas for performance in the initial layout sketch. The earlier we spot flaws, the easier it is to combat them.
+When starting development of a multiplayer map for any game, it is especially helpful to create a layout sketch early on. This enables us to anticipate both gameplay and performance from the start. The earlier we spot flaws, the easier it is to combat them.
 
 <table>
  <tr>

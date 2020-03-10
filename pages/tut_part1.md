@@ -15,7 +15,9 @@ Part 1: Foundation
  </tr>
 </table>
 
-The comparison images below are essentially what we will cover in this tutorial part. They depict two scenarios of the exact same map. The only difference is the location of the map relative to the world. 
+The comparison images below show that although the brushes themselves are the same, their placement, as visible in the grid images, is different. This leads to the visible difference in the 3rd images. Those colourful planes are portals and are used by the game to decide what to render at any given time.
+After we understand what those portals are and do, we will move on to the layout sketch. For that, we will cover some basics that will enable us to create a good layout, which we can use to anticipate gameplay and performance in the map.
+Once the layout sketch is decent, we will start to build our map in Radiant. There are some things that we need to keep in mind when doing that, which is why we are going to go through that process step by step.
 
 <table>
  <tr>
@@ -37,9 +39,6 @@ The comparison images below are essentially what we will cover in this tutorial 
  </tr>
 </table>
 
-We will start this tutorial part by understanding how the engine processes visibility. Short version: The engine splits the map up into portals, which are visualised as the colourful planes in the 3rd images. We can see that although the brushes are the same, their placement in the world has an effect on those portals. 
-After we understand what those portals are and what they do, we will move on to the layout sketch. For that, we will cover some basics that will enable us to create a good layout sketch with which we can already anticipate gameplay and performance.
-Once we are happy with our layout sketch, we will start to build our map in Radiant. There are some things that we need to keep in mind when doing that, which is why we are going to go through that process step by step.
 
 <table>
  <tr>

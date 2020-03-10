@@ -9,12 +9,6 @@ Layout Sketch
    <a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md">Part 1: Foundation</a>
    <ul>
     <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_1.md">Visibility Blocking</a></li>
-    <ul>
-    <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_1.md#Default-Portals">Default Portals</a></li>
-    <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_1.md#Automatic-Portals">Automatic Portals</a></li>
-    <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_1.md#Manual-Portals">Manual Portals</a></li>
-    <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_1.md#conclusion">Conclusion</a></li>
- </ul>
     <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_2.md">Layout Sketch</a></li>
     <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_3.md">Structural Mesh</a></li>
    </ul>
@@ -78,3 +72,6 @@ Below are grid images of various maps that you can have a look at to get a feeli
   <td>Erdenberg</td>
  </tr>
  </table>
+
+[:arrow_backward: Back](https://github.com/realkemon/home/blob/master/pages/tut_part1_1.md) | [:arrow_forward: Proceed](https://github.com/realkemon/home/blob/master/pages/tut_part1_3.md)
+:---:|:---:

@@ -9,7 +9,7 @@ Structural Mesh
    <ul>
     <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_1.md">Visibility Blocking</a></li>
     <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_2.md">Layout Sketch</a></li>
-    <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_3.md">Structural Mesh</a></li>
+    <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_3.md"><b>Structural Mesh</b></a></li>
     <ul>
      <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_3.md#brushwork">Brushwork</a></li>
      <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_3.md#portals">Portals</a></li>

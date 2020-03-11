@@ -5,12 +5,12 @@ Tutorials **[WORK IN PROGRESS]**
  <tr>
   <td><a href="https://www.youtube.com/watch?v=J_zbXCt7Kv0"><img src="http://img.youtube.com/vi/J_zbXCt7Kv0/0.jpg"></a></td>
   <td rowspan="2"> <b>Index:</b><br>
-   <a href="https://github.com/realkemon/home/blob/master/pages/tutorials.md">Back</a><br>
-   <a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md">Part 1: Foundation</a>
+   <a href="https://github.com/realkemon/home">Home</a><br>
+   <a href="https://github.com/realkemon/home/blob/master/pages/tutorials.md">Tutorials</a>
    <ul>
-    <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_1.md">Visibility Blocking</a></li>
-    <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_2.md">Layout Sketch</a></li>
-    <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_3.md">Structural Mesh</a></li>
+    <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md">Part 1: Foundation</a></li>
+    <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part2.md">Part 2: Initial Detail Pass</a></li>
+    <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part3.md">Part 3: Entities</a></li>
    </ul>
  </td>
  </tr>
@@ -30,28 +30,36 @@ Tutorials **[WORK IN PROGRESS]**
  <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1_3.md">Structural Mesh</a></li>
 </ul>
 
-## Part 2: Initial Detail Pass
+Part 2: Initial Detail Pass
+------
+
 <ul>
  <li>Performance Measures</li>
  <li>Manual Terrain</li>
  <li>Initial Details</li>
 </ul>
- 
+
+Part 3: Entities
+------
 
 
-_________________________________________
-_________________________________________
-<table>
- <tr>
-   <td><b>Index:</b><br>
-    <ul>
-     <li><a href="https://github.com/realkemon/home/blob/master/pages/tutorials.md#overview">Overview</a></li>
-     <li><a href="https://github.com/realkemon/home/blob/master/pages/tutorials.md#mechanics">Mechanics</a></li>
-     <li><a href="https://github.com/realkemon/home/blob/master/pages/tutorials.md#parts">Parts</a></li>
-    </ul>
- </td>
- </tr>
-</table>
+
+* [Part 4: Skybox, Ambient vs Minlight, Fog, Atmospheric Effects, Dynamic Atmospheric Effects](https://github.com/realkemon/home/blob/master/pages/tut_part4.md)
+* [Part 5: Lighting, Light vs LightJunior, SurfaceLight, Coronas, Dynamic Lighting](https://github.com/realkemon/home/blob/master/pages/tut_part5.md)
+* [Part 6: Water, Foam Blending, DeformVertex, Waterfall](https://github.com/realkemon/home/blob/master/pages/tut_part6.md)
+* [Part 7: **Func_Rotating**, **Func_Penulum**, Landmine Problem](https://github.com/realkemon/home/blob/master/pages/tut_part7.md)
+* [Part 9: **Func_Door_Rotating**, **Target Lock**, Team Door, Area Portals, Explosive-Door Combination](https://github.com/realkemon/home/blob/master/pages/tut_part9.md)
+* [Part 11: Command Post, Neutral Constructibles, CP spawn, Cabinets](https://github.com/realkemon/home/blob/master/pages/tut_part11.md)
+* [Part 12: **Script_Mover**, Button Activation, Forwards-Backwards Movement, Conditional Sounds](https://github.com/realkemon/home/blob/master/pages/tut_part12.md)
+* [Part 13: Door Generator, Linked Lever-Activated Door, Conditional Moving Parts, RemapShaders](https://github.com/realkemon/home/blob/master/pages/tut_part13.md)
+* [Part 14: Capturable Flag Spawn](https://github.com/realkemon/home/blob/master/pages/tut_part14.md)
+* [Part 15: Escortable **Script_Mover**, Truck and Tank](https://github.com/realkemon/home/blob/master/pages/tut_part15.md)
+* [Part 16: Anti-Tank Gun, Automatic Rotation on Target, Missile Effects](https://github.com/realkemon/home/blob/master/pages/tut_part16.md)
+* [Part 17: Document Run Objective](https://github.com/realkemon/home/blob/master/pages/tut_part17.md)
+* [Part 18: Win Conditions, Limbo Cameras, Intermission Camera, .objdata, .arena](https://github.com/realkemon/home/blob/master/pages/tut_part18.md)
+* [Part 19: Ambient Sounds, Voice Commander, Fireteam Locations](https://github.com/realkemon/home/blob/master/pages/tut_part19.md)
+* [Part 20: Final Detail Pass, .ase Models, Compile Parameters](https://github.com/realkemon/home/blob/master/pages/tut_part20.md)
+
 
 
 Overview
@@ -135,45 +143,3 @@ Overview
   </td>
  </tr>
 </table>
-
-
-Mechanics
-==========
-
-* Constructible door generator with moving parts. _(pistons, wheels, belts, gauges and remapshadered lights)_
-* Script_mover door linked to generator. _(door controls with lever and gauge; abort and change open/close movement)_
-* Escortable truck.
-* Dynamitable truck barrier.
-* Constructible command post with linked forward spawn and cabinets.
-* Constructible 2-tier bridge.
-* Artillery gun shooting at truck _(explosive damage only func_explosive)_
-* Team door. _(possibly with areaportals if I can get them to work)_
-* Mine cart. _(simple button activated script_mover)_
-* Satchelable drawbridge generator with moving parts and debris. _(same layout as above plus flame and smoke when broken)_
-* Capturable forward flag spawn.
-* Document run objective.
-
-
-Streams
-==========
-
-* [Part 1: References, Layout, Structural vs Detail, Hint Brushes, Gameplay Blockout](https://github.com/realkemon/home/blob/master/pages/tut_part1.md)
-* [Part 2: T-Junctions, Initial Detail Pass](https://github.com/realkemon/home/blob/master/pages/tut_part2.md)
-* [Part 3: Manual Brushwork Terrain, Blending Shaders](https://github.com/realkemon/home/blob/master/pages/tut_part3.md)
-* [Part 4: Skybox, Ambient vs Minlight, Fog, Atmospheric Effects, Dynamic Atmospheric Effects](https://github.com/realkemon/home/blob/master/pages/tut_part4.md)
-* [Part 5: Lighting, Light vs LightJunior, SurfaceLight, Coronas, Dynamic Lighting](https://github.com/realkemon/home/blob/master/pages/tut_part5.md)
-* [Part 6: Water, Foam Blending, DeformVertex, Waterfall](https://github.com/realkemon/home/blob/master/pages/tut_part6.md)
-* [Part 7: **Func_Rotating**, **Func_Penulum**, Landmine Problem](https://github.com/realkemon/home/blob/master/pages/tut_part7.md)
-* [Part 8: **Func_Explosive** vs **Func_Constructible**, Command Map Icons](https://github.com/realkemon/home/blob/master/pages/tut_part8.md)
-* [Part 9: **Func_Door_Rotating**, **Target Lock**, Team Door, Area Portals, Explosive-Door Combination](https://github.com/realkemon/home/blob/master/pages/tut_part9.md)
-* [Part 10: **Func_Constructible**, Multi-Tiered Constructibles](https://github.com/realkemon/home/blob/master/pages/tut_part10.md)
-* [Part 11: Command Post, Neutral Constructibles, CP spawn, Cabinets](https://github.com/realkemon/home/blob/master/pages/tut_part11.md)
-* [Part 12: **Script_Mover**, Button Activation, Forwards-Backwards Movement, Conditional Sounds](https://github.com/realkemon/home/blob/master/pages/tut_part12.md)
-* [Part 13: Door Generator, Linked Lever-Activated Door, Conditional Moving Parts, RemapShaders](https://github.com/realkemon/home/blob/master/pages/tut_part13.md)
-* [Part 14: Capturable Flag Spawn](https://github.com/realkemon/home/blob/master/pages/tut_part14.md)
-* [Part 15: Escortable **Script_Mover**, Truck and Tank](https://github.com/realkemon/home/blob/master/pages/tut_part15.md)
-* [Part 16: Anti-Tank Gun, Automatic Rotation on Target, Missile Effects](https://github.com/realkemon/home/blob/master/pages/tut_part16.md)
-* [Part 17: Document Run Objective](https://github.com/realkemon/home/blob/master/pages/tut_part17.md)
-* [Part 18: Win Conditions, Limbo Cameras, Intermission Camera, .objdata, .arena](https://github.com/realkemon/home/blob/master/pages/tut_part18.md)
-* [Part 19: Ambient Sounds, Voice Commander, Fireteam Locations](https://github.com/realkemon/home/blob/master/pages/tut_part19.md)
-* [Part 20: Final Detail Pass, .ase Models, Compile Parameters](https://github.com/realkemon/home/blob/master/pages/tut_part20.md)

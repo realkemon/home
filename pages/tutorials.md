@@ -6,6 +6,7 @@ Tutorials **[WORK IN PROGRESS]**
   <td><a href="https://www.youtube.com/watch?v=J_zbXCt7Kv0"><img src="http://img.youtube.com/vi/J_zbXCt7Kv0/0.jpg"></a></td>
   <td rowspan="2"> <b>Index:</b><br>
    <a href="https://github.com/realkemon/home">Home</a><br>
+   <a href="https://github.com/realkemon/home/blob/master/pages/tutorials.md">Tutorials</a><br>
    <ul>
     <li><a href="https://github.com/realkemon/home/blob/master/pages/tutorials.md#overview">Overview</a></li>
     <ul>
@@ -73,33 +74,38 @@ Part 3: Entities
 
 # Story
 
+## Engineer
+
 <table>
  <tr>
-  <td><b>Engineer</b></td>
   <td>
    <ul>
     <li>Spawn in a sealed of medieval gatehouse.</li>
-    <li>Open the gate. _(non-functional due to generator being destroyed)_</li>
+    <li>Open the gate. <i>(non-functional due to generator being destroyed)</i></li>
     <li>Construct the generator.</li>
-    <li>Open the gate. _(now functional)_</li>
+    <li>Open the gate. <i>(now functional)</i></li>
     <li>Repair broken truck outside.</li>
     <li>Escort truck to the truck barrier.</li>
     <li>Dynamite the truck barrier.</li>
     <li>Continue escorting.</li>
-    <li>Artillery gun across canyon shoots truck. _(truck destroyed, player takes damage)_</li>
-    <li>Construct Command Post. _(linked health and ammo cabinets and forward spawn)_</li>
+    <li>Artillery gun across canyon shoots truck. <i>(truck destroyed, player takes damage)</i></li>
+    <li>Construct Command Post. <i>(linked health and ammo cabinets and forward spawn)</i></li>
     <li>Replenish health and ammo at cabinets.</li>
     <li><b>Switch to Field-Ops.</b></li>
    </ul>
   </td>
  </tr>
+ </table>
+ 
+ ## Field Ops
+
+<table>
  <tr>
-  <td><b>Field-Ops</b></td>
   <td>
    <ul>
     <li>Truck can't proceed while AT gun is operational.</li>
-    <li>Call in artillery on the AT gun. _(AT gun gets destroyed)_</li>
-    <li>Call for an engineer. _(Omnibot engineer repairs bridge across canyon)_</li>
+    <li>Call in artillery on the AT gun. <i>(AT gun gets destroyed)</i></li>
+    <li>Call for an engineer. <i>(Omnibot engineer repairs bridge across canyon)</i></li>
     <li>Engineer omnibot asks for ammo.</li>
     <li>Provide ammo to bot.</li>
     <li>Escort truck across bridge.</li>
@@ -107,8 +113,12 @@ Part 3: Entities
    </ul>
   </td>
  </tr>
+ </table>
+ 
+ ## Covert Ops
+
+<table>
  <tr>
-  <td><b>Covert-Ops</b></td>
   <td>
    <ul>
     <li>Provide sniper cover for advancing truck.</li>
@@ -118,7 +128,7 @@ Part 3: Entities
     <li>Engineer omnibot starts defusing landmines.</li>
     <li>Truck proceeds along the road and stops in front of raised drawbridge.</li>
     <li>Pick up uniform from dead enemy.</li>
-    <li>Go through side entrance _(teamdoor)_</li>
+    <li>Go through side entrance <i>(teamdoor)</i></li>
     <li>Use mine cart to proceed along the mine to the castle.</li>
     <li>Satchel the generator in the room to drop drawbridge.</li>
     <li>Capture the flag.</li>
@@ -126,21 +136,29 @@ Part 3: Entities
    </ul>
   </td>
  </tr>
+ </table>
+ 
+ ## Medic
+ 
+<table>
  <tr>
-  <td><b>Medic</b></td>
   <td>
    <ul>
     <li>Leave castle to the truck.</li>
     <li>Revive Engineer omnibot who died to landmines.</li>
     <li>Top them of with health packs.</li>
-    <li>Escort truck into the castle gatehouse. _(reverses the last meter into parking)_</li>
+    <li>Escort truck into the castle gatehouse. <i>(reverses the last meter into parking)</i></li>
     <li>Take the objective from table in hall and load it onto the truck.</li>
     <li><b>Switch to soldier with Panzerfaust.</b></li>
    </ul>
   </td>
  </tr>
+ </table>
+ 
+ ## Soldier
+ 
+<table>
  <tr>
-  <td><b>Soldier</b></td>
   <td>
    <ul>
     <li>Panzerfaust approaching Axis tank.</li>
@@ -150,4 +168,4 @@ Part 3: Entities
    </ul>
   </td>
  </tr>
-</table>
+ </table>

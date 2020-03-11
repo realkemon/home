@@ -6,12 +6,13 @@ Tutorials **[WORK IN PROGRESS]**
   <td><a href="https://www.youtube.com/watch?v=J_zbXCt7Kv0"><img src="http://img.youtube.com/vi/J_zbXCt7Kv0/0.jpg"></a></td>
   <td rowspan="2"> <b>Index:</b><br>
    <a href="https://github.com/realkemon/home">Home</a><br>
-   <a href="https://github.com/realkemon/home/blob/master/pages/tutorials.md">Tutorials</a>
+   <a href="https://github.com/realkemon/home/blob/master/pages/tutorials.md#overview">Overview</a>
    <ul>
     <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part1.md">Part 1: Foundation</a></li>
     <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part2.md">Part 2: Initial Detail Pass</a></li>
     <li><a href="https://github.com/realkemon/home/blob/master/pages/tut_part3.md">Part 3: Entities</a></li>
    </ul>
+   <a href="https://github.com/realkemon/home/blob/master/pages/tutorials.md#story">Story</a>
  </td>
  </tr>
  <tr>
@@ -62,8 +63,7 @@ Part 3: Entities
 
 
 
-Overview
-==========
+# Story
 
 <table>
  <tr>

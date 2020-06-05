@@ -4,19 +4,12 @@
 <table>
  <tr>
   <td><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_ice.png" width="256"/></td>
-  <td><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_ice_cc.jpg" width="256"/></td>
+  <td><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_ice_cc.png" width="256"/></td>
   <td rowspan="6"><b>Index:</b><br>
 <a href="https://github.com/realkemon/home/blob/master/README.md">Home</a><br>
 <ul>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#story">Story</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#media">Media</a></li>
- <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#design-thoughts">Design Thoughts</a></li>
- <ul>
-  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#lighting">Lighting</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#interior">Interior</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#transition">Transition</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#duct">Duct</a></li>
- </ul>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#changelog">Changelog</a></li>
  <ul>
   <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#version-3">version 3</a></li>

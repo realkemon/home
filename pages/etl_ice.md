@@ -12,6 +12,7 @@
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#media">Media</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#changelog">Changelog</a></li>
  <ul>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#version-4-pending">version 4</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#version-3">version 3</a></li>
  </ul>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#development">Development</a></li>
@@ -70,6 +71,10 @@ Changelog
 ============
 
 **NOTE:** Previous overhaul versions were too far away from the original. Version 3 is a fresh start from the original 'Ice, by id software', which is why previous versions aren't listed below.
+
+### version 4 (pending)
+
+* Increase max player count from 16 vs 16 to 20 vs 20 to be in line with 'Frostbite, by Moonkey'.
 
 ### version 3
 

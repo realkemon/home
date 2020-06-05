@@ -12,7 +12,7 @@
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#media">Media</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#changelog">Changelog</a></li>
  <ul>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_ice.md#version-3">version 3</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#version-3">version 3</a></li>
  </ul>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#development">Development</a></li>
  <ul>

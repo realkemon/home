@@ -19,7 +19,6 @@
  </ul>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#development">Development</a></li>
  <ul>
-  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#specs">Specs</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#source">Source</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#compile-parameters">Compile Parameters</a></li>
  </ul></td>

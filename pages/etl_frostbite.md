@@ -12,7 +12,7 @@
  <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#media">Media</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#changelog">Changelog</a></li>
  <ul>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#version-10">version 10</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-10-pending">version 10</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#version-9">version 9</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#version-8">version 8</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#version-7">version 7</a></li>
@@ -63,16 +63,14 @@ Media
 <a href="https://cdna.artstation.com/p/assets/images/images/025/915/934/large/cedric-easton-fb4.jpg?1587327684"><img src="https://cdna.artstation.com/p/assets/images/images/025/915/934/large/cedric-easton-fb4.jpg?1587327684" width="256"/></a>
 <a href="https://cdna.artstation.com/p/assets/images/images/025/915/936/large/cedric-easton-fb5.jpg?1587327687"><img src="https://cdna.artstation.com/p/assets/images/images/025/915/936/large/cedric-easton-fb5.jpg?1587327687" width="256"/></a>
 <a href="https://cdna.artstation.com/p/assets/images/images/025/915/926/large/cedric-easton-fb6.jpg?1587327672"><img src="https://cdna.artstation.com/p/assets/images/images/025/915/926/large/cedric-easton-fb6.jpg?1587327672" width="256"/></a>
-<a href="https://cdna.artstation.com/p/assets/images/images/025/915/926/large/cedric-easton-fb6.jpg?1587327672"><img src="https://cdna.artstation.com/p/assets/images/images/025/915/926/large/cedric-easton-fb6.jpg?1587327672" width="256"/></a>
 <a href="https://cdnb.artstation.com/p/assets/images/images/025/915/929/large/cedric-easton-fb7.jpg?1587327677"><img src="https://cdnb.artstation.com/p/assets/images/images/025/915/929/large/cedric-easton-fb7.jpg?1587327677" width="256"/></a>
-<a href="https://cdnb.artstation.com/p/assets/images/images/025/915/933/large/cedric-easton-fb8.jpg?1587327681"><img src="https://cdnb.artstation.com/p/assets/images/images/025/915/933/large/cedric-easton-fb8.jpg?1587327681" width="256"/></a>
 <a href="https://cdnb.artstation.com/p/assets/images/images/025/915/933/large/cedric-easton-fb8.jpg?1587327681"><img src="https://cdnb.artstation.com/p/assets/images/images/025/915/933/large/cedric-easton-fb8.jpg?1587327681" width="256"/></a>
 <a href="https://cdnb.artstation.com/p/assets/images/images/025/915/935/large/cedric-easton-fb9.jpg?1587327684"><img src="https://cdnb.artstation.com/p/assets/images/images/025/915/935/large/cedric-easton-fb9.jpg?1587327684" width="256"/></a>
 <a href="https://cdnb.artstation.com/p/assets/images/images/025/915/937/large/cedric-easton-fb10.jpg?1587327687"><img src="https://cdnb.artstation.com/p/assets/images/images/025/915/937/large/cedric-easton-fb10.jpg?1587327687" width="256"/></a>
 
 Changelog
 ============
-NOTE: Previous overhaul versions were too far away from the original. Version 7 is a fresh overhaul from the original 'Frostbite, by Moonkey', which is why previous versions aren't listed here.
+**NOTE:** Previous overhaul versions were too far away from the original. Version 7 is a fresh start from the original 'Frostbite, by Moonkey', which is why previous versions aren't listed below.
 
 ### version 10 (pending)
 

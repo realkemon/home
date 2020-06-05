@@ -6,22 +6,22 @@
   <td><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_frostbite.png" width="256"/></td>
   <td><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_frostbite_cc.png" width="256"/></td>
   <td rowspan="6"><b>Index:</b><br>
-<a href="https://github.com/realkemon/home/blob/master/README.md#-cedric-aka-kemon">Home</a><br>
+<a href="https://github.com/realkemon/home/blob/master/README.md">Home</a><br>
 <ul>
- <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#story">Story</a></li>
- <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#media">Media</a></li>
- <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#changelog">Changelog</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#story">Story</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#media">Media</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#changelog">Changelog</a></li>
  <ul>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-10-pending">version 10</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#version-9">version 9</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#version-8">version 8</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#version-7">version 7</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-9">version 9</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-8">version 8</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-7">version 7</a></li>
  </ul>
- <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#development">Development</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#development">Development</a></li>
  <ul>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#specs">Specs</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#source">Source</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_frostbite.md#compile-parameters">Compile Parameters</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#specs">Specs</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#source">Source</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#compile-parameters">Compile Parameters</a></li>
  </ul></td>
  </tr>
  <tr>
@@ -138,4 +138,4 @@ Since we are talking about an open-sourced game, in my opinion as much as possib
 [q3map2] -light -fast -samples 4 -samplesize 2 -bounce 3 -bouncegrid -v -thresh 0.05 -shade -dirty -dirtdepth 256 -lightmapsize 1024 -patchshadows -external "[MapFile]"
 ```
 
-[:arrow_backward: Return to Home](https://github.com/realkemon/home/blob/master/README.md#-cedric-aka-kemon) [:arrow_double_up: Back to the Top](https://github.com/realkemon/home/blob/master/etl_frostbite.md#)
+[:arrow_backward: Return to Home](https://github.com/realkemon/home/blob/master/README.md) [:arrow_double_up: Back to the Top](https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md)

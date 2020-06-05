@@ -38,7 +38,7 @@
  </tr>
  <tr>
   <td>Players</td>
-  <td>20vs20</td>
+  <td>20 vs 20</td>
  </tr>
  <tr>
   <td>Download</td>

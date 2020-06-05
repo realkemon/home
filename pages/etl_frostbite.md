@@ -85,25 +85,25 @@ Changelog
 ### version 9
 
 * Removed rogue clip at office entrance.
-* Changed catwalk in warehouse from clipweapon to clip. It is now permeable for weapons.
-* Simplified collision of machines at Service Door.
-* Improved player collision for various shelves, pipes and doorways.
+* Changed catwalk in warehouse from clipweapon to clip. It is now permeable for weapons. Thank you to ryven for reporting.
+* Simplified collision of machines at Service Door. Thank you to ryven for reporting.
+* Improved player collision for various shelves, pipes and doorways. Thank you to Aciz and Bystry for reporting.
 * Fixed one alarm speaker not being named correctly.
 * Added a trickjump coming from warehouse, jumping onto box, onto truck into green passage. Disabled by default. Can be activated through mapscript. (deactivate line: setstate courtyard_TJ_box invisible)
 * Removed collision of blackboards.
 * Increased amount of shared assets with other ET: Legacy overhauls to decrease filesize once they are shipped together.
-* Changed interior lighting to be a bit warmer in colour.
+* Changed interior lighting to be a bit warmer in colour. Thank you to spyhawk for reporting.
 
 
 ### version 8
 
-* Fixed crash on timelimit hit, due to unassigned Axis intermission camera.
+* Fixed crash on timelimit hit, due to unassigned Axis intermission camera. Thank you to Bystry and Kate for reporting.
 * Improved clips for various stairs to prevent bobbing effect.
 * Removed collision from cables/ropes at wooden stack outside the Main Entrance.
-* Clipped window at Main Entrance.
-* Deepened the niche at Axis spawn with broken cabinet to have same size as original ‘Frostbite, by Moonkey’.
+* Clipped window at Main Entrance. Thank you to ryven for reporting.
+* Deepened the niche at Axis spawn with broken cabinet to have same size as original ‘Frostbite, by Moonkey’. Thank you to ryven for reporting.
 * Added working cabinets to niche mentioned above that server admins can enable with map script. *(Was also in original Frostbite for LMS; disabled by default.)*
-* Added detail to empty walled-off areas.
+* Added detail to empty walled-off areas. Thank you to ryven for reporting.
 * Added sky portal.
 * Changed dynamic Storage Wall lights to re-use existing shaders.
 

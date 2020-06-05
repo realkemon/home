@@ -79,6 +79,7 @@ Changelog
 * Removed angled brushes from doorways, because player collision and physics in ET are a farce.
 * Reverted clip brushes for truck in inner courtyard back to original to re-enable a trickjump.
 * Adjusted terrain brushes near Storage Wall to re-enable a trickjump.
+* Remove spotlight style from most light sources inside the facility.
 
 ### version 9
 

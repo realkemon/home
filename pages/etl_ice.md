@@ -86,6 +86,7 @@ Changelog
 * Added base alarm when the main entrance gets destroyed.
 * Added colour-coded guiding system intended to ease new players into the map.
 * Added ambient sounds.
+* Simplified shoutcaster movement by opening the mountain range dividing the two valleys for spectators.
 * Doors have been widened to allow for faster movement.
 * Opened one side of the mountain to the frozen sea for narrative purposes.
 * Adjusted global lighting.

@@ -117,7 +117,7 @@ Changelog
 * Lighting has been adapted to better suit a night-time setting.
 * Collision has been improved for railings made out of patches.
 * Different routes inside the facility have received different colour coded trims at the bunker walls to simplify call-outs to teammates.
-* Banners have been removed.
+* Banners have been removed and replaced with the Rocket Base decal from RTCW for narrative purposes.
 
 
 Development

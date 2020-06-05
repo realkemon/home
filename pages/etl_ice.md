@@ -74,7 +74,7 @@ Changelog
 
 ### version 4 (pending)
 
-* Increase max player count from 16 vs 16 to 20 vs 20 to be in line with 'Frostbite, by Moonkey'.
+* Increase max player count from 16vs16 to 20vs20 to be in line with 'Frostbite, by Moonkey'.
 
 ### version 3
 

@@ -75,6 +75,7 @@ Changelog
 ### version 4 (pending)
 
 * Increase max player count from 16vs16 to 20vs20 to be in line with 'Frostbite, by Moonkey'.
+* Adjusted height of swinglights to be flush with ceiling.
 
 ### version 3
 

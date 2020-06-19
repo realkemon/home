@@ -49,7 +49,7 @@
 Story
 ============
 
-After successfully retrieving the curcial documents from the quickly abandoned coastal fortress, the Axis retreated to a nearby storage facility in the hinterlands of occupied Norway. In search for a secret Rocket Base reported in the area, the Allies continue their advances to said storage facility to get hold of the documents that so narrowly escaped their grasp in the coastal fortress.
+After successfully retrieving the crucial documents from the quickly abandoned coastal fortress, the Axis retreated to a nearby storage facility in the hinterlands of occupied Norway. In search for a secret Rocket Base reported in the area, the Allies continue their advances to said storage facility to get hold of the documents that so narrowly escaped their grasp in the coastal fortress.
 The Allied forces must retrieve those documents and radio them to headquarters to decipher the location of the secret Rocket Base. 
 The Axis attempt to hold the storage facility and prevent the documents falling into the wrong hands until further reinforcements can make their way to the location.
 

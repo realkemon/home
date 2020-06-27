@@ -76,7 +76,7 @@ Changelog
 
 * Increase max player count from 16vs16 to 20vs20 to be in line with 'Frostbite, by Moonkey'.
 * Adjusted height of swinglights to be flush with ceiling.
-* Fix spawnpoint order to be same as original. Thanks to spinnynakeyhelicopter for reporting.
+* Fix spawnpoint order to be same as original. *(Thanks to spinnynakeyhelicopter for reporting.)*
 
 ### version 3
 

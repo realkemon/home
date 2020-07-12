@@ -1,5 +1,4 @@
-Level Design
-==========
+# Level Design
 
 There are two sides to my work as a Level Designer. The first one being **own projects** that I created from scratch start to finish. So far these are [Dingenskirchen](https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md), [Stiglitz](https://github.com/realkemon/home/blob/master/pages/stiglitz.md) and [Pointe du Hoc](https://github.com/realkemon/home/blob/master/pages/pointe_du_hoc.md). The second aspect of my efforts are **map overhauls** for [ET: Legacy](https://github.com/realkemon/home/blob/master/pages/etlegacy.md), which include [Frostbite, by Moonkey](https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md), [Bergen, by Detoeni](https://github.com/realkemon/home/blob/master/pages/etl_bergen.md) and [Ice, by id software](https://github.com/realkemon/home/blob/master/pages/etl_ice.md). 
 
@@ -16,8 +15,7 @@ There are two sides to my work as a Level Designer. The first one being **own pr
 </table>
 
 
-Background
-==========
+## Background
 
 <table>
  <tr>
@@ -51,21 +49,31 @@ Background
 </table>
 
 
-Own Levels
-==========
+## Own Levels
 
 [![Dingenskirchen](https://github.com/realkemon/home/blob/master/levelshots/dingenskirchen.png)](https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md) | [![Stiglitz](https://github.com/realkemon/home/blob/master/levelshots/stiglitz.png)](https://github.com/realkemon/home/blob/master/pages/stiglitz.md) | [![Pointe du Hoc](https://github.com/realkemon/home/blob/master/levelshots/hoc.png)](https://github.com/realkemon/home/blob/master/pages/pointe_du_hoc.md)
 :---:|:---:|:---:
 [**Dingenskirchen**](https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md) | [**Stiglitz**](https://github.com/realkemon/home/blob/master/pages/stiglitz.md) | [**Pointe du Hoc**](https://github.com/realkemon/home/blob/master/pages/pointe_du_hoc.md)
 
 
-Map Overhauls
-==========
+## Map Overhauls
 
-Campaign: Rocket
-----------
+### Campaign: Rocket Base
+
+#### Story
+The resistance in occupied Norway managed to leak information about a secret Rocket Base to the OSA headquarters. According to the intel, the Axis are developing a new rocket of devastating power. OSA headquarters organised a stealth attack to locate and gain access to said Rocket Base and steal the prototype.
+In the first mission, the Allies launch a stealth attack on an Axis coastal outpost. The Axis forces must retrieve crucial documents depicting the location of the secret Rocket Base which were left behind in an initial, hasty retreat to a nearby Storage Facility. 
+In the second mission, the Axis fortify their position in the Storage Facility after successfully retrieving the documents. The Allies must infiltrate the facility, steal the documents and radio the location of the secret Rocket Base to the OSA headquarters.
+In the third mission, the Axis must hold the secret Rocket Base and prevent a loss of the weapon prototype at all cost. The Allies attempt to find the prototype, neutralise and steal it so it can be sent to OSA headquarters for examination.
+
+#### Overview
 
 <table>
+ <tr>
+  <td><b>Mission 1</b></td>
+  <td><b>Mission 2</b></td>
+  <td><b>Mission 3</b></td>
+ </tr>
  <tr>
   <td><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#"><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_ice.png"></a></td>
   <td><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#"><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_frostbite.png"></a></td>
@@ -78,10 +86,19 @@ Campaign: Rocket
  </tr>
 </table>
 
-Campaign: Submarine
-----------
+### Campaign: Submarine Depot
 
+#### Story
+
+
+
+#### Overview
 <table>
+ <tr>
+  <td><b>Mission 1</b></td>
+  <td><b>Mission 2</b></td>
+  <td><b>Mission 3</b></td>
+ </tr>
  <tr>
   <td><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#"><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_bergen.png"></a></td>
   <td><a href="https://et.trackbase.net/map/8/"><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_supply.png"></a></td>
@@ -95,8 +112,7 @@ Campaign: Submarine
 </table>
 
 
-Guidelines
-----------
+### Guidelines
 
 These overhauls are primarily intended as visual enhancements. Gameplay changes should only be implemented based on community reports of bugs or possible improvements for competitive play/map balance. For the visual overhauls a few guidelines should be kept in mind. The overall theme of the map _(e.g. winter setting)_ and its atmosphere _(e.g. falling snow)_ should not be altered. Generally, all changes should be as subtle as possible and emphasise on strengthening the original style rather than forcing a different style onto the map.
 

@@ -8,6 +8,11 @@ There are two sides to my work as a Level Designer. The first one being **own pr
     <ul>
      <li><a href="https://github.com/realkemon/home/blob/master/pages/level_design.md#own-levels">Own Levels</a></li>
      <li><a href="https://github.com/realkemon/home/blob/master/pages/level_design.md#map-overhauls">Map Overhauls</a></li>
+     <ul>
+      <li><a href="https://github.com/realkemon/home/blob/master/pages/level_design.md#guidelines">Guidelines</a></li>
+      <li><a href="https://github.com/realkemon/home/blob/master/pages/level_design.md#campaign-rocket-base">Campaign: Rocket Base</a></li>
+      <li><a href="https://github.com/realkemon/home/blob/master/pages/level_design.md#campaign-submarine-depot">Campaign: Submarine Depot</a></li>
+    </ul>
     </ul>
  </td>
  </tr>

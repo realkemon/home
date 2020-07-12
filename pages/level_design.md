@@ -22,6 +22,18 @@ There are two sides to my work as a Level Designer. The first one being **own pr
 
 ## Map Overhauls
 
+### Guidelines
+
+These overhauls are primarily intended as visual enhancements. Gameplay changes should only be implemented based on community reports of bugs or possible improvements for competitive play/map balance. For the visual overhauls a few guidelines should be kept in mind. The overall theme of the map _(e.g. winter setting)_ and its atmosphere _(e.g. falling snow)_ should not be altered. Generally, all changes should be as subtle as possible and emphasise on strengthening the original style rather than forcing a different style onto the map.
+
+Basically, what should be aimed for is what CS:GO did to original CS maps. [(Reference)](https://sjackm.wordpress.com/2012/08/15/csgo-first-impressions/)
+
+cs_office | de_aztec | de_nuke | cs_italy
+:---|:---|:---|:---
+![cs_office](https://sjackm.files.wordpress.com/2012/08/cs_office_cs-css-csgo.jpg) | ![de-aztec](https://sjackm.files.wordpress.com/2012/08/de_aztec_cs-css-csgo.jpg) | ![de_nuke](https://sjackm.files.wordpress.com/2012/08/de_nuke_cs-css-csgo.jpg) | ![cs_italy](https://sjackm.files.wordpress.com/2012/08/cs_italy_cs-css-csgo.jpg)
+
+
+
 ### Campaign: Rocket Base
 
 #### Story
@@ -78,16 +90,6 @@ In the third mission, the Axis attempt to hold their naval base to ensure submar
  </tr>
 </table>
 
-
-### Guidelines
-
-These overhauls are primarily intended as visual enhancements. Gameplay changes should only be implemented based on community reports of bugs or possible improvements for competitive play/map balance. For the visual overhauls a few guidelines should be kept in mind. The overall theme of the map _(e.g. winter setting)_ and its atmosphere _(e.g. falling snow)_ should not be altered. Generally, all changes should be as subtle as possible and emphasise on strengthening the original style rather than forcing a different style onto the map.
-
-Basically, what should be aimed for is what CS:GO did to original CS maps. [(Reference)](https://sjackm.wordpress.com/2012/08/15/csgo-first-impressions/)
-
-cs_office | de_aztec | de_nuke | cs_italy
-:---|:---|:---|:---
-![cs_office](https://sjackm.files.wordpress.com/2012/08/cs_office_cs-css-csgo.jpg) | ![de-aztec](https://sjackm.files.wordpress.com/2012/08/de_aztec_cs-css-csgo.jpg) | ![de_nuke](https://sjackm.files.wordpress.com/2012/08/de_nuke_cs-css-csgo.jpg) | ![cs_italy](https://sjackm.files.wordpress.com/2012/08/cs_italy_cs-css-csgo.jpg)
 
 
 

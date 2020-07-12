@@ -25,10 +25,10 @@ There are two sides to my work as a Level Designer. The first one being **own pr
 ### Campaign: Rocket Base
 
 #### Story
-The resistance in occupied Norway managed to leak information about a secret Rocket Base to the OSA headquarters. According to the intel, the Axis are developing a new rocket of devastating power. OSA headquarters organised a stealth attack to locate and gain access to said Rocket Base and steal the prototype.
-In the first mission, the Allies launch a stealth attack on an Axis coastal outpost. The Axis forces must retrieve crucial documents depicting the location of the secret Rocket Base which were left behind in an initial, hasty retreat to a nearby Storage Facility. 
-In the second mission, the Axis fortify their position in the Storage Facility after successfully retrieving the documents. The Allies must infiltrate the facility, steal the documents and radio the location of the secret Rocket Base to the OSA headquarters.
-In the third mission, the Axis must hold the secret Rocket Base and prevent a loss of the weapon prototype at all cost. The Allies attempt to find the prototype, neutralise and steal it so it can be sent to OSA headquarters for examination.
+Local resistance managed to leak information about a secret rocket base to the OSA headquarters. According to the intel, the Axis are developing a new rocket of devastating power. OSA headquarters organised a stealth attack to locate and gain access to said rocket base and steal the prototype.
+In the first mission, the Allies launch a stealth attack on an Axis coastal outpost. The Axis forces must retrieve crucial documents depicting the location of the secret Rocket Base which were left behind in an initial, hasty retreat to a nearby storage facility. 
+In the second mission, the Axis fortify their position in the storage facility after successfully retrieving the documents. The Allies must infiltrate the facility, steal the documents and radio the location of the secret Rocket Base to the OSA headquarters.
+In the third mission, the Axis attempt to hold the secret rocket base and prevent a loss of the weapon prototype at all cost. The Allies must find the prototype, neutralise and steal it so it can be sent to OSA headquarters for examination.
 
 #### Overview
 
@@ -46,14 +46,17 @@ In the third mission, the Axis must hold the secret Rocket Base and prevent a lo
  <tr>
   <td><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#"><b>Ice, by id Software</b></a></td>
   <td><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#"><b>Frostbite, by Moonkey</b></a></td>
-  <td><a href="https://et.trackbase.net/map/158/"><b>C2 Missile, by eiM</b></a></td>
+  <td><a href="https://et.trackbase.net/map/158/"><b>Missile, by eiM</b></a></td>
  </tr>
 </table>
 
 ### Campaign: Submarine Depot
 
 #### Story
-
+Axis submarines from a naval base near Bergen, Norway are cause for much distress in the Northern Atlantic. After failed attempts of disabling the base from sea and air, the OSA headquarters decided to send paratroopers behind enemy lines. Their task: Disrupt the supply lines of the base and strike a then vulnerable base from land.
+In the first mission, the Axis are preparing a shipment destined for the naval base from a supply depot in the mountains. The Allied paratroopers must seize those supplies for the local resistance to strengthen their efforts against the Axis forces in the region.
+In the second mission, alarmed by the loss of the first supply shipment, the Axis attempt to organise retaliation. The Allies must infiltrate the Axis fortification and steal the documents depicting Axis troup movements to disrupt Axis retaliation attempts.
+In the third mission, the Axis attempt to hold their naval base to ensure submarine operations in the Northern Atlantic. The Allies launch their attack on the weakened base and must disable communications to submarines on patrol to enforce their retreat and allow Allied convoys to reach the shores safely.
 
 
 #### Overview
@@ -64,14 +67,14 @@ In the third mission, the Axis must hold the secret Rocket Base and prevent a lo
   <td><b>Mission 3</b></td>
  </tr>
  <tr>
-  <td><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#"><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_bergen.png"></a></td>
   <td><a href="https://et.trackbase.net/map/8/"><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_supply.png"></a></td>
-  <td><a href="https://et.trackbase.net/map/64/"><img src="https://github.com/realkemon/home/blob/master/levelshots/special_nest.png"></a></td>
+  <td><a href="https://et.trackbase.net/map/64/"><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_adlernest.png"></a></td>
+  <td><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#"><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_bergen.png"></a></td>
  </tr>
  <tr>
-  <td><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#"><b>Bergen, by Detoeni</b></a></td>
   <td><a href="https://et.trackbase.net/map/8/"><b>Supply Depot, by ginc</b></a></td>
-  <td><a href="https://et.trackbase.net/map/119/"><b>Special Delivery, by Apple & GW</b></a> or <a href="https://et.trackbase.net/map/64/"><b>Adlernest, by Dersaidin</b></a></td>
+  <td><a href="https://et.trackbase.net/map/119/"><b>Adlernest, by Dersaidin</b></a></td>
+  <td><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#"><b>Bergen, by Detoeni</b></a></td>
  </tr>
 </table>
 

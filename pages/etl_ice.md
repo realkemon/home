@@ -47,9 +47,7 @@
 Story
 ============
 
-In an attempt to locate a secret rocket base, the Allies launch a stealth attack on an Axis outpost. Facing the Allied advances, the Axis quickly retreated to a nearby storage facility and abandoned the coastal fortress leaving behind crucial documents depicting the location of the secret rocket base. 
-The Axis forces must retrieve these documents and radio them to the nearby storage facility for safe-keeping. 
-The Allies attempt to hold the fortress until further reinforcements can make their way to the location.
+In an attempt to locate a secret rocket base, the Allies launch a stealth attack on an Axis coastal fortress. Facing the Allied advances, the Axis quickly retreat to a nearby storage facility leaving behind crucial documents depicting the location of the secret rocket base. The Axis forces must retrieve these documents and radio them to the nearby storage facility for safe-keeping. The Allies attempt to hold the fortress until further reinforcements can make their way to the location.
 
 
 Media

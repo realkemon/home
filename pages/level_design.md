@@ -75,28 +75,6 @@ In the first mission, the Allies launch a stealth attack on an Axis coastal outp
 In the second mission, the Axis fortify their position in the storage facility after successfully retrieving the documents. The Allies must infiltrate the facility, steal the documents and radio the location of the secret Rocket Base to the OSA headquarters.
 In the third mission, the Axis attempt to hold the secret rocket base and prevent a loss of the weapon prototype at all cost. The Allies must find the prototype, neutralise and steal it so it can be sent to OSA headquarters for examination.
 
-# <table>
- <tr>
-  <td rowspan="2"><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#"><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_ice.png"></a></td>
-  <td><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#"><b>Mission 1: <i>'Ice, by id Software'</i></b></td>
- </tr>
- <tr>
-  <td><i>In an attempt to locate a secret rocket base, the Allies launch a stealth attack on an Axis coastal fortress. Facing the Allied advances, the Axis quickly retreat to a nearby storage facility leaving behind crucial documents depicting the location of the secret rocket base. The Axis forces must retrieve these documents and radio them to the nearby storage facility for safe-keeping. The Allies attempt to hold the fortress until further reinforcements can make their way to the location.</i><br><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#">Read more</a></td>
- </tr>
-</table>
-
-# <table>
- <tr>
-  <td rowspan="2"><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#"><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_frostbite.png"></a></td>
-  <td><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#"><b>Mission 2: <i>'Frostbite, by Moonkey'</i></b></td>
- </tr>
- <tr>
-  <td><i>After successfully retrieving the crucial documents from the coastal fortress, the Axis fortify position in a nearby storage facility. The Allied forces must retrieve those documents that so narrowly escaped their grasp before and radio them to headquarters to decipher the location of the secret rocket base. The Axis attempt to hold the storage facility and prevent the documents falling into the wrong hands.</i><br><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#">Read more</a></td>
- </tr>
-</table>
-
-
-
 #### Overview
 
 <table>

@@ -49,8 +49,7 @@
 Story
 ============
 
-After successfully retrieving the crucial documents from the quickly abandoned coastal fortress, the Axis retreated to a nearby storage facility. In search for a secret rocket base reported in the area, the Allies continue their advances to said storage facility to get hold of the documents that so narrowly escaped their grasp before. The Allied forces must retrieve those documents and radio them to headquarters to decipher the location of the secret rocket base. 
-The Axis attempt to hold the storage facility and prevent the documents falling into the wrong hands until further reinforcements can make their way to the location.
+After successfully retrieving the crucial documents from the coastal fortress, the Axis fortify position in a nearby storage facility. The Allied forces must retrieve those documents that so narrowly escaped their grasp before and radio them to headquarters to decipher the location of the secret rocket base. The Axis attempt to hold the storage facility and prevent the documents falling into the wrong hands.
 
 
 Media

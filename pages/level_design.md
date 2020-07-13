@@ -7,6 +7,11 @@ There are two sides to my work as a Level Designer. The first one being **own pr
    <td><b>Index:</b><br>
     <ul>
      <li><a href="https://github.com/realkemon/home/blob/master/pages/level_design.md#own-levels">Own Levels</a></li>
+     <ul>
+      <li><a href="https://github.com/realkemon/home/blob/master/pages/level_design.md#dingenskirchen">Dingenskirchen</a></li>
+      <li><a href="https://github.com/realkemon/home/blob/master/pages/level_design.md#stiglitz">Stiglitz</a></li>
+      <li><a href="https://github.com/realkemon/home/blob/master/pages/level_design.md#pointe-du-hoc">Pointe du Hoc</a></li>
+    </ul>
      <li><a href="https://github.com/realkemon/home/blob/master/pages/level_design.md#map-overhauls">Map Overhauls</a></li>
      <ul>
       <li><a href="https://github.com/realkemon/home/blob/master/pages/level_design.md#guidelines">Guidelines</a></li>
@@ -20,10 +25,35 @@ There are two sides to my work as a Level Designer. The first one being **own pr
 
 ## Own Levels
 
-[![Dingenskirchen](https://github.com/realkemon/home/blob/master/levelshots/dingenskirchen.png)](https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md) | [![Stiglitz](https://github.com/realkemon/home/blob/master/levelshots/stiglitz.png)](https://github.com/realkemon/home/blob/master/pages/stiglitz.md) | [![Pointe du Hoc](https://github.com/realkemon/home/blob/master/levelshots/hoc.png)](https://github.com/realkemon/home/blob/master/pages/pointe_du_hoc.md)
-:---:|:---:|:---:
-[**Dingenskirchen**](https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md) | [**Stiglitz**](https://github.com/realkemon/home/blob/master/pages/stiglitz.md) | [**Pointe du Hoc**](https://github.com/realkemon/home/blob/master/pages/pointe_du_hoc.md)
+### Dingenskirchen
+<table>
+ <tr>
+  <td><a href="https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md#"><img src="https://github.com/realkemon/home/blob/master/levelshots/dingenskirchen.png"></a></td>
+ </tr>
+ <tr>
+  <td><b>December 1944:</b> <i>The noose tightens around the Axis' neck as Allied forces threaten to push deeper into enemy territory. An Eifel castle has become one of the final stongholds in the region and is therefore crucial for the Axis high command. Intel from the local resistance reports multiple high ranking officers gathering in the castle for a strategy conference. OSA headquarters deemed it of utmost importance to infiltrate that castle and assassinate the entire Axis high command at once.</i> <a href="https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md#">Read more</a></td>
+ </tr>
+</table>
 
+### Stiglitz
+<table>
+ <tr>
+  <td><a href="https://github.com/realkemon/home/blob/master/pages/stiglitz.md#"><img src="https://github.com/realkemon/home/blob/master/levelshots/stiglitz.png"></a></td>
+ </tr>
+ <tr>
+  <td><b>July 1943:</b> <i>Local resistance reported a branch of Deathshead’s X-Labs in a small remote village. Hugo Stiglitz, an OSA agent, has been sent to infiltrate the facility and gather intel of Deathshead’s activities. Communication went dead some days ago and Stiglitz' true identity has likely been uncovered, which means almost certain death. The Allies are trying to make their way through the village, free Stiglitz and escort him back to safety for debriefing at the OSA headquarters.</i> <a href="https://github.com/realkemon/home/blob/master/pages/stiglitz.md#">Read more</a></td>
+ </tr>
+</table>
+
+### Pointe du Hoc
+<table>
+ <tr>
+  <td><a href="https://github.com/realkemon/home/blob/master/pages/pointe_du_hoc.md#"><img src="https://github.com/realkemon/home/blob/master/levelshots/hoc.png"></a></td>
+ </tr>
+ <tr>
+  <td><b>June 1944:</b> <i>To grant safe passage for the Allied ships during D-Day a small operation is launched to disable the artillery guns of Pointe du Hoc. The Allies will attempt to gain control of the bunkers on top of the cliff and disable all Axis defense. Expecting a raid at a different section of Normandy, the Axis moved the artillery guns to a railway station in the hinterlands for transport further West. The Allies need to locate and disable those guns. The Axis have to prevent the loss of this strategic part of Normandy and the artillery guns at all costs.</i> <a href="https://github.com/realkemon/home/blob/master/pages/pointe_du_hoc.md#">Read more</a></td>
+ </tr>
+</table>
 
 ## Map Overhauls
 
@@ -43,9 +73,31 @@ cs_office | de_aztec | de_nuke | cs_italy
 
 #### Story
 Local resistance managed to leak information about a secret rocket base to the OSA headquarters. According to the intel, the Axis are developing a new rocket of devastating power. OSA headquarters organised a stealth attack to locate and gain access to said rocket base and steal the prototype.
-In the first mission, the Allies launch a stealth attack on an Axis coastal outpost. The Axis forces must retrieve crucial documents depicting the location of the secret Rocket Base which were left behind in an initial, hasty retreat to a nearby storage facility. 
+In the first mission, the Allies launch a stealth attack on an Axis coastal outpost. The Axis forces must retrieve crucial documents depicting the location of the secret rocket base which were left behind in an initial, hasty retreat to a nearby storage facility. 
 In the second mission, the Axis fortify their position in the storage facility after successfully retrieving the documents. The Allies must infiltrate the facility, steal the documents and radio the location of the secret Rocket Base to the OSA headquarters.
 In the third mission, the Axis attempt to hold the secret rocket base and prevent a loss of the weapon prototype at all cost. The Allies must find the prototype, neutralise and steal it so it can be sent to OSA headquarters for examination.
+
+# <table>
+ <tr>
+  <td rowspan="2"><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#"><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_ice.png"></a></td>
+  <td><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#"><b>Mission 1: <i>'Ice, by id Software'</i></b></td>
+ </tr>
+ <tr>
+  <td><i>In an attempt to locate a secret rocket base, the Allies launch a stealth attack on an Axis coastal fortress. Facing the Allied advances, the Axis quickly retreat to a nearby storage facility leaving behind crucial documents depicting the location of the secret rocket base. The Axis forces must retrieve these documents and radio them to the nearby storage facility for safe-keeping. The Allies attempt to hold the fortress until further reinforcements can make their way to the location.</i><br><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#">Read more</a></td>
+ </tr>
+</table>
+
+# <table>
+ <tr>
+  <td rowspan="2"><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#"><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_frostbite.png"></a></td>
+  <td><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#"><b>Mission 2: <i>'Frostbite, by Moonkey'</i></b></td>
+ </tr>
+ <tr>
+  <td><i>After successfully retrieving the crucial documents from the coastal fortress, the Axis fortify position in a nearby storage facility. The Allied forces must retrieve those documents that so narrowly escaped their grasp before and radio them to headquarters to decipher the location of the secret rocket base. The Axis attempt to hold the storage facility and prevent the documents falling into the wrong hands.</i><br><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#">Read more</a></td>
+ </tr>
+</table>
+
+
 
 #### Overview
 

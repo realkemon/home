@@ -1,7 +1,5 @@
 # Level Design
 
-There are two sides to my work as a Level Designer. The first one being **own projects** that I created from scratch start to finish. So far these are [Dingenskirchen](https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md), [Stiglitz](https://github.com/realkemon/home/blob/master/pages/stiglitz.md) and [Pointe du Hoc](https://github.com/realkemon/home/blob/master/pages/pointe_du_hoc.md). The second aspect of my efforts are **map overhauls** for [ET: Legacy](https://github.com/realkemon/home/blob/master/pages/etlegacy.md), which include [Frostbite, by Moonkey](https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md), [Bergen, by Detoeni](https://github.com/realkemon/home/blob/master/pages/etl_bergen.md) and [Ice, by id software](https://github.com/realkemon/home/blob/master/pages/etl_ice.md). 
-
 <table>
  <tr>
    <td><b>Index:</b><br>

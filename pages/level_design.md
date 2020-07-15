@@ -12,9 +12,10 @@
     </ul>
      <li><a href="https://github.com/realkemon/home/blob/master/pages/level_design.md#map-overhauls">Map Overhauls</a></li>
      <ul>
-      <li><a href="https://github.com/realkemon/home/blob/master/pages/level_design.md#guidelines">Guidelines</a></li>
       <li><a href="https://github.com/realkemon/home/blob/master/pages/level_design.md#campaign-rocket-base">Campaign: Rocket Base</a></li>
       <li><a href="https://github.com/realkemon/home/blob/master/pages/level_design.md#campaign-submarine-depot">Campaign: Submarine Depot</a></li>
+      <li><a href="https://github.com/realkemon/home/blob/master/pages/level_design.md#guidelines">Guidelines</a></li>
+      <li><a href="https://github.com/realkemon/home/blob/master/pages/level_design.md#plans">Plans</a></li>
     </ul>
     </ul>
  </td>
@@ -54,18 +55,6 @@
 </table>
 
 ## Map Overhauls
-
-### Guidelines
-
-These overhauls are primarily intended as visual enhancements. Gameplay changes should only be implemented based on community reports of bugs or possible improvements for competitive play/map balance. For the visual overhauls a few guidelines should be kept in mind. The overall theme of the map _(e.g. winter setting)_ and its atmosphere _(e.g. falling snow)_ should not be altered. Generally, all changes should be as subtle as possible and emphasise on strengthening the original style rather than forcing a different style onto the map.
-
-Basically, what should be aimed for is what CS:GO did to original CS maps. [(Reference)](https://sjackm.wordpress.com/2012/08/15/csgo-first-impressions/)
-
-cs_office | de_aztec | de_nuke | cs_italy
-:---|:---|:---|:---
-![cs_office](https://sjackm.files.wordpress.com/2012/08/cs_office_cs-css-csgo.jpg) | ![de-aztec](https://sjackm.files.wordpress.com/2012/08/de_aztec_cs-css-csgo.jpg) | ![de_nuke](https://sjackm.files.wordpress.com/2012/08/de_nuke_cs-css-csgo.jpg) | ![cs_italy](https://sjackm.files.wordpress.com/2012/08/cs_italy_cs-css-csgo.jpg)
-
-
 
 ### Campaign: Rocket Base
 
@@ -123,7 +112,32 @@ In the third mission, the Axis attempt to hold their naval base to ensure submar
  </tr>
 </table>
 
+### Guidelines
 
+These overhauls are primarily intended as visual enhancements. Gameplay changes should only be implemented based on community reports of bugs or possible improvements for competitive play/map balance. For the visual overhauls a few guidelines should be kept in mind. The overall theme of the map _(e.g. winter setting)_ and its atmosphere _(e.g. falling snow)_ should not be altered. Generally, all changes should be as subtle as possible and emphasise on strengthening the original style rather than forcing a different style onto the map.
 
+Basically, what should be aimed for is what CS:GO did to original CS maps. [(Reference)](https://sjackm.wordpress.com/2012/08/15/csgo-first-impressions/)
 
+cs_office | de_aztec | de_nuke | cs_italy
+:---|:---|:---|:---
+![cs_office](https://sjackm.files.wordpress.com/2012/08/cs_office_cs-css-csgo.jpg) | ![de-aztec](https://sjackm.files.wordpress.com/2012/08/de_aztec_cs-css-csgo.jpg) | ![de_nuke](https://sjackm.files.wordpress.com/2012/08/de_nuke_cs-css-csgo.jpg) | ![cs_italy](https://sjackm.files.wordpress.com/2012/08/cs_italy_cs-css-csgo.jpg)
 
+### Plans
+
+Primary focus is on getting the current overhauls to a stable state where they are accepted by the playerbase. For the long-run however, there are already plans for additional overhauls. If anyone reads this and is interested in tackling an overhaul with already approved premisison or has active contact to the author(s) of maps with desired permission, please reach out to me.
+
+#### Approved permission:
+
+* <a href="https://et.trackbase.net/map/64/"><b>'Adlernest, by Dersaidin'</b></a>
+* <a href="https://et.trackbase.net/map/401/"><b>'Alpine Assault, by Detoeni'</b></a>
+* <a href="https://et.trackbase.net/map/38/"><b>'Bremen, by Dersaidin'</b></a>
+* <a href="https://et.trackbase.net/map/11/"><b>'Venice, by Chavo One'</b></a>
+* <a href="https://et.trackbase.net/map/225/"><b>'Wacht am Rhein, by Menzel'</b></a>
+* <a href="https://www.splashdamage.com/news/wolfenstein-enemy-territory-map-source-files-released/"><b>Original ET maps</b></a> Note: Würzburg Radar has already been prepared by WuTangH
+
+#### Desired permission:
+
+* <a href="https://et.trackbase.net/map/150/"><b>'Braundorf, by Brevik'</b></a>
+* <a href="https://et.trackbase.net/map/9/"><b>'Marrakech Streets, by Fix'</b></a>
+* <a href="https://et.trackbase.net/map/119/"><b>'Special Delivery, by Apple & GW'</b></a>
+* <a href="https://et.trackbase.net/map/16/"><b>'Warbell, by McNite'</b></a>

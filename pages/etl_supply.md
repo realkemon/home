@@ -67,9 +67,9 @@ Media
 
 Additional Features
 ============
-In an attempt to improve the map further two features have been added. One with a gameplay impact and the other one simply being a quality of life improvement for spectators and shout casters.
+In an attempt to improve the map further, two features have been added. One with a gameplay impact and the other one simply being a quality of life improvement for spectators and shout-casters.
 <a href="https://i.imgur.com/JCcZb18.jpg"><img src="https://i.imgur.com/JCcZb18.jpg"></a>
-The gameplay feature is the additional of an antenna which is linked to the Command Post. It provides a near-global visual indicator for the status of the Command Post. (Destroyed, Under Construction, Constructed).
+The gameplay feature is the additional of an antenna, which is linked to the Command Post. It provides a near-global visual indicator for the status of the Command Post. (Destroyed, Under Construction, Constructed).
 <a href="https://i.imgur.com/GTJ8hE2.jpg"><img src="https://i.imgur.com/GTJ8hE2.jpg"></a>
 The quality of life improvement are skylights in the two main bunkers, which are solid for players and entities (bullets, explosions, grenades, etc.), but non-solid for spectators and shout casters. They allow spectators to maintain a constant overview of action around the facilities, while also keeping an eye on the respective main objective to never miss crucial events.
 

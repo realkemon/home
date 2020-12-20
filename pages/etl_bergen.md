@@ -42,7 +42,7 @@
  </tr>
  <tr>
   <td>Download</td>
-  <td><a href="https://www.moddb.com/mods/etlegacy/addons/etl-bergen-v3" title="Download ETL Bergen v3 - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/169701.png" alt="ETL Bergen v3" /></a></td>
+  <td><a href="https://www.moddb.com/mods/etlegacy/addons/bergen-by-detoeni" title="Download Bergen, by Detoeni (v4) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/205558.png" alt="Bergen, by Detoeni (v4)" /></a></td>
  </tr>
 </table>
 

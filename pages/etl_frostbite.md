@@ -41,7 +41,7 @@
  </tr>
  <tr>
   <td>Download</td>
-  <td><a href="https://www.moddb.com/mods/etlegacy/addons/etl-frostbite-by-moonkey-v9" title="Download ETL Frostbite (v9) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/192887.png" alt="ETL Frostbite (v9)" /></a></td>
+  <td><a href="https://www.moddb.com/mods/etlegacy/addons/frostbite-by-moonkey-v10" title="Download Frostbite, by Moonkey (v10) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/205559.png" alt="Frostbite, by Moonkey (v10)" /></a></td>
  </tr>
 </table>
 

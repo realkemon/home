@@ -55,16 +55,16 @@ After successfully retrieving the crucial documents from the coastal fortress, t
 Media
 ============
 
-<a href="https://i.imgur.com/ZBw1w2l.jpg"><img src="https://i.imgur.com/ZBw1w2l.jpg" width="256"/></a>
-<a href="https://i.imgur.com/BqR9ycd.jpg"><img src="https://i.imgur.com/BqR9ycd.jpg" width="256"/></a>
-<a href="https://i.imgur.com/NZWoQFT.jpg"><img src="https://i.imgur.com/NZWoQFT.jpg" width="256"/></a>
-<a href="https://i.imgur.com/26uGwxz.jpg"><img src="https://i.imgur.com/26uGwxz.jpg" width="256"/></a>
-<a href="https://i.imgur.com/qIEpmMh.jpg"><img src="https://i.imgur.com/qIEpmMh.jpg" width="256"/></a>
-<a href="https://i.imgur.com/sipsbqG.jpg"><img src="https://i.imgur.com/sipsbqG.jpg" width="256"/></a>
-<a href="https://i.imgur.com/GpDZd5Y.jpg"><img src="https://i.imgur.com/GpDZd5Y.jpg" width="256"/></a>
-<a href="https://i.imgur.com/mgF2bSD.jpg"><img src="https://i.imgur.com/mgF2bSD.jpg" width="256"/></a>
-<a href="https://i.imgur.com/xbjJRHx.jpg"><img src="https://i.imgur.com/xbjJRHx.jpg" width="256"/></a>
-<a href="https://i.imgur.com/jxLLymS.jpg"><img src="https://i.imgur.com/jxLLymS.jpg" width="256"/></a>
+<a href="https://i.imgur.com/ZBw1w2l.jpg"><img src="https://i.imgur.com/ZBw1w2l.jpg"></a>
+<a href="https://i.imgur.com/BqR9ycd.jpg"><img src="https://i.imgur.com/BqR9ycd.jpg"></a>
+<a href="https://i.imgur.com/NZWoQFT.jpg"><img src="https://i.imgur.com/NZWoQFT.jpg"></a>
+<a href="https://i.imgur.com/26uGwxz.jpg"><img src="https://i.imgur.com/26uGwxz.jpg"></a>
+<a href="https://i.imgur.com/qIEpmMh.jpg"><img src="https://i.imgur.com/qIEpmMh.jpg"></a>
+<a href="https://i.imgur.com/sipsbqG.jpg"><img src="https://i.imgur.com/sipsbqG.jpg"></a>
+<a href="https://i.imgur.com/GpDZd5Y.jpg"><img src="https://i.imgur.com/GpDZd5Y.jpg"></a>
+<a href="https://i.imgur.com/mgF2bSD.jpg"><img src="https://i.imgur.com/mgF2bSD.jpg"></a>
+<a href="https://i.imgur.com/xbjJRHx.jpg"><img src="https://i.imgur.com/xbjJRHx.jpg"></a>
+<a href="https://i.imgur.com/jxLLymS.jpg"><img src="https://i.imgur.com/jxLLymS.jpg"></a>
 
 
 Changelog

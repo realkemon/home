@@ -151,11 +151,12 @@ Since we are talking about an open-sourced game, in my opinion as much as possib
 [Activity Tracker](https://github.com/realkemon/home/milestone/2)
 
 ### Compile parameters:
-(Note: `-samplesize 16` needs to be added to the -BSP phase as well to function properly. This will be done for next version.)
 ```
-[q3map2] -meta -v -mv 1024 -mi 6144 “[MapFile]”
-[q3map2] -vis -saveprt -v “[MapFile]”
-[q3map2] -light -samples 4 -samplesize 8 -v -thresh 0.05 -patchshadows -dirty -dirtdepth 256 -external -lightmapsize 512 -shade -bounce 2 “[MapFile]”
+<build name="Bergen">
+<command>[q3map2] -bsp -meta -samplesize 16 -v -mv 1024 -mi 6144 &quot;[MapFile]&quot;</command>
+<command>[q3map2] -vis -saveprt -v &quot;[MapFile]&quot;</command>
+<command>[q3map2] -light -fast -samples 4 -samplesize 16 -bounce 3 -bouncegrid -v -thresh 0.25 -shade -dirty -dirtdepth 256 -lightmapsize 2048 -patchshadows -external &quot;[MapFile]&quot;</command>
+</build>
 ```
 
 [:arrow_backward: Return to Home](https://github.com/realkemon/home/blob/master/README.md#-cedric-aka-kemon) [:arrow_double_up: Back to the Top](https://github.com/realkemon/home/blob/master/etl_bergen.md#)

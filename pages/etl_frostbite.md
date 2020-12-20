@@ -3,8 +3,8 @@
 
 <table>
  <tr>
-  <td><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_frostbite.png" width="256"/></td>
-  <td><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_frostbite_cc.png" width="256"/></td>
+  <td><a href="https://i.imgur.com/bt4bbqP.png"><img src="https://i.imgur.com/bt4bbqP.png" width="256"/></a></td>
+  <td><a href="https://i.imgur.com/n5ChLV7.png"><img src="https://i.imgur.com/n5ChLV7.png" width="256"/></a></td>
   <td rowspan="6"><b>Index:</b><br>
 <a href="https://github.com/realkemon/home/blob/master/README.md">Home</a><br>
 <ul>
@@ -12,7 +12,7 @@
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#media">Media</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#changelog">Changelog</a></li>
  <ul>
-  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-10-pending">version 10</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-10">version 10</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-9">version 9</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-8">version 8</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-7">version 7</a></li>
@@ -55,30 +55,32 @@ After successfully retrieving the crucial documents from the coastal fortress, t
 Media
 ============
 
-<a href="https://cdnb.artstation.com/p/assets/images/images/025/915/927/large/cedric-easton-fb1.jpg?1587327715"><img src="https://cdnb.artstation.com/p/assets/images/images/025/915/927/large/cedric-easton-fb1.jpg?1587327715" width="256"/></a>
-<a href="https://cdna.artstation.com/p/assets/images/images/025/915/928/large/cedric-easton-fb2.jpg?1587327676"><img src="https://cdna.artstation.com/p/assets/images/images/025/915/928/large/cedric-easton-fb2.jpg?1587327676" width="256"/></a>
-<a href="https://cdna.artstation.com/p/assets/images/images/025/915/932/large/cedric-easton-fb3.jpg?1587327680"><img src="https://cdna.artstation.com/p/assets/images/images/025/915/932/large/cedric-easton-fb3.jpg?1587327680" width="256"/></a>
-<a href="https://cdna.artstation.com/p/assets/images/images/025/915/934/large/cedric-easton-fb4.jpg?1587327684"><img src="https://cdna.artstation.com/p/assets/images/images/025/915/934/large/cedric-easton-fb4.jpg?1587327684" width="256"/></a>
-<a href="https://cdna.artstation.com/p/assets/images/images/025/915/936/large/cedric-easton-fb5.jpg?1587327687"><img src="https://cdna.artstation.com/p/assets/images/images/025/915/936/large/cedric-easton-fb5.jpg?1587327687" width="256"/></a>
-<a href="https://cdna.artstation.com/p/assets/images/images/025/915/926/large/cedric-easton-fb6.jpg?1587327672"><img src="https://cdna.artstation.com/p/assets/images/images/025/915/926/large/cedric-easton-fb6.jpg?1587327672" width="256"/></a>
-<a href="https://cdnb.artstation.com/p/assets/images/images/025/915/929/large/cedric-easton-fb7.jpg?1587327677"><img src="https://cdnb.artstation.com/p/assets/images/images/025/915/929/large/cedric-easton-fb7.jpg?1587327677" width="256"/></a>
-<a href="https://cdnb.artstation.com/p/assets/images/images/025/915/933/large/cedric-easton-fb8.jpg?1587327681"><img src="https://cdnb.artstation.com/p/assets/images/images/025/915/933/large/cedric-easton-fb8.jpg?1587327681" width="256"/></a>
-<a href="https://cdnb.artstation.com/p/assets/images/images/025/915/935/large/cedric-easton-fb9.jpg?1587327684"><img src="https://cdnb.artstation.com/p/assets/images/images/025/915/935/large/cedric-easton-fb9.jpg?1587327684" width="256"/></a>
-<a href="https://cdnb.artstation.com/p/assets/images/images/025/915/937/large/cedric-easton-fb10.jpg?1587327687"><img src="https://cdnb.artstation.com/p/assets/images/images/025/915/937/large/cedric-easton-fb10.jpg?1587327687" width="256"/></a>
+<a href="https://i.imgur.com/ZBw1w2l.jpg"><img src="https://i.imgur.com/ZBw1w2l.jpg" width="256"/></a>
+<a href="https://i.imgur.com/BqR9ycd.jpg"><img src="https://i.imgur.com/BqR9ycd.jpg" width="256"/></a>
+<a href="https://i.imgur.com/NZWoQFT.jpg"><img src="https://i.imgur.com/NZWoQFT.jpg" width="256"/></a>
+<a href="https://i.imgur.com/26uGwxz.jpg"><img src="https://i.imgur.com/26uGwxz.jpg" width="256"/></a>
+<a href="https://i.imgur.com/qIEpmMh.jpg"><img src="https://i.imgur.com/qIEpmMh.jpg" width="256"/></a>
+<a href="https://i.imgur.com/sipsbqG.jpg"><img src="https://i.imgur.com/sipsbqG.jpg" width="256"/></a>
+<a href="https://i.imgur.com/GpDZd5Y.jpg"><img src="https://i.imgur.com/GpDZd5Y.jpg" width="256"/></a>
+<a href="https://i.imgur.com/mgF2bSD.jpg"><img src="https://i.imgur.com/mgF2bSD.jpg" width="256"/></a>
+<a href="https://i.imgur.com/xbjJRHx.jpg"><img src="https://i.imgur.com/xbjJRHx.jpg" width="256"/></a>
+<a href="https://i.imgur.com/jxLLymS.jpg"><img src="https://i.imgur.com/jxLLymS.jpg" width="256"/></a>
+
 
 Changelog
 ============
 **NOTE:** Previous overhaul versions were too far away from the original. Version 7 is a fresh start from the original 'Frostbite, by Moonkey', which is why previous versions aren't listed below.
 
-### version 10 (pending)
+### version 10
 
 * Changed catwalk in warehouse from clip to clip missile. It is now permeable for weapons except grenades, rockets, etc.
 * Moved vent opening near Service Door for better alignment with surrounding textures. *(Thank you Aciz for reporting.)*
 * Adjusted terrain shader on snow patches in inner courtyard for proper snow behaviour. *(Thank you Aciz for reporting.)*
-* Removed angled brushes from doorways, because player collision and physics in ET are a farce. *(Thank you Aciz for reporting.)*
+* Improved player collision to simplify movement. (e.g. doorways and railings) *(Thank you Aciz for reporting.)*
 * Reverted clip brushes for truck in inner courtyard back to original to re-enable a trickjump. *(Thank you Kimi for reporting.)*
 * Adjusted terrain brushes near Storage Wall to re-enable a trickjump. *(Thank you Bystry for reporting.)*
 * Remove spotlight style from most light sources inside the facility. *(Thank you hatcher for reporting.)*
+* Changed floodlight colour to uniform white. *(Thank you Aciz for reporting.)*
 
 ### version 9
 
@@ -132,9 +134,11 @@ Since we are talking about an open-sourced game, in my opinion as much as possib
 ### Compile parameters:
 
 ```
-[q3map2] -bsp -meta -samplesize 2 -v -mv 1024 -mi 6144 "[MapFile]"
-[q3map2] -vis -saveprt -v “[MapFile]”
-[q3map2] -light -fast -samples 4 -samplesize 2 -bounce 3 -bouncegrid -v -thresh 0.05 -shade -dirty -dirtdepth 256 -lightmapsize 1024 -patchshadows -external "[MapFile]"
+<build name="Frostbite">
+<command>[q3map2] -bsp -meta -samplesize 2 -v -mv 1024 -mi 6144 &quot;[MapFile]&quot;</command>
+<command>[q3map2] -vis -saveprt -v &quot;[MapFile]&quot;</command>
+<command>[q3map2] -light -fast -samples 4 -samplesize 2 -bounce 3 -bouncegrid -v -thresh 0.25 -shade -dirty -dirtdepth 256 -lightmapsize 2048 -patchshadows -external &quot;[MapFile]&quot;</command>
+</build>
 ```
 
 [:arrow_backward: Return to Home](https://github.com/realkemon/home/blob/master/README.md) [:arrow_double_up: Back to the Top](https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md)

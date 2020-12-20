@@ -39,7 +39,7 @@
  </tr>
  <tr>
   <td>Download</td>
-  <td><a href="https://www.moddb.com/mods/etlegacy/addons/etl-ice-by-id-software-v3" title="Download ETL Ice (v3) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/192888.png" alt="ETL Ice (v3)" /></a></td>
+  <td><a href="https://www.moddb.com/mods/etlegacy/addons/ice-by-id-software-v4" title="Download Ice, by id software (v4) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/205560.png" alt="Ice, by id software (v4)" /></a></td>
  </tr>
 </table>
 

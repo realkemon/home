@@ -3,8 +3,8 @@
 
 <table>
  <tr>
-  <td><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_ice.png" width="256"/></td>
-  <td><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_ice_cc.png" width="256"/></td>
+  <td><a href="https://i.imgur.com/b4cZOu2.png"><img src="https://i.imgur.com/b4cZOu2.png" width="256"/></a></td>
+  <td><a href="https://i.imgur.com/QfCFaqT.png"><img src="https://i.imgur.com/QfCFaqT.png" width="256"/></a></td>
   <td rowspan="6"><b>Index:</b><br>
 <a href="https://github.com/realkemon/home/blob/master/README.md">Home</a><br>
 <ul>
@@ -12,7 +12,7 @@
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#media">Media</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#changelog">Changelog</a></li>
  <ul>
-  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#version-4-pending">version 4</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#version-4">version 4</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#version-3">version 3</a></li>
  </ul>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#development">Development</a></li>
@@ -23,15 +23,15 @@
  </tr>
  <tr>
   <td>BSP name</td>
-  <td>etl_ice_v3</td>
+  <td>etl_ice_v4</td>
  </tr>
  <tr>
   <td>Status</td>
-  <td>version 3</td>
+  <td>version 4</td>
  </tr>
  <tr> 
   <td>Latest Release</td>
-  <td>April 2020</td>
+  <td>December 2020</td>
  </tr>
  <tr>
   <td>Players</td>
@@ -53,16 +53,16 @@ In an attempt to locate a secret rocket base, the Allies launch a stealth attack
 Media
 ============
 
-<a href="https://cdna.artstation.com/p/assets/images/images/025/916/060/large/cedric-easton-ice6.jpg?1587328130"><img src="https://cdna.artstation.com/p/assets/images/images/025/916/060/large/cedric-easton-ice6.jpg?1587328130" width="256"/></a>
-<a href="https://cdna.artstation.com/p/assets/images/images/025/916/058/large/cedric-easton-ice1.jpg?1587328082"><img src="https://cdna.artstation.com/p/assets/images/images/025/916/058/large/cedric-easton-ice1.jpg?1587328082" width="256"/></a>
-<a href="https://cdnb.artstation.com/p/assets/images/images/025/916/061/large/cedric-easton-ice2.jpg?1587328085"><img src="https://cdnb.artstation.com/p/assets/images/images/025/916/061/large/cedric-easton-ice2.jpg?1587328085" width="256"/></a>
-<a href="https://cdnb.artstation.com/p/assets/images/images/025/916/063/large/cedric-easton-ice3.jpg?1587328089"><img src="https://cdnb.artstation.com/p/assets/images/images/025/916/063/large/cedric-easton-ice3.jpg?1587328089" width="256"/></a>
-<a href="https://cdna.artstation.com/p/assets/images/images/025/916/066/large/cedric-easton-ice4.jpg?1587328092"><img src="https://cdna.artstation.com/p/assets/images/images/025/916/066/large/cedric-easton-ice4.jpg?1587328092" width="256"/></a>
-<a href="https://cdnb.artstation.com/p/assets/images/images/025/916/067/large/cedric-easton-ice5.jpg?1587328095"><img src="https://cdnb.artstation.com/p/assets/images/images/025/916/067/large/cedric-easton-ice5.jpg?1587328095" width="256"/></a>
-<a href="https://cdna.artstation.com/p/assets/images/images/025/916/062/large/cedric-easton-ice7.jpg?1587328088"><img src="https://cdna.artstation.com/p/assets/images/images/025/916/062/large/cedric-easton-ice7.jpg?1587328088" width="256"/></a>
-<a href="https://cdnb.artstation.com/p/assets/images/images/025/916/065/large/cedric-easton-ice8.jpg?1587328091"><img src="https://cdnb.artstation.com/p/assets/images/images/025/916/065/large/cedric-easton-ice8.jpg?1587328091" width="256"/></a>
-<a href="https://cdna.artstation.com/p/assets/images/images/025/916/068/large/cedric-easton-ice9.jpg?1587328095"><img src="https://cdna.artstation.com/p/assets/images/images/025/916/068/large/cedric-easton-ice9.jpg?1587328095" width="256"/></a>
-<a href="https://cdnb.artstation.com/p/assets/images/images/025/916/073/large/cedric-easton-ice10.jpg?1587328099"><img src="https://cdnb.artstation.com/p/assets/images/images/025/916/073/large/cedric-easton-ice10.jpg?1587328099" width="256"/></a>
+<a href="https://i.imgur.com/hl0naOZ.jpg"><img src="https://i.imgur.com/hl0naOZ.jpg"></a>
+<a href="https://i.imgur.com/zwyDFKD.jpg"><img src="https://i.imgur.com/zwyDFKD.jpg"></a>
+<a href="https://i.imgur.com/vQA43rW.jpg"><img src="https://i.imgur.com/vQA43rW.jpg"></a>
+<a href="https://i.imgur.com/8r3IH8j.jpg"><img src="https://i.imgur.com/8r3IH8j.jpg"></a>
+<a href="https://i.imgur.com/4CsMVWO.jpg"><img src="https://i.imgur.com/4CsMVWO.jpg"></a>
+<a href="https://i.imgur.com/rEAKy2Q.jpg"><img src="https://i.imgur.com/rEAKy2Q.jpg"></a>
+<a href="https://i.imgur.com/f68IAQj.jpg"><img src="https://i.imgur.com/f68IAQj.jpg"></a>
+<a href="https://i.imgur.com/YZPcgiq.jpg"><img src="https://i.imgur.com/YZPcgiq.jpg"></a>
+<a href="https://i.imgur.com/DCODrSI.jpg"><img src="https://i.imgur.com/DCODrSI.jpg"></a>
+<a href="https://i.imgur.com/ASadpLv.jpg"><img src="https://i.imgur.com/ASadpLv.jpg"></a>
 
 
 Changelog
@@ -70,12 +70,10 @@ Changelog
 
 **NOTE:** Previous overhaul versions were too far away from the original. Version 3 is a fresh start from the original 'Ice, by id software', which is why previous versions aren't listed below.
 
-### version 4 (pending)
+### version 4
 
-* Increase max player count from 16vs16 to 20vs20 to be in line with 'Frostbite, by Moonkey'.
 * Adjusted height of swinglights to be flush with ceiling.
-* Fix spawnpoint order to be same as original. *(Thanks to spinnynakeyhelicopter for reporting.)*
-* Ensure trickjumps depicted in <a href="https://www.youtube.com/watch?v=2v9a5caL7sw">this video</a> are still possible. *(Thanks to crumbs for reporting.)*
+* Improved overall lighting.
 
 ### version 3
 
@@ -111,9 +109,11 @@ Since we are talking about an open-sourced game, in my opinion as much as possib
 ### Compile parameters
 
 ```
-[q3map2] -bsp -meta -samplesize 2 -v -mv 1024 -mi 6144 "[MapFile]"
-[q3map2] -vis -saveprt -v “[MapFile]”
-[q3map2] -light -fast -samples 4 -samplesize 2 -bounce 3 -bouncegrid -v -thresh 0.05 -shade -dirty -dirtdepth 256 -lightmapsize 1024 -patchshadows -external "[MapFile]"
+<build name="Ice">
+<command>[q3map2] -bsp -meta -samplesize 2 -v -mv 1024 -mi 6144 &quot;[MapFile]&quot;</command>
+<command>[q3map2] -vis -saveprt -v &quot;[MapFile]&quot;</command>
+<command>[q3map2] -light -fast -samples 4 -samplesize 2 -bounce 3 -bouncegrid -v -thresh 0.25 -shade -dirty -dirtdepth 256 -lightmapsize 2048 -patchshadows -external &quot;[MapFile]&quot;</command>
+</build>
 ```
 
 [:arrow_backward: Return to Home](https://github.com/realkemon/home/blob/master/README.md) [:arrow_double_up: Back to the Top](https://github.com/realkemon/home/blob/master/pages/etl_ice.md)

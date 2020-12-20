@@ -25,15 +25,15 @@
  </tr>
  <tr>
   <td>BSP name</td>
-  <td>etl_frostbite_v9</td>
+  <td>etl_frostbite_v10</td>
  </tr>
  <tr>
   <td>Status</td>
-  <td>version 9</td>
+  <td>version 10</td>
  </tr>
  <tr> 
   <td>Latest Release</td>
-  <td>April 2020</td>
+  <td>December 2020</td>
  </tr>
  <tr>
   <td>Players</td>

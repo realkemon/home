@@ -3,22 +3,16 @@
 
 <table>
  <tr>
-  <td><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_bergen.png" width="256"/></td>
-  <td><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_bergen_cc.jpg" width="256"/></td>
+  <td><a href="https://i.imgur.com/EYA08uR.png"><img src="https://i.imgur.com/EYA08uR.png" width="256"/></a></td>
+  <td><a href="https://i.imgur.com/nGTScDk.png"><img src="https://i.imgur.com/nGTScDk.png" width="256"/></a></td>
   <td rowspan="6"><b>Index:</b><br>
 <a href="https://github.com/realkemon/home/blob/master/README.md#-cedric-aka-kemon">Home</a><br>
 <ul>
  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#story">Story</a></li>
- <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#design-thoughts">Design Thoughts</a></li>
- <ul>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#doors">Doors</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#wall-elements">Wall Elements</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#submarine-bay">Submarine Bay</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#generator">Generator</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#door-panels">Door Panels</a></li>
- </ul>
+ <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#media">Media</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#changelog">Changelog</a></li>
  <ul>
+  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#version-4">version 4</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#version-3">version 3</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#version-2">version 2</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#version-1">version 1</a></li>
@@ -60,44 +54,33 @@ The Unterseebootwaffe of the 11th flotilla is harassing Allied shipping in the N
 As Operation Arrow descends on the Bergen area of Norway the Axis must protect the base from Allied attempts at sabotage.
 
 
-Design Thoughts
+Media
 ============
 
-Before actually starting to work on the overhaul, it is important to have a deeper look at the original map. On the one hand, focus should be on unique design elements, which can later be emphasised. On the other hand, problematic issues need to be identified. These can be purely visual, but also include elements that serve a direct purpose for gameplay, but have no realistic background/purpose.
-
-### Doors
-
-When looking at the original Bergen, one thing that strikes the eye is the style of the doors. They are not rectangular, but rather have a 45° angle in the top corners. As this is a very unique style of doors, it was important to preserve and emphasise it where possible. In that spirit all doors have received the same setup to prevent misalignment of textures and ensure an uniform appearance.
-![door1](https://i.imgur.com/omREEXQ.jpg)
-![door2](https://i.imgur.com/cxi6l1t.jpg)
-
-### Wall Elements
-
-A second unqiue style are the wall elements in the bunker corridors. Where possible, these have been enlarged and added. Their contrast has been increased as well, to make them pop a bit more.
-![element1](https://i.imgur.com/9e58Fr8.jpg)
-![element2](https://i.imgur.com/LKcIcC3.jpg)
-
-### Submarine Bay
-
-The submarine bay is definitely one of the most iconic areas in the map, along with the generator room. One way to further strengthen the character of this area was to implement additional elements supporting the realistic background. In other words, elements that tell a story and imply a realistic meaning to increase the immersion in the level. One aspect was to extend the transport system of torpedos from the back courtyard into the submarine bay. Torpedos brought in that way needed to be loaded onto the submarine, which is why cranes were added around the docks. Aside from those, other elements included moveable bridges to cross from docks to docked submarines safely as well as random generators and pipes.
-![submarine1](https://i.imgur.com/frIjRBY.jpg)
-![submarine2](https://i.imgur.com/RyBJYe4.jpg)
-
-### Generator
-
-As mentioned above, the generator room is one of the most iconic areas in this map. In an attempt to increase the depth in this area, the floor was replaced by a metal grid and an underground level has been created to make the room seem larger and humbling. The generator has been rebuilt using the standard texture set and was given a more worn-down/industrial look.
-![generator1](https://i.imgur.com/4nGQqgJ.jpg)
-![generator2](https://i.imgur.com/7gySbtu.jpg)
-![generator3](https://i.imgur.com/CzBMEYB.jpg)
-
-### Door Panels
-
-The very iconic look of the door control panels, which are linked to the generator *(built = functioning)*, has also received a make-over. Partly, because custom textures should be avoided where possible and partly to enable the player to tell even faster whether or not the control panels are working or not. To achieve this, two lights have been added that are red when the generator is destroyed and switch to green once it's working. The arrow has received a wobbling effect when it is green to simulate pressure variation in the system. Furthermore, audio feedback was added to the levers when they are not functioning, to let the player know that their activation triggered something, but it is not working.
-![panel1](https://i.imgur.com/BFuBFy6.jpg)
+<a href="https://i.imgur.com/gDswshJ.jpg"><img src="https://i.imgur.com/gDswshJ.jpg"></a>
+<a href="https://i.imgur.com/lDwDWY8.jpg"><img src="https://i.imgur.com/lDwDWY8.jpg"></a>
+<a href="https://i.imgur.com/PEBcWIA.jpg"><img src="https://i.imgur.com/PEBcWIA.jpg"></a>
+<a href="https://i.imgur.com/1mdBOjR.jpg"><img src="https://i.imgur.com/1mdBOjR.jpg"></a>
+<a href="https://i.imgur.com/z1MlwJD.jpg"><img src="https://i.imgur.com/z1MlwJD.jpg"></a>
+<a href="https://i.imgur.com/Gm916Sl.jpg"><img src="https://i.imgur.com/Gm916Sl.jpg"></a>
+<a href="https://i.imgur.com/6d9IUeX.jpg"><img src="https://i.imgur.com/6d9IUeX.jpg"></a>
+<a href="https://i.imgur.com/7cHZFYw.jpg"><img src="https://i.imgur.com/7cHZFYw.jpg"></a>
+<a href="https://i.imgur.com/AAmHJ2V.jpg"><img src="https://i.imgur.com/AAmHJ2V.jpg"></a>
+<a href="https://i.imgur.com/UPs3uAH.jpg"><img src="https://i.imgur.com/UPs3uAH.jpg"></a>
 
 
 Changelog
 ============
+
+### version 4
+
+* Simplified geometry for cleaner player collision
+* Replaced colour coded wires with colour coded bunker trim and command map for more subtle implementation
+* Replaced side entrance terrain with artificial pier to prevent walljumping
+* Reverted V1 Rocket back to airplane
+* Improved lighting and terrain
+* Added skylights to generator room and Axis spawn to simplify spectator/shoutcaster movement
+* Improved VIS blocking and performance
 
 ### version 3
 
@@ -159,16 +142,7 @@ Changelog
 Development
 ============
 
-### Specs
-
-<space> | original | version 3
-:---|:---|:---
-Total Brushes | 15.898 | 15.527
-Total Patches | 1.179 | 809
-Total Entities | 1.194 | 1.518
-Ingame Entities | 568 | 525
- 
- ### Source
+### Source
 
 Since we are talking about an open-sourced game, in my opinion as much as possible should be available to the public. In that spirit, the map source, along with sources of my other maps, can be found in the repo. It is kept updated with all latest changes, which means the map-source does not necessarily reflect the status of the last release. If you encounter any issues, I would prefer it if you contacted me or simply opened an issue on the tracker, instead of recompiling a version yourself.
 

@@ -26,19 +26,19 @@
  </tr>
  <tr>
   <td>BSP name</td>
-  <td>etl_bergen_v3</td>
+  <td>etl_bergen_v4</td>
  </tr>
  <tr>
   <td>Status</td>
-  <td>version 3</td>
+  <td>version 4</td>
  </tr>
  <tr> 
-  <td>Release</td>
-  <td>20/10/2018</td>
+  <td>Latest Release</td>
+  <td>December 2020</td>
  </tr>
  <tr>
   <td>Players</td>
-  <td>16v16</td>
+  <td>16 vs 16</td>
  </tr>
  <tr>
   <td>Download</td>

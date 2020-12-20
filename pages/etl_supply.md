@@ -40,7 +40,7 @@
  </tr>
  <tr>
   <td>Download</td>
-  <td><a href="https://www.moddb.com/mods/etlegacy/addons/etl-ice-by-id-software-v3" title="Download ETL Ice (v3) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/192888.png" alt="ETL Ice (v3)" /></a></td>
+  <td><a href="https://www.moddb.com/mods/etlegacy/addons/supply-depot-by-ginc" title="Download Supply Depot, by ginc (v2) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/205561.png" alt="Supply Depot, by ginc (v2)" /></a></td>
  </tr>
 </table>
 

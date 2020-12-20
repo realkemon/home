@@ -10,6 +10,7 @@
 <ul>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#story">Story</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#media">Media</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#additional-features">Additional Features</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#changelog">Changelog</a></li>
  <ul>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#version-2">version 2</a></li>
@@ -63,6 +64,16 @@ Media
 <a href="https://i.imgur.com/HTH9xUV.jpg"><img src="https://i.imgur.com/HTH9xUV.jpg"></a>
 <a href="https://i.imgur.com/P79d0f1.jpg"><img src="https://i.imgur.com/P79d0f1.jpg"></a>
 <a href="https://i.imgur.com/HmO2eGu.jpg"><img src="https://i.imgur.com/HmO2eGu.jpg"></a>
+
+Additional Features
+============
+In an attempt to improve the map further two features have been added. One with a gameplay impact and the other one simply being a quality of life improvement for spectators and shout casters.
+<a href="https://i.imgur.com/JCcZb18.jpg"><img src="https://i.imgur.com/JCcZb18.jpg"></a>
+The gameplay feature is the additional of an antenna which is linked to the Command Post. It provides a near-global visual indicator for the status of the Command Post. (Destroyed, Under Construction, Constructed).
+<a href="https://i.imgur.com/GTJ8hE2.jpg"><img src="https://i.imgur.com/GTJ8hE2.jpg"></a>
+The quality of life improvement are skylights in the two main bunkers, which are solid for players and entities (bullets, explosions, grenades, etc.), but non-solid for spectators and shout casters. They allow spectators to maintain a constant overview of action around the facilities, while also keeping an eye on the respective main objective to never miss crucial events.
+
+
 
 
 Changelog

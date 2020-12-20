@@ -73,8 +73,8 @@ In the third mission, the Axis attempt to hold the secret rocket base and preven
   <td><b>Mission 3</b></td>
  </tr>
  <tr>
-  <td><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#"><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_ice.png"></a></td>
-  <td><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#"><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_frostbite.png"></a></td>
+  <td><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#"><img src="https://i.imgur.com/b4cZOu2.png"></a></td>
+  <td><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#"><img src="https://i.imgur.com/bt4bbqP.png"></a></td>
   <td><a href="https://et.trackbase.net/map/158/"><img src="https://github.com/realkemon/home/blob/master/levelshots/c2_missile.png"></a></td>
  </tr>
  <tr>
@@ -101,9 +101,9 @@ In the third mission, the Axis attempt to hold their naval base to ensure submar
   <td><b>Mission 3</b></td>
  </tr>
  <tr>
-  <td><a href="https://et.trackbase.net/map/8/"><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_supply.png"></a></td>
+  <td><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#"><img src="https://i.imgur.com/VR8Q6jp.png"></a></td>
   <td><a href="https://et.trackbase.net/map/64/"><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_adlernest.png"></a></td>
-  <td><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#"><img src="https://github.com/realkemon/home/blob/master/levelshots/etl_bergen.png"></a></td>
+  <td><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#"><img src="https://i.imgur.com/EYA08uR.png"></a></td>
  </tr>
  <tr>
   <td><a href="https://et.trackbase.net/map/8/"><b>Supply Depot, by ginc</b></a></td>

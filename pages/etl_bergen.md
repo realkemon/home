@@ -5,7 +5,7 @@
  <tr>
   <td><a href="https://i.imgur.com/EYA08uR.png"><img src="https://i.imgur.com/EYA08uR.png" width="256"/></a></td>
   <td><a href="https://i.imgur.com/nGTScDk.png"><img src="https://i.imgur.com/nGTScDk.png" width="256"/></a></td>
-  <td rowspan="6"><b>Index:</b><br>
+  <td rowspan="8"><b>Index:</b><br>
 <a href="https://github.com/realkemon/home/blob/master/README.md#-cedric-aka-kemon">Home</a><br>
 <ul>
  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#story">Story</a></li>
@@ -58,8 +58,13 @@
 Story
 ============
 
-The Unterseebootwaffe of the 11th flotilla is harassing Allied shipping in the North Sea. 
-As Operation Arrow descends on the Bergen area of Norway the Axis must protect the base from Allied attempts at sabotage.
+**Campaign: Submarine Depot**
+
+1. ‘Supply Depot, by ginc’
+2. ‘Adlernest, by Dersaidin’ *(planned)*
+3. **’Bergen, by Detoeni’**
+
+Axis submarines from a naval base near Bergen, Norway are cause for much distress in the Northern Atlantic. After failed attempts of disabling the base from sea and air, the OSA headquarters decided to send paratroopers behind enemy lines. Their task: Disrupt the supply lines of the base and strike a then vulnerable base from land. In the first mission, the Axis are preparing a shipment destined for the naval base from a supply depot in the mountains. The Allied paratroopers must seize those supplies for the local resistance to strengthen their efforts against the Axis forces in the region. In the second mission, alarmed by the loss of the first supply shipment, the Axis attempt to organise retaliation. The Allies must infiltrate the Axis fortification and steal the documents depicting Axis troop movements to disrupt their retaliation attempts. In the third mission, the Axis attempt to hold their naval base to ensure submarine operations in the Northern Atlantic. The Allies launch their attack on the weakened base and must disable communications to submarines on patrol to enforce their retreat and allow Allied convoys to reach the shores safely.
 
 
 Media

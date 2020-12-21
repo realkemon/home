@@ -13,6 +13,7 @@
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#features">Features</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#changelog">Changelog</a></li>
  <ul>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#version-3-pending">version 3 (pending)</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#version-2">version 2</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#version-1">version 1</a></li>
  </ul>
@@ -92,6 +93,14 @@ The quality of life improvement are skylights in the two main bunkers, which are
 
 Changelog
 ============
+
+### version 3 (pending)
+
+* [TODO] Setstate errors in console after dynamiting 1st main gate. *(Thanks to WuTangH for reporting)*
+* [TODO] CP sound doesn't reset and is audible after `/map_restart`. *(Thanks to WuTangH for reporting)*
+* [TODO] `grasssteps` not working on terrain. *(Thanks to WuTangH for reporting)*
+* [TODO] Crate controls not showing satchel icon for Axis and activation icon for Allies. *(Thanks to WuTangH for reporting)*
+* [TODO] Visible seams in terrain textures.
 
 ### version 2
 

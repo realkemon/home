@@ -24,7 +24,7 @@
  </tr>
  <tr>
   <td>BSP name</td>
-  <td>etl_supply_v2</td>
+  <td>etl_supply_v2.bsp</td>
  </tr>
  <tr>
   <td>Status</td>
@@ -37,6 +37,14 @@
  <tr>
   <td>Players</td>
   <td>20 vs 20</td>
+ </tr>
+ <tr>
+  <td>Original map by</td>
+  <td>ginc</td>
+ </tr>
+ <tr>
+  <td>Visual overhaul by</td>
+  <td>kemon</td>
  </tr>
  <tr>
   <td>Download</td>

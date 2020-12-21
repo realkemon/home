@@ -101,6 +101,7 @@ Changelog
 * [TODO] `grasssteps` not working on terrain. *(Thanks to WuTangH for reporting)*
 * [TODO] Crate controls not showing satchel icon for Axis and activation icon for Allies. *(Thanks to WuTangH for reporting)*
 * [TODO] Visible seams in terrain textures.
+* [TODO] Increase amount of spawn slots from 20 vs 20. *(Thanks to Dmxj for reporting)*
 
 ### version 2
 

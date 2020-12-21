@@ -78,9 +78,9 @@ In the third mission, the Axis attempt to hold the secret rocket base and preven
   <td><a href="https://et.trackbase.net/map/158/"><img src="https://github.com/realkemon/home/blob/master/levelshots/c2_missile.png"></a></td>
  </tr>
  <tr>
-  <td><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#"><b>Ice, by id Software</b></a></td>
-  <td><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#"><b>Frostbite, by Moonkey</b></a></td>
-  <td><a href="https://et.trackbase.net/map/158/"><b>Missile, by eiM</b> <i>(planned)</i></a></td>
+  <td><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#"><b>'Ice, by id Software'</b></a></td>
+  <td><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#"><b>'Frostbite, by Moonkey'</b></a></td>
+  <td><a href="https://et.trackbase.net/map/158/"><b>'Missile, by eiM'</b> <i>(planned)</i></a></td>
  </tr>
 </table>
 
@@ -108,7 +108,7 @@ In the third mission, the Axis attempt to hold their naval base to ensure submar
  <tr>
   <td><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md"><b>'Supply Depot, by ginc'</b></a></td>
   <td><a href="https://et.trackbase.net/map/119/"><b>'Adlernest, by Dersaidin'</b> <i>(planned)</i></a></td>
-  <td><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#"><b>Bergen, by Detoeni</b></a></td>
+  <td><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#"><b>'Bergen, by Detoeni'</b></a></td>
  </tr>
 </table>
 

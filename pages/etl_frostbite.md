@@ -25,7 +25,7 @@
  </tr>
  <tr>
   <td>BSP name</td>
-  <td>etl_frostbite_v10</td>
+  <td>etl_frostbite_v10.bsp</td>
  </tr>
  <tr>
   <td>Status</td>
@@ -38,6 +38,14 @@
  <tr>
   <td>Players</td>
   <td>20 vs 20</td>
+ </tr>
+ <tr>
+  <td>Original map by</td>
+  <td>Moonkey</td>
+ </tr>
+ <tr>
+  <td>Visual overhaul by</td>
+  <td>kemon</td>
  </tr>
  <tr>
   <td>Download</td>

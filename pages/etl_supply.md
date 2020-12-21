@@ -10,7 +10,7 @@
 <ul>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#story">Story</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#media">Media</a></li>
- <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#additional-features">Additional Features</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#features">Features</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#changelog">Changelog</a></li>
  <ul>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#version-2">version 2</a></li>
@@ -79,7 +79,7 @@ Media
 <a href="https://i.imgur.com/P79d0f1.jpg"><img src="https://i.imgur.com/P79d0f1.jpg"></a>
 <a href="https://i.imgur.com/HmO2eGu.jpg"><img src="https://i.imgur.com/HmO2eGu.jpg"></a>
 
-Additional Features
+Features
 ============
 In an attempt to improve the map further, two features have been added. One with a gameplay impact and the other one simply being a quality of life improvement for spectators and shout-casters.
 <a href="https://i.imgur.com/JCcZb18.jpg"><img src="https://i.imgur.com/JCcZb18.jpg"></a>

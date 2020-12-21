@@ -23,7 +23,7 @@
  </tr>
  <tr>
   <td>BSP name</td>
-  <td>etl_ice_v4</td>
+  <td>etl_ice_v4.bsp</td>
  </tr>
  <tr>
   <td>Status</td>
@@ -36,6 +36,14 @@
  <tr>
   <td>Players</td>
   <td>16 vs 16</td>
+ </tr>
+ <tr>
+  <td>Original map by</td>
+  <td>id software</td>
+ </tr>
+ <tr>
+  <td>Visual overhaul by</td>
+  <td>kemon</td>
  </tr>
  <tr>
   <td>Download</td>

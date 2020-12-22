@@ -1,18 +1,17 @@
-<img src="https://github.com/realkemon/home/blob/master/gfx/avatar.png" width="64"/> Cedric a.k.a. 'kemon' 
+<img src="https://github.com/realkemon/home/blob/master/gfx/avatar.png" width="64"/> Cedric a.k.a. kemon
 ==========
 
-I'm Cedric a.k.a. kemon, a Europe-based Level Designer, Environment- and Texture Artist and as of late also a Twitch streamer. I'm part of the game development team of [ET: Legacy](https://github.com/etlegacy), an open source project aiming to restore the good old days of [Wolfenstein: Enemy Territory](https://github.com/id-Software/Enemy-Territory). So far my game development experience mainly revolves around to the idtech3 engine environment. However, I have also gained experience in both Unity and Unreal Engine 4 through various tutorial sessions and a [Game Jam](https://stefan.ensmann.de/en/among-silhouettes/) in 2019.
+I'm Cedric a.k.a. kemon, a Europe-based Level Designer, Environment- and Texture Artist and as of late also a [Twitch streamer](https://www.twitch.tv/realkemon). I'm part of the game development team of [ET: Legacy](https://github.com/etlegacy), an open source project aiming to restore the good old days of [Wolfenstein: Enemy Territory](https://github.com/id-Software/Enemy-Territory). So far my game development experience mainly revolves around to the idtech3 engine environment. However, I have also gained experience in both Unity and Unreal Engine 4 through various tutorial sessions and the Global Game Jams in [2020](https://github.com/realkemon/ggj2020) and [2019](https://stefan.ensmann.de/en/among-silhouettes/).
 
 
 <table>
  <tr>
    <td><b>Index:</b><br>
-<a href="https://github.com/realkemon/home/blob/master/README.md#about-me">About Me</a><br>
+<a href="https://github.com/realkemon/home#-cedric-aka-kemon">About Me</a><br>
 <ul>
  <li><a href="https://github.com/realkemon/home/blob/master/README.md#et-legacy">Game Development</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/README.md#level-design">Level Design</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/README.md#tutorials">Tutorials</a></li>
- <li><a href="https://github.com/realkemon/home/blob/master/README.md#twitch">Twitch</a></li> 
  </td>
  </tr>
 </table>
@@ -29,7 +28,7 @@ Game Development
 Level Design
 ============
 
-> There are three sides to my work as a Level Designer. The first one being **own projects** that I created from scratch start to finish. So far these are [Dingenskirchen](https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md), [Stiglitz](https://github.com/realkemon/home/blob/master/pages/stiglitz.md) and [Pointe du Hoc](https://github.com/realkemon/home/blob/master/pages/pointe_du_hoc.md). The second aspect of my efforts are **map overhauls** for [ET: Legacy](https://github.com/realkemon/home/blob/master/pages/etlegacy.md), which include [Frostbite, by Moonkey](https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md), [Bergen, by Detoeni](https://github.com/realkemon/home/blob/master/pages/etl_bergen.md) and [Ice](https://github.com/realkemon/home/blob/master/pages/etl_ice.md). The last aspect is a planned **video tutorial series** where I intend to create a tutorial map for new players while recording and narrating its development doubling as a video tutorial series for new Level Designers.
+> There are two sides to my work as a Level Designer. The first one being **own projects** that I created from scratch, start to finish. So far these are [Dingenskirchen](https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md), [Stiglitz](https://github.com/realkemon/home/blob/master/pages/stiglitz.md) and [Pointe du Hoc](https://github.com/realkemon/home/blob/master/pages/pointe_du_hoc.md). The second aspect of my efforts are **map overhauls** for [ET: Legacy](https://github.com/realkemon/home/blob/master/pages/etlegacy.md). These are include ['Frostbite, by Moonkey'](https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md), ['Bergen, by Detoeni'](https://github.com/realkemon/home/blob/master/pages/etl_bergen.md), ['Ice, by id software'](https://github.com/realkemon/home/blob/master/pages/etl_ice.md) and ['Supply Depot, by ginc'](https://github.com/realkemon/home/blob/master/pages/etl_ice.md).
 
 [>>> Read more](https://github.com/realkemon/home/blob/master/pages/level_design.md)
 
@@ -40,11 +39,3 @@ Tutorials
 > I started creating maps for Wolfenstein: Enemy Territory back in 2008 and to this day I'm still learning new things about the engine on the regular. Inactive forum boards, dead reference links and a lack of official documentations seem to dominate the current experience when looking for resources. Therefore, I decided to build a tutorial map for new players to learn the game mechanics as well as for new mappers to learn how to build said objectives and what to keep in mind when mapping for ET.
 
 [>>> Read more](https://github.com/realkemon/home/blob/master/pages/tutorials.md)
-
-
-Twitch
-============
-
-> I started my Twitch channel in September 2019 and have since streamed the development progress of [Pointe du Hoc](https://github.com/realkemon/home/blob/master/pages/pointe_du_hoc.md), my submission for the 2019 Trackbase map contest. If you are interested in my work then I would love to welcome you to my [stream](https://www.twitch.tv/realkemon) some time. Future content plans include continued work on the map overhauls for ET: Legacy, own Level Design projects including a tutorial series, possibly 3D modelling attempts for new player models and maybe occasional game sessions.
-
-[>>> Read more](https://github.com/realkemon/home/blob/master/pages/twitch.md)

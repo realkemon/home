@@ -88,7 +88,7 @@ Changelog
 
 ### version 5 (pending)
 
-* [TODO] Rename targetname `south_door_closed0` to `south_door_closed` to fix game crash. *(Thanks to Kate for reporting)*
+* Renamed targetname `south_door_closed0` to `south_door_closed` to fix game crash. *(Thanks to Kate for reporting)*
 
 ### version 4
 

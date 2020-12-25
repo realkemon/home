@@ -12,6 +12,7 @@
  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#media">Media</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#changelog">Changelog</a></li>
  <ul>
+  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#version-5-pending">version 5 (pending)</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#version-4">version 4</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#version-3">version 3</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#version-2">version 2</a></li>
@@ -84,6 +85,10 @@ Media
 
 Changelog
 ============
+
+### version 5 (pending)
+
+* [TODO] Rename targetname `south_door_closed0` to `south_door_closed` to fix game crash. *(Thanks to Kate for reporting)*
 
 ### version 4
 

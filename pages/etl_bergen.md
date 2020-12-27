@@ -8,21 +8,20 @@
   <td rowspan="8"><b>Index:</b><br>
 <a href="https://github.com/realkemon/home/blob/master/README.md#-cedric-aka-kemon">Home</a><br>
 <ul>
- <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#story">Story</a></li>
- <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#media">Media</a></li>
- <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#changelog">Changelog</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#story">Story</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#media">Media</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#changelog">Changelog</a></li>
  <ul>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#version-5-pending">version 5 (pending)</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#version-4">version 4</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#version-3">version 3</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#version-2">version 2</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#version-1">version 1</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#version-5-pending">version 5 (pending)</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#version-4">version 4</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#version-3">version 3</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#version-2">version 2</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#version-1">version 1</a></li>
  </ul>
- <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#development">Development</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#development">Development</a></li>
  <ul>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#specs">Specs</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#source">Source</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/etl_bergen.md#compile-parameters">Compile Parameters</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#source">Source</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#compile-parameters">Compile Parameters</a></li>
  </ul></td>
  </tr>
  <tr>

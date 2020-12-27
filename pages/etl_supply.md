@@ -96,6 +96,7 @@ Changelog
 
 ### version 3 (pending)
 
+* [TODO] Provide necessary entities to enable toggle truck repairable or not. *(Thanks to ETc.Jay for reporting)*
 * [TODO] Setstate errors in console after dynamiting 1st main gate. *(Thanks to WuTangH for reporting)*
 * [TODO] CP sound doesn't reset and is audible after `/map_restart`. *(Thanks to WuTangH for reporting)*
 * [TODO] `grasssteps` not working on terrain. *(Thanks to WuTangH for reporting)*

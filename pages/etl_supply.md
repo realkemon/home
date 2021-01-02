@@ -97,12 +97,14 @@ Changelog
 ### version 3 (pending)
 
 * [TODO] Provide necessary entities to enable toggle truck repairable or not. *(Thanks to ETc.Jay for reporting)*
-* [TODO] Setstate errors in console after dynamiting 1st main gate. *(Thanks to WuTangH for reporting)*
-* [TODO] CP sound doesn't reset and is audible after `/map_restart`. *(Thanks to WuTangH for reporting)*
-* [TODO] `grasssteps` not working on terrain. *(Thanks to WuTangH for reporting)*
-* [TODO] Crate controls not showing satchel icon for Axis and activation icon for Allies. *(Thanks to WuTangH for reporting)*
+* [TODO] Gold crate support blocks visible through walls.
+* Setstate errors in console after dynamiting 1st main gate. *(Thanks to WuTangH for reporting)*
+* Fixed CP sound playing in second round after `/map_restart`. *(Thanks to WuTangH for reporting)*
+* Fixed `surfaceparm grasssteps` to add missing sounds when walking on grass. *(Thanks to WuTangH for reporting)*
+* [TODO] Adjusted clip brush at first forward bunker teamdoor to prevent getting stuck. 
+* Crate controls not showing satchel icon for Axis. *(Thanks to WuTangH for reporting)*
 * [TODO] Visible seams in terrain textures.
-* [TODO] Increase amount of spawn slots from 20 vs 20. *(Thanks to Dmxj for reporting)*
+* [TEST] Increased amount of spawn slots from 20vs20 to 32vs32. *(Thanks to Dmxj for reporting)*
 
 ### version 2
 

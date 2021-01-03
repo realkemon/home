@@ -89,6 +89,7 @@ Changelog
 
 * Renamed targetname `south_door_closed0` to `south_door_closed` to fix game crash. *(Thanks to Kate for reporting)*
 * Fixed sounds and remapshaders being incorrectly active at map start in second round after `/map_restart`. *(Thanks to WuTangH for inspiration)*
+* Provided option to toggle tank invulnerable or not through mapscript (vulnerable by default). *(Thanks to Ensiform for finding the perfect way to do this)*
 
 ### version 4
 

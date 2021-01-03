@@ -96,15 +96,16 @@ Changelog
 
 ### version 3 (pending)
 
-* [TODO] Provide necessary entities to enable toggle truck repairable or not. *(Thanks to ETc.Jay for reporting)*
-* [TODO] Gold crate support blocks visible through walls.
-* Setstate errors in console after dynamiting 1st main gate. *(Thanks to WuTangH for reporting)*
+* Provided option to toggle truck invulnerable or not through mapscript (invulnerable by default). *(Thanks to ETc.Jay for reporting and absolutely huge thanks to Ensiform for finding the perfect way to do this)*
+* Fixed gold crate support blocks visible through walls.
+* Fixed `setstate` errors in console after dynamiting 1st main gate. *(Thanks to WuTangH for reporting)*
 * Fixed CP sound playing in second round after `/map_restart`. *(Thanks to WuTangH for reporting)*
 * Fixed `surfaceparm grasssteps` to add missing sounds when walking on grass. *(Thanks to WuTangH for reporting)*
-* [TODO] Adjusted clip brush at first forward bunker teamdoor to prevent getting stuck. 
+* Adjusted clip brush at forward bunker teamdoor/gate to prevent getting stuck on the edge. 
 * Crate controls not showing satchel icon for Axis. *(Thanks to WuTangH for reporting)*
 * [TODO] Visible seams in terrain textures.
 * [TEST] Increased amount of spawn slots from 20vs20 to 32vs32. *(Thanks to Dmxj for reporting)*
+* Fixed skyportal incorectly having sky shader instead of mountain.
 
 ### version 2
 

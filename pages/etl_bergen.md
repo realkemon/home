@@ -90,6 +90,7 @@ Changelog
 * Renamed targetname `south_door_closed0` to `south_door_closed` to fix game crash. *(Thanks to Kate for reporting)*
 * Fixed sounds and remapshaders active at map start in second round after `/map_restart`. *(Thanks to WuTangH for inspiration)*
 * Provided option to toggle tank invulnerable through mapscript (vulnerable by default). *(Thanks to Ensiform for explanation)*
+* Increased amount of spawn slots from 16vs16 to 32vs32.
 
 ### version 4
 

@@ -104,7 +104,7 @@ Changelog
 * Adjusted clip brush at forward bunker teamdoor/gate to prevent getting stuck on the edge. 
 * Crate controls not showing satchel icon for Axis. *(Thanks to WuTangH for reporting)*
 * [TODO] Visible seams in terrain textures.
-* [TEST] Increased amount of spawn slots from 20vs20 to 32vs32. *(Thanks to Dmxj for reporting)*
+* Increased amount of spawn slots from 20vs20 to 32vs32. *(Thanks to Dmxj for reporting)*
 * Fixed skyportal incorectly having sky shader instead of mountain.
 
 ### version 2

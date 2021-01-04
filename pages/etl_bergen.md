@@ -88,9 +88,10 @@ Changelog
 ### version 5 (pending)
 
 * Renamed targetname `south_door_closed0` to `south_door_closed` to fix game crash. *(Thanks to Kate for reporting)*
-* Fixed sounds and remapshaders active at map start in second round after `/map_restart`. *(Thanks to WuTangH for inspiration)*
+* Fixed sounds and remapshaders active at map start in second round after `/map_restart`. *(Thanks to WuTangH for reporting issue on 'Supply Depot, by ginc')*
 * Provided option to toggle tank invulnerable through mapscript (vulnerable by default). *(Thanks to Ensiform for explanation)*
 * Increased amount of spawn slots from 16vs16 to 32vs32.
+* Fixed surfaceparm grasssteps to add missing sounds when walking on grass. *(Thanks to WuTangH for reporting issue on 'Supply Depot, by ginc')*
 
 ### version 4
 

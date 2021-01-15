@@ -96,7 +96,7 @@ Changelog
 
 ### version 3 (pending)
 
-* Achieved substantial performance improvements by reducing drawn surfaces through adjusting lightmap settings. *(Thanks to hatcher for comprehensive support)*
+* Substantial performance improvements by reducing drawn surfaces with adjusted light settings. *(Thanks to hatcher for comprehensive support)*
 * Provided option to toggle truck invulnerable or not through mapscript (invulnerable by default). *(Thanks to ETc.Jay for reporting and absolutely huge thanks to Ensiform for finding the perfect way to do this)*
 * Fixed gold crate support blocks visible through walls.
 * Fixed `setstate` errors in console after dynamiting 1st main gate. *(Thanks to WuTangH for reporting)*

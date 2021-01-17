@@ -12,6 +12,7 @@
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#media">Media</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#changelog">Changelog</a></li>
  <ul>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-11-pending">version 11 (pending)</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-10">version 10</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-9">version 9</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-8">version 8</a></li>
@@ -83,6 +84,12 @@ Media
 Changelog
 ============
 **NOTE:** Previous overhaul versions were too far away from the original. Version 7 is a fresh start from the original 'Frostbite, by Moonkey', which is why previous versions aren't listed below.
+
+### version 11 (pending)
+
+* Adjusted lighting to increase performance.
+* Converted smaller brushwork to .ase models to reduce lightmap data and improve performance.
+* Increased supported playercount from 20vs20 to 32vs32.
 
 ### version 10
 

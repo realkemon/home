@@ -90,6 +90,7 @@ Changelog
 * Adjusted lighting to increase performance.
 * Converted smaller brushwork to .ase models to reduce lightmap data and improve performance.
 * Increased supported playercount from 20vs20 to 32vs32.
+* Reduced volume of wind sounds to reduce distractions.
 
 ### version 10
 

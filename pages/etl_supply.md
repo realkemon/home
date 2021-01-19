@@ -107,6 +107,7 @@ Changelog
 * Fixed visible seams in terrain textures.
 * Increased amount of spawn slots from 20vs20 to 32vs32. *(Thanks to Dmxj for reporting)*
 * Fixed skyportal incorectly having sky shader instead of mountain.
+* Fixed flying rock next to east depot wall.
 
 ### version 2
 

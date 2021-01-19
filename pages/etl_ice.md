@@ -87,7 +87,11 @@ Changelog
 ### version 5 (pending)
 
 * Adjusted lighting and terrain blending to improve performance.
-* Increased playercount from 16vs16 to 32vs32
+* Increased playercount from 16vs16 to 32vs32.
+* Removed flag sound from guardtower.
+* Fixed CP sounds playing in second round after `/map_restart`. *(Thanks to WuTangH for reporting issue on 'Supply Depot, by ginc')*
+* Fixed missing command map shader on forward bunker flag for Axis.
+* Fixed setstate error for non-existent entities.
 
 ### version 4
 

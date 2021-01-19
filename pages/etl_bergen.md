@@ -92,6 +92,7 @@ Changelog
 * Provided option to toggle tank invulnerable through mapscript (vulnerable by default). *(Thanks to Ensiform for explanation)*
 * Increased amount of spawn slots from 16vs16 to 32vs32.
 * Fixed surfaceparm grasssteps to add missing sounds when walking on grass. *(Thanks to WuTangH for reporting issue on 'Supply Depot, by ginc')*
+* Removed deprecated alarm sounds.
 
 ### version 4
 

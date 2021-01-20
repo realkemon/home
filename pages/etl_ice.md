@@ -10,6 +10,7 @@
 <ul>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#story">Story</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#media">Media</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#options">Options</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#changelog">Changelog</a></li>
  <ul>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#version-5-pending">version 5 (pending)</a></li>
@@ -77,6 +78,13 @@ Media
 <a href="https://i.imgur.com/YZPcgiq.jpg"><img src="https://i.imgur.com/YZPcgiq.jpg"></a>
 <a href="https://i.imgur.com/DCODrSI.jpg"><img src="https://i.imgur.com/DCODrSI.jpg"></a>
 <a href="https://i.imgur.com/ASadpLv.jpg"><img src="https://i.imgur.com/ASadpLv.jpg"></a>
+
+
+Options
+============
+ET maps are played in very different settings depending on the active gamemode and server configuration. To avoid maintaining different variations of the same map version, the overhauls come with optional features that server admins can specify in the map script. If additional optional features are desired, please reach out on [Discord](https://discord.gg/QECRUG9VAY).
+
+'Ice, by id software' currently does not provide optional features. To request a feature, please reach out on [Discord](https://discord.gg/QECRUG9VAY).
 
 
 Changelog

@@ -84,9 +84,10 @@ Media
 
 Options
 ============
-ET maps are played in very different settings depending on the active gamemode and server configuration. To avoid maintaining different variations of the same map version, the overhauls come with optional features that server admins can specify in the map script. If additional optional settings are desired, please reach out on [Discord](https://discord.gg/QECRUG9VAY).
+ET maps are played in very different settings depending on the active gamemode and server configuration. To avoid maintaining different variations of the same map version, the overhauls come with optional features that server admins can specify in the map script. If additional optional features are desired, please reach out on [Discord](https://discord.gg/QECRUG9VAY).
 ```
 //====OPTIONAL SETTINGS==============================================================
+wait 1000
 // Toggle the line of the respective setting you want to change by (un-)commenting.
 //
 setstate TJ_clip invisible				// clip preventing TJ over storage wall

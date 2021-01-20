@@ -101,24 +101,25 @@ Changelog
 * Fixed gold crate support blocks visible through walls.
 * Fixed `setstate` errors in console after dynamiting 1st main gate. *(Thanks to WuTangH for reporting)*
 * Fixed CP sound playing in second round after `/map_restart`. *(Thanks to WuTangH for reporting)*
-* Fixed `surfaceparm grasssteps` to add missing sounds when walking on grass. *(Thanks to WuTangH for reporting)*
+* Fixed `surfaceparm grasssteps` to add missing sounds when walking on grass. *(Thanks to WuTangH and Aciz for reporting)*
 * Adjusted clip brush at forward bunker teamdoor/gate to prevent getting stuck on the edge. 
 * Crate controls not showing satchel icon for Axis. *(Thanks to WuTangH for reporting)*
 * Fixed visible seams in terrain textures.
 * Increased amount of spawn slots from 20vs20 to 32vs32. *(Thanks to Dmxj for reporting)*
 * Fixed skyportal incorectly having sky shader instead of mountain.
 * Fixed flying rock next to east depot wall.
+* Reduced weird shadows from the ceiling lampshades. *(Thank you Aciz for reporting.)*
 
 ### version 2
 
-* Changed floodlight colour to uniform white.
-* Fixed vanilla ET compatibility.
-* Fixed various trickjumps.
-* Cleaned collision for easier player movement.
-* Fixed mirrored textures in vanilla ET.
+* Changed floodlight colour to uniform white. *(Thank you Aciz for reporting.)*
+* Fixed vanilla ET compatibility. *(Thank you Kate for reporting.)*
+* Fixed various trickjumps. *(Thank you Aciz for reporting.)*
+* Cleaned collision for easier player movement. *(Thank you Aciz for reporting.)*
+* Fixed mirrored textures in vanilla ET. *(Thank you Aciz for reporting.)*
 * Changed crane control construction indicators for clearer visibility.
 * Improved lighting and general visibility.
-* Fixed issue where planting landmines was possible everywhere.
+* Fixed issue where planting landmines was possible everywhere. *(Thank you Aciz for reporting.)*
 
 ### version 1
 

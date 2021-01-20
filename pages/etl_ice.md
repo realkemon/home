@@ -13,7 +13,7 @@
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#options">Options</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#changelog">Changelog</a></li>
  <ul>
-  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#version-5-pending">version 5 (pending)</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#version-5">version 5</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#version-4">version 4</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#version-3">version 3</a></li>
  </ul>
@@ -25,19 +25,19 @@
  </tr>
  <tr>
   <td>BSP name</td>
-  <td>etl_ice_v4.bsp</td>
+  <td>etl_ice_v5.bsp</td>
  </tr>
  <tr>
   <td>Status</td>
-  <td>version 4</td>
+  <td>version 5</td>
  </tr>
  <tr> 
   <td>Latest Release</td>
-  <td>December 2020</td>
+  <td>January 2021</td>
  </tr>
  <tr>
   <td>Players</td>
-  <td>16 vs 16</td>
+  <td>32 vs 32</td>
  </tr>
  <tr>
   <td>Original map by</td>
@@ -49,7 +49,7 @@
  </tr>
  <tr>
   <td>Download</td>
-  <td><a href="https://www.moddb.com/mods/etlegacy/addons/ice-by-id-software-v4" title="Download Ice, by id software (v4) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/205560.png" alt="Ice, by id software (v4)" /></a></td>
+  <td><a href="https://www.moddb.com/mods/etlegacy/addons/ice-by-id-software-v5" title="Download 'Ice, by id software' (v5) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/207301.png" alt="'Ice, by id software' (v5)" /></a></td>
  </tr>
 </table>
 
@@ -92,7 +92,7 @@ Changelog
 
 **NOTE:** Previous overhaul versions were too far away from the original. Version 3 is a fresh start from the original 'Ice, by id software', which is why previous versions aren't listed below.
 
-### version 5 (pending)
+### version 5
 
 * Adjusted lighting and terrain blending to improve performance.
 * Increased playercount from 16vs16 to 32vs32.

@@ -96,16 +96,16 @@ Changelog
 
 ### version 3 (pending)
 
-* Substantial performance improvements by reducing drawn surfaces with adjusted light settings. *(Thanks to hatcher for comprehensive support)*
-* Provided option to toggle truck invulnerable or not through mapscript (invulnerable by default). *(Thanks to ETc.Jay for reporting and absolutely huge thanks to Ensiform for finding the perfect way to do this)*
+* Substantial performance improvements by reducing drawn surfaces with adjusted light settings. *(Thank you hatcher for comprehensive support)*
+* Provided option to toggle truck invulnerable or not through mapscript (invulnerable by default). *(Thank you ETc.Jay for reporting and absolutely huge thanks to Ensiform for finding the perfect way to do this)*
 * Fixed gold crate support blocks visible through walls.
-* Fixed `setstate` errors in console after dynamiting 1st main gate. *(Thanks to WuTangH for reporting)*
-* Fixed CP sound playing in second round after `/map_restart`. *(Thanks to WuTangH for reporting)*
-* Fixed `surfaceparm grasssteps` to add missing sounds when walking on grass. *(Thanks to WuTangH and Aciz for reporting)*
+* Fixed `setstate` errors in console after dynamiting 1st main gate. *(Thank you WuTangH for reporting)*
+* Fixed CP sound playing in second round after `/map_restart`. *(Thank you WuTangH for reporting)*
+* Fixed `surfaceparm grasssteps` to add missing sounds when walking on grass. *(Thank you WuTangH and Aciz for reporting)*
 * Adjusted clip brush at forward bunker teamdoor/gate to prevent getting stuck on the edge. 
-* Crate controls not showing satchel icon for Axis. *(Thanks to WuTangH for reporting)*
+* Crate controls not showing satchel icon for Axis. *(Thank you WuTangH for reporting)*
 * Fixed visible seams in terrain textures.
-* Increased amount of spawn slots from 20vs20 to 32vs32. *(Thanks to Dmxj for reporting)*
+* Increased amount of spawn slots from 20vs20 to 32vs32. *(Thank you Dmxj for reporting)*
 * Fixed skyportal incorectly having sky shader instead of mountain.
 * Fixed flying rock next to east depot wall.
 * Reduced weird shadows from the ceiling lampshades. *(Thank you Aciz for reporting.)*

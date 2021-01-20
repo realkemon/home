@@ -84,7 +84,7 @@ Media
 
 Options
 ============
-ET maps are played in very different settings depending on the active gamemode and server configuration. To avoid maintaining different variations of the same map version, the overhauls come with optional features that server admins can specify in the map script. To do so, put the altered mapscript in `/etmain/mapscripts/` for Legacy and usually `/[fs_game]/maps` for most other mods. If additional optional settings are desired, please reach out on [Discord](https://discord.gg/QECRUG9VAY). **DO NOT ALTER THE MAP PK3!** 
+ET maps are played in very different settings depending on the active gamemode and server configuration. To avoid maintaining different variations of the same map version, the overhauls come with optional features that server admins can specify in the map script. If additional optional settings are desired, please reach out on [Discord](https://discord.gg/QECRUG9VAY).
 ```
 //====OPTIONAL SETTINGS==============================================================
 // Toggle the line of the respective setting you want to change by (un-)commenting.

@@ -91,6 +91,12 @@ Changelog
 * Converted smaller brushwork to .ase models to reduce lightmap data and improve performance.
 * Increased supported playercount from 20vs20 to 32vs32.
 * Reduced volume of wind sounds to reduce distractions.
+* Further improved player collision at railings and doorways. *(Thank you Aciz for reporting.)*
+* Changed clips for barrels and couches for proper hit- and footstep sounds. *(Thank you Aciz for reporting.)*
+* Reduced weird shadows from the ceiling lamps in the office area. *(Thank you Aciz for reporting.)*
+* Fixed missing shader for bush model. *(Thank you Aciz for reporting.)*
+* Reverted collision on stairs down to garage to reenable a TJ. This also reintroduces bobbing effect. *(Thank you Aciz for reporting.)*
+
 
 ### version 10
 

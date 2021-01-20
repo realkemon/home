@@ -14,7 +14,7 @@
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#additions">Additions</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#changelog">Changelog</a></li>
  <ul>
-  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#version-3-pending">version 3 (pending)</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#version-3">version 3</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#version-2">version 2</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#version-1">version 1</a></li>
  </ul>
@@ -26,19 +26,19 @@
  </tr>
  <tr>
   <td>BSP name</td>
-  <td>etl_supply_v2.bsp</td>
+  <td>etl_supply_v3.bsp</td>
  </tr>
  <tr>
   <td>Status</td>
-  <td>version 2</td>
+  <td>version 3</td>
  </tr>
  <tr> 
   <td>Latest Release</td>
-  <td>December 2020</td>
+  <td>January 2021</td>
  </tr>
  <tr>
   <td>Players</td>
-  <td>20 vs 20</td>
+  <td>32 vs 32</td>
  </tr>
  <tr>
   <td>Original map by</td>
@@ -50,7 +50,7 @@
  </tr>
  <tr>
   <td>Download</td>
-  <td><a href="https://www.moddb.com/mods/etlegacy/addons/supply-depot-by-ginc" title="Download Supply Depot, by ginc (v2) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/205561.png" alt="Supply Depot, by ginc (v2)" /></a></td>
+  <td><a href="https://www.moddb.com/mods/etlegacy/addons/supply-depot-by-ginc-v3" title="Download 'Supply Depot, by ginc' (v3) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/207300.png" alt="'Supply Depot, by ginc' (v3)" /></a></td>
  </tr>
 </table>
 
@@ -116,7 +116,7 @@ The quality of life improvement are skylights in the two main bunkers, which are
 Changelog
 ============
 
-### version 3 (pending)
+### version 3
 
 * Substantial performance improvements by reducing drawn surfaces with adjusted light settings. *(Thank you hatcher for comprehensive support)*
 * Provided option to toggle truck invulnerable or not through mapscript (invulnerable by default). *(Thank you ETc.Jay for reporting and absolutely huge thanks to Ensiform for finding the perfect way to do this)*

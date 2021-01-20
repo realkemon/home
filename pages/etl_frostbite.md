@@ -13,7 +13,7 @@
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#options">Options</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#changelog">Changelog</a></li>
  <ul>
-  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-11-pending">version 11 (pending)</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-11">version 11</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-10">version 10</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-9">version 9</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-8">version 8</a></li>
@@ -27,19 +27,19 @@
  </tr>
  <tr>
   <td>BSP name</td>
-  <td>etl_frostbite_v10.bsp</td>
+  <td>etl_frostbite_v11.bsp</td>
  </tr>
  <tr>
   <td>Status</td>
-  <td>version 10</td>
+  <td>version 11</td>
  </tr>
  <tr> 
   <td>Latest Release</td>
-  <td>December 2020</td>
+  <td>January 2021</td>
  </tr>
  <tr>
   <td>Players</td>
-  <td>20 vs 20</td>
+  <td>32 vs 32</td>
  </tr>
  <tr>
   <td>Original map by</td>
@@ -51,7 +51,7 @@
  </tr>
  <tr>
   <td>Download</td>
-  <td><a href="https://www.moddb.com/mods/etlegacy/addons/frostbite-by-moonkey-v10" title="Download Frostbite, by Moonkey (v10) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/205559.png" alt="Frostbite, by Moonkey (v10)" /></a></td>
+  <td><a href="https://www.moddb.com/mods/etlegacy/addons/frostbite-by-moonkey-v11" title="Download 'Frostbite, by Moonkey' (v11) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/207302.png" alt="'Frostbite, by Moonkey' (v11)" /></a></td>
  </tr>
 </table>
 
@@ -101,7 +101,7 @@ Changelog
 ============
 **NOTE:** Previous overhaul versions were too far away from the original. Version 7 is a fresh start from the original 'Frostbite, by Moonkey', which is why previous versions aren't listed below.
 
-### version 11 (pending)
+### version 11
 
 * Adjusted lighting to increase performance.
 * Converted smaller brushwork to .ase models to reduce lightmap data and improve performance.

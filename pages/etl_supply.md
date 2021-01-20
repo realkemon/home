@@ -101,7 +101,7 @@ setdamagable truck 0					// Make truck invulnerable
 * ... the option to toggle the truck (in-)vulnerable. By default, the truck is invulnerable. To let Axis damage it, comment the line `setdamagable truck 0`.
 * ... an optional clip brush in the crane controls window to prevent TJ. This clip is enabled by default. To disable it, uncomment the line `setstate crane_controls_TJ invisible`.
 * ... the option to disable radio speakers. They are enabled by default. To disable, uncomment the lines `setstate radio_1_speaker invisible` and `setstate radio_2_speaker invisible`.
-* an option CP spawn for the Axis team. By default, the spawn is disabled. To enable it, uncomment the line `globalaccum 2 set 1`.
+* an optional CP spawn for the Axis team. By default, the spawn is disabled. To enable it, uncomment the line `globalaccum 2 set 1`.
 
 
 Additions

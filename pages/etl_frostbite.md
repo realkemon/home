@@ -10,6 +10,7 @@
 <ul>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#story">Story</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#media">Media</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#options">Options</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#changelog">Changelog</a></li>
  <ul>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-11-pending">version 11 (pending)</a></li>
@@ -79,6 +80,20 @@ Media
 <a href="https://i.imgur.com/mgF2bSD.jpg"><img src="https://i.imgur.com/mgF2bSD.jpg"></a>
 <a href="https://i.imgur.com/xbjJRHx.jpg"><img src="https://i.imgur.com/xbjJRHx.jpg"></a>
 <a href="https://i.imgur.com/jxLLymS.jpg"><img src="https://i.imgur.com/jxLLymS.jpg"></a>
+
+
+Options
+============
+ET maps are played in very different settings depending on the active gamemode and server configuration. To avoid maintaining different variations of the same map version, the overhauls come with optional features that server admins can specify in the map script. To do so, put the altered mapscript in `/etmain/mapscripts/` for Legacy and usually `/[fs_game]/maps` for most other mods. If additional optional settings are desired, please reach out on [Discord](https://discord.gg/QECRUG9VAY). **DO NOT ALTER THE MAP PK3!** 
+```
+//====OPTIONAL SETTINGS==============================================================
+// Toggle the line of the respective setting you want to change by (un-)commenting.
+//
+setstate TJ_clip invisible				// clip preventing TJ over storage wall
+//===================================================================================
+```
+'Frostbite, by Moonkey' comes with...
+* ... an optional **one-sided** clip that prevents players from jumping over the Storage Wall towards the facility, while at the same time allows players to keep jumping outwards. This clip is disabled by default. To enable it, comment the line `setstate TJ_clip invisible`.
 
 
 Changelog

@@ -13,7 +13,7 @@
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#options">Options</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#changelog">Changelog</a></li>
  <ul>
-  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#version-5-pending">version 5 (pending)</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#version-5">version 5</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#version-4">version 4</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#version-3">version 3</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#version-2">version 2</a></li>
@@ -27,19 +27,19 @@
  </tr>
  <tr>
   <td>BSP name</td>
-  <td>etl_bergen_v4.bsp</td>
+  <td>etl_bergen_v5.bsp</td>
  </tr>
  <tr>
   <td>Status</td>
-  <td>version 4</td>
+  <td>version 5</td>
  </tr>
  <tr> 
   <td>Latest Release</td>
-  <td>December 2020</td>
+  <td>January 2021</td>
  </tr>
  <tr>
   <td>Players</td>
-  <td>16 vs 16</td>
+  <td>32 vs 32</td>
  </tr>
  <tr>
   <td>Original map by</td>
@@ -51,7 +51,7 @@
  </tr>
  <tr>
   <td>Download</td>
-  <td><a href="https://www.moddb.com/mods/etlegacy/addons/bergen-by-detoeni" title="Download Bergen, by Detoeni (v4) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/205558.png" alt="Bergen, by Detoeni (v4)" /></a></td>
+  <td><a href="https://www.moddb.com/mods/etlegacy/addons/bergen-by-detoeni-v5" title="Download 'Bergen, by Detoeni' (v5) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/207303.png" alt="'Bergen, by Detoeni' (v5)" /></a></td>
  </tr>
 </table>
 
@@ -103,7 +103,7 @@ globalaccum 5 set 1			  	// Secure flag while Allies hold both CP and flag
 Changelog
 ============
 
-### version 5 (pending)
+### version 5
 
 * Renamed targetname `south_door_closed0` to `south_door_closed` to fix game crash. *(Thanks to Kate for reporting)*
 * Fixed sounds and remapshaders active at map start in second round after `/map_restart`. *(Thanks to WuTangH for reporting issue on 'Supply Depot, by ginc')*

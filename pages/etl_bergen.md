@@ -10,6 +10,7 @@
 <ul>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#story">Story</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#media">Media</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#options">Options</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#changelog">Changelog</a></li>
  <ul>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#version-5-pending">version 5 (pending)</a></li>
@@ -80,6 +81,23 @@ Media
 <a href="https://i.imgur.com/7cHZFYw.jpg"><img src="https://i.imgur.com/7cHZFYw.jpg"></a>
 <a href="https://i.imgur.com/AAmHJ2V.jpg"><img src="https://i.imgur.com/AAmHJ2V.jpg"></a>
 <a href="https://i.imgur.com/UPs3uAH.jpg"><img src="https://i.imgur.com/UPs3uAH.jpg"></a>
+
+
+Options
+============
+ET maps are played in very different settings depending on the active gamemode and server configuration. To avoid maintaining different variations of the same map version, the overhauls come with optional features that server admins can specify in the map script. If additional optional features are desired, please reach out on [Discord](https://discord.gg/QECRUG9VAY).
+```
+//====OPTIONAL SETTINGS==============================================================
+wait 1000
+// Toggle the line of the respective setting you want to change by (un-)commenting.
+//
+// setdamagable tank 0			// Make tank invulnerable
+globalaccum 5 set 1			  	// Secure flag while Allies hold both CP and flag
+//===================================================================================
+```
+'Bergen, by Detoeni' comes with...
+* ... the option to toggle the tank (in-)vulnerable. By default, the tank is vulnerable. To prevent Axis from damaging it, uncomment the line `setdamagable tank 0`.
+* ... the option to secure the forward bunker flag while the Allies hold both the CP and the flag. Flag secure is enabled by default. To disable it, comment the line `globalaccum 5 set 1`.
 
 
 Changelog

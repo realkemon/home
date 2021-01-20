@@ -10,7 +10,8 @@
 <ul>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#story">Story</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#media">Media</a></li>
- <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#features">Features</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#options">Options</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#additions">Additions</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#changelog">Changelog</a></li>
  <ul>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#version-3-pending">version 3 (pending)</a></li>
@@ -80,15 +81,36 @@ Media
 <a href="https://i.imgur.com/P79d0f1.jpg"><img src="https://i.imgur.com/P79d0f1.jpg"></a>
 <a href="https://i.imgur.com/HmO2eGu.jpg"><img src="https://i.imgur.com/HmO2eGu.jpg"></a>
 
-Features
+
+Options
+============
+ET maps are played in very different settings depending on the active gamemode and server configuration. To avoid maintaining different variations of the same map version, the overhauls come with optional features that server admins can specify in the map script. If additional optional features are desired, please reach out on [Discord](https://discord.gg/QECRUG9VAY).
+```
+//====OPTIONAL SETTINGS==============================================================
+wait 1000
+// Toggle the line of the respective setting you want to change by (un-)commenting.
+//
+setdamagable truck 0					// Make truck invulnerable
+// setstate crane_controls_TJ invisible	// Clip brush in crane controls window	(hidden by default)
+// setstate radio_1_speaker invisible	// Radio in forward bunker spawn (enabled by default)
+// setstate radio_2_speaker invisible	// Radio at depot gates (enabled by default)
+// globalaccum 2 set 1					// Axis CP spawn (disabled by default)
+//===================================================================================
+```
+'Supply Depot, by ginc' comes with...
+* ... the option to toggle the truck (in-)vulnerable. By default, the truck is invulnerable. To let Axis damage it, comment the line `setdamagable truck 0`.
+* ... an optional clip brush in the crane controls window to prevent TJ. This clip is enabled by default. To disable it, uncomment the line `setstate crane_controls_TJ invisible`.
+* ... the option to disable radio speakers. They are enabled by default. To disable, uncomment the lines `setstate radio_1_speaker invisible` and `setstate radio_2_speaker invisible`.
+* an option CP spawn for the Axis team. By default, the spawn is disabled. To enable it, uncomment the line `globalaccum 2 set 1`.
+
+
+Additions
 ============
 In an attempt to improve the map further, two features have been added. One with a gameplay impact and the other one simply being a quality of life improvement for spectators and shout-casters.
 <a href="https://i.imgur.com/JCcZb18.jpg"><img src="https://i.imgur.com/JCcZb18.jpg"></a>
 The gameplay feature is the additional of an antenna, which is linked to the Command Post. It provides a near-global visual indicator for the status of the Command Post. (Destroyed, Under Construction, Constructed).
 <a href="https://i.imgur.com/GTJ8hE2.jpg"><img src="https://i.imgur.com/GTJ8hE2.jpg"></a>
 The quality of life improvement are skylights in the two main bunkers, which are solid for players and entities (bullets, explosions, grenades, etc.), but non-solid for spectators and shout casters. They allow spectators to maintain a constant overview of action around the facilities, while also keeping an eye on the respective main objective to never miss crucial events.
-
-
 
 
 Changelog

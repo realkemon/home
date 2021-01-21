@@ -13,6 +13,7 @@
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#options">Options</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#changelog">Changelog</a></li>
  <ul>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#version-6-pending">version 6 (pending)</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#version-5">version 5</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#version-4">version 4</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#version-3">version 3</a></li>
@@ -92,6 +93,9 @@ Changelog
 
 **NOTE:** Previous overhaul versions were too far away from the original. Version 3 is a fresh start from the original 'Ice, by id software', which is why previous versions aren't listed below.
 
+### version 6 (pending)
+
+* [TODO] Side Wall cm icon is upside down in vanilla ET due to incorrect field order in .tga. *(Thank you Aciz for reporting)*
 ### version 5
 
 * Adjusted lighting and terrain blending to improve performance.

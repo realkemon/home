@@ -5,7 +5,7 @@ Dingenskirchen - A Tribute
  <tr>
   <td><a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen.png" width="256"/></a></td>
   <td><a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen_cc.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen_cc.png" width="256"/></a></td>
-  <td rowspan="8"><b>Index:</b><br>
+  <td rowspan="6"><b>Index:</b><br>
 <a href="https://github.com/realkemon/home/blob/master/README.md">Home</a><br>
 <ul>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md#preamble">Preamble</a></li>

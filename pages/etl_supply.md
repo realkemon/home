@@ -3,8 +3,8 @@
 
 <table>
  <tr>
-  <td><a href="https://i.imgur.com/VR8Q6jp.png"><img src="https://i.imgur.com/VR8Q6jp.png" width="256"/></a></td>
-  <td><a href="https://i.imgur.com/P90cnvc.png"><img src="https://i.imgur.com/P90cnvc.png" width="256"/></a></td>
+  <td><a href="https://raw.githubusercontent.com/realkemon/home/master/gfx/supply.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/gfx/supply.png" width="256"/></a></td>
+  <td><a href="https://raw.githubusercontent.com/realkemon/home/master/gfx/supply_cc.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/gfx/supply_cc.png" width="256"/></a></td>
   <td rowspan="8"><b>Index:</b><br>
 <a href="https://github.com/realkemon/home/blob/master/README.md">Home</a><br>
 <ul>
@@ -184,5 +184,5 @@ Since we are talking about an open-sourced game, in my opinion as much as possib
 </build>
 ```
 
-[:arrow_backward: Return to Home](https://github.com/realkemon/home/blob/master/README.md) [:arrow_double_up: Back to the Top](https://github.com/realkemon/home/blob/master/pages/etl_ice.md)
+[:arrow_backward: Return to Home](https://github.com/realkemon/home/blob/master/README.md) [:arrow_double_up: Back to the Top](https://github.com/realkemon/home/blob/master/pages/etl_supply.md)
  

@@ -8,6 +8,7 @@ Dingenskirchen
   <td rowspan="8"><b>Index:</b><br>
 <a href="https://github.com/realkemon/home/blob/master/README.md">Home</a><br>
 <ul>
+ <li><a href="https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md#preamble">Preamble</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md#story">Story</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md#media">Media</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md#changelog">Changelog</a></li>
@@ -44,10 +45,14 @@ Dingenskirchen
  </tr>
 </table>
 
+Preamble
+============
+This map started as a tribute to *'Return to Castle Wolfenstein'* and was a collaboration between phisherman and me, with big support by Back$nipe (aka FatalJamon). It was the first map project I ever managed to release and it taught me so much over the years. It would not have been possible without so many helping hands that guided me along the way. I also want to send a special thank you to the UJE clan for play testing this map in various stages of development.
+
 Story
 ============
 
-December 1944:
+**December 1944:**
 The noose tightens around the Reich's neck as Allied forces threaten to cross the Siegfried Line and invade Germany. An Eifel castle has become a central location for the Kraut High Command in this area to coordinate their troop movements. It is the last obstacle on the road into Germany and one of the final chances for the Axis to ever turn the tables. Not taking any chances, the Allies are attempting to sneak a suitcase bomb into the High Command conference room to disrupt the Axis strategy at its core.
 
 Media

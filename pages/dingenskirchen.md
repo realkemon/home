@@ -52,7 +52,7 @@ December 1944:*The noose tightens around the Reich's neck as Allied forces threa
 Changelog
 ============
 
-**NOTE:** Public release versions are only betas 1, 2, 7 and 9. All other iterations were semi-private test versions for which a massive thank you needs to be directed to the UJE clan and Niek and Shargo especially for such comprehensive feedback that it cannot be listed in detail. Betas 2 and 7 were complete reworks of the previous public release that it is impossible to provide proper changelogs. This changed with the release of beta 7 as the map finally entered a stage where large scale reworks were no longer necessary and proper changelogs can be provided.
+**NOTE:** Public release versions are only betas 1, 2, 7 and 9. All other iterations were semi-private test versions for which a massive thank you needs to be directed to the UJE clan and Niek and Shargo especially for such comprehensive feedback that it cannot be listed in detail. Betas 2 and 7 were complete reworks of the previous public release, which makes it impossible to provide proper changelogs. This changed with the release of beta 7 as the map finally entered a stage where large scale reworks were no longer necessary and proper changelogs can be provided.
 
 ### beta 10 (pending)
 

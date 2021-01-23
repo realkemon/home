@@ -1,4 +1,4 @@
-Dingenskirchen
+Dingenskirchen - A Tribute
 ==========
 
 <table>

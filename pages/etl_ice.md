@@ -3,8 +3,8 @@
 
 <table>
  <tr>
-  <td><a href="https://i.imgur.com/b4cZOu2.png"><img src="https://i.imgur.com/b4cZOu2.png" width="256"/></a></td>
-  <td><a href="https://i.imgur.com/QfCFaqT.png"><img src="https://i.imgur.com/QfCFaqT.png" width="256"/></a></td>
+  <td><a href="https://raw.githubusercontent.com/realkemon/home/master/gfx/ice.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/gfx/ice.png" width="256"/></a></td>
+  <td><a href="https://raw.githubusercontent.com/realkemon/home/master/gfx/ice_cc.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/gfx/ice_cc.png" width="256"/></a></td>
   <td rowspan="8"><b>Index:</b><br>
 <a href="https://github.com/realkemon/home/blob/master/README.md">Home</a><br>
 <ul>

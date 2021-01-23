@@ -47,7 +47,8 @@ Dingenskirchen
 Story
 ============
 
-December 1944:*The noose tightens around the Reich's neck as Allied forces threaten to cross the Siegfried Line and invade Germany. An Eifel castle has become a central location for the Kraut High Command in this area to coordinate their troop movements. It is the last obstacle on the road into Germany and one of the final chances for the Axis to ever turn the tables. Not taking any chances, the Allies are attempting to sneak a suitcase bomb into the High Command conference room to disrupt the Axis strategy at its core.
+December 1944:
+The noose tightens around the Reich's neck as Allied forces threaten to cross the Siegfried Line and invade Germany. An Eifel castle has become a central location for the Kraut High Command in this area to coordinate their troop movements. It is the last obstacle on the road into Germany and one of the final chances for the Axis to ever turn the tables. Not taking any chances, the Allies are attempting to sneak a suitcase bomb into the High Command conference room to disrupt the Axis strategy at its core.
 
 Changelog
 ============

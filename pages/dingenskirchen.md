@@ -50,6 +50,49 @@ Story
 December 1944:
 The noose tightens around the Reich's neck as Allied forces threaten to cross the Siegfried Line and invade Germany. An Eifel castle has become a central location for the Kraut High Command in this area to coordinate their troop movements. It is the last obstacle on the road into Germany and one of the final chances for the Axis to ever turn the tables. Not taking any chances, the Allies are attempting to sneak a suitcase bomb into the High Command conference room to disrupt the Axis strategy at its core.
 
+Media
+============
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen1.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen1.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen2.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen2.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen3.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen3.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen4.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen4.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen5.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen5.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen6.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen6.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen7.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen7.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen8.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen8.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen9.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen9.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen10.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen10.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen11.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen11.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen12.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen12.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen13.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen13.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen14.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen14.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen15.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen15.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen16.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen16.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen17.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen17.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen18.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen18.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen19.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen19.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen20.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen20.png"></a>
+
 Changelog
 ============
 
@@ -61,31 +104,31 @@ Changelog
 
 ### beta 9
 
-* Fixed minor caulk leak
-* Fixed terrain blending near tram station
-* Adjusted lighting settings in an attempt to improve performance
-* Added wm_announce to Caste Stairs construction *(Thank you Mateos for reporting)*
-* Fixed setstate errors in console at village flag secure *(Thank you Mateos for reporting)*
-* Fixed setstate errors when taking and returning suitcase *(Thank you Mateos for reporting)*
-* Removed suitcase cm icon when delivered *(Thank you Mateos for reporting)*
+* Fixed minor caulk leak.
+* Fixed terrain blending near tram station.
+* Adjusted lighting settings in an attempt to improve performance.
+* Added wm_announce to Caste Stairs construction. *(Thank you Mateos for reporting)*
+* Fixed setstate errors in console at village flag secure. *(Thank you Mateos for reporting)*
+* Fixed setstate errors when taking and returning suitcase. *(Thank you Mateos for reporting)*
+* Removed suitcase cm icon when delivered. *(Thank you Mateos for reporting)*
 * Increased disarm time for suitcase bomb from 15 to 20 seconds. *(Thank you shargo for reporting)*
 
 ### beta 8
-* Fixed missing texture
+* Fixed missing texture.
 * Fixed bug where Allies can spawn in the castle before it's breached.
 * Moved river flag closer to tunnel doors and removed crates restricting player movement.
-* Moved tunnel grate lever to tunnel doors gatehouse
-* Changed Axis Hill spawn to Church spawn
-* Changed Allied Church spawn to Tram spawn
-* Remodelled Axis castle spawn and moved staircase tower to split balcony walkway
-* Changed "placed" to "planted" in wm_announce "^5The Allies have planted the Suitcase Bomb!"
+* Moved tunnel grate lever to tunnel doors gatehouse.
+* Changed Axis Hill spawn to Church spawn.
+* Changed Allied Church spawn to Tram spawn.
+* Remodelled Axis castle spawn and moved staircase tower to split balcony walkway.
+* Changed "placed" to "planted" in wm_announce "^5The Allies have planted the Suitcase Bomb!".
 * Added arm/disarm mechanic to suitcase bomb. Axis have 15 seconds to disarm.
 * Added two additional paths into the castle through the gatehouse towers to accommodate Allies now spawning outside the castle.
 * Added ladder to transition between wine cellar and middle route inside the castle.
 * Moved river flag secure event to when tank passes river spawn hut.
-* Widened passage ways to village flag
-* Removed crates at village flag to compensate too strong defensive position for Axis
-* Fixed various texture alignment issues
+* Widened passage ways to village flag.
+* Removed crates at village flag to compensate too strong defensive position for Axis.
+* Fixed various texture alignment issues.
 
 Development
 ============

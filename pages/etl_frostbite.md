@@ -3,8 +3,8 @@
 
 <table>
  <tr>
-  <td><a href="https://raw.githubusercontent.com/realkemon/home/master/gfx/frostbite.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/gfx/frostbite.png" width="256"/></a></td>
-  <td><a href="https://raw.githubusercontent.com/realkemon/home/master/gfx/frostbite_cc.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/gfx/frostbite_cc.png" width="256"/></a></td>
+  <td><a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite.png" width="256"/></a></td>
+  <td><a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite_cc.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite_cc.png" width="256"/></a></td>
   <td rowspan="8"><b>Index:</b><br>
 <a href="https://github.com/realkemon/home/blob/master/README.md">Home</a><br>
 <ul>

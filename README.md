@@ -25,10 +25,10 @@ These are maps that I created from scratch, start to finish. I started my Level 
 ### Dingenskirchen
 <table>
  <tr>
-  <td><a href="https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md#"><img src="https://github.com/realkemon/home/blob/master/levelshots/dingenskirchen.png"></a></td>
+  <td><a href="https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md#"><img src="https://github.com/realkemon/home/blob/master/levelshots/dingenskirchen.png"width="256"/></a></td>
  </tr>
  <tr>
-  <td><b>December, 1944:</b> <i>The noose tightens around the Axis' neck as Allied forces threaten to push deeper into enemy territory. An Eifel castle has become one of the final stongholds in the region and is therefore crucial for the Axis high command. Intel from the local resistance reports multiple high ranking officers gathering in the castle for a strategy conference. OSA headquarters deemed it of utmost importance to infiltrate that castle and assassinate the entire Axis high command at once.</i> <a href="https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md#">Read more</a></td>
+  <td><b>December, 1944:</b> <i>The noose tightens around the Reich's neck as Allied forces threaten to cross the Siegfried Line and invade Germany. An Eifel castle has become a central location for the Kraut High Command in this area to coordinate their troop movements. It is the last obstacle on the road into Germany and one of the final chances for the Axis to ever turn the tables. Not taking any chances, the Allies are attempting to sneak a suitcase bomb into the High Command conference room to disrupt the Axis strategy at its core.</i> <a href="https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md#">Read more</a></td>
  </tr>
 </table>
 

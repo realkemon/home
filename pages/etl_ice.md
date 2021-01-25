@@ -98,6 +98,7 @@ Changelog
 * [TODO] Side Wall cm icon is upside down in vanilla ET due to incorrect field order in .tga. *(Thank you Aciz for reporting)*
 ### version 5
 * [TODO] Make terrain clips a bit less aggressive. *(Thank you Aciz for reporting)*
+* [TODO] Remove `common/slick` at tunnel exits. *(Thank you Aciz for reporting)*
 
 * Adjusted lighting and terrain blending to improve performance.
 * Increased playercount from 16vs16 to 32vs32.

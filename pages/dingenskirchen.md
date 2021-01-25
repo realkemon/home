@@ -106,6 +106,7 @@ Changelog
 ### beta 10 (pending)
 
 * [TODO] Fix caulk leak between tower and terrain at Tunnel Doors.
+* [TODO] Tank barrier doesn't have dynamite cm icon for ALlies. *(Thank you RaFaL for reporting)*
 
 ### beta 9
 

@@ -14,6 +14,7 @@
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#additions">Additions</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#changelog">Changelog</a></li>
  <ul>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#version-4-pending">version 4 (pending)</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#version-3">version 3</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#version-2">version 2</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#version-1">version 1</a></li>
@@ -115,6 +116,10 @@ The quality of life improvement are skylights in the two main bunkers, which are
 
 Changelog
 ============
+
+### version 4 (pending)
+
+* [TODO] Re-add *'Truck is in position'* line as announcement. *(Thank you SAP for reporting)*
 
 ### version 3
 

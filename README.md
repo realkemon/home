@@ -12,7 +12,6 @@ I'm Cedric a.k.a. kemon, a Europe-based Level Designer, Environment- and Texture
   <li><a href="https://github.com/realkemon/home/blob/master/README.md#map-overhauls">Map Overhauls</a></li>
  </ul>
  <li><a href="https://github.com/realkemon/home/blob/master/README.md#et-legacy">Game Development</a></li>
- <li><a href="https://github.com/realkemon/home/blob/master/README.md#tutorials">Tutorials</a></li>
  </td>
  </tr>
 </table>
@@ -150,7 +149,7 @@ Axis submarines from a naval base near Bergen, Norway are cause for much distres
 
 
 <a href="https://github.com/realkemon/home/blob/master/pages/etlegacy.md#"><img align="left" src="https://raw.githubusercontent.com/etlegacy/etlegacy-assets/master/logo/horizontal_black.png" width="256" height="175"/></a>
-**ET: Legacy**
+**ET: Legacy** *(2013 - present)*
 
 ---
 *'ET: Legacy' is an [open source](https://github.com/etlegacy/etlegacy) project based on the code of [Wolfenstein: Enemy Territory](https://www.splashdamage.com/games/wolfenstein-enemy-territory/) which [was released](https://www.splashdamage.com/news/wolfenstein-enemy-territory-goes-open-source/) in 2010 under the terms of the [GPLv3](http://www.gnu.org/licenses/gpl-3.0.html).*
@@ -177,11 +176,3 @@ Axis submarines from a naval base near Bergen, Norway are cause for much distres
 *The game 'Among Silhouettes' was created for the [Global Game Jam 2019](https://globalgamejam.org/2019/games/among-silhouettes) with the topic* 'What home means to you'. *It is a monochrome, 2D coop platformer with the player goal to complete all rooms.*
 <br>
 <a href="https://github.com/realkemon/ggj2019"> >> Read more</a>
-
-
-Tutorials
-============
-
-> I started creating maps for Wolfenstein: Enemy Territory back in 2008 and to this day I'm still learning new things about the engine on the regular. Inactive forum boards, dead reference links and a lack of official documentations seem to dominate the current experience when looking for resources. Therefore, I decided to build a tutorial map for new players to learn the game mechanics as well as for new mappers to learn how to build said objectives and what to keep in mind when mapping for ET.
-
-[>>> Read more](https://github.com/realkemon/home/blob/master/pages/tutorials.md)

@@ -13,6 +13,7 @@
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#options">Options</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#changelog">Changelog</a></li>
  <ul>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#version-6-pending">version 6 (pending)</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#version-5">version 5</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#version-4">version 4</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#version-3">version 3</a></li>
@@ -102,6 +103,10 @@ globalaccum 5 set 1			  	// Secure flag while Allies hold both CP and flag
 
 Changelog
 ============
+
+### version 6 (pending)
+
+* [TODO] Forward flag spawn has a spawnslot stuck within the flag. *(Thanks to ETc.Jay for reporting)*
 
 ### version 5
 

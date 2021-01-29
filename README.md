@@ -56,9 +56,24 @@ These are maps that I created from scratch, start to finish. I started my Level 
 ## Map Overhauls
 These overhauls are primarily intended as visual enhancements. Generally, all changes are intended to be as subtle as possible and emphasise on strengthening the original style rather than forcing a different style onto the map. Basically, what was aimed for is what CS:GO did to original CS maps. [(Reference)](https://sjackm.wordpress.com/2012/08/15/csgo-first-impressions/)
 
-cs_office | de_aztec | de_nuke | cs_italy
-:---|:---|:---|:---
-![cs_office](https://sjackm.files.wordpress.com/2012/08/cs_office_cs-css-csgo.jpg) | ![de-aztec](https://sjackm.files.wordpress.com/2012/08/de_aztec_cs-css-csgo.jpg) | ![de_nuke](https://sjackm.files.wordpress.com/2012/08/de_nuke_cs-css-csgo.jpg) | ![cs_italy](https://sjackm.files.wordpress.com/2012/08/cs_italy_cs-css-csgo.jpg)
+<details>
+ <summary>Reference images <i>(click to expand)</i></summary>
+  <table>
+ <tr>
+  <td><b>CS_OFFICE</b></td>
+  <td><b>DE_AZTEC</b></td>
+  <td><b>DE_NUKE</b></td>
+  <td><b>CS_ITALY</b></td>
+ </tr>
+ <tr>
+  <td><img src="https://sjackm.files.wordpress.com/2012/08/cs_office_cs-css-csgo.jpg"/></td>
+  <td><img src="https://sjackm.files.wordpress.com/2012/08/de_aztec_cs-css-csgo.jpg"/></td>
+  <td><img src="https://sjackm.files.wordpress.com/2012/08/de_nuke_cs-css-csgo.jpg"/></td>
+  <td><img src="https://sjackm.files.wordpress.com/2012/08/cs_italy_cs-css-csgo.jpg"/></td>
+ </tr>
+</table>
+</details>
+
 
 ### Campaign: Rocket Base
 Local resistance managed to leak information about the existence of a secret rocket base to the OSA headquarters. According to the intel, the Axis are developing a new rocket of devastating power, which would turn the tide in the war. OSA organised a stealth attack to gain access and steal the prototype. Unfortunately, the exact location of the rocket base remains yet unknown. Therefore, a strike group of Allied soldiers is sent to a known Axis coastal fortification in the area to gather further intel and do what is necessary to get their hands on the secret rocket prototype.
@@ -131,12 +146,37 @@ Axis submarines from a naval base near Bergen, Norway are cause for much distres
 [>> Read more](https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#)
 
 
-Game Development
-============
+# Game Development
 
-> My involvement with [ET: Legacy](https://github.com/etlegacy) started around 2013 when I joined the IRC channel and decided to start working on texture replication in HD to get away from the proprietary license. Since then, I have replicated the [world textures](https://drive.google.com/drive/folders/0Bw7Yu-pqzcSaLXEtVEVjZF82UEU) in a 2048x2048 pixel standard, visually overhauled proven community maps and am doing my best for community management as well as reaching out to potential helping hands and sister projects for possible cooperations. Future plans include continuing with map overhauls, restructuring the [wiki](https://dev.etlegacy.com/projects/etlegacy/wiki/index) to make it the first landing page for all questions revolving around ET: Legacy, familiarising myself with 3D modelling to create new playermodels and many more.
 
-[>>> Read more](https://github.com/realkemon/home/blob/master/pages/etlegacy.md)
+<a href="https://github.com/realkemon/home/blob/master/pages/etlegacy.md#"><img align="left" src="https://raw.githubusercontent.com/etlegacy/etlegacy-assets/master/logo/horizontal_black.png" width="256" height="175"/></a>
+**ET: Legacy**
+
+---
+*'ET: Legacy' is an [open source](https://github.com/etlegacy/etlegacy) project based on the code of [Wolfenstein: Enemy Territory](https://www.splashdamage.com/games/wolfenstein-enemy-territory/) which [was released](https://www.splashdamage.com/news/wolfenstein-enemy-territory-goes-open-source/) in 2010 under the terms of the [GPLv3](http://www.gnu.org/licenses/gpl-3.0.html).*
+<br>
+<a href="https://github.com/realkemon/home/blob/master/pages/etlegacy.md#"> >> Read more</a>
+
+
+<br>
+
+<a href="https://github.com/realkemon/ggj2020"><img align="left" src="https://raw.githubusercontent.com/realkemon/ggj2020/master/gfx/Truemmerfrauen.png" width="256"/></a>
+**Trümmerfrauen** *(Global Game Jam 2020)*
+
+---
+*The game 'Trümmerfrauen' was created for the [Global Game Jam 2020](https://globalgamejam.org/2020/games/women-debris-1) with the topic 'Repair'. It is a co-op game for two players where you can experience what it feels like to repair and rebuild your home after a long war. In remembrance of the many women who helped rebuild the country for their children, families and future generations.*
+<br>
+<a href="https://github.com/realkemon/ggj2020"> >> Read more</a>
+
+<br>
+
+<a href="https://github.com/realkemon/ggj2019"><img align="left" src="https://media.githubusercontent.com/media/realkemon/ggj2019/master/gfx/among_silhouettes.png" width="256"/></a>
+**Among Silhouettes** *(Global Game Jam 2019)*
+
+---
+*The game 'Among Silhouettes' was created for the [Global Game Jam 2019](https://globalgamejam.org/2019/games/among-silhouettes) with the topic* 'What home means to you'. *It is a monochrome, 2D coop platformer with the player goal to complete all rooms.*
+<br>
+<a href="https://github.com/realkemon/ggj2019"> >> Read more</a>
 
 
 Tutorials

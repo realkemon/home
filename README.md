@@ -1,18 +1,23 @@
-# <img src="https://github.com/realkemon/home/blob/master/gfx/avatar.png" width="64"/> Cedric a.k.a. kemon
-I'm Cedric a.k.a. kemon, a Europe-based Level Designer, Environment- and Texture Artist and as of late also a <a href="https://www.twitch.tv/realkemon">Twitch streamer</a>. I'm part of the game development team of <a href="https://github.com/etlegacy">ET: Legacy</a>, an open source project aiming to restore the good old days of <a href="https://github.com/id-Software/Enemy-Territory">Wolfenstein: Enemy Territory</a>. So far my game development experience mainly revolves around to the idtech3 engine environment. However, I have also gained experience in both Unity and Unreal Engine 4 through various tutorial sessions and the Global Game Jams in <a href="https://github.com/realkemon/ggj2020">2020</a> and <a href="https://stefan.ensmann.de/en/among-silhouettes/">2019</a>.
+# <img src="https://github.com/realkemon/home/blob/master/gfx/avatar.png" width="64"/> Cedric *'kemon'* Easton
+I'm Cedric *'kemon'* Easton, a Europe-based Level Designer, Environment- and Texture Artist and as of late also a <a href="https://www.twitch.tv/realkemon">Twitch streamer</a>. I'm part of the game development team of <a href="https://github.com/etlegacy">ET: Legacy</a>, an open source project aiming to restore the good old days of <a href="https://github.com/id-Software/Enemy-Territory">Wolfenstein: Enemy Territory</a>. So far my game development experience mainly revolves around to the idtech3 engine environment. However, I have also gained experience in both Unity and Unreal Engine 4 through various tutorial sessions and the Global Game Jams in <a href="https://github.com/realkemon/ggj2020">2020</a> and <a href="https://stefan.ensmann.de/en/among-silhouettes/">2019</a>.
 
 <table>
  <tr>
-  <td><b>Index:</b><br>
-<a href="https://github.com/realkemon/home#-cedric-aka-kemon">About Me</a><br>
-<ul>
- <li><a href="https://github.com/realkemon/home/blob/master/README.md#level-design">Level Design</a></li>
- <ul>
-  <li><a href="https://github.com/realkemon/home/blob/master/README.md#own-maps">Own Maps</a></li>
-  <li><a href="https://github.com/realkemon/home/blob/master/README.md#map-overhauls">Map Overhauls</a></li>
- </ul>
- <li><a href="https://github.com/realkemon/home/blob/master/README.md#et-legacy">Game Development</a></li>
- </td>
+  <td>
+   <b>Index:</b><br>
+   <ul>
+    <li><a href="https://github.com/realkemon/home/blob/master/README.md#level-design">Level Design</a></li>
+    <ul>
+     <li><a href="https://github.com/realkemon/home/blob/master/README.md#own-maps">Own Maps</a></li>
+     <li><a href="https://github.com/realkemon/home/blob/master/README.md#map-overhauls">Map Overhauls</a></li>
+    </ul>
+    <li><a href="https://github.com/realkemon/home/blob/master/README.md#game-design">Game Design</a></li>
+    <li><a href="https://github.com/realkemon/home/blob/master/README.md#computer-science">Computer Science</a></li>
+    <ul>
+     <li><a href="https://github.com/realkemon/home/blob/master/README.md#level-design">Surroundings-based location categorisation in R</a></li>
+    </ul>
+   </ul>
+  </td>
  </tr>
 </table>
 

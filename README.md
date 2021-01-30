@@ -152,7 +152,6 @@ Axis submarines from a naval base near Bergen, Norway are cause for much distres
 
 # Game Development
 
-
 <a href="https://github.com/realkemon/home/blob/master/pages/etlegacy.md#"><img align="left" src="https://raw.githubusercontent.com/etlegacy/etlegacy-assets/master/logo/horizontal_black.png" width="256" height="175"/></a>
 **ET: Legacy** *(2013 - present)*
 
@@ -181,3 +180,17 @@ Axis submarines from a naval base near Bergen, Norway are cause for much distres
 *The game 'Among Silhouettes' was created for the [Global Game Jam 2019](https://globalgamejam.org/2019/games/among-silhouettes) with the topic* 'What home means to you'. *It is a monochrome, 2D coop platformer with the player goal to complete all rooms.*
 <br>
 <a href="https://github.com/realkemon/ggj2019"> >> Read more</a>
+
+
+# Computer Science
+
+<a href="https://github.com/realkemon/thesis"><img align="left" src="https://raw.githubusercontent.com/realkemon/thesis/main/gfx/logo-uni-blau.png" width="256"/></a>
+**Master's Thesis**:<br>
+*Influence of state subsidies and local conditions on the development of public EV charging infrastructure within Europe.*
+
+---
+*The goal of the created 'R' framework was to investigate which surrounding locality features exist for each charging station in the [OpenStreetMap](https://www.openstreetmap.org) database, make an assumption towards the location category* (e.g. in residential areas, rest stop along motorways, etc.)*, investigate how each location category evolves over the years and compare that evolution with the timeframe of state subsidy programmes.*
+<br>
+<a href="https://github.com/realkemon/thesis"> >> Read more</a>
+
+<br>

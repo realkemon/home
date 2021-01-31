@@ -101,6 +101,11 @@ Changelog
 ============
 **NOTE:** Previous overhaul versions were too far away from the original. Version 7 is a fresh start from the original 'Frostbite, by Moonkey', which is why previous versions aren't listed below.
 
+### version 12 (pending)
+
+* Moved flying lamp models to be attached to girder in Axis garage. *(Thank you Aciz for reporting)*
+* Adjusted player collision on cliff near transmitter to prevent glitching on the roof. *(Thank you Aciz for reporting)*
+
 ### version 11
 
 * Adjusted lighting to increase performance.

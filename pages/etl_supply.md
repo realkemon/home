@@ -120,6 +120,7 @@ Changelog
 ### version 4 (pending)
 
 * [TODO] Re-add *'Truck is in position'* line as announcement. *(Thank you SAP for reporting)*
+* [TODO] Add second satchel exploit mapscript fix from [here](https://antman.info/wolf/etpro/download.php?mapscripts/supply.script) to fix [destruction exploit](https://github.com/realkemon/home/issues/25). *(Thanks jobhh for reporting)*
 
 ### version 3
 

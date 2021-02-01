@@ -139,6 +139,7 @@ Axis submarines from a naval base near Bergen, Norway are cause for much distres
 [>> Catch development streams here](https://www.twitch.tv/realkemon)
 
 <br>
+<br>
 
 <a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#"><img align="left" src="https://github.com/realkemon/home/blob/master/levelshots/bergen.png" width="256"/></a>
 

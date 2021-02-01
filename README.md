@@ -187,7 +187,7 @@ Axis submarines from a naval base near Bergen, Norway are cause for much distres
 # Computer Science
 
 <a href="https://github.com/realkemon/thesis"><img align="left" src="https://raw.githubusercontent.com/realkemon/thesis/main/gfx/logo-uni-blau.png" width="256"/></a>
-**Master's Thesis**:<br>
+**Master's Thesis** *(2020)*<br>
 *Influence of state subsidies and local conditions on the development of public EV charging infrastructure within Europe.*
 
 ---

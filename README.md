@@ -154,7 +154,7 @@ Axis submarines from a naval base near Bergen, Norway are cause for much distres
 
 # Game Development
 
-<a href="https://github.com/realkemon/home/blob/master/pages/etlegacy.md#"><img align="left" src="https://raw.githubusercontent.com/etlegacy/etlegacy-assets/master/logo/horizontal_black.png" width="256" height="175"/></a>
+<a href="https://github.com/realkemon/home/blob/master/pages/etlegacy.md#"><img align="left" src="https://raw.githubusercontent.com/realkemon/home/master/gfx/ETLegacy.png" width="256" height="175"/></a>
 **ET: Legacy** *(2013 - present)*
 
 ---

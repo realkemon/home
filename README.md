@@ -145,7 +145,7 @@ Axis submarines from a naval base near Bergen, Norway are cause for much distres
 **Mission 3:** ['Bergen, by Detoeni'](https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#)
 
 ---
-*Having successfully disrupted all recent supply shipments to the naval base in Bergen, the ALlies launch their final attack on the now vulnerable base. Axis submarines from this naval base have been cause for much distress in the Northern Atlantic so the goal of the Allied soldiers is clear: Use an armoured vehicle to breach the gates of the base and sabotage the transmitter to disrupt communication to the submarines and force them to retreat. To prevent Allied convoys reaching shores, the Axis have to hold the naval base at all cost and keep the transmitter operational.*
+*Having disrupted all recent supply shipments, the Allies launch their final attack on the now vulnerable naval base. Axis submarines from this naval base have been cause for much distress in the Northern Atlantic so the goal of the Allied soldiers is clear: Use an armoured vehicle to breach the gates of the base and sabotage the transmitter to disrupt communication to the submarines and force them to retreat. To prevent Allied convoys reaching shores, the Axis have to hold the naval base at all cost and keep the transmitter operational.*
 <br>
 [>> Read more](https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#)
 

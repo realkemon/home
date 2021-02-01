@@ -192,7 +192,7 @@ Axis submarines from a naval base near Bergen, Norway are cause for much distres
 *Influence of state subsidies and local conditions on the development of public EV charging infrastructure within Europe.*
 
 ---
-*The goal of the created 'R' framework was to investigate which surrounding locality features exist for each charging station in the [OpenStreetMap](https://www.openstreetmap.org) database, make an assumption towards the location category* (e.g. in residential areas, rest stop along motorways, etc.)*, investigate how each location category evolves over the years and compare that evolution with the timeframe of state subsidy programmes.*
+*The goal of the created 'R' framework was to investigate which surrounding locality features exist for each charging station in the [OpenStreetMap](https://www.openstreetmap.org) database, make an assumption towards the location category* (e.g. in residential areas, rest stop along motorways, etc.)*, investigate how each location category evolves over the years and compare that evolution with the timeframe of state subsidies.*
 <br>
 <a href="https://github.com/realkemon/thesis"> >> Read more</a>
 

@@ -38,7 +38,7 @@ These are maps that I created from scratch, start to finish. I started my Level 
 
 <br>
 
-<a href="https://github.com/realkemon/home/blob/master/pages/stiglitz.md#"><img align="left" src="https://github.com/realkemon/home/blob/master/levelshots/dingenskirchen.png" width="256"/></a>
+<a href="https://github.com/realkemon/home/blob/master/pages/stiglitz.md#"><img align="left" src="https://github.com/realkemon/home/blob/master/levelshots/stiglitz.png" width="256"/></a>
 **Stiglitz** *(July, 1943)*
 
 ---
@@ -131,12 +131,12 @@ Axis submarines from a naval base near Bergen, Norway are cause for much distres
 
 <a href="https://et.trackbase.net/map/64/"><img align="left" src="https://github.com/realkemon/home/blob/master/levelshots/etl_adlernest.png" width="256"/></a>
 
-**Mission 2:** ['Adlernest, by Dersaidin'](https://et.trackbase.net/map/64/) *(planned)*
+**Mission 2:** ['Adlernest, by Dersaidin'](https://et.trackbase.net/map/64/) *(work-in-progress)*
 
 ---
-*To grant safe passage for the Allied ships during D-Day a small operation is launched to disable the artillery guns of Pointe du Hoc. The Allies will attempt to gain control of the bunkers on top of the cliff and disable all Axis defense. Expecting a raid at a different section of Normandy, the Axis moved the artillery guns to a railway station in the hinterlands for transport further West. The Allies need to locate and disable those guns. The Axis have to prevent the loss of this strategic part of Normandy and the artillery guns at all costs.*
+*After successfully intercepting the first supply shipment, the Allies continue their attacks with the infiltration of a larger storage facility in the remote mountains. Their attempt is to get their hands on confidential documents that will prove invaluable for future war efforts. The Axis cannot allow this storage facility to be compromised and must defend the documents at all costs.*
 <br>
-[>> Original map](https://et.trackbase.net/map/64/)
+[>> Catch development streams here](https://www.twitch.tv/realkemon)
 
 <br>
 

@@ -99,7 +99,7 @@ Local resistance managed to leak information about the existence of a secret roc
 **Mission 2:** ['Frostbite, by Moonkey'](https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#)
 
 ---
-*Warned of the Allied plans to steal the new rocket prototype, the Axis set up position in a fortified storage facility. With the element of surprise lost, the Allies have to launch a direct attack on this storage facility, as it is the only way to get hold of the confidential documents depicting supply routes to the nearby secret rocket base, that so narrowly escaped their grasp last time. Hence, the Allies attempt to infiltrate the facility, steal those documents and radio them to OSA headquarters for decyphering.*
+*Warned of the Allied plans, the Axis set up position in a fortified storage facility. With the element of surprise lost, the Allies have to launch a direct attack on this storage facility, as it is the only way to get hold of the confidential documents depicting supply routes to the nearby secret rocket base, that so narrowly escaped their grasp last time. Hence, the Allies attempt to infiltrate the facility, steal those documents and radio them to OSA headquarters for decyphering.*
 <br>
 [>> Read more](https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#)
 
@@ -110,7 +110,7 @@ Local resistance managed to leak information about the existence of a secret roc
 **Mission 3:** ['Missile, by eiM'](https://et.trackbase.net/map/158/) *(planned)*
 
 ---
-*OSA headquarters finally managed to decypher the location of the secret rocket base that is said to house a new prototype of devastating power, according to intel from the local resistance. This weapon is rumoured to turn the tide in the war in favour of whoever holds it. Under no circumstances do the Axis intend to lose the prototype to the Allied attackers and therefore attempt to defend the rocket base. For the Allies, however, the goal is clear: Infiltrate the rocket base and steal the prototype at all cost.*
+*OSA headquarters finally managed to decypher the location of the secret rocket base that is said to house a new prototype of devastating power, according to intel from the local resistance. This weapon is rumoured to turn the tide in the war in favour of whoever holds it. Under no circumstances do the Axis intend to lose the prototype to the Allied attackers and therefore attempt to defend the rocket base. For the Allies the goal is clear: Infiltrate the rocket base and steal the prototype at all cost.*
 <br>
 [>> Original map](https://et.trackbase.net/map/158/)
 

@@ -10,6 +10,7 @@ I'm Cedric *'kemon'* Easton, a Europe-based Level Designer, Environment- and Tex
     <ul>
      <li><a href="https://github.com/realkemon/home/blob/master/README.md#own-maps">Own Maps</a></li>
      <li><a href="https://github.com/realkemon/home/blob/master/README.md#map-overhauls">Map Overhauls</a></li>
+     <li><a href="https://github.com/realkemon/home/blob/master/README.md#tutorials">Tutorials</a></li>
     </ul>
     <li><a href="https://github.com/realkemon/home/blob/master/README.md#game-design">Game Design</a></li>
     <li><a href="https://github.com/realkemon/home/blob/master/README.md#computer-science">Computer Science</a></li>
@@ -146,7 +147,7 @@ Axis submarines from a naval base near Bergen, Norway are cause for much distres
 **Mission 3:** ['Bergen, by Detoeni'](https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#)
 
 ---
-*Having disrupted all recent supply shipments, the Allies launch their final attack on the now vulnerable naval base. Axis submarines from this naval base have been cause for much distress in the Northern Atlantic so the goal of the Allied soldiers is clear: Use an armoured vehicle to breach the gates of the base and sabotage the transmitter to disrupt communication to the submarines and force them to retreat. To prevent Allied convoys reaching shores, the Axis have to hold the naval base at all cost and keep the transmitter operational.*
+*Having disrupted recent supply shipments, the Allies launch their final attack on the now vulnerable naval base. Axis submarines from this naval base have been cause for much distress, so the Allied goal is clear: Use an armoured vehicle to breach the gates of the base and sabotage the transmitter to disrupt communication to the submarines and force them to retreat. To prevent Allied convoys reaching shores, the Axis have to hold the naval base at all cost and keep the transmitter operational.*
 <br>
 [>> Read more](https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#)
 
@@ -168,7 +169,7 @@ Axis submarines from a naval base near Bergen, Norway are cause for much distres
 **Trümmerfrauen** *(Global Game Jam 2020)*
 
 ---
-*The game 'Trümmerfrauen' was created for the [Global Game Jam 2020](https://globalgamejam.org/2020/games/women-debris-1) with the topic 'Repair'. It is a co-op game for two players where you can experience what it feels like to repair and rebuild your home after a long war. In remembrance of the many women who helped rebuild the country for their children, families and future generations.*
+*The game 'Trümmerfrauen' was created for the [Global Game Jam 2020](https://globalgamejam.org/2020/games/women-debris-1) with the topic 'Repair'. It is a co-op game for two players where you can experience what it feels like to repair and rebuild your home after a long war.*
 <br>
 <a href="https://github.com/realkemon/ggj2020"> >> Read more</a>
 

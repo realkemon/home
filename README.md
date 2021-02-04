@@ -12,10 +12,10 @@ I'm Cedric *'kemon'* Easton, a Europe-based Level Designer, Environment- and Tex
      <li><a href="https://github.com/realkemon/home/blob/master/README.md#map-overhauls">Map Overhauls</a></li>
      <li><a href="https://github.com/realkemon/home/blob/master/README.md#tutorials">Tutorials</a></li>
     </ul>
-    <li><a href="https://github.com/realkemon/home/blob/master/README.md#game-design">Game Design</a></li>
+    <li><a href="https://github.com/realkemon/home/blob/master/README.md#game-development">Game Development</a></li>
     <li><a href="https://github.com/realkemon/home/blob/master/README.md#computer-science">Computer Science</a></li>
     <ul>
-     <li><a href="https://github.com/realkemon/home/blob/master/README.md#level-design">Surroundings-based location categorisation in R</a></li>
+     <li><a href="https://github.com/realkemon/home/blob/master/README.md#computer-science">Surroundings-based location categorisation in R</a></li>
     </ul>
    </ul>
   </td>

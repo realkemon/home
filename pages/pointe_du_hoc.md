@@ -89,7 +89,7 @@ Since we are talking about an open-source game, in my opinion as much as possibl
 
 ### Compile parameters
 ```
-<build name="Stiglitz">
+<build name="Pointe du Hoc">
   <command>[q3map2] -bsp -meta -samplesize 16 -v -mv 1024 -mi 6144 &quot;[MapFile]&quot;</command>
   <command>[q3map2] -vis -saveprt -v &quot;[MapFile]&quot;</command>
   <command>[q3map2] -light -fast -samples 4 -samplesize 16 -bounce 2 -v -thresh 0.25 -shade -dirty -dirtdepth 256 -lightmapsize 512 -patchshadows -external &quot;[MapFile]&quot;</command>

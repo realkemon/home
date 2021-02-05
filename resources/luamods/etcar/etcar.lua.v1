@@ -1,0 +1,442 @@
+--[[
+	LUA script for a script_mover that can be steered around..
+	It should work for 1 map only. This LUA script must not be active on other maps.
+
+	Bind 4 keys to control the car:
+		bind KP_UPARROW "+vstr etcars_w_in etcars_w_out"
+		bind KP_LEFTARROW "+vstr etcars_a_in etcars_a_out"
+		bind KP_RIGHTARROW "+vstr etcars_d_in etcars_d_out"
+		bind KP_DOWNARROW "+vstr etcars_s_in etcars_s_out"
+		seta etcars_w_out "etcar_w_out"
+		seta etcars_w_in "etcar_w_in"
+		seta etcars_a_out "etcar_a_out"
+		seta etcars_a_in "etcar_a_in"
+		seta etcars_d_out "etcar_d_out"
+		seta etcars_d_in "etcar_d_in"
+		seta etcars_s_out "etcar_s_out"
+		seta etcars_s_in "etcar_s_in"
+		
+--]]
+local vec3 = require "luamods/etmover/libvec3"
+--local plane = require "luamods/etmover/libplane"
+
+MAXCLIENTS = tonumber(et.trap_Cvar_Get("sv_maxClients"))	-- the max clients on the server
+SVFPS = tonumber(et.trap_Cvar_Get("sv_fps"))				-- serverframes per second
+SVFMS = 1.0 / SVFPS * 1000			-- serverframe duration in milliseconds
+
+--*** You can adjust the following values
+S_COLOR_BLUE = "^$"					-- the Lua message color
+S_MAPNAME = "etcar"					-- the mapname must have this value
+S_LUA_SCRIPTNAME = "etcar"			-- the name of this LUA script/module
+S_MOVER_NAME = "etcar"				-- the scriptname/targetname of the script_mover
+S_WLEFT_NAME = "etcar_wfrontl"
+S_WRIGHT_NAME = "etcar_wfrontr"
+S_WBACK_NAME = "etcar_wback"
+MOVER_MAXSPEED = 800				-- the max speed (in units per second)
+MOVER_MAXSPEEDREVERSE = -50			-- the max speed when driving in reverse (in units per second)
+MOVER_ACCEL = 200					-- the acceleration (in units per second^2)
+MOVER_DECCEL = 500					-- the decceleration (in units per second^2)
+MOVER_MAXSTEER = 45					-- max steering angle of the wheels
+MOVER_WHEELBASE = 168				-- distance between front- & back-wheels
+--MOVER_OFFSET = {-136,0,0}			-- to put the model-origin in the middle
+--***
+
+MOVER_ACCEL_UPF = MOVER_ACCEL / SVFPS		-- mover acceleration (in units per frame^2)
+MOVER_DECCEL_UPF = MOVER_DECCEL / SVFPS		-- mover decceleration (in units per frame^2)
+MOVER_STEER_UPF = MOVER_MAXSTEER / SVFPS	-- mover steering speed (in degrees per second)
+MOVER_STEER_RATIO = MOVER_MAXSTEER / MOVER_MAXSPEED / SVFPS
+lua_active = true					-- true, if script running is validated
+driver_entnum = nil					-- the player who is driving
+wleft_entnum = nil					-- the left wheel entity number
+wright_entnum = nil					-- the right wheel entity number
+wback_entnum = nil					-- the backwheels entity number
+etcar_entnum = nil					-- entity-number of the etcar
+etcar_radyaw = 0					-- the current yaw angle in radians
+etcar_degpitch = 0					-- the current pitch angle in degrees
+etcar_dir = {1,0,0}					-- the direction the etcar is facing (always start facing along x+)
+etcar_pos = {0,0,0}					-- the current position
+etcar_speed = 0						-- the current speed
+etcar_steerangle = 0				-- the steering(left/right) angle of the wheels
+etcar_wheelspin = 0					-- how fast the wheels are rolling over the terrain
+etcar_accelerating = false			-- if the etcar is currently accelerating
+etcar_deccelerating = false			-- if the etcar is currently deccelerating
+etcar_gear = 0						-- -1=reverse, 0=stop/neutral, 1=drive
+etcar_gearswitch = true				-- allowed to change gears
+key_forward = false					-- true if forward key is being pressed
+key_back = false					--
+key_left = false					--
+key_right = false					--
+
+
+--[[ init stuff (happens only once at mapload) --]]
+
+
+-- find an entity
+function findEntity(classname, scriptname)
+	local entnum
+	for entnum = 64, 1023, 1 do
+		if et.gentity_get(entnum, "classname") == classname then
+			if et.gentity_get(entnum, "scriptName") == scriptname then
+				return entnum	-- found it
+			end
+		end
+	end
+	return nil	-- not found
+end
+
+-- check the mapname
+function checkMapname()
+	return (string.lower(et.trap_Cvar_Get("mapname")) == S_MAPNAME)
+end
+
+-- check the etcar entity
+function checkETcar()
+	etcar_entnum = findEntity("script_mover", S_MOVER_NAME)
+	if etcar_entnum == nil then
+		-- if not found, report an error message
+		et.G_Print("Lua ".. S_LUA_SCRIPTNAME ..": ".. S_COLOR_BLUE .."Error. script_mover \"".. S_MOVER_NAME .."\" not found!\n")
+		return false
+	end
+	-- get the current position of the etcar
+	etcar_pos = et.gentity_get(etcar_entnum, "s.origin")	-- {x,y,z}
+	return true
+end
+
+-- check the wheels
+function checkWheels()
+	wright_entnum = findEntity("misc_gamemodel", S_WRIGHT_NAME)
+	if wright_entnum == nil then
+		-- if not found, report an error message
+		et.G_Print("Lua ".. S_LUA_SCRIPTNAME ..": ".. S_COLOR_BLUE .."Error. misc_gamemodel \"".. S_WRIGHT_NAME .."\" not found!\n")
+		return false
+	end
+	wleft_entnum = findEntity("misc_gamemodel", S_WLEFT_NAME)
+	if wleft_entnum == nil then
+		-- if not found, report an error message
+		et.G_Print("Lua ".. S_LUA_SCRIPTNAME ..": ".. S_COLOR_BLUE .."Error. misc_gamemodel \"".. S_WLEFT_NAME .."\" not found!\n")
+		return false
+	end
+	wback_entnum = findEntity("misc_gamemodel", S_WBACK_NAME)
+	if wback_entnum == nil then
+		-- if not found, report an error message
+		et.G_Print("Lua ".. S_LUA_SCRIPTNAME ..": ".. S_COLOR_BLUE .."Error. misc_gamemodel \"".. S_WBACK_NAME .."\" not found!\n")
+		return false
+	end
+	return true
+end
+
+
+--[[ movement stuff (happens every serverframe: usually at 20 Hz)--]]
+
+-- turn wheels left
+function steerLeft()
+	local angle = etcar_steerangle - MOVER_STEER_UPF
+	etcar_steerangle = math.max(-MOVER_MAXSTEER, angle)
+end
+
+-- turn wheels right
+function steerRight()
+	local angle = etcar_steerangle + MOVER_STEER_UPF
+	etcar_steerangle = math.min(angle, MOVER_MAXSTEER)
+end
+
+-- increase the speed to max (for forward or back direction)
+-- This func can change etcar_accelerating & etcar_deccelerating
+function drive()
+	etcar_accelerating = false
+	etcar_deccelerating = false
+	if etcar_gear == 0 then								-- in neutral
+		return
+	elseif etcar_gear == 1 then							-- driving forward
+		etcar_speed = etcar_speed + MOVER_ACCEL_UPF
+		if etcar_speed > MOVER_MAXSPEED then
+			etcar_speed = MOVER_MAXSPEED
+		else
+			etcar_accelerating = true
+		end
+	elseif etcar_gear == -1	then						-- driving in reverse
+		etcar_speed = etcar_speed - MOVER_DECCEL_UPF
+		if etcar_speed < MOVER_MAXSPEEDREVERSE then
+			etcar_speed = MOVER_MAXSPEEDREVERSE
+		else
+			etcar_deccelerating = true
+		end
+	end
+end
+
+-- decrease the speed to 0 (brake when driving)
+-- When we reach speed 0, we auto-shift gears to neutral
+-- This func can change: etcar_accelerating & etcar_deccelerating, etcar_gear (only to neutral)
+function brake()
+	etcar_accelerating = false
+	etcar_deccelerating = false
+	if etcar_gear == 0 then								-- in neutral
+		return
+	elseif etcar_gear == 1 then							-- driving forward
+		etcar_speed = etcar_speed - MOVER_DECCEL_UPF
+		if etcar_speed <= 0 then
+			etcar_speed = 0								-- the speed now becomes 0
+			etcar_gear = 0								-- we switch gears to neutral
+		else
+			etcar_deccelerating = true					-- if speed is still <>0, we are braking
+		end
+	elseif etcar_gear == -1	then						-- driving in reverse
+		etcar_speed = etcar_speed + MOVER_ACCEL_UPF
+		if etcar_speed >= 0 then
+			etcar_speed = 0
+			etcar_gear = 0
+		else
+			etcar_accelerating = true
+		end
+	end
+end
+
+-- check switching gears
+function checkGears(gear)
+	if gear == 0 then					-- we test if the car is in neutral (no more speed) (no keys are pressed now)
+		if etcar_gear == 0 then			-- if we now stand still,
+			etcar_gearswitch = true		-- we are allowed to shift gears (reverse <- neutral -> drive)
+		end
+	elseif etcar_gearswitch then		-- are we allowed to switch gears? (to -1 or 1)
+		etcar_gear = gear				-- shift gears from 0 to gear (to drive, or to reverse)
+		etcar_gearswitch = false		-- clear the flag
+	end
+end
+
+-- (forward/back) keys swap when changing gears (drive/reverse)
+-- argument "forward" is a boolean: true = forward key is pressed, false = back key is pressed
+-- nothing happens when the gear is in neutral
+function driveOrBrake(forward)
+	if etcar_gear ~= 0 then
+		if (forward and etcar_gear == 1) or (not forward and etcar_gear == -1) then
+			drive()
+		else
+			brake()
+		end
+	end
+end
+
+-- if we are not steering, the wheels want to go straight again.
+-- (the faster you drive, the quicker they do it)
+function steerStraight()
+	if etcar_steerangle == 0 then
+		return
+	end
+	local delta = etcar_speed * MOVER_STEER_RATIO
+	if etcar_steerangle < 0 then
+		local angle = etcar_steerangle + delta
+		etcar_steerangle = math.min(angle, 0)
+	else	-- etcar_steerangle>0
+		local angle = etcar_steerangle - delta
+		etcar_steerangle = math.max(0, angle)
+	end
+end
+
+-- check all players, and find out who is driving
+function getDriver()
+	local entnum
+	for entnum = 0, MAXCLIENTS-1, 1 do
+		local eflags = et.gentity_get(entnum, "ps.eFlags")
+		local mounted = (eflags % 65536) - (eflags % 32768)	-- bitwise and 32768
+		--local mounted = et.isBitSet(15, eflags)
+		if mounted ~= 0 then
+			return entnum
+		end
+	end
+	return nil
+end
+
+-- move the mover
+function moveMover()
+	-- no one driving?
+	driver_entnum = getDriver()
+	if driver_entnum == nil then
+		return				-- no movement
+	end
+
+	-- check accelerate and deccelerate for all gears
+	if key_forward and key_back then	-- check forward + back pressed at the same time
+		-- do nothing
+	elseif key_forward then				-- only the forward key is pressed?
+		checkGears(1)					-- see if we can switch gears to drive forward
+		driveOrBrake(true)				-- true means key_forward is pressed
+	elseif key_back then				-- only the back key is pressed?
+		checkGears(-1)					-- check if we can switch gears to drive in reverse
+		driveOrBrake(false)				-- false means key_back is pressed
+	else -- !key_forward && !key_back	-- no key is pressed (if one was pressed, it's released now)
+		checkGears(0)					-- check if we are allowed to switch gears
+		-- if we do not accel/deccel/brake, the etcar should slowly reduce speed..
+		etcar_speed = etcar_speed * 0.99
+	end
+	-- check left/right steering
+	if key_left and key_right then		-- check left + right pressed at the same time
+		-- do nothing
+	elseif key_left then
+		steerLeft()
+	elseif key_right then
+		steerRight()
+	else
+		-- if we are not steering, the wheels want to go straight again.
+		-- (the faster you drive, the quicker they do it)
+		steerStraight()
+	end
+
+	-- make it turn curves, at some speed..
+	local speedUPF = etcar_speed / SVFPS
+	local leveltime = et.trap_Milliseconds()
+--!	if etcar_steerangle ~= 0 then	-- only when the wheels are not going straight ahead
+		local circleRadius = MOVER_WHEELBASE / math.sin(math.rad(etcar_steerangle))
+		--local angularVelocity = etcar_speed / circleRadius / SVFPS	-- in radians per frame
+		local angularVelocity = speedUPF / circleRadius	-- in radians per frame
+--et.G_Say(0, et.SAY_ALL, "angularVelocity = ".. angularVelocity)	-- -0.1~ to 0.1~
+
+		-- we keep etcar_radyaw in radians, so we can easily add the angular velocity each frame
+		etcar_radyaw = etcar_radyaw + angularVelocity
+-- because the car doesn't slip yet (total traction), we adjust the final direction already now..
+		-- we compose the new direction (etcar_dir is a unit vector)
+		etcar_dir[1] = math.cos(etcar_radyaw)
+		etcar_dir[2] = -math.sin(etcar_radyaw)	-- yes -sin
+		-- we must feed ET with angles in degrees
+		local angles = {0,math.deg(-etcar_radyaw),0}	-- yes -yaw
+		
+-- the pitch and roll angles are just some values that i made up.. no science
+-- (etcar_accelerating & etcar_deccelerating are only needed for this pitch'n'roll)
+		-- the pitch of the car when accel/deccel
+		if etcar_accelerating then
+			local pitch = etcar_degpitch - 0.05
+			etcar_degpitch = math.max(-0.5, pitch)
+		elseif etcar_deccelerating then
+			local pitch = etcar_degpitch + 0.05
+			etcar_degpitch = math.min(pitch, 0.5)
+		else
+			if etcar_degpitch ~= 0 then
+				etcar_degpitch = etcar_degpitch * 0.85	-- reduce to 85%
+				if math.abs(etcar_degpitch) < 0.01 then	-- make it 0 eventually
+					etcar_degpitch = 0
+				end
+			end
+		end
+		angles[1] = etcar_degpitch
+		-- the roll
+		angles[3] = -etcar_steerangle * speedUPF * 0.005	-- this is just some value i chose
+--et.G_Say(0, et.SAY_ALL, "roll = ".. angles[3])	-- -5.625 to 5.625
+
+--todo: make it more real.. i want to drift, slip and tilt :D
+		-- The slip angle (alpha), is the angle between the tire's heading and its direction of travel
+		-- front wheels
+		
+		-- rear wheels
+
+		-- rotate the etcar
+		tr = {trType = 0, trTime = leveltime, trDuration = 0, trBase = angles, trDelta = {0,100,0}}	-- speed 100
+		et.gentity_set(etcar_entnum, "s.apos", nil, tr)
+--!	end
+	-- positioning the etcar (interpolate during one serverframe)
+	local delta = vec3.scale(etcar_dir, speedUPF)
+	etcar_pos = vec3.add(etcar_pos, delta)
+	tr = {trType = 1, trTime = leveltime, trDuration = SVFMS, trBase = etcar_pos, trDelta = vec3.null()}
+	et.gentity_set(etcar_entnum, "s.pos", nil, tr)
+	-- rotate the wheels
+	etcar_wheelspin = (etcar_wheelspin + speedUPF) % 360
+--	tr = {trType = 0, trTime = leveltime, trDuration = 0, trBase = {0,-etcar_steerangle,etcar_wheelspin}, trDelta = {0,100,0}}	-- speed 100
+tr = {trType = 0, trTime = leveltime, trDuration = 0, trBase = {angles[3],-etcar_steerangle,etcar_wheelspin}, trDelta = {0,100,0}}	-- banked
+	et.gentity_set(wright_entnum, "s.apos", nil, tr)
+--	tr = {trType = 0, trTime = leveltime, trDuration = 0, trBase = {0,-etcar_steerangle,-etcar_wheelspin}, trDelta = {0,100,0}}	-- speed 100
+tr = {trType = 0, trTime = leveltime, trDuration = 0, trBase = {-angles[3],-etcar_steerangle,-etcar_wheelspin}, trDelta = {0,100,0}}	-- banked
+	et.gentity_set(wleft_entnum, "s.apos", nil, tr)
+	tr = {trType = 0, trTime = leveltime, trDuration = 0, trBase = {etcar_wheelspin,0,0}, trDelta = {0,100,0}}	-- speed 100
+	et.gentity_set(wback_entnum, "s.apos", nil, tr)
+end
+
+
+--[[ game callbacks (happens whenever the situation occurs) --]]
+
+-- et_InitGame: Called when qagame initializes.
+--	levelTime is the current level time in milliseconds.
+--	randomSeed is a number that can be used to seed random number generators.
+--	restart indicates if et_InitGame() is being called due to a map_restart (1) or not (0).
+function et_InitGame( levelTime, randomSeed, restart )
+	-- Registering the modname.
+	et.RegisterModname(S_LUA_SCRIPTNAME)
+
+	-- checking for the correct mapname
+	lua_active = checkMapname()
+	if not lua_active then
+		return
+	end
+	
+	-- check the etcar entity
+	lua_active = checkETcar()
+	if not lua_active then
+		return
+	end
+	
+	-- check the wheels entities
+	lua_active = checkWheels()
+	if not lua_active then
+		return
+	end
+	
+	-- if we get to here, we found the map, and all needed entities are found.
+	et.G_Print("Lua ".. S_LUA_SCRIPTNAME ..": ".. S_COLOR_BLUE .."Running..\n")
+
+	--et.G_Say(0, et.SAY_ALL, "LUA etmover demo")
+end
+
+
+-- et_RunFrame: Called when qagame runs a server frame.
+--	levelTime is the current level time in milliseconds.
+function et_RunFrame( levelTime )
+	if not lua_active then
+		return
+	end
+	moveMover()
+end
+
+-- called for every clientcommand
+-- return 1 if intercepted, 0 if passthrough
+function et_ClientCommand( clientNum, cmd )
+	if not lua_active then
+		return 0
+	end
+	if driver_entnum == nil then
+		return 0
+	end
+	if clientNum ~= driver_entnum then
+		return 0
+	end
+	if cmd == "etcar_w_in" then
+		key_forward = true
+		--et.G_Say(0, et.SAY_ALL, "etcar forward +")
+		return 1	-- intercept
+	elseif cmd == "etcar_w_out" then
+		key_forward = false
+		--et.G_Say(0, et.SAY_ALL, "etcar forward -")
+		return 1
+	elseif cmd == "etcar_s_in" then
+		key_back = true
+		--et.G_Say(0, et.SAY_ALL, "etcar back +")
+		return 1
+	elseif cmd == "etcar_s_out" then
+		key_back = false
+		--et.G_Say(0, et.SAY_ALL, "etcar back -")
+		return 1
+	elseif cmd == "etcar_a_in" then
+		key_left = true
+		--et.G_Say(0, et.SAY_ALL, "etcar moveleft +")
+		return 1
+	elseif cmd == "etcar_a_out" then
+		key_left = false
+		--et.G_Say(0, et.SAY_ALL, "etcar moveleft -")
+		return 1
+	elseif cmd == "etcar_d_in" then
+		key_right = true
+		--et.G_Say(0, et.SAY_ALL, "etcar moveright +")
+		return 1
+	elseif cmd == "etcar_d_out" then
+		key_right = false
+		--et.G_Say(0, et.SAY_ALL, "etcar moveright -")
+		return 1
+	end
+	return 0
+end

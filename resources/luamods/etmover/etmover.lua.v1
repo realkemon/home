@@ -1,0 +1,381 @@
+--[[
+	Lua ETLegacy script for a script_mover that can go where you want it to go..
+	It should work for 1 map only. For now, that mapname is "empty".
+	The script_mover is, for now, called: "etmover"
+--]]
+local vec3 = require "luamods/etmover/libvec3"
+local plane = require "luamods/etmover/libplane"
+
+MAXCLIENTS = tonumber(et.trap_Cvar_Get("sv_maxClients"))	-- set to the max clients for the running server
+SVFPS = tonumber(et.trap_Cvar_Get("sv_fps"))				-- serverframes per second
+
+N_SMALL = -10000000					-- a small number
+N_BIG = 10000000					-- a big number
+S_COLOR_BLUE = "^$"					-- the Lua message color
+S_SPLINE_PREFIX = "spline"			-- the names of splines start with this value
+S_MAPNAME = "empty"					-- the mapname must have this value
+S_LUA_SCRIPTNAME = "etmover"		-- the name of this LUA script/module
+S_CVAR_NAME = "etmover"				-- the name of the cvar used to pass data from LUA to mapscript
+S_MOVER_NAME = "etmover"			-- the scriptname/targetname of the script_mover
+
+SVFMS = 1.0 / SVFPS * 1000			-- serverframe duration in milliseconds
+
+MOVER_MIN_DISTANCE = 128			-- controlling player must be at least this distance away
+MOVER_SPEED = 100					-- mover speed (in units per second)
+MOVER_SPEED_UPF = MOVER_SPEED / SVFPS	-- mover speed (in units per frame)
+MOVER_OFFSET_ORIGIN = {0,0,36}		-- to adjust the origin of the mover (offset from the ground)
+
+lua_active = true					-- true, if script running is validated
+
+etmover_entnum = nil				-- entity-number of the etmover
+etmover_pos = {}					-- current position in the map (vec3)
+etmover_angles = {0,0,0}			-- current angles (vec3)
+etmover_tri = 1						-- current triangle the mover is in. The mover must always start somewhere in tri[1]
+
+-- each triangle has the following values:
+--	spline number A		(if the splines name is "spline7", this value is 7)
+--	spline number B		(if the splines name is "spline3", this value is 3)
+--	spline number C		(if the splines name is "spline0", this value is 0)
+--	can cross edge AB to triangle T (if T==nil, cannot cross edge AB)
+--	can cross edge BC to triangle T (if T==nil, cannot cross edge BC)
+--	can cross edge CA to triangle T (if T==nil, cannot cross edge CA)
+--	CALCULATED: {plane AB, plane BC, plane CA, plane ABC}       a plane: {normal,distance}    vec3,float
+tri_array =	{
+				{0, 1, 2,	nil, 2, nil,	{{{0,0,0},0}, {{0,0,0},0}, {{0,0,0},0}, {{0,0,0},0}}, {0,0,0}},	-- tri[1] = {"spline0", "spline1", "spline2", cannot cross edge 0_1, can cross edge 1_2 to tri[2], cannot cross edge 2_0, plane AB, plane BC, plane CA, plane ABC, position first point}
+				{2, 1, 3,	1, 3, nil,		{{{0,0,0},0}, {{0,0,0},0}, {{0,0,0},0}, {{0,0,0},0}}, {0,0,0}},	-- tri[2] = {"spline1", "spline2", "spline3", can cross edge 1_2 to tri[1], cannot cross edge 2_3, cannot cross edge 3_0, plane AB, plane BC, plane CA, plane ABC, position first point}
+				{3, 1, 4,	2, 4, nil,		{{{0,0,0},0}, {{0,0,0},0}, {{0,0,0},0}, {{0,0,0},0}}, {0,0,0}},	-- tri[2] = {"spline1", "spline2", "spline3", can cross edge 1_2 to tri[1], cannot cross edge 2_3, cannot cross edge 3_0, plane AB, plane BC, plane CA, plane ABC, position first point}
+				{4, 1, 5,	3, nil, 5,		{{{0,0,0},0}, {{0,0,0},0}, {{0,0,0},0}, {{0,0,0},0}}, {0,0,0}},	-- tri[2] = {"spline1", "spline2", "spline3", can cross edge 1_2 to tri[1], cannot cross edge 2_3, cannot cross edge 3_0, plane AB, plane BC, plane CA, plane ABC, position first point}
+				{4, 5, 6,	4, nil, nil,	{{{0,0,0},0}, {{0,0,0},0}, {{0,0,0},0}, {{0,0,0},0}}, {0,0,0}}	-- tri[2] = {"spline1", "spline2", "spline3", can cross edge 1_2 to tri[1], cannot cross edge 2_3, cannot cross edge 3_0, plane AB, plane BC, plane CA, plane ABC, position first point}
+			}
+			
+--[[ init stuff --]]
+
+-- create planes for all the edges of the triangle (done only once by initGame)
+function createTriPlanes(a, b, c)
+	local v
+	-- edge AB
+	v = {b[1], b[2], N_SMALL}
+	local edgeAB = plane.fromPoints(v, b, a)
+	-- edge BC
+	v = {c[1], c[2], N_SMALL}
+	local edgeBC = plane.fromPoints(v, c, b)
+	-- edge CA
+	v = {a[1], a[2], N_SMALL}
+	local edgeCA = plane.fromPoints(v, a, c)
+	-- plane ABC
+	local planeABC = plane.fromPoints(c, b, a)
+	return {edgeAB, edgeBC, edgeCA, planeABC}
+end
+--
+
+-- find an entity
+function findEntity(classname, scriptname)
+	local entnum
+	for entnum = 64, 1023, 1 do
+		if et.gentity_get(entnum, "classname") == classname then
+			if et.gentity_get(entnum, "scriptName") == scriptname then
+				return entnum	-- found it
+			end
+		end
+	end
+	return nil	-- not found
+end
+
+-- the mapname must be: "empty"
+function checkMapname()
+    local mapname = et.trap_Cvar_Get("mapname")
+    if string.lower(mapname) == S_MAPNAME then
+		et.G_Print("Lua ".. S_LUA_SCRIPTNAME ..": ".. S_COLOR_BLUE .."Loaded\n")
+		return true
+	else
+		return false
+	end
+end
+
+-- check the etmover entity
+function checkETmover()
+	etmover_entnum = findEntity("script_mover", S_MOVER_NAME)
+	if etmover_entnum == nil then
+		-- if not found, report an error message
+		et.G_Print("Lua ".. S_LUA_SCRIPTNAME ..": ".. S_COLOR_BLUE .."Error. script_mover \"".. S_MOVER_NAME .."\" not found!\n")
+		return false
+	else
+		-- get the current position of the etmover
+		etmover_pos = et.gentity_get(etmover_entnum, "s.origin")	-- {x,y,z}
+		return true
+	end
+end
+
+-- check the controller (to let only 1 player control the mover)
+function checkController()
+	controller_entnum = findEntity("team_CTF_redflag", "etmover_controller")
+	if controller_entnum == nil then
+		-- if not found, report an error message
+		et.G_Print("Lua ".. S_LUA_SCRIPTNAME ..": ".. S_COLOR_BLUE .."Error. team_CTF_redflag \"etmover_controller\" not found!\n")
+		return false
+	else
+		return true
+	end
+end
+
+-- check the triangles
+function checkTriangles()
+	for tris,tri in ipairs(tri_array) do
+		local pos = {nil,nil,nil}
+		for p = 1, 3, 1 do	-- 3 points per triangle (A, B & C)
+			local name = S_SPLINE_PREFIX .. tri[p]
+			local found = findEntity("path_corner", name)
+			if found == nil then
+				-- print an error message
+				et.G_Print("Lua ".. S_LUA_SCRIPTNAME ..": ".. S_COLOR_BLUE .."Error. path_corner \"".. name .."\" not found!\n")
+				return false
+			else
+				-- get position/origin of the path_corner
+				pos[p] = et.gentity_get(found, "s.origin")
+			end
+		end
+		-- all 3 points are found. Now make the planes of the edges between the points.
+		tri[7] = createTriPlanes(pos[1], pos[2], pos[3])
+		tri[8] = pos[1] -- at least one point must be saved for later use..
+	end
+	return true
+end
+
+
+--[[ movement stuff --]]
+
+-- return t if point is inside the triangle.
+-- otherwise return the possible adjecent triangle it moves into, nil if cross over invalid edge.
+-- Note: it is possible that 2 edges are crossed in one movement. In that case, cancel the move.
+function pointMovesToTriangle(point, t)
+	local tri = tri_array[t]
+	local planes = tri[7]
+	local crossed = 0
+	local pAB = plane.pointBack(planes[1], point)	-- outside edge AB?
+	local pBC = plane.pointBack(planes[2], point)	-- outside edge BC?
+	local pCA = plane.pointBack(planes[3], point)	-- outside edge CA?
+	if pAB then
+		crossed = crossed + 1
+	end
+	if pBC then
+		crossed = crossed + 1
+	end
+	if pCA then
+		crossed = crossed + 1
+	end
+	if crossed > 1 then
+		return nil
+	end
+	if pAB then
+		return tri[4]	-- cross over valid edge to adjecent triangle? (or nil otherwise)
+	end
+	if pBC then
+		return tri[5]
+	end
+	if pCA then
+		return tri[6]
+	end
+	-- still inside triangle t
+	return t
+--[[
+--this works, but you CAN make the etmover stop working.. by making it go outside >1 triangle in one move
+	-- outside edge AB?
+	if plane.pointBack(planes[1], point) then
+		return tri[4]	-- cross over valid edge to adjecent triangle? (or nil otherwise)
+	end
+	-- outside edge BC?
+	if plane.pointBack(planes[2], point) then
+		return tri[5]
+	end
+	-- outside edge CA?
+	if plane.pointBack(planes[3], point) then
+		return tri[6]
+	end
+	-- still inside triangle t
+	return t
+--]]
+end
+
+-- intersect a line with a triangle plane ABC
+-- return the point of intersection, or nil otherwise
+-- arguments: line = {vec3,vec3}, plane = {vec3,float}
+function intersectLineTriangle(line, t)
+	local tri = tri_array[t]
+	local triPlane = tri[7][4]
+	local planeNormal = triPlane[1]
+	local pointOnPlane = tri[8]
+	local lineDir = vec3.normalize(vec3.sub(line[2],line[1]))
+	-- parallel?
+	local dot = vec3.dot(planeNormal,lineDir)
+	if dot == 0 then
+		return nil
+	end
+	local v = vec3.sub(pointOnPlane,line[1])
+	local si = vec3.dot(planeNormal,v) / dot
+	return vec3.add(line[1], vec3.scale(lineDir,si))
+end
+
+-- clip the z (height) of the point to the plane of the triangle
+function putPointOnTriangle(point, t)
+	-- a vertical line, through the triangle, through the mover-position
+	local line = {{point[1],point[2],N_BIG},{point[1],point[2],N_SMALL}}
+	-- intersect the line with the plane
+	local i = intersectLineTriangle(line,t)
+	if i ~= nil then
+		return i
+	else
+		return point
+	end
+end
+
+-- vec3_to_angles (as in ET)
+function vectorToAngles(v)
+	local yaw
+	if v[2] == 0 and v[1] == 0 then
+		yaw = 0
+	elseif v[1] ~= 0 then
+		yaw = math.deg(math.atan(v[2], v[1]))	-- this is actually: math.atan2(y,x) --old way
+		if yaw < 0 then
+			yaw = yaw + 360
+		end
+	elseif v[2] > 0 then
+		yaw = 90
+	else
+		yaw = 270
+	end
+	return {0,yaw,0}
+end
+
+-- make the model of the etmover start an animation (we have just 2: idle,walk)
+function startAnimation(a)
+	if a == 1 then
+		et.trap_Cvar_Set(S_CVAR_NAME, 1)	-- walk
+	else
+		et.trap_Cvar_Set(S_CVAR_NAME, 0)	-- idle
+	end
+end
+
+-- check all players, and find out who has the controller
+function getControllerPlayerPos()
+	for entnum = 0, MAXCLIENTS-1, 1 do
+		local powerups = et.gentity_get(entnum, "ps.powerups", 5)	-- 5 is redflag
+		if tonumber(powerups) ~= 0 then
+			return et.gentity_get(entnum, "ps.origin")
+		end
+	end
+	return nil
+end
+
+-- move the mover
+function moveMover()
+	-- no one controlling?
+	local controller_player_pos = getControllerPlayerPos()
+	if controller_player_pos == nil then
+		startAnimation(0)	-- start idle animation
+		return	-- no movement
+	end
+	-- get the vector from etmover_pos to controller_player_pos
+	local v = vec3.sub(controller_player_pos, etmover_pos)
+	-- controller at far enough distance?
+	local len = vec3.length(v)
+	if len < MOVER_MIN_DISTANCE then
+		startAnimation(0)	-- start idle animation
+		return	-- no movement
+	end
+	-- normalize the vector (make it have a length of 1)
+	v = vec3.normalizeLen(v, len)
+	-- scale it to the length of the mover's speed (per frame)
+	local delta = vec3.scale(v, MOVER_SPEED_UPF)
+	local endpos = vec3.add(etmover_pos, delta)
+	-- check if the mover is still inside the triangle, or moves onto another adjecent triangle
+	local etmover_next_tri = pointMovesToTriangle(endpos, etmover_tri)
+	if etmover_next_tri == nil then				-- can not cross the edge?
+		startAnimation(0)	-- start idle animation
+		return									-- no movement
+	end
+	if etmover_next_tri ~= etmover_tri then		-- moved to another triangle?
+		etmover_tri = etmover_next_tri			-- cross over to the next triangle
+	end
+	-- clip the movers origin to the triangle.. like glued to the triangle plane ABC
+	etmover_pos = putPointOnTriangle(endpos, etmover_tri)
+	-- correction:    if you make the models tag(s) correctly, you ouldn't need this next statement..
+	-- adjust the height of the origin (in case the models origin is not at ground level)
+	etmover_pos = vec3.add(etmover_pos, MOVER_OFFSET_ORIGIN)
+	--
+	local leveltime = et.trap_Milliseconds()
+	-- move the mover (interpolate during one serverframe)
+	tr = {trType = 1, trTime = leveltime, trDuration = SVFMS, trBase = etmover_pos, trDelta = vec3.null()}
+	et.gentity_set(etmover_entnum, "s.pos", nil, tr)
+	-- rotate the mover (stationary), with speed 100
+	tr = {trType = 0, trTime = leveltime, trDuration = 0, trBase = vectorToAngles(v), trDelta = {0,100,0}}	-- speed 100
+	et.gentity_set(etmover_entnum, "s.apos", nil, tr)
+	-- start walking animation
+	startAnimation(1)
+end
+
+
+--[[ game callbacks --]]
+
+-- et_InitGame: Called when qagame initializes.
+--	levelTime is the current level time in milliseconds.
+--	randomSeed is a number that can be used to seed random number generators.
+--	restart indicates if et_InitGame() is being called due to a map_restart (1) or not (0).
+function et_InitGame( levelTime, randomSeed, restart )
+	local entnum
+
+	-- Registering the modname.
+	et.RegisterModname("test")
+
+	-- checking for the correct mapname
+	lua_active = checkMapname()
+	if not lua_active then
+		return
+	end
+	
+	-- check the etmover entity
+	lua_active = checkETmover()
+	if not lua_active then
+		return
+	end
+	
+	-- check the controller (to let only 1 player control the mover)
+	lua_active = checkController()
+	if not lua_active then
+		return
+	end
+	
+	-- check the triangles
+	lua_active = checkTriangles()
+	if not lua_active then
+		return
+	end
+	
+	-- if we get to here, we found the map, and all needed entities are found.
+end
+
+
+-- et_ShutdownGame: Called when qagame shuts down.
+--	restart indicates if the shutdown is being called due to a map_restart (1) or not (0).
+function et_ShutdownGame( restart )
+	if not lua_active then
+		return
+	end
+end
+
+
+-- et_Quit: Called when Legacy unloads the mod.
+function et_Quit()
+	if not lua_active then
+		return
+	end
+end
+
+
+-- et_RunFrame: Called when qagame runs a server frame.
+--	levelTime is the current level time in milliseconds.
+function et_RunFrame( levelTime )
+	if not lua_active then
+		return
+	end
+	moveMover()
+end

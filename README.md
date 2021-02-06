@@ -159,7 +159,7 @@ Axis submarines from a naval base near Bergen, Norway are cause for much distres
 **Revelator** *(Deathmatch map concept)*
 
 ---
-*This map started as a concept map for a possible Deathmatch gamemode that was intended to be implemented in lua and used on our gameserver years ago. Over half a decade ago to be precise... However, the map quickly evolved into a test ground for experiments regarding lighting, terrain blending, bump mapping and many other 'special' effects in Wolfenstein: Enemy Territory.*
+*This map started as a concept map for a possible Deathmatch gamemode that was intended to be implemented in lua and used on our gameserver ages ago. However, the map quickly evolved into a test ground for experiments regarding lighting, terrain blending, bump mapping and many other 'special' effects in Wolfenstein: Enemy Territory.*
 <br>
 <a href="https://github.com/realkemon/home/blob/master/pages/revelator.md#"> >> Read more</a>
 

@@ -1,4 +1,4 @@
-Revelator
+Revelator - Deathmatch map concept for ET
 ==========
 
 <table>

@@ -156,7 +156,7 @@ Axis submarines from a naval base near Bergen, Norway are cause for much distres
 ## Concept Maps
 
 <a href="https://github.com/realkemon/home/blob/master/pages/revelator.md#"><img align="left" src="https://github.com/realkemon/home/blob/master/levelshots/revelator.png" width="256"/></a>
-**Revelator** 
+**Revelator** *(Deathmatch map concept)*
 
 ---
 *This map started as a concept map for a possible Deathmatch gamemode that was intended to be implemented in lua and used on our gameserver years ago. Over half a decade ago to be precise... However, the map quickly evolved into a test ground for experiments regarding lighting, terrain blending, bump mapping and many other 'special' effects in Wolfenstein: Enemy Territory.*
@@ -168,7 +168,7 @@ Axis submarines from a naval base near Bergen, Norway are cause for much distres
 
 
 <a href="https://github.com/realkemon/home/blob/master/pages/paragon.md#"><img align="left" src="https://github.com/realkemon/home/blob/master/levelshots/paragon.png" width="256"/></a>
-**Paragon**
+**Paragon** *(MOBA map concept)*
 
 ---
 *[Paragon](https://paragon.fandom.com/wiki/Paragon_Wiki) was a game that I thoroughly enjoyed in the past. It was a fresh take on the MOBA genre and had a very low entry barrier for new players compared to other popular MOBAs. Unfortunately, development and support for this game were stopped around 2018, so I thought I'd give a concept for ET a go. This map is purely conceptual. No attempts at realisation have been done so far.*

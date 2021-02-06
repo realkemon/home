@@ -1,4 +1,4 @@
-Paragon - MOBA map for ET
+Paragon - MOBA map concept for ET
 ==========
 
 <table>

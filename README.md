@@ -10,6 +10,7 @@ I'm Cedric *'kemon'* Easton, a Europe-based Level Designer, Environment- and Tex
     <ul>
      <li><a href="https://github.com/realkemon/home/blob/master/README.md#own-maps">Own Maps</a></li>
      <li><a href="https://github.com/realkemon/home/blob/master/README.md#map-overhauls">Map Overhauls</a></li>
+     <li><a href="https://github.com/realkemon/home/blob/master/README.md#concept-maps">Concept Maps</a></li>
      <li><a href="https://github.com/realkemon/home/blob/master/README.md#tutorials">Tutorials</a></li>
     </ul>
     <li><a href="https://github.com/realkemon/home/blob/master/README.md#game-development">Game Development</a></li>
@@ -151,6 +152,32 @@ Axis submarines from a naval base near Bergen, Norway are cause for much distres
 <br>
 [>> Read more](https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#)
 
+
+## Concept Maps
+
+<a href="https://github.com/realkemon/home/blob/master/pages/revelator.md#"><img align="left" src="https://github.com/realkemon/home/blob/master/levelshots/revelator.png" width="256"/></a>
+**Revelator** 
+
+---
+*This map started as a concept map for a possible Deathmatch gamemode that was intended to be implemented in lua and used on our gameserver years ago. Over half a decade ago to be precise... However, the map quickly evolved into a test ground for experiments regarding lighting, terrain blending, bump mapping and many other 'special' effects in Wolfenstein: Enemy Territory.*
+<br>
+<a href="https://github.com/realkemon/home/blob/master/pages/revelator.md#"> >> Read more</a>
+
+<br>
+<br>
+
+
+<a href="https://github.com/realkemon/home/blob/master/pages/paragon.md#"><img align="left" src="https://github.com/realkemon/home/blob/master/levelshots/paragon.png" width="256"/></a>
+**Paragon** *(MOBA map for ET)* 
+
+---
+*[Paragon](https://paragon.fandom.com/wiki/Paragon_Wiki) was a game that I thoroughly enjoyed in the past. It was a fresh take on the MOBA genre and had a very low entry barrier for new players compared to other popular MOBAs. Unfortunately, development and support for this game were stopped around 2018, so I thought I'd give a concept for ET a go. This map is purely conceptual. No attempts at realisation have been done so far.*
+<br>
+<a href="https://github.com/realkemon/home/blob/master/pages/paragon.md#"> >> Read more</a>
+
+<br>
+
+## Tutorials
 
 # Game Development
 

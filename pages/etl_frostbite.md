@@ -1,5 +1,4 @@
-'Frostbite, by Moonkey'
-==========
+# 'Frostbite, by Moonkey'
 
 <table>
  <tr>
@@ -9,6 +8,7 @@
 <a href="https://github.com/realkemon/home/blob/master/README.md">Home</a><br>
 <ul>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#story">Story</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#objectives">Objectives</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#media">Media</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#options">Options</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#changelog">Changelog</a></li>
@@ -57,9 +57,7 @@
 </table>
 
 
-Story
-============
-
+## Story
 **Campaign: Rocket Base** 
 1. 'Ice, by id software'
 2. **'Frostbite, by Moonkey'**
@@ -68,9 +66,26 @@ Story
 Local resistance managed to leak information about a secret rocket base to the OSA headquarters. According to the intel, the Axis are developing a new rocket of devastating power. OSA headquarters organised a stealth attack to locate and gain access to said rocket base and steal the prototype. In the first mission, the Allies launch a stealth attack on an Axis coastal outpost. The Axis forces must retrieve crucial documents depicting the location of the secret rocket base which were left behind in an initial, hasty retreat to a nearby storage facility. In the second mission, the Axis fortify their position in the storage facility after successfully retrieving the documents. The Allies must infiltrate, steal the documents and radio the location of the secret Rocket Base to the OSA headquarters. In the third mission, the Axis attempt to hold the secret rocket base and prevent a loss of the weapon prototype at all cost. The Allies must find the prototype, neutralise and steal it so it can be sent to OSA headquarters for examination.
 
 
-Media
-============
+## Objectives
 
+### Axis
+* Stop the Allies from transmitting the Supply Documents.
+* Defend the Main Door.
+* Defend the Storage Wall from being breached.
+* Stop the Allies from destroying the Service Door.
+* Set up a Command Post inside the Transmitter Building.
+* Prevent the Allies from establishing a Command Post in the Upper Complex.
+
+### Allies
+* Steal the Supply Documents and transmit them back to Allied Command.
+* Destroy the Main Door into the Complex.
+* Breach the Storage Wall.
+* Dynamite the Service Door.
+* Prevent the Axis from constructing a Command Post in the Transmitter Building.
+* Establish a forward Command Post in the Upper Complex.
+
+
+## Media
 <a href="https://i.imgur.com/ZBw1w2l.jpg"><img src="https://i.imgur.com/ZBw1w2l.jpg"></a>
 <a href="https://i.imgur.com/BqR9ycd.jpg"><img src="https://i.imgur.com/BqR9ycd.jpg"></a>
 <a href="https://i.imgur.com/NZWoQFT.jpg"><img src="https://i.imgur.com/NZWoQFT.jpg"></a>
@@ -83,8 +98,7 @@ Media
 <a href="https://i.imgur.com/jxLLymS.jpg"><img src="https://i.imgur.com/jxLLymS.jpg"></a>
 
 
-Options
-============
+## Options
 ET maps are played in very different settings depending on the active gamemode and server configuration. To avoid maintaining different variations of the same map version, the overhauls come with optional features that server admins can specify in the map script. If additional optional features are desired, please reach out on [Discord](https://discord.gg/QECRUG9VAY).
 ```
 //====OPTIONAL SETTINGS==============================================================
@@ -98,8 +112,7 @@ setstate TJ_clip invisible				// clip preventing TJ over storage wall
 * ... an optional **one-sided** clip that prevents players from jumping over the Storage Wall towards the facility, while at the same time allows players to keep jumping outwards. This clip is disabled by default. To enable it, comment the line `setstate TJ_clip invisible`.
 
 
-Changelog
-============
+## Changelog
 **NOTE:** Previous overhaul versions were too far away from the original. Version 7 is a fresh start from the original 'Frostbite, by Moonkey', which is why previous versions aren't listed below.
 
 ### version 12 (pending)
@@ -169,11 +182,9 @@ Changelog
 * Banners have been removed and replaced with the Rocket Base decal from RTCW for narrative purposes.
 
 
-Development
-============
+## Development
 
 ### Source
-
 Since we are talking about an open-sourced game, in my opinion as much as possible should be available to the public. In that spirit, the map source, along with sources of my other maps, can be found in this repo. It is kept updated with all latest changes, which means the map-source does not necessarily reflect the status of the last release. If you encounter any issues, I would prefer it if you contacted me or simply opened an issue on the tracker, instead of recompiling a version yourself.
 
 [Download](https://github.com/realkemon/home/tree/master/maps)
@@ -181,7 +192,6 @@ Since we are talking about an open-sourced game, in my opinion as much as possib
 [Activity Tracker](https://github.com/realkemon/home/milestone/3)
 
 ### Compile parameters:
-
 ```
 <build name="Frostbite, by Moonkey">
 <command>[q3map2] -bsp -meta -samplesize 2 -v -mv 1024 -mi 6144 &quot;[MapFile]&quot;</command>

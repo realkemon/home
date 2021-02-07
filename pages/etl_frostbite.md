@@ -88,16 +88,26 @@ Warned of the Allied plans, the Axis set up position in a fortified storage faci
 ## Media
 [Dark Matter Productions](https://darkmatterpro.wixsite.com/site) have kindly created a release trailer for 'Frostbite, by Moonkey'. A massive thank you to them and their continuous support. Please watch the trailer [here](https://www.youtube.com/watch?v=SKnhAyjDMSo) Do note that the trailer was made for an outdated version of the map and does not necessarily reflect the current state of the map!
 
-<a href="https://i.imgur.com/ZBw1w2l.jpg"><img src="https://i.imgur.com/ZBw1w2l.jpg"></a>
-<a href="https://i.imgur.com/BqR9ycd.jpg"><img src="https://i.imgur.com/BqR9ycd.jpg"></a>
-<a href="https://i.imgur.com/NZWoQFT.jpg"><img src="https://i.imgur.com/NZWoQFT.jpg"></a>
-<a href="https://i.imgur.com/26uGwxz.jpg"><img src="https://i.imgur.com/26uGwxz.jpg"></a>
-<a href="https://i.imgur.com/qIEpmMh.jpg"><img src="https://i.imgur.com/qIEpmMh.jpg"></a>
-<a href="https://i.imgur.com/sipsbqG.jpg"><img src="https://i.imgur.com/sipsbqG.jpg"></a>
-<a href="https://i.imgur.com/GpDZd5Y.jpg"><img src="https://i.imgur.com/GpDZd5Y.jpg"></a>
-<a href="https://i.imgur.com/mgF2bSD.jpg"><img src="https://i.imgur.com/mgF2bSD.jpg"></a>
-<a href="https://i.imgur.com/xbjJRHx.jpg"><img src="https://i.imgur.com/xbjJRHx.jpg"></a>
-<a href="https://i.imgur.com/jxLLymS.jpg"><img src="https://i.imgur.com/jxLLymS.jpg"></a>
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite1.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite1.png"></a>
+
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite2.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite2.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite3.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite3.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite4.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite4.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite5.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite5.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite6.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite6.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite7.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite7.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite8.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite8.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite9.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite9.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite10.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite10.png"></a>
 
 
 ## Options

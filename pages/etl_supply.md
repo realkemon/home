@@ -58,15 +58,12 @@
 
 ## Story
 
-### Campaign: Submarine Depot
+**Campaign: Submarine Depot**
 
 1. **‘Supply Depot, by ginc’**
 2. ‘Adlernest, by Dersaidin’ *(work-in-progress)*
 3. ’Bergen, by Detoeni’
 
-*Axis submarines from a naval base near Bergen, Norway are cause for much distress in the Northern Atlantic. After failed attempts of disabling the base from sea and air, the OSA headquarters decided to send paratroopers behind enemy lines. As a direct attack proved fruitless, the ALlies paratroopers are tasked with disrupting the  naval base's supply lines and subsequently strike a then vulnerable base from land. The Axis are attempting to defend their storage facilities to keep a continuous resupply line open to the naval base.*
-
-### 'Supply Depot, by ginc'
 The first target of the Allied paratroopers tasked with disrupting supply lines of the naval base is a smaller supply depot. According to reports by the local resistance, this depot is currently in the process of preparing a supply shipment. The Allies, therefore, launch an attack to steal this shipment and use it to further strengthen the efforts of the local resistance. The Axis cannot, under any circumstances, allow this shipment to fall into Allied hands and will attempt to defend the depot at all cost.
 
 

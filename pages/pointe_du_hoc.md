@@ -1,7 +1,6 @@
 # :bangbang: Map performance is problematic. Use is not recommended! :bangbang:
 
-Pointe du Hoc
-==========
+# Pointe du Hoc
 
 <table>
  <tr>
@@ -10,7 +9,9 @@ Pointe du Hoc
   <td rowspan="6"><b>Index:</b><br>
 <a href="https://github.com/realkemon/home/blob/master/README.md#-cedric-aka-kemon">Home</a><br>
 <ul>
+ <li><a href="https://github.com/realkemon/home/blob/master/pointe_du_hoc.md#preamble">Preamble</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pointe_du_hoc.md#story">Story</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pointe_du_hoc.md#objectives">Objectives</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pointe_du_hoc.md#screenshots">Media</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pointe_du_hoc.md#development">Development</a></li>
  <ul>
@@ -41,16 +42,33 @@ Pointe du Hoc
 </table>
 
 
-Story
-============
+## Preamble
+While [Dingenskirchen](https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md) was the first map that I managed to release, Pointe du Hoc is the first own map project that I started. I began mapping in 2008 when Splash Damage [released](https://www.splashdamage.com/news/wolfenstein-enemy-territory-map-source-files-released/) the sources for the 6 standard ET maps. After investigating those maps and open-sourced community maps to try and understand how things were done, Pointe du Hoc started in 2011 out of the desire to create something own. This map has seen over 8 complete restarts throughout the years as with each attempt I learned new things and restarted to implement them. Understandably, this method of working drained my motivation for this project eventually. It was only revived when TrackBase launched the second iteration of their annual map contest which required the submission map to have an historical background. Hence, Pointe du Hoc was reborn.
 
+## Story
 **June 6, 1944:**
 To grant safe passage for the Allied ships during D-Day a small operation is launched to disable the artillery guns of Pointe du Hoc. The Allies will attempt to gain control of the bunkers on the cliff and advance into the Hinterland where the Axis have hidden the artillery guns from Allied bombers. The Axis have to prevent the loss of this strategic part of Normandy and the artillery guns at all costs.
 
 
-Media
-============
+## Objectives
 
+### Axis
+* Do not lose the Forward Bunker to the Allies.
+* Prevent the Allies from calling in reinforcements.
+* Defend the East Artillery Guns.
+* Defend the West Artillery Guns.
+* Construct a Command Post.
+* Construct a Command Post.
+
+### Allies
+* Capture the Forward Bunker.
+* Only an Allied Field-Ops can call in reinforcements here.
+* Dynamite the East Artillery Guns.
+* Dynamite the West Artillery Guns.
+* Construct a Command Post.
+* Prevent the Axis from constructing a Command Post.
+
+## Media
 <a href="https://i.imgur.com/2JIDZ0S.jpg"><img src="https://i.imgur.com/2JIDZ0S.jpg"></a>
 
 <a href="https://i.imgur.com/2JIDZ0S.jpg"><img src="https://i.imgur.com/2JIDZ0S.jpg"></a>
@@ -76,11 +94,9 @@ Media
 <a href="https://i.imgur.com/iq1zrxq.jpg"><img src="https://i.imgur.com/iq1zrxq.jpg"></a>
 
 
-Development
-============
+## Development
 
 ### Source
-
 Since we are talking about an open-source game, in my opinion as much as possible should be available to the public. In that spirit, the map source, along with sources of my other maps, can be found in the repo. It is kept updated with all latest changes, which means the map-source does not necessarily reflect the status of the last release. If you encounter any issues, I would prefer it if you contacted me or simply opened an issue on the tracker, instead of recompiling a version yourself.
 
 [Download](https://github.com/realkemon/home/tree/master/maps)

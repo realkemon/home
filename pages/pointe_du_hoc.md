@@ -69,29 +69,26 @@ To grant safe passage for the Allied ships during D-Day a small operation is lau
 * Prevent the Axis from constructing a Command Post.
 
 ## Media
-<a href="https://i.imgur.com/2JIDZ0S.jpg"><img src="https://i.imgur.com/2JIDZ0S.jpg"></a>
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/hoc/hoc1.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/hoc/hoc1.png"></a>
 
-<a href="https://i.imgur.com/2JIDZ0S.jpg"><img src="https://i.imgur.com/2JIDZ0S.jpg"></a>
 
-<a href="https://i.imgur.com/u3oX0f6.jpg"><img src="https://i.imgur.com/u3oX0f6.jpg"></a>
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/hoc/hoc2.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/hoc/hoc2.png"></a>
 
-<a href="https://i.imgur.com/PLu5rQi.jpg"><img src="https://i.imgur.com/PLu5rQi.jpg"></a>
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/hoc/hoc3.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/hoc/hoc3.png"></a>
 
-<a href="https://i.imgur.com/XeQgAjz.jpg"><img src="https://i.imgur.com/XeQgAjz.jpg"></a>
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/hoc/hoc4.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/hoc/hoc4.png"></a>
 
-<a href="https://i.imgur.com/bV1vUcF.jpg"><img src="https://i.imgur.com/bV1vUcF.jpg"></a>
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/hoc/hoc5.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/hoc/hoc5.png"></a>
 
-<a href="https://i.imgur.com/o90vhYs.jpg"><img src="https://i.imgur.com/o90vhYs.jpg"></a>
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/hoc/hoc6.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/hoc/hoc6.png"></a>
 
-<a href="https://i.imgur.com/tzkXdcI.jpg"><img src="https://i.imgur.com/tzkXdcI.jpg"></a>
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/hoc/hoc7.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/hoc/hoc7.png"></a>
 
-<a href="https://i.imgur.com/Xx6srBE.jpg"><img src="https://i.imgur.com/Xx6srBE.jpg"></a>
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/hoc/hoc8.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/hoc/hoc8.png"></a>
 
-<a href="https://i.imgur.com/sxk0BSH.jpg"><img src="https://i.imgur.com/sxk0BSH.jpg"></a>
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/hoc/hoc9.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/hoc/hoc9.png"></a>
 
-<a href="https://i.imgur.com/crRgEJ3.jpg"><img src="https://i.imgur.com/crRgEJ3.jpg"></a>
-
-<a href="https://i.imgur.com/iq1zrxq.jpg"><img src="https://i.imgur.com/iq1zrxq.jpg"></a>
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/hoc/hoc10.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/hoc/hoc10.png"></a>
 
 
 ## Development

@@ -1,5 +1,4 @@
-'Ice, by id software'
-==========
+# 'Ice, by id software'
 
 <table>
  <tr>
@@ -9,6 +8,7 @@
 <a href="https://github.com/realkemon/home/blob/master/README.md">Home</a><br>
 <ul>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#story">Story</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#objectives">Objectives</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#media">Media</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#options">Options</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#changelog">Changelog</a></li>
@@ -55,9 +55,7 @@
 </table>
 
 
-Story
-============
-
+## Story
 **Campaign: Rocket Base** 
 1. **'Ice, by id software'**
 2. 'Frostbite, by Moonkey'
@@ -65,10 +63,27 @@ Story
 
 Local resistance managed to leak information about a secret rocket base to the OSA headquarters. According to the intel, the Axis are developing a new rocket of devastating power. OSA headquarters organised a stealth attack to locate and gain access to said rocket base and steal the prototype. In the first mission, the Allies launch a stealth attack on an Axis coastal outpost. The Axis forces must retrieve crucial documents depicting the location of the secret rocket base which were left behind in an initial, hasty retreat to a nearby storage facility. In the second mission, the Axis fortify their position in the storage facility after successfully retrieving the documents. The Allies must infiltrate, steal the documents and radio the location of the secret Rocket Base to the OSA headquarters. In the third mission, the Axis attempt to hold the secret rocket base and prevent a loss of the weapon prototype at all cost. The Allies must find the prototype, neutralise and steal it so it can be sent to OSA headquarters for examination.
 
+## Objectives
 
-Media
-============
+### Axis
+* Retrieve the documents.
+* Capture the forward bunker.
+* Destroy the main entrance.
+* Destroy the side wall.
+* Don't let them construct the guardtower.
+* Prevent the Allies from establishing a Command Post.
+* Set up a Command Post.
 
+### Allies
+* Defend the documents until reinforcements arrive.
+* Capture the forward bunker.
+* Do not let the Axis destroy the main entrance.
+* Defend the side wall.
+* Construct the guardtower.
+* Establish a forward Command Post.
+* Prevent the Axis from fortifying their position with a Command Post.
+
+## Media
 <a href="https://i.imgur.com/hl0naOZ.jpg"><img src="https://i.imgur.com/hl0naOZ.jpg"></a>
 <a href="https://i.imgur.com/zwyDFKD.jpg"><img src="https://i.imgur.com/zwyDFKD.jpg"></a>
 <a href="https://i.imgur.com/vQA43rW.jpg"><img src="https://i.imgur.com/vQA43rW.jpg"></a>
@@ -81,16 +96,13 @@ Media
 <a href="https://i.imgur.com/ASadpLv.jpg"><img src="https://i.imgur.com/ASadpLv.jpg"></a>
 
 
-Options
-============
+## Options
 ET maps are played in very different settings depending on the active gamemode and server configuration. To avoid maintaining different variations of the same map version, the overhauls come with optional features that server admins can specify in the map script. If additional optional features are desired, please reach out on [Discord](https://discord.gg/QECRUG9VAY).
 
 'Ice, by id software' currently does not provide optional features. To request a feature, please reach out on [Discord](https://discord.gg/QECRUG9VAY).
 
 
-Changelog
-============
-
+## Changelog
 **NOTE:** Previous overhaul versions were too far away from the original. Version 3 is a fresh start from the original 'Ice, by id software', which is why previous versions aren't listed below.
 
 ### version 6 (pending)
@@ -133,8 +145,7 @@ Changelog
 * Simplified player collision near shelves, crates, etc.
 
 
-Development
-============
+## Development
  
 ### Source
 
@@ -145,7 +156,6 @@ Since we are talking about an open-sourced game, in my opinion as much as possib
 [Activity Tracker](https://github.com/realkemon/home/milestone/1)
 
 ### Compile parameters
-
 ```
 <build name="Ice, by id software">
 <command>[q3map2] -bsp -meta -samplesize 4 -v -mv 1024 -mi 6144 &quot;[MapFile]&quot;</command>
@@ -155,4 +165,3 @@ Since we are talking about an open-sourced game, in my opinion as much as possib
 ```
 
 [:arrow_backward: Return to Home](https://github.com/realkemon/home/blob/master/README.md) [:arrow_double_up: Back to the Top](https://github.com/realkemon/home/blob/master/pages/etl_ice.md)
- 

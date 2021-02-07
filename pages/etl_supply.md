@@ -1,5 +1,4 @@
-'Supply Depot, by ginc'
-==========
+# 'Supply Depot, by ginc'
 
 <table>
  <tr>
@@ -9,6 +8,7 @@
 <a href="https://github.com/realkemon/home/blob/master/README.md">Home</a><br>
 <ul>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#story">Story</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#objectives">Objectives</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#media">Media</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#options">Options</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#additions">Additions</a></li>
@@ -56,9 +56,7 @@
 </table>
 
 
-Story
-============
-
+## Story
 **Campaign: Submarine Depot**
 
 1. **‘Supply Depot, by ginc’**
@@ -68,9 +66,30 @@ Story
 Axis submarines from a naval base near Bergen, Norway are cause for much distress in the Northern Atlantic. After failed attempts of disabling the base from sea and air, the OSA headquarters decided to send paratroopers behind enemy lines. Their task: Disrupt the supply lines of the base and strike a then vulnerable base from land. In the first mission, the Axis are preparing a shipment destined for the naval base from a supply depot in the mountains. The Allied paratroopers must seize those supplies for the local resistance to strengthen their efforts against the Axis forces in the region. In the second mission, alarmed by the loss of the first supply shipment, the Axis attempt to organise retaliation. The Allies must infiltrate the Axis fortification and steal the documents depicting Axis troop movements to disrupt their retaliation attempts. In the third mission, the Axis attempt to hold their naval base to ensure submarine operations in the Northern Atlantic. The Allies launch their attack on the weakened base and must disable communications to submarines on patrol to enforce their retreat and allow Allied convoys to reach the shores safely.
 
 
-Media
-============
+## Objectives
 
+### Axis
+* Stop the Allies from breaching the Forward Bunker Gate with dynamite.
+* Stop the Allies from breaching the Depot Gate with dynamite.
+* Ensure that the Allied truck does not reach the Depot crane.
+* Stop the Allies from constructing the crane controls on the upper level of the Depot warehouse, and don't let them operate the crane.
+* Do not allow the Allied truck to escape with the gold.
+* Stop the Allies from breaching the West Depot Wall with dynamite.
+* Stop the Allies from breaching the East Depot Wall with dynamite.
+* Build a command post at the abandoned cabin, and do not allow the allies to do the same."
+
+### Allies
+* Breach the Forward Bunker Gate with dynamite.
+* Breach the Depot Gate with dynamite.
+* Escort the Allied truck to the Depot crane.
+* Construct the crane controls on the upper level of the Depot warehouse, and operate the crane to load the gold onto the Truck.
+* Escort the Allied truck out of the Depot and escape with the gold.
+* Breach the West Depot Wall with dynamite.
+* Breach the East Depot Wall with dynamite.
+* Secondary: Build a command post at the abandoned cabin, and do not allow the axis to do the same.
+
+
+## Media
 <a href="https://i.imgur.com/xLtSmcq.jpg"><img src="https://i.imgur.com/xLtSmcq.jpg"></a>
 <a href="https://i.imgur.com/nKroooj.jpg"><img src="https://i.imgur.com/nKroooj.jpg"></a>
 <a href="https://i.imgur.com/Nv5rIiL.jpg"><img src="https://i.imgur.com/Nv5rIiL.jpg"></a>
@@ -83,8 +102,7 @@ Media
 <a href="https://i.imgur.com/HmO2eGu.jpg"><img src="https://i.imgur.com/HmO2eGu.jpg"></a>
 
 
-Options
-============
+## Options
 ET maps are played in very different settings depending on the active gamemode and server configuration. To avoid maintaining different variations of the same map version, the overhauls come with optional features that server admins can specify in the map script. If additional optional features are desired, please reach out on [Discord](https://discord.gg/QECRUG9VAY).
 ```
 //====OPTIONAL SETTINGS==============================================================
@@ -105,8 +123,7 @@ setdamagable truck 0					// Make truck invulnerable
 * an optional CP spawn for the Axis team. By default, the spawn is disabled. To enable it, uncomment the line `globalaccum 2 set 1`.
 
 
-Additions
-============
+## Additions
 In an attempt to improve the map further, two features have been added. One with a gameplay impact and the other one simply being a quality of life improvement for spectators and shout-casters.
 <a href="https://i.imgur.com/JCcZb18.jpg"><img src="https://i.imgur.com/JCcZb18.jpg"></a>
 The gameplay feature is the additional of an antenna, which is linked to the Command Post. It provides a near-global visual indicator for the status of the Command Post. (Destroyed, Under Construction, Constructed).
@@ -114,8 +131,7 @@ The gameplay feature is the additional of an antenna, which is linked to the Com
 The quality of life improvement are skylights in the two main bunkers, which are solid for players and entities (bullets, explosions, grenades, etc.), but non-solid for spectators and shout casters. They allow spectators to maintain a constant overview of action around the facilities, while also keeping an eye on the respective main objective to never miss crucial events.
 
 
-Changelog
-============
+## Changelog
 
 ### version 4 (pending)
 
@@ -169,11 +185,9 @@ Changelog
 * Changed depot alarm to only sound for a specific time (15 seconds) instead of linked to the truck position.
 
 
-Development
-============
+## Development
  
 ### Source
-
 Since we are talking about an open-sourced game, in my opinion as much as possible should be available to the public. In that spirit, the map source, along with sources of my other maps, can be found in this repo. It is kept updated with all latest changes, which means the map-source does not necessarily reflect the status of the last release. If you encounter any issues, I would prefer it if you contacted me or simply opened an issue on the tracker, instead of recompiling a version yourself.
 
 [Download](https://github.com/realkemon/home/tree/master/maps)
@@ -181,7 +195,6 @@ Since we are talking about an open-sourced game, in my opinion as much as possib
 [Activity Tracker](https://github.com/realkemon/home/milestone/6)
 
 ### Compile parameters
-
 ```
 <build name="Supply Depot, by ginc">
 <command>[q3map2] -bsp -meta -samplesize 4 -v -mv 1024 -mi 6144 &quot;[MapFile]&quot;</command>
@@ -191,4 +204,3 @@ Since we are talking about an open-sourced game, in my opinion as much as possib
 ```
 
 [:arrow_backward: Return to Home](https://github.com/realkemon/home/blob/master/README.md) [:arrow_double_up: Back to the Top](https://github.com/realkemon/home/blob/master/pages/etl_supply.md)
- 

@@ -1,5 +1,4 @@
-Dingenskirchen - A Tribute
-==========
+# Dingenskirchen - A Tribute
 
 <table>
  <tr>
@@ -10,6 +9,7 @@ Dingenskirchen - A Tribute
 <ul>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md#preamble">Preamble</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md#story">Story</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md#objectives">Objectives</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md#media">Media</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md#changelog">Changelog</a></li>
  <ul>
@@ -45,19 +45,37 @@ Dingenskirchen - A Tribute
  </tr>
 </table>
 
-Preamble
-============
+## Preamble
 This map started as a tribute to *'Return to Castle Wolfenstein'* and was a collaboration between phisherman and me, with big support by Back$nipe (aka FatalJamon). It was the first map project I ever managed to release and it taught me so much over the years. It would not have been possible without so many helping hands that guided me along the way. I also want to send a special thank you to the UJE clan for play testing this map in various stages of development.
 
-Story
-============
-
+## Story
 **December 1944:**
 The noose tightens around the Reich's neck as Allied forces threaten to cross the Siegfried Line and invade Germany. An Eifel castle has become a central location for the Kraut High Command in this area to coordinate their troop movements. It is the last obstacle on the road into Germany and one of the final chances for the Axis to ever turn the tables. Not taking any chances, the Allies are attempting to sneak a suitcase bomb into the High Command conference room to disrupt the Axis strategy at its core.
 
-Media
-============
+## Objectives
 
+### Axis
+* Do not lose the Village to the Allies.
+* Construct the Tank Barrier to stop the Allies.
+* Defend the Tunnel Doors.
+* Stop the Allies from advancing up the River.
+* Do not let the Allies cross the River.
+* Stop the Allies from breaching Castle Wolfenstein at all costs.
+* Stop the Allies from planting a Suitcase Bomb in the Conference Room.
+* Defend the High Command Conference Room.
+
+### Allies
+* Capture the Village.
+* Escort the Tank past the Barrier.
+* Dynamite the Tunnel Doors.
+* Capture the Road Hut and advance up the river.
+* Construct the Bridge to cross the River.
+* Breach the gate to Castle Wolfenstein.
+* Pick up the Suitcase Bomb and deliver it to the Axis Conference Room.
+* Plant the Suitcase Bomb in the Axis High Command Conference Room, then arm it.
+
+
+## Media
 <a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen1.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen1.png"></a>
 
 <a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen2.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen2.png"></a>
@@ -98,15 +116,13 @@ Media
 
 <a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen20.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen20.png"></a>
 
-Changelog
-============
-
+## Changelog
 **NOTE:** Public release versions are only betas 1, 2, 7 and 9. All other iterations were semi-private test versions for which a massive thank you needs to be directed to the UJE clan and Niek and Shargo especially for such comprehensive feedback that it cannot be listed in detail. Betas 2 and 7 were complete reworks of the previous public release, which makes it impossible to provide proper changelogs. This changed with the release of beta 7 as the map finally entered a stage where large scale reworks were no longer necessary and proper changelogs can be provided.
 
 ### beta 10 (pending)
 
 * [TODO] Fix caulk leak between tower and terrain at Tunnel Doors.
-* [TODO] Tank barrier doesn't have dynamite cm icon for ALlies. *(Thank you RaFaL for reporting)*
+* [TODO] Tank barrier doesn't have dynamite cm icon for Allies. *(Thank you RaFaL for reporting)*
 
 ### beta 9
 
@@ -136,11 +152,9 @@ Changelog
 * Removed crates at village flag to compensate too strong defensive position for Axis.
 * Fixed various texture alignment issues.
 
-Development
-============
+## Development
  
 ### Source
-
 Since we are talking about an open-sourced game, in my opinion as much as possible should be available to the public. In that spirit, the map source, along with sources of my other maps, can be found in this repo. It is kept updated with all latest changes, which means the map-source does not necessarily reflect the status of the last release. If you encounter any issues, I would prefer it if you contacted me or simply opened an issue on the tracker, instead of recompiling a version yourself.
 
 [Download](https://github.com/realkemon/home/tree/master/maps)

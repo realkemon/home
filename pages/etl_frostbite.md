@@ -63,7 +63,7 @@
 2. **'Frostbite, by Moonkey'**
 3. 'Missile, by eiM' _(planned)_
 
-Local resistance managed to leak information about a secret rocket base to the OSA headquarters. According to the intel, the Axis are developing a new rocket of devastating power. OSA headquarters organised a stealth attack to locate and gain access to said rocket base and steal the prototype. In the first mission, the Allies launch a stealth attack on an Axis coastal outpost. The Axis forces must retrieve crucial documents depicting the location of the secret rocket base which were left behind in an initial, hasty retreat to a nearby storage facility. In the second mission, the Axis fortify their position in the storage facility after successfully retrieving the documents. The Allies must infiltrate, steal the documents and radio the location of the secret Rocket Base to the OSA headquarters. In the third mission, the Axis attempt to hold the secret rocket base and prevent a loss of the weapon prototype at all cost. The Allies must find the prototype, neutralise and steal it so it can be sent to OSA headquarters for examination.
+Warned of the Allied plans, the Axis set up position in a fortified storage facility. With the element of surprise lost, the Allies have to launch a direct attack on this storage facility, as it is the only way to get hold of the confidential documents depicting supply routes to the nearby secret rocket base, that so narrowly escaped their grasp last time. Hence, the Allies attempt to infiltrate the facility, steal those documents and radio them to OSA headquarters for decyphering.
 
 
 ## Objectives

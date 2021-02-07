@@ -86,16 +86,25 @@ Having disrupted recent supply shipments, the Allies launch their final attack o
 ## Media
 [Dark Matter Productions](https://darkmatterpro.wixsite.com/site) have kindly created a release trailer for 'Bergen, by Detoeni'. A massive thank you to them and their continuous support. Please watch the trailer [here](https://www.youtube.com/watch?v=qeAa6wWPFnc) Do note that the trailer was made for an outdated version of the map and does not necessarily reflect the current state of the map!
 
-<a href="https://i.imgur.com/gDswshJ.jpg"><img src="https://i.imgur.com/gDswshJ.jpg"></a>
-<a href="https://i.imgur.com/lDwDWY8.jpg"><img src="https://i.imgur.com/lDwDWY8.jpg"></a>
-<a href="https://i.imgur.com/PEBcWIA.jpg"><img src="https://i.imgur.com/PEBcWIA.jpg"></a>
-<a href="https://i.imgur.com/1mdBOjR.jpg"><img src="https://i.imgur.com/1mdBOjR.jpg"></a>
-<a href="https://i.imgur.com/z1MlwJD.jpg"><img src="https://i.imgur.com/z1MlwJD.jpg"></a>
-<a href="https://i.imgur.com/Gm916Sl.jpg"><img src="https://i.imgur.com/Gm916Sl.jpg"></a>
-<a href="https://i.imgur.com/6d9IUeX.jpg"><img src="https://i.imgur.com/6d9IUeX.jpg"></a>
-<a href="https://i.imgur.com/7cHZFYw.jpg"><img src="https://i.imgur.com/7cHZFYw.jpg"></a>
-<a href="https://i.imgur.com/AAmHJ2V.jpg"><img src="https://i.imgur.com/AAmHJ2V.jpg"></a>
-<a href="https://i.imgur.com/UPs3uAH.jpg"><img src="https://i.imgur.com/UPs3uAH.jpg"></a>
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/bergen/etl_bergen1.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/bergen/etl_bergen1.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/bergen/etl_bergen2.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/bergen/etl_bergen2.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/bergen/etl_bergen3.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/bergen/etl_bergen3.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/bergen/etl_bergen4.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/bergen/etl_bergen4.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/bergen/etl_bergen5.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/bergen/etl_bergen5.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/bergen/etl_bergen6.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/bergen/etl_bergen6.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/bergen/etl_bergen7.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/bergen/etl_bergen7.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/bergen/etl_bergen8.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/bergen/etl_bergen8.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/bergen/etl_bergen9.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/bergen/etl_bergen9.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/bergen/etl_bergen10.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/bergen/etl_bergen10.png"></a>
 
 
 ## Options

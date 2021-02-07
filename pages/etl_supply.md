@@ -91,16 +91,26 @@ The first target of the Allied paratroopers tasked with disrupting supply lines 
 
 
 ## Media
-<a href="https://i.imgur.com/xLtSmcq.jpg"><img src="https://i.imgur.com/xLtSmcq.jpg"></a>
-<a href="https://i.imgur.com/nKroooj.jpg"><img src="https://i.imgur.com/nKroooj.jpg"></a>
-<a href="https://i.imgur.com/Nv5rIiL.jpg"><img src="https://i.imgur.com/Nv5rIiL.jpg"></a>
-<a href="https://i.imgur.com/GCbgNn9.jpg"><img src="https://i.imgur.com/GCbgNn9.jpg"></a>
-<a href="https://i.imgur.com/gN4JH17.jpg"><img src="https://i.imgur.com/gN4JH17.jpg"></a>
-<a href="https://i.imgur.com/3BNMQL3.jpg"><img src="https://i.imgur.com/3BNMQL3.jpg"></a>
-<a href="https://i.imgur.com/H8vqkuu.jpg"><img src="https://i.imgur.com/H8vqkuu.jpg"></a>
-<a href="https://i.imgur.com/HTH9xUV.jpg"><img src="https://i.imgur.com/HTH9xUV.jpg"></a>
-<a href="https://i.imgur.com/P79d0f1.jpg"><img src="https://i.imgur.com/P79d0f1.jpg"></a>
-<a href="https://i.imgur.com/HmO2eGu.jpg"><img src="https://i.imgur.com/HmO2eGu.jpg"></a>
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply1.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply1.png"></a>
+
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply2.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply2.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply3.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply3.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply4.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply4.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply5.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply5.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply6.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply6.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply7.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply7.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply8.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply8.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply9.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply9.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply10.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply10.png"></a>
 
 
 ## Options
@@ -126,9 +136,9 @@ setdamagable truck 0					// Make truck invulnerable
 
 ## Additions
 In an attempt to improve the map further, two features have been added. One with a gameplay impact and the other one simply being a quality of life improvement for spectators and shout-casters.
-<a href="https://i.imgur.com/JCcZb18.jpg"><img src="https://i.imgur.com/JCcZb18.jpg"></a>
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply_antenna.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply_antenna.png"></a>
 The gameplay feature is the additional of an antenna, which is linked to the Command Post. It provides a near-global visual indicator for the status of the Command Post. (Destroyed, Under Construction, Constructed).
-<a href="https://i.imgur.com/GTJ8hE2.jpg"><img src="https://i.imgur.com/GTJ8hE2.jpg"></a>
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply_roof.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply_roof.png"></a>
 The quality of life improvement are skylights in the two main bunkers, which are solid for players and entities (bullets, explosions, grenades, etc.), but non-solid for spectators and shout casters. They allow spectators to maintain a constant overview of action around the facilities, while also keeping an eye on the respective main objective to never miss crucial events.
 
 

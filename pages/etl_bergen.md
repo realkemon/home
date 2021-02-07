@@ -61,7 +61,7 @@
 **Campaign: Submarine Depot**
 
 1. ‘Supply Depot, by ginc’
-2. ‘Adlernest, by Dersaidin’ *(planned)*
+2. ‘Adlernest, by Dersaidin’ *(work-in-progress)*
 3. **’Bergen, by Detoeni’**
 
 Having disrupted recent supply shipments, the Allies launch their final attack on the now vulnerable naval base and their goal is clear: Use an armoured vehicle to breach the gates of the base and sabotage the transmitter to disrupt communication to the submarines and force them to retreat. To prevent Allied convoys reaching shores, the Axis have to hold the naval base at all cost and keep the transmitter operational.

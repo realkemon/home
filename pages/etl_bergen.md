@@ -84,6 +84,8 @@ Having disrupted recent supply shipments, the Allies launch their final attack o
 * Destroy the Side Entrance.
 
 ## Media
+[Dark Matter Productions](https://darkmatterpro.wixsite.com/site) have kindly created a release trailer for 'Bergen, by Detoeni'. A massive thank you to them and their continuous support. Please watch the trailer [here](https://www.youtube.com/watch?v=qeAa6wWPFnc) Do note that the trailer was made for an outdated version of the map and does not necessarily reflect the current state of the map!
+
 <a href="https://i.imgur.com/gDswshJ.jpg"><img src="https://i.imgur.com/gDswshJ.jpg"></a>
 <a href="https://i.imgur.com/lDwDWY8.jpg"><img src="https://i.imgur.com/lDwDWY8.jpg"></a>
 <a href="https://i.imgur.com/PEBcWIA.jpg"><img src="https://i.imgur.com/PEBcWIA.jpg"></a>

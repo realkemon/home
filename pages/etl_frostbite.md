@@ -86,7 +86,7 @@ Warned of the Allied plans, the Axis set up position in a fortified storage faci
 
 
 ## Media
-[Dark Matter Productions](https://darkmatterpro.wixsite.com/site) have kindly created a release trailer for 'Frostbite, by Moonkey'. A massive thank you to them and their continuous support. Please watch the trailer [here](https://www.youtube.com/watch?v=SKnhAyjDMSo) Do note that the trailer was made for an outdated version of the map and does not necessarily reflect the current state of hte map!
+[Dark Matter Productions](https://darkmatterpro.wixsite.com/site) have kindly created a release trailer for 'Frostbite, by Moonkey'. A massive thank you to them and their continuous support. Please watch the trailer [here](https://www.youtube.com/watch?v=SKnhAyjDMSo) Do note that the trailer was made for an outdated version of the map and does not necessarily reflect the current state of the map!
 
 <a href="https://i.imgur.com/ZBw1w2l.jpg"><img src="https://i.imgur.com/ZBw1w2l.jpg"></a>
 <a href="https://i.imgur.com/BqR9ycd.jpg"><img src="https://i.imgur.com/BqR9ycd.jpg"></a>

@@ -84,6 +84,8 @@ A small Axis coastal fortress is the target of the Allies strike group sent by O
 * Prevent the Axis from fortifying their position with a Command Post.
 
 ## Media
+[Dark Matter Productions](https://darkmatterpro.wixsite.com/site) have kindly created a release trailer for 'Ice, by id software'. A massive thank you to them and their continuous support. Please watch the trailer [here](https://www.youtube.com/watch?v=W0WQi0tjfQ4) Do note that the trailer was made for an outdated version of the map and does not necessarily reflect the current state of the map!
+
 <a href="https://i.imgur.com/hl0naOZ.jpg"><img src="https://i.imgur.com/hl0naOZ.jpg"></a>
 <a href="https://i.imgur.com/zwyDFKD.jpg"><img src="https://i.imgur.com/zwyDFKD.jpg"></a>
 <a href="https://i.imgur.com/vQA43rW.jpg"><img src="https://i.imgur.com/vQA43rW.jpg"></a>

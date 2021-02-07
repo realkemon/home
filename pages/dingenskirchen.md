@@ -76,6 +76,8 @@ The noose tightens around the Reich's neck as Allied forces threaten to cross th
 
 
 ## Media
+[Dark Matter Productions](https://darkmatterpro.wixsite.com/site) have kindly created a release trailer for Dingenskirchen beta 2. A massive thank you to them and their continuous support. Please watch the trailer [here](https://www.youtube.com/watch?v=aHY8ya_RAzw) Do note that beta 2 is heavily outdated both in terms of graphics and objectives. Nonetheless, the trailer shows the state of beta 2 really well.
+
 <a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen1.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen1.png"></a>
 
 <a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen2.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/dingenskirchen/dingenskirchen2.png"></a>

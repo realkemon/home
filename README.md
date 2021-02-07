@@ -1,5 +1,5 @@
 # <img src="https://github.com/realkemon/home/blob/master/gfx/avatar.png" width="64"/> Cedric *'kemon'* Easton
-I'm Cedric *'kemon'* Easton, a Europe-based Level Designer, Environment- and Texture Artist and as of late also a <a href="https://www.twitch.tv/realkemon">Twitch streamer</a>. I'm part of the game development team of <a href="https://github.com/etlegacy">ET: Legacy</a>, an open source project aiming to restore the good old days of <a href="https://github.com/id-Software/Enemy-Territory">Wolfenstein: Enemy Territory</a>. So far my game development experience mainly revolves around to the idtech3 engine environment. However, I have also gained experience in both Unity and Unreal Engine 4 through various tutorial sessions and the Global Game Jams in <a href="https://github.com/realkemon/ggj2020">2020</a> and <a href="https://stefan.ensmann.de/en/among-silhouettes/">2019</a>.
+I'm Cedric *'kemon'* Easton, a Europe-based Level Designer, Environment- and Texture Artist and as of late also a <a href="https://www.twitch.tv/realkemon">Twitch streamer</a>. I'm part of the game development team of <a href="https://github.com/etlegacy">ET: Legacy</a>, an open source project aiming to restore the good old days of <a href="https://github.com/id-Software/Enemy-Territory">Wolfenstein: Enemy Territory</a>. So far, my game development experience mainly revolves around the idtech3 engine environment. However, I have also gained experience in both Unity and Unreal Engine 4 through various tutorial sessions and the Global Game Jams in <a href="https://github.com/realkemon/ggj2020">2020</a> and <a href="https://stefan.ensmann.de/en/among-silhouettes/">2019</a>.
 
 <table>
  <tr>
@@ -112,7 +112,7 @@ Local resistance managed to leak information about the existence of a secret roc
 **Mission 3:** ['Missile, by eiM'](https://et.trackbase.net/map/158/) *(planned)*
 
 ---
-*OSA headquarters finally managed to decypher the location of the secret rocket base that is said to house a new prototype of devastating power, according to intel from the local resistance. This weapon is rumoured to turn the tide in the war in favour of whoever holds it. Under no circumstances do the Axis intend to lose the prototype to the Allied attackers and therefore attempt to defend the rocket base. For the Allies the goal is clear: Infiltrate the rocket base and steal the prototype at all cost.*
+*OSA headquarters managed to decypher the location of the secret rocket base that is said to house a new prototype of devastating power. This weapon is rumoured to turn the tide in the war in favour of whoever holds it. Under no circumstances do the Axis intend to lose the prototype to the Allied attackers and therefore attempt to defend the rocket base. For the Allies the goal is clear: Infiltrate the rocket base and steal the prototype at all cost.*
 <br>
 [>> Original map](https://et.trackbase.net/map/158/)
 

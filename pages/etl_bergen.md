@@ -1,5 +1,4 @@
-'Bergen, by Detoeni'
-==========
+# 'Bergen, by Detoeni'
 
 <table>
  <tr>
@@ -9,6 +8,7 @@
 <a href="https://github.com/realkemon/home/blob/master/README.md#-cedric-aka-kemon">Home</a><br>
 <ul>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#story">Story</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#objectives">Objectives</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#media">Media</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#options">Options</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#changelog">Changelog</a></li>
@@ -57,21 +57,33 @@
 </table>
 
 
-Story
-============
-
+## Story
 **Campaign: Submarine Depot**
 
 1. ‘Supply Depot, by ginc’
 2. ‘Adlernest, by Dersaidin’ *(planned)*
 3. **’Bergen, by Detoeni’**
 
-Axis submarines from a naval base near Bergen, Norway are cause for much distress in the Northern Atlantic. After failed attempts of disabling the base from sea and air, the OSA headquarters decided to send paratroopers behind enemy lines. Their task: Disrupt the supply lines of the base and strike a then vulnerable base from land. In the first mission, the Axis are preparing a shipment destined for the naval base from a supply depot in the mountains. The Allied paratroopers must seize those supplies for the local resistance to strengthen their efforts against the Axis forces in the region. In the second mission, alarmed by the loss of the first supply shipment, the Axis attempt to organise retaliation. The Allies must infiltrate the Axis fortification and steal the documents depicting Axis troop movements to disrupt their retaliation attempts. In the third mission, the Axis attempt to hold their naval base to ensure submarine operations in the Northern Atlantic. The Allies launch their attack on the weakened base and must disable communications to submarines on patrol to enforce their retreat and allow Allied convoys to reach the shores safely.
+Having disrupted recent supply shipments, the Allies launch their final attack on the now vulnerable naval base and their goal is clear: Use an armoured vehicle to breach the gates of the base and sabotage the transmitter to disrupt communication to the submarines and force them to retreat. To prevent Allied convoys reaching shores, the Axis have to hold the naval base at all cost and keep the transmitter operational.
 
 
-Media
-============
+## Objectives
 
+### Axis
+* Stop the Allies from destroying the Transmitter.
+* Prevent the Allies from repairing the Generator.
+* Set up a Command Post inside the submarine pen.
+* Prevent the Allies from gaining a foothold in the Forward Bunker.
+* Prevent the Allies from destroying the Side Entrance.
+
+### Allies
+* Destroy the Transmitter.
+* Repair the Generator.
+* Set up a Command Post in the submarine pen to secure the forward bunker.
+* Capture the Forward Bunker.
+* Destroy the Side Entrance.
+
+## Media
 <a href="https://i.imgur.com/gDswshJ.jpg"><img src="https://i.imgur.com/gDswshJ.jpg"></a>
 <a href="https://i.imgur.com/lDwDWY8.jpg"><img src="https://i.imgur.com/lDwDWY8.jpg"></a>
 <a href="https://i.imgur.com/PEBcWIA.jpg"><img src="https://i.imgur.com/PEBcWIA.jpg"></a>
@@ -84,8 +96,7 @@ Media
 <a href="https://i.imgur.com/UPs3uAH.jpg"><img src="https://i.imgur.com/UPs3uAH.jpg"></a>
 
 
-Options
-============
+## Options
 ET maps are played in very different settings depending on the active gamemode and server configuration. To avoid maintaining different variations of the same map version, the overhauls come with optional features that server admins can specify in the map script. If additional optional features are desired, please reach out on [Discord](https://discord.gg/QECRUG9VAY).
 ```
 //====OPTIONAL SETTINGS==============================================================
@@ -101,8 +112,7 @@ globalaccum 5 set 1			  	// Secure flag while Allies hold both CP and flag
 * ... the option to secure the forward bunker flag while the Allies hold both the CP and the flag. Flag secure is enabled by default. To disable it, comment the line `globalaccum 5 set 1`.
 
 
-Changelog
-============
+## Changelog
 
 ### version 6 (pending)
 
@@ -184,11 +194,9 @@ Changelog
 * Visual changes have been made.
 
 
-Development
-============
+## Development
 
 ### Source
-
 Since we are talking about an open-sourced game, in my opinion as much as possible should be available to the public. In that spirit, the map source, along with sources of my other maps, can be found in the repo. It is kept updated with all latest changes, which means the map-source does not necessarily reflect the status of the last release. If you encounter any issues, I would prefer it if you contacted me or simply opened an issue on the tracker, instead of recompiling a version yourself.
 
 [Download](https://github.com/realkemon/home/tree/master/maps)

@@ -42,11 +42,11 @@ Stiglitz
 
 Preamble
 ============
-This map was my entry for the 2018 Trackbase map contest. Unfortunately, due to time constraints, it was not possible to realise the original concept of this map for beta 1. The concept was to allow free movement of the to-be-escorted Stiglitz, much like hostage missions in CS:GO. In beta 1, Stiglitz follows a pre-defined spline path. 
+This map was my entry for the 2018 Trackbase map contest. Unfortunately, due to time constraints, it was not possible to realise the original concept of this map for beta 1. The concept was to allow free movement of the to-be-escorted Stiglitz rather than having it rely on pre-defined paths.
 
 Concept
 ============
-The planned concept allows Stiglitz to be freely escorted in any direction much like the hostage missions in CS:GO. So, if one route is blocked by the Axis, then another path can freely be chosen. The Axis on the other hand can also escort Stiglitz and try and hide him from the Allies. Obviously, some restrictions need be be applied to avoid having the Axis hide Stiglitz in their spawn, rendering the Allies helpless. To balance the possible 'hiding' of Stiglitz, a neutral Command Post has been implemented in the very centre of the map. Whichever team holds this Command Post gets the location of Stiglitz displayed on the minimap.
+The planned concept allows Stiglitz to be freely escorted in any direction. So, if one route is blocked by the Axis, then another path can freely be chosen. The Axis on the other hand can also escort Stiglitz and try and hide him from the Allies. Obviously, some restrictions need be be applied to avoid having the Axis hide Stiglitz in their spawn, rendering the Allies helpless. To balance the possible 'hiding' of Stiglitz, a neutral Command Post has been implemented in the very centre of the map. Whichever team holds this Command Post gets the location of Stiglitz displayed on the minimap.
 For this concept to work, a special lua script is necessary, which unfortunately was not possible in the given time.
 This lua script was created by [core-C](https://github.com/core-c) and can be found [here](https://github.com/realkemon/home/tree/master/resources/luamods). As a special touch, [core-C](https://github.com/core-c) also managed to expand the functionality to implement drivable vehicles. [TODO] Add showcase videos.
 

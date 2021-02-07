@@ -85,17 +85,26 @@ A small Axis coastal fortress is the target of the Allies strike group sent by O
 
 ## Media
 [Dark Matter Productions](https://darkmatterpro.wixsite.com/site) have kindly created a release trailer for 'Ice, by id software'. A massive thank you to them and their continuous support. Please watch the trailer [here](https://www.youtube.com/watch?v=W0WQi0tjfQ4) Do note that the trailer was made for an outdated version of the map and does not necessarily reflect the current state of the map!
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice1.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice1.png"></a>
 
-<a href="https://i.imgur.com/hl0naOZ.jpg"><img src="https://i.imgur.com/hl0naOZ.jpg"></a>
-<a href="https://i.imgur.com/zwyDFKD.jpg"><img src="https://i.imgur.com/zwyDFKD.jpg"></a>
-<a href="https://i.imgur.com/vQA43rW.jpg"><img src="https://i.imgur.com/vQA43rW.jpg"></a>
-<a href="https://i.imgur.com/8r3IH8j.jpg"><img src="https://i.imgur.com/8r3IH8j.jpg"></a>
-<a href="https://i.imgur.com/4CsMVWO.jpg"><img src="https://i.imgur.com/4CsMVWO.jpg"></a>
-<a href="https://i.imgur.com/rEAKy2Q.jpg"><img src="https://i.imgur.com/rEAKy2Q.jpg"></a>
-<a href="https://i.imgur.com/f68IAQj.jpg"><img src="https://i.imgur.com/f68IAQj.jpg"></a>
-<a href="https://i.imgur.com/YZPcgiq.jpg"><img src="https://i.imgur.com/YZPcgiq.jpg"></a>
-<a href="https://i.imgur.com/DCODrSI.jpg"><img src="https://i.imgur.com/DCODrSI.jpg"></a>
-<a href="https://i.imgur.com/ASadpLv.jpg"><img src="https://i.imgur.com/ASadpLv.jpg"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice2.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice2.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice3.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice3.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice4.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice4.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice5.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice5.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice6.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice6.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice7.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice7.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice8.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice8.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice9.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice9.png"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice10.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice10.png"></a>
 
 
 ## Options

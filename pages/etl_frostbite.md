@@ -11,6 +11,7 @@
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#objectives">Objectives</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#media">Media</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#options">Options</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#additions">Additions</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#changelog">Changelog</a></li>
  <ul>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-12-pending">version 12 (pending)</a></li>
@@ -90,7 +91,6 @@ Warned of the Allied plans, the Axis set up position in a fortified storage faci
 
 <a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite1.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite1.png"></a>
 
-
 <a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite2.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite2.png"></a>
 
 <a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite3.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite3.png"></a>
@@ -122,6 +122,18 @@ setstate TJ_clip invisible				// clip preventing TJ over storage wall
 ```
 'Frostbite, by Moonkey' comes with...
 * ... an optional **one-sided** clip that prevents players from jumping over the Storage Wall towards the facility, while at the same time allows players to keep jumping outwards. This clip is disabled by default. To enable it, comment the line `setstate TJ_clip invisible`.
+
+
+## Additions
+In an attempt to aid and simplify gameplay especially for new players, a few additions have been implemented in the overhauls. If additional gameplay-aiding features are desired, please reach out on [Discord](https://discord.com/invite/QECRUG9VAY).
+
+### Coloured Trims
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite_walltrim.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite_walltrim.png"></a>
+To simplify callouts for players that are not familiar with long-standing competitive terms, coloured trims have been added at the walls to allow players to quickly and easily communicate to their teammate where they or enemy players are.
+
+### Navigational Wire
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite_wires.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite_wires.png"></a>
+For new players the multitude of ET maps can be confusing and especially in document-run maps, time is of the essence. Therefore, wires have been added to guide the player from objective pick-up to place of delivery in a non-intrusive way.
 
 
 ## Changelog

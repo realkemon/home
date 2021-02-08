@@ -189,13 +189,14 @@ Axis submarines from a naval base near Bergen, Norway are cause for much distres
 
 # Game Development
 
-<a href="https://github.com/realkemon/home/blob/master/pages/etlegacy.md#"><img align="left" src="https://raw.githubusercontent.com/realkemon/home/master/gfx/ETLegacy.png" width="256" height="175"/></a>
+<a href="https://github.com/etlegacy"><img align="left" src="https://raw.githubusercontent.com/realkemon/home/master/gfx/ETLegacy.png" width="256" height="175"/></a>
 **ET: Legacy** *(2013 - present)*
 
 ---
 *'ET: Legacy' is an [open source](https://github.com/etlegacy/etlegacy) project based on the code of [Wolfenstein: Enemy Territory](https://www.splashdamage.com/games/wolfenstein-enemy-territory/) which [was released](https://www.splashdamage.com/news/wolfenstein-enemy-territory-goes-open-source/) in 2010 under the terms of the [GPLv3](http://www.gnu.org/licenses/gpl-3.0.html).*
 <br>
-<a href="https://github.com/realkemon/home/blob/master/pages/etlegacy.md#"> >> Read more</a>
+<a href="https://github.com/etlegacy"> >> Project page</a> <br>
+<a href="https://www.youtube.com/watch?v=QlvxU8t0cyw&list=PLGP0cmyywGLR2zfBnkkLXrVJbRvYJqIHo&index=9"> >> Showcase video of my HD retexture efforts *(playlist)*</a>
 
 
 <br>

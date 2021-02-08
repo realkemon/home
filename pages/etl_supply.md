@@ -93,7 +93,6 @@ The first target of the Allied paratroopers tasked with disrupting supply lines 
 ## Media
 <a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply1.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply1.png"></a>
 
-
 <a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply2.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply2.png"></a>
 
 <a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply3.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply3.png"></a>
@@ -135,11 +134,19 @@ setdamagable truck 0					// Make truck invulnerable
 
 
 ## Additions
-In an attempt to improve the map further, two features have been added. One with a gameplay impact and the other one simply being a quality of life improvement for spectators and shout-casters.
+In an attempt to aid and simplify gameplay especially for new players, a few additions have been implemented in the overhauls. If additional gameplay-aiding features are desired, please reach out on [Discord](https://discord.com/invite/QECRUG9VAY).
+
+### Coloured Trims
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply_walltrim.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply_walltrim.png"></a>
+To simplify callouts for players that are not familiar with long-standing competitive terms, coloured trims have been added at the walls to allow players to quickly and easily communicate to their teammate where they or enemy players are.
+
+### CP Antenna
 <a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply_antenna.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply_antenna.png"></a>
-The gameplay feature is the additional of an antenna, which is linked to the Command Post. It provides a near-global visual indicator for the status of the Command Post. (Destroyed, Under Construction, Constructed).
+This addition is an antenna that is linked to the CP to provide a near-global visual indication of its status. When the CP is constructed, the antenna is fully visible, while CP is under construction the antenna indicates that by the standard construction shader and if destroyed, the antenna is not there.
+
+### Roof Skylights
 <a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply_roof.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply_roof.png"></a>
-The quality of life improvement are skylights in the two main bunkers, which are solid for players and entities (bullets, explosions, grenades, etc.), but non-solid for spectators and shout casters. They allow spectators to maintain a constant overview of action around the facilities, while also keeping an eye on the respective main objective to never miss crucial events.
+To support the movement and overview of spectators and shoutcasters, not only is the terrain opened up to allow for free movement on all overhauls, but also skylights have been added to allow spectators and shoutcasters to maintain a constant overview of crucial map areas. These skylights are solid for players and entities *(e.g. airstrikes, grenades)*, but are non-solid for spectators and shoutcasters to further strengthen free movement and allow them to drop into the action at any time.
 
 
 ## Changelog

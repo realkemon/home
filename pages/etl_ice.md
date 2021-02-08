@@ -11,6 +11,7 @@
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#objectives">Objectives</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#media">Media</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#options">Options</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#additions">Additions</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#changelog">Changelog</a></li>
  <ul>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#version-6-pending">version 6 (pending)</a></li>
@@ -113,6 +114,18 @@ ET maps are played in very different settings depending on the active gamemode a
 'Ice, by id software' currently does not provide optional features. To request a feature, please reach out on [Discord](https://discord.gg/QECRUG9VAY).
 
 
+## Additions
+In an attempt to aid and simplify gameplay especially for new players, a few additions have been implemented in the overhauls. If additional gameplay-aiding features are desired, please reach out on [Discord](https://discord.com/invite/QECRUG9VAY).
+
+### Coloured Trims
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice_walltrim.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice_walltrim.png"></a>
+To simplify callouts for players that are not familiar with long-standing competitive terms, coloured trims have been added at the walls to allow players to quickly and easily communicate to their teammate where they or enemy players are.
+
+### Navigational Wire
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice_wires.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice_wires.png"></a>
+For new players the multitude of ET maps can be confusing and especially in document-run maps, time is of the essence. Therefore, wires have been added to guide the player from objective pick-up to place of delivery in a non-intrusive way.
+
+
 ## Changelog
 **NOTE:** Previous overhaul versions were too far away from the original. Version 3 is a fresh start from the original 'Ice, by id software', which is why previous versions aren't listed below.
 
@@ -121,6 +134,7 @@ ET maps are played in very different settings depending on the active gamemode a
 * [TODO] Side Wall cm icon is upside down in vanilla ET due to incorrect field order in .tga. *(Thank you Aciz for reporting)*
 * [TODO] Make terrain clips a bit less aggressive. *(Thank you Aciz for reporting)*
 * [TODO] Remove `common/slick` at tunnel exits. *(Thank you Aciz for reporting)*
+* [TODO] Add missing shader.
 
 ### version 5
 

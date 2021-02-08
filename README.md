@@ -179,8 +179,13 @@ Axis submarines from a naval base near Bergen, Norway are cause for much distres
 
 ## Tutorials
 
-[TODO] Add proper description.
-https://github.com/realkemon/home/blob/master/pages/tutorials.md
+<a href="https://github.com/realkemon/home/blob/master/pages/tutorials.md"><img align="left" src="http://img.youtube.com/vi/J_zbXCt7Kv0/0.jpg" width="256"/></a>
+**Level Design tutorials** *(Using Garux' NetRadiant)*
+
+---
+*These days, unforunately, a lot of documentations and tutorial pages for Level Design for Wolfenstein: Enemy Territory have gone offline. This raises the entry barrier for new mappers so I decided to start a tutorial series. This remains a heavy work in project and while a few sections are already finished, restructuring of the different chapters is planned to simplify understanding.*
+<br>
+<a href="https://github.com/realkemon/home/blob/master/pages/tutorials.md"> >> Read more</a>
 
 # Game Development
 

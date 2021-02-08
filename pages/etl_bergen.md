@@ -11,6 +11,7 @@
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#objectives">Objectives</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#media">Media</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#options">Options</a></li>
+ <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#Additions">Additions</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#changelog">Changelog</a></li>
  <ul>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#version-6-pending">version 6 (pending)</a></li>
@@ -122,6 +123,18 @@ globalaccum 5 set 1			  	// Secure flag while Allies hold both CP and flag
 'Bergen, by Detoeni' comes with...
 * ... the option to toggle the tank (in-)vulnerable. By default, the tank is vulnerable. To prevent Axis from damaging it, uncomment the line `setdamagable tank 0`.
 * ... the option to secure the forward bunker flag while the Allies hold both the CP and the flag. Flag secure is enabled by default. To disable it, comment the line `globalaccum 5 set 1`.
+
+
+## Additions
+In an attempt to aid and simplify gameplay especially for new players, a few additions have been implemented in the overhauls. If additional gameplay-aiding features are desired, please reach out on [Discord](https://discord.com/invite/QECRUG9VAY).
+
+### Coloured Trims
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/bergen/bergen_walltrim.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/bergen/bergen_walltrim.png"></a>
+To simplify callouts for players that are not familiar with long-standing competitive terms, coloured trims have been added at the walls to allow players to quickly and easily communicate to their teammate where they or enemy players are.
+
+### Roof Skylights
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/bergen/bergen_roof.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/bergen/bergen_roof.png"></a>
+To support the movement and overview of spectators and shoutcasters, not only is the terrain opened up to allow for free movement on all overhauls, but also skylights have been added to allow spectators and shoutcasters to maintain a constant overview of crucial map areas. These skylights are solid for players and entities *(e.g. airstrikes, grenades)*, but are non-solid for spectators and shoutcasters to further strengthen free movement and allow them to drop into the action at any time.
 
 
 ## Changelog

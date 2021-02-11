@@ -135,6 +135,7 @@ For new players the multitude of ET maps can be confusing and especially in docu
 * [TODO] Make terrain clips a bit less aggressive. *(Thank you Aciz for reporting)*
 * [TODO] Remove `common/slick` at tunnel exits. *(Thank you Aciz for reporting)*
 * [TODO] Improve lighting at Allied CP.
+* [TODO] Fix Axis CP collision. *(Thank you Aciz for reporting)*
 
 ### version 5
 

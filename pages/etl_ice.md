@@ -134,7 +134,6 @@ For new players the multitude of ET maps can be confusing and especially in docu
 * [TODO] Side Wall cm icon is upside down in vanilla ET due to incorrect field order in .tga. *(Thank you Aciz for reporting)*
 * [TODO] Make terrain clips a bit less aggressive. *(Thank you Aciz for reporting)*
 * [TODO] Remove `common/slick` at tunnel exits. *(Thank you Aciz for reporting)*
-* [TODO] Add missing shader.
 * [TODO] Improve lighting at Allied CP.
 
 ### version 5

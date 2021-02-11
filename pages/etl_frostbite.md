@@ -143,6 +143,7 @@ For new players the multitude of ET maps can be confusing and especially in docu
 
 * Moved flying lamp models to be attached to girder in Axis garage. *(Thank you Aciz for reporting)*
 * Adjusted player collision on cliff near transmitter to prevent glitching on the roof. *(Thank you Aciz for reporting)*
+* [TODO] Improve lighting in balcony hallway  at inner courtyard.
 
 ### version 11
 

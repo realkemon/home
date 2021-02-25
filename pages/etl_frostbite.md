@@ -145,6 +145,7 @@ For new players the multitude of ET maps can be confusing and especially in docu
 * Adjusted player collision on cliff near transmitter to prevent glitching on the roof. *(Thank you Aciz for reporting)*
 * [TODO] Improve lighting in balcony hallway  at inner courtyard.
 * [TEST] Fixed player collision on the Axis CP. *(Thank you Aciz for reporting)*
+* [TODO] Prevent winter trees from overwriting default shaders on other maps. *(Thank you Aciz for reporting)*
 
 ### version 11
 

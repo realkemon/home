@@ -153,9 +153,10 @@ To support the movement and overview of spectators and shoutcasters, not only is
 
 ### version 4 (pending)
 
-* [TODO] Re-add *'Truck is in position'* line as announcement. *(Thank you SAP for reporting)*
-* [TODO] Add second satchel exploit mapscript fix from [here](https://antman.info/wolf/etpro/download.php?mapscripts/supply.script) to fix [destruction exploit](https://github.com/realkemon/home/issues/25). *(Thank you jobhh for reporting)*
-* [TODO] Add cabinets as optional feature in 2nd stage spawns. *(Thank you Dmxj for reporting)*
+* Re-added *'Truck is in position'* line as announcement. *(Thank you SAP for reporting)*
+* Added satchel exploit fix for crane controls. *(Thank you jobhh for reporting)*
+* Add optional spawn cabinets. *(Thank you Dmxj for requesting)*
+* Fixed speaker pointing to incorrect sound file.
 
 ### version 3
 

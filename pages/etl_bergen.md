@@ -143,7 +143,7 @@ To support the movement and overview of spectators and shoutcasters, not only is
 
 * Fixed spawnslot getting stuck in forward flag spawn. *(Thanks to ETc.Jay for reporting)*
 * Adjusted clipping at side entrance to prevent players camping above the door.
-* [TODO] Rework system to secure flag to be less complex and more easily understandable.
+* Reworked system to secure flag to be less complex and more easily understandable. Allies now only need to hold the flag for 30s.
 
 ### version 5
 

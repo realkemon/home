@@ -141,7 +141,8 @@ To support the movement and overview of spectators and shoutcasters, not only is
 
 ### version 6 (pending)
 
-* [TODO] Forward flag spawn has a spawnslot stuck within the flag. *(Thanks to ETc.Jay for reporting)*
+* Fixed spawnslot getting stuck in forward flag spawn. *(Thanks to ETc.Jay for reporting)*
+* Adjusted clipping at side entrance to prevent players camping above the door.
 
 ### version 5
 

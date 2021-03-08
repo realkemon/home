@@ -131,11 +131,11 @@ For new players the multitude of ET maps can be confusing and especially in docu
 
 ### version 6 (pending)
 
-* [TODO] Side Wall cm icon is upside down in vanilla ET due to incorrect field order in .tga. *(Thank you Aciz for reporting)*
-* [TODO] Make terrain clips a bit less aggressive. *(Thank you Aciz for reporting)*
-* [TODO] Remove `common/slick` at tunnel exits. *(Thank you Aciz for reporting)*
-* [TODO] Improve lighting at Allied CP.
-* [TODO] Prevent winter trees from overwriting default shaders on other maps. *(Thank you Aciz for reporting)*
+* Fixed side wall cm icon being upside down in vanilla ET due to incorrect field order in .tga. *(Thank you Aciz for reporting)*
+* Adjusted terrain clipping to be a bit less aggressive. *(Thank you Aciz for reporting)*
+* Removed `common/slick` at tunnel exits. *(Thank you Aciz for reporting)*
+* Improved lighting at Allied CP.
+* Adjusted shader for winter trees to prevent overwriting default shaders on other maps. *(Thank you Aciz for reporting)*
 
 ### version 5
 

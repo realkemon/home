@@ -144,7 +144,7 @@ For new players the multitude of ET maps can be confusing and especially in docu
 * Moved flying lamp models to be attached to girder in Axis garage. *(Thank you Aciz for reporting)*
 * Adjusted player collision on cliff near transmitter to prevent glitching on the roof. *(Thank you Aciz for reporting)*
 * Improved lighting in balcony hallway at inner courtyard.
-* [TEST] Fixed player collision on the Axis CP. *(Thank you Aciz for reporting)*
+* Fixed player collision on the Axis CP. *(Thank you Aciz for reporting)*
 * Adjusted shader for winter trees to prevent overwriting default shaders on other maps. *(Thank you Aciz for reporting)*
 
 ### version 11

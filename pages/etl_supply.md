@@ -14,7 +14,7 @@
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#additions">Additions</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#changelog">Changelog</a></li>
  <ul>
-  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#version-4-pending">version 4 (pending)</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#version-4">version 4</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#version-3">version 3</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#version-2">version 2</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#version-1">version 1</a></li>
@@ -27,15 +27,15 @@
  </tr>
  <tr>
   <td>BSP name</td>
-  <td>etl_supply_v3.bsp</td>
+  <td>etl_supply_v4.bsp</td>
  </tr>
  <tr>
   <td>Status</td>
-  <td>version 3</td>
+  <td>version 4</td>
  </tr>
  <tr> 
   <td>Latest Release</td>
-  <td>January 2021</td>
+  <td>March 2021</td>
  </tr>
  <tr>
   <td>Players</td>
@@ -51,7 +51,7 @@
  </tr>
  <tr>
   <td>Download</td>
-  <td><a href="https://www.moddb.com/mods/etlegacy/addons/supply-depot-by-ginc-v3" title="Download 'Supply Depot, by ginc' (v3) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/207300.png" alt="'Supply Depot, by ginc' (v3)" /></a></td>
+  <td><a href="https://www.moddb.com/mods/etlegacy/addons/supply-depot-by-ginc-v4" title="Download 'Supply Depot, by ginc' (v4) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/210427.png" alt="'Supply Depot, by ginc' (v4)" /></a></td>
  </tr>
 </table>
 
@@ -124,6 +124,9 @@ setdamagable truck 0					// Make truck invulnerable
 // setstate radio_1_speaker invisible	// Radio in forward bunker spawn (enabled by default)
 // setstate radio_2_speaker invisible	// Radio at depot gates (enabled by default)
 // globalaccum 2 set 1					// Axis CP spawn (disabled by default)
+// globalaccum 3 bitset 0				// Forward Spawn cabinets (disabled by default)
+// globalaccum 3 bitset 1				// CP Spawn cabinets (disabled by default)
+// globalaccum 3 bitset 2				// Depot Spawn cabinets (disabled by default)
 //===================================================================================
 ```
 'Supply Depot, by ginc' comes with...
@@ -131,6 +134,9 @@ setdamagable truck 0					// Make truck invulnerable
 * ... an optional clip brush in the crane controls window to prevent TJ. This clip is enabled by default. To disable it, uncomment the line `setstate crane_controls_TJ invisible`.
 * ... the option to disable radio speakers. They are enabled by default. To disable, uncomment the lines `setstate radio_1_speaker invisible` and `setstate radio_2_speaker invisible`.
 * an optional CP spawn for the Axis team. By default, the spawn is disabled. To enable it, uncomment the line `globalaccum 2 set 1`.
+* an optional health and ammo cabinet at the forward spawn flag once the Allies secured it. To enable it, uncomment the line `globalaccum 3 bitset 0`.
+* an optional health and ammo cabinet at the CP once it's constructed by either team. To enable it, uncomment the line `globalaccum 3 bitset 1`.
+* an optional health and ammo cabinet at the Axis depot spawn. To enable it, uncomment the line `globalaccum 3 bitset 2`.
 
 
 ## Additions
@@ -151,7 +157,7 @@ To support the movement and overview of spectators and shoutcasters, not only is
 
 ## Changelog
 
-### version 4 (pending)
+### version 4
 
 * Re-added *'Truck is in position'* line as announcement. *(Thank you SAP for reporting)*
 * Added satchel exploit fix for crane controls. *(Thank you jobhh for reporting)*

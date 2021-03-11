@@ -14,7 +14,7 @@
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#additions">Additions</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#changelog">Changelog</a></li>
  <ul>
-  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-12-pending">version 12 (pending)</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-12">version 12</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-11">version 11</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-10">version 10</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-9">version 9</a></li>
@@ -29,15 +29,15 @@
  </tr>
  <tr>
   <td>BSP name</td>
-  <td>etl_frostbite_v11.bsp</td>
+  <td>etl_frostbite_v12.bsp</td>
  </tr>
  <tr>
   <td>Status</td>
-  <td>version 11</td>
+  <td>version 12</td>
  </tr>
  <tr> 
   <td>Latest Release</td>
-  <td>January 2021</td>
+  <td>March 2021</td>
  </tr>
  <tr>
   <td>Players</td>
@@ -53,7 +53,7 @@
  </tr>
  <tr>
   <td>Download</td>
-  <td><a href="https://www.moddb.com/mods/etlegacy/addons/frostbite-by-moonkey-v11" title="Download 'Frostbite, by Moonkey' (v11) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/207302.png" alt="'Frostbite, by Moonkey' (v11)" /></a></td>
+  <td><a href="https://www.moddb.com/mods/etlegacy/addons/frostbite-by-moonkey-v12" title="Download 'Frostbite, by Moonkey' (v12) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/210425.png" alt="'Frostbite, by Moonkey' (v12)" /></a></td>
  </tr>
 </table>
 
@@ -87,8 +87,6 @@ Warned of the Allied plans, the Axis set up position in a fortified storage faci
 
 
 ## Media
-[Dark Matter Productions](https://darkmatterpro.wixsite.com/site) have kindly created a release trailer for 'Frostbite, by Moonkey'. A massive thank you to them and their continuous support. Please watch the trailer [here](https://www.youtube.com/watch?v=SKnhAyjDMSo) Do note that the trailer was made for an outdated version of the map and does not necessarily reflect the current state of the map!
-
 <a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite1.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite1.png"></a>
 
 <a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite2.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite2.png"></a>
@@ -139,7 +137,7 @@ For new players the multitude of ET maps can be confusing and especially in docu
 ## Changelog
 **NOTE:** Previous overhaul versions were too far away from the original. Version 7 is a fresh start from the original 'Frostbite, by Moonkey', which is why previous versions aren't listed below.
 
-### version 12 (pending)
+### version 12
 
 * Moved flying lamp models to be attached to girder in Axis garage. *(Thank you Aciz for reporting)*
 * Adjusted player collision on cliff near transmitter to prevent glitching on the roof. *(Thank you Aciz for reporting)*

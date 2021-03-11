@@ -14,7 +14,7 @@
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#Additions">Additions</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#changelog">Changelog</a></li>
  <ul>
-  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#version-6-pending">version 6 (pending)</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#version-6">version 6</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#version-5">version 5</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#version-4">version 4</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#version-3">version 3</a></li>
@@ -29,15 +29,15 @@
  </tr>
  <tr>
   <td>BSP name</td>
-  <td>etl_bergen_v5.bsp</td>
+  <td>etl_bergen_v6.bsp</td>
  </tr>
  <tr>
   <td>Status</td>
-  <td>version 5</td>
+  <td>version 6</td>
  </tr>
  <tr> 
   <td>Latest Release</td>
-  <td>January 2021</td>
+  <td>March 2021</td>
  </tr>
  <tr>
   <td>Players</td>
@@ -53,7 +53,7 @@
  </tr>
  <tr>
   <td>Download</td>
-  <td><a href="https://www.moddb.com/mods/etlegacy/addons/bergen-by-detoeni-v5" title="Download 'Bergen, by Detoeni' (v5) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/207303.png" alt="'Bergen, by Detoeni' (v5)" /></a></td>
+  <td><a href="https://www.moddb.com/mods/etlegacy/addons/bergen-by-detoeni-v6" title="Download 'Bergen, by Detoeni' (v6) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/210424.png" alt="'Bergen, by Detoeni' (v6)" /></a></td>
  </tr>
 </table>
 
@@ -85,8 +85,6 @@ Having disrupted recent supply shipments, the Allies launch their final attack o
 * Destroy the Side Entrance.
 
 ## Media
-[Dark Matter Productions](https://darkmatterpro.wixsite.com/site) have kindly created a release trailer for 'Bergen, by Detoeni'. A massive thank you to them and their continuous support. Please watch the trailer [here](https://www.youtube.com/watch?v=qeAa6wWPFnc) Do note that the trailer was made for an outdated version of the map and does not necessarily reflect the current state of the map!
-
 <a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/bergen/bergen1.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/bergen/bergen1.png"></a>
 
 
@@ -117,12 +115,12 @@ wait 1000
 // Toggle the line of the respective setting you want to change by (un-)commenting.
 //
 // setdamagable tank 0			// Make tank invulnerable
-globalaccum 5 set 1			  	// Secure flag while Allies hold both CP and flag
+globalaccum 5 set 1			  	// Secure flag once Allies held flag for 30 seconds
 //===================================================================================
 ```
 'Bergen, by Detoeni' comes with...
 * ... the option to toggle the tank (in-)vulnerable. By default, the tank is vulnerable. To prevent Axis from damaging it, uncomment the line `setdamagable tank 0`.
-* ... the option to secure the forward bunker flag while the Allies hold both the CP and the flag. Flag secure is enabled by default. To disable it, comment the line `globalaccum 5 set 1`.
+* ... the option to secure the forward bunker flag once the Allies held it for 30 seconds consecutively. Flag secure is enabled by default. To disable it, comment the line `globalaccum 5 set 1`.
 
 
 ## Additions
@@ -139,7 +137,7 @@ To support the movement and overview of spectators and shoutcasters, not only is
 
 ## Changelog
 
-### version 6 (pending)
+### version 6
 
 * Fixed spawnslot getting stuck in forward flag spawn. *(Thanks to ETc.Jay for reporting)*
 * Adjusted clipping at side entrance to prevent players camping above the door.

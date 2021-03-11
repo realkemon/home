@@ -14,7 +14,7 @@
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#additions">Additions</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#changelog">Changelog</a></li>
  <ul>
-  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#version-6-pending">version 6 (pending)</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#version-6">version 6</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#version-5">version 5</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#version-4">version 4</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#version-3">version 3</a></li>
@@ -27,15 +27,15 @@
  </tr>
  <tr>
   <td>BSP name</td>
-  <td>etl_ice_v5.bsp</td>
+  <td>etl_ice_v6.bsp</td>
  </tr>
  <tr>
   <td>Status</td>
-  <td>version 5</td>
+  <td>version 6</td>
  </tr>
  <tr> 
   <td>Latest Release</td>
-  <td>January 2021</td>
+  <td>March 2021</td>
  </tr>
  <tr>
   <td>Players</td>
@@ -51,7 +51,7 @@
  </tr>
  <tr>
   <td>Download</td>
-  <td><a href="https://www.moddb.com/mods/etlegacy/addons/ice-by-id-software-v5" title="Download 'Ice, by id software' (v5) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/207301.png" alt="'Ice, by id software' (v5)" /></a></td>
+  <td><a href="https://www.moddb.com/mods/etlegacy/addons/ice-by-id-software-v6" title="Download 'Ice, by id software' (v6) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/210426.png" alt="'Ice, by id software' (v6)" /></a></td>
  </tr>
 </table>
 
@@ -85,7 +85,6 @@ A small Axis coastal fortress is the target of the Allies strike group sent by O
 * Prevent the Axis from fortifying their position with a Command Post.
 
 ## Media
-[Dark Matter Productions](https://darkmatterpro.wixsite.com/site) have kindly created a release trailer for 'Ice, by id software'. A massive thank you to them and their continuous support. Please watch the trailer [here](https://www.youtube.com/watch?v=W0WQi0tjfQ4) Do note that the trailer was made for an outdated version of the map and does not necessarily reflect the current state of the map!
 <a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice1.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice1.png"></a>
 
 
@@ -129,7 +128,7 @@ For new players the multitude of ET maps can be confusing and especially in docu
 ## Changelog
 **NOTE:** Previous overhaul versions were too far away from the original. Version 3 is a fresh start from the original 'Ice, by id software', which is why previous versions aren't listed below.
 
-### version 6 (pending)
+### version 6
 
 * Fixed side wall cm icon being upside down in vanilla ET due to incorrect field order in .tga. *(Thank you Aciz for reporting)*
 * Adjusted terrain clipping to be a bit less aggressive. *(Thank you Aciz for reporting)*
@@ -184,9 +183,9 @@ Since we are talking about an open-sourced game, in my opinion as much as possib
 ### Compile parameters
 ```
 <build name="Ice, by id software">
-<command>[q3map2] -bsp -meta -samplesize 4 -v -mv 1024 -mi 6144 &quot;[MapFile]&quot;</command>
+<command>[q3map2] -bsp -meta -samplesize 8 -v -mv 1024 -mi 6144 &quot;[MapFile]&quot;</command>
 <command>[q3map2] -vis -saveprt -v &quot;[MapFile]&quot;</command>
-<command>[q3map2] -light -fast -samples 4 -samplesize 4 -bounce 3 -bouncegrid -v -thresh 0.5 -shade -dirty -dirtdepth 256 -lightmapsize 2048 -patchshadows -external &quot;[MapFile]&quot;</command>
+<command>[q3map2] -light -fast -samples 4 -samplesize 8 -bounce 3 -bouncegrid -v -thresh 0.5 -shade -dirty -dirtdepth 256 -lightmapsize 2048 -patchshadows -external &quot;[MapFile]&quot;</command>
 </build>
 ```
 

@@ -14,6 +14,7 @@
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#additions">Additions</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#changelog">Changelog</a></li>
  <ul>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-13-pending">version 13 (pending)</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-12">version 12</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-11">version 11</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-10">version 10</a></li>
@@ -136,6 +137,11 @@ For new players the multitude of ET maps can be confusing and especially in docu
 
 ## Changelog
 **NOTE:** Previous overhaul versions were too far away from the original. Version 7 is a fresh start from the original 'Frostbite, by Moonkey', which is why previous versions aren't listed below.
+
+### version 13 (pending)
+
+* Fixed fully caulked terrain brushes. *(Thank you woju for reporting)*
+* Fixed missing tree shader. *(Thank you woju for reporting)*
 
 ### version 12
 

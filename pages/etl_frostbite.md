@@ -14,7 +14,7 @@
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#additions">Additions</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#changelog">Changelog</a></li>
  <ul>
-  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-13-pending">version 13 (pending)</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-13">version 13</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-12">version 12</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-11">version 11</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-10">version 10</a></li>
@@ -30,11 +30,11 @@
  </tr>
  <tr>
   <td>BSP name</td>
-  <td>etl_frostbite_v12.bsp</td>
+  <td>etl_frostbite_v13.bsp</td>
  </tr>
  <tr>
   <td>Status</td>
-  <td>version 12</td>
+  <td>version 13</td>
  </tr>
  <tr> 
   <td>Latest Release</td>
@@ -54,7 +54,7 @@
  </tr>
  <tr>
   <td>Download</td>
-  <td><a href="https://www.moddb.com/mods/etlegacy/addons/frostbite-by-moonkey-v12" title="Download 'Frostbite, by Moonkey' (v12) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/210425.png" alt="'Frostbite, by Moonkey' (v12)" /></a></td>
+  <td><a href="https://www.moddb.com/mods/etlegacy/addons/frostbite-by-moonkey-v13" title="Download 'Frostbite, by Moonkey' (v13) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/211217.png" alt="'Frostbite, by Moonkey' (v13)" /></a></td>
  </tr>
 </table>
 
@@ -138,7 +138,7 @@ For new players the multitude of ET maps can be confusing and especially in docu
 ## Changelog
 **NOTE:** Previous overhaul versions were too far away from the original. Version 7 is a fresh start from the original 'Frostbite, by Moonkey', which is why previous versions aren't listed below.
 
-### version 13 (pending)
+### version 13
 
 * Fixed fully caulked terrain brushes. *(Thank you woju for reporting)*
 * Fixed missing tree shader. *(Thank you woju for reporting)*

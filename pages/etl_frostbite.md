@@ -140,8 +140,8 @@ For new players the multitude of ET maps can be confusing and especially in docu
 
 ### version 13
 
-* Fixed fully caulked terrain brushes. *(Thank you woju for reporting)*
-* Fixed missing tree shader. *(Thank you woju for reporting)*
+* Fixed fully caulked terrain brushes. *(Thank you woju and spyhawk for reporting)*
+* Fixed missing tree shader. *(Thank you woju and spyhawk for reporting)*
 
 ### version 12
 

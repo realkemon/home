@@ -14,7 +14,7 @@
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#additions">Additions</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#changelog">Changelog</a></li>
  <ul>
-  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-14-pending">version 14 (ppending)</a></li>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-14-pending">version 14 (pending)</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-13">version 13</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-12">version 12</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#version-11">version 11</a></li>

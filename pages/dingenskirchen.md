@@ -125,6 +125,7 @@ The noose tightens around the Reich's neck as Allied forces threaten to cross th
 
 * [TODO] Fix caulk leak between tower and terrain at Tunnel Doors.
 * [TODO] Tank barrier doesn't have dynamite cm icon for Allies. *(Thank you RaFaL for reporting)*
+* [TODO] Remove `wm_endround` when timelimit hits to prevent prestige reset bug in ET: Legacy. *(Thank you spyhawk for reporting)*
 
 ### beta 9
 

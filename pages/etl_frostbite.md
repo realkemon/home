@@ -141,7 +141,7 @@ For new players the multitude of ET maps can be confusing and especially in docu
 
 ### version 14 (pending)
 
-* Fix command map icons not having shaders making them appear outside of compass. *(Thank you spyhawk for reporting)*
+* [TODO] Fix command map icons not having shaders making them appear outside of compass. *(Thank you spyhawk for reporting)*
 
 ### version 13
 

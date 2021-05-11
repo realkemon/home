@@ -147,6 +147,7 @@ For new players the multitude of ET maps can be confusing and especially in docu
 * [TODO] Fixed CP sounds playing in second round after `/map_restart`. Also double-check on all other overhauls!
 * [TODO] Fix Allied CP not being auto spawn.
 * [TODO] Change Allied CP spawns being startactive to prevent spawn glitch after `/map_restart`.
+* [TODO] Change from `Axial Projection` to `Brush Primitives`.
 
 ### version 13
 

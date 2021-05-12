@@ -146,8 +146,11 @@ For new players the multitude of ET maps can be confusing and especially in docu
 * Changed back cover on tunnel truck from green to grey to match rest of truck.
 * [TODO] Fixed CP sounds playing in second round after `/map_restart`. Also double-check on all other overhauls!
 * [TODO] Fix Allied CP not being auto spawn.
-* [TODO] Change Allied CP spawns being startactive to prevent spawn glitch after `/map_restart`.
+* [TODO] Change Allied CP spawns from being startactive to prevent spawn glitch after `/map_restart`.
 * [TODO] Change from `Axial Projection` to `Brush Primitives`.
+* Adjusted various texture alignments.
+* Fixed caulked surfaces visible to the player at shelf in Allied spawn.
+* Changed bark texture of dead trees from temperate to winter.
 
 ### version 13
 

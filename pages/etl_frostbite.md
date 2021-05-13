@@ -151,6 +151,7 @@ For new players the multitude of ET maps can be confusing and especially in docu
 * Fixed caulked surfaces visible to the player at shelf in Allied spawn.
 * Changed bark texture of dead trees from temperate to winter.
 * Fixed invalid shader on rear faces of terrain brushes near transmitter.
+* Fixed incorrect use of skyshader at backside of two random brushes.
 
 ### version 13
 

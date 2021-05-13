@@ -137,6 +137,10 @@ To support the movement and overview of spectators and shoutcasters, not only is
 
 ## Changelog
 
+### version 7
+
+* Fixed further sounds active at map start in second round after `/map_restart`.
+
 ### version 6
 
 * Fixed spawnslot getting stuck in forward flag spawn. *(Thanks to ETc.Jay for reporting)*

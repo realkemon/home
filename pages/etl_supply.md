@@ -157,6 +157,10 @@ To support the movement and overview of spectators and shoutcasters, not only is
 
 ## Changelog
 
+### version 5
+
+* Fixed `crane_sound` (constructed controls) playing in second round after `/map_restart`.
+
 ### version 4
 
 * Re-added *'Truck is in position'* line as announcement. *(Thank you SAP for reporting)*

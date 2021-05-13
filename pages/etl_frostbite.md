@@ -144,13 +144,13 @@ For new players the multitude of ET maps can be confusing and especially in docu
 * [TODO] Fix command map icons not having shaders making them appear outside of compass. *(Thank you spyhawk for reporting)*
 * Adjusted back wheels position of inner courtyard truck. (Clips remain unchanged)
 * Changed back cover on tunnel truck from green to grey to match rest of truck.
-* [TODO] Fixed CP sounds playing in second round after `/map_restart`. Also double-check on all other overhauls!
-* [TODO] Fix Allied CP not being auto spawn.
-* [TODO] Change Allied CP spawns from being startactive to prevent spawn glitch after `/map_restart`.
+* Fixed CP sounds playing in second round after `/map_restart`.
+* Removed Allied CP spawns `startactive` spawnflag. Changed `setstate invisible` to `alertentity` functionality to prevent spawn glitch after `/map_restart`.
 * [TODO] Change from `Axial Projection` to `Brush Primitives`.
 * Adjusted various texture alignments.
 * Fixed caulked surfaces visible to the player at shelf in Allied spawn.
 * Changed bark texture of dead trees from temperate to winter.
+* Fixed invalid shader on rear faces of terrain brushes near transmitter.
 
 ### version 13
 

@@ -14,6 +14,7 @@
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#Additions">Additions</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#changelog">Changelog</a></li>
  <ul>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#version-7-pending">version 7 (pending)</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#version-6">version 6</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#version-5">version 5</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#version-4">version 4</a></li>
@@ -137,9 +138,10 @@ To support the movement and overview of spectators and shoutcasters, not only is
 
 ## Changelog
 
-### version 7
+### version 7 (pending)
 
 * Fixed further sounds active at map start in second round after `/map_restart`.
+* [TODO] Add unique ids for spawn slots to prepare [this](https://github.com/etlegacy/etlegacy/issues/1641) feature.
 
 ### version 6
 

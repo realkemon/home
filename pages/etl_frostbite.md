@@ -152,6 +152,7 @@ For new players the multitude of ET maps can be confusing and especially in docu
 * Changed bark texture of dead trees from temperate to winter.
 * Fixed invalid shader on rear faces of terrain brushes near transmitter.
 * Fixed incorrect use of skyshader at backside of two random brushes.
+* [TODO] Add unique ids for spawn slots to prepare [this](https://github.com/etlegacy/etlegacy/issues/1641) feature.
 
 ### version 13
 

@@ -14,6 +14,7 @@
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#additions">Additions</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#changelog">Changelog</a></li>
  <ul>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#version-5-pending">version 5 (pending)</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#version-4">version 4</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#version-3">version 3</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#version-2">version 2</a></li>
@@ -157,9 +158,10 @@ To support the movement and overview of spectators and shoutcasters, not only is
 
 ## Changelog
 
-### version 5
+### version 5 (pending)
 
 * Fixed `crane_sound` (constructed controls) playing in second round after `/map_restart`.
+* [TODO] Add unique ids for spawn slots to prepare [this](https://github.com/etlegacy/etlegacy/issues/1641) feature.
 
 ### version 4
 

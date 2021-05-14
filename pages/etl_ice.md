@@ -14,6 +14,7 @@
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#additions">Additions</a></li>
  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#changelog">Changelog</a></li>
  <ul>
+  <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#version-7-pending">version 7 (pending)</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#version-6">version 6</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#version-5">version 5</a></li>
   <li><a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#version-4">version 4</a></li>
@@ -127,6 +128,13 @@ For new players the multitude of ET maps can be confusing and especially in docu
 
 ## Changelog
 **NOTE:** Previous overhaul versions were too far away from the original. Version 3 is a fresh start from the original 'Ice, by id software', which is why previous versions aren't listed below.
+
+### version 7 (pending)
+
+* [TODO] Change from `Axial Projection` to `Brush Primitives`.
+* [TODO] Add unique ids for spawn slots to prepare [this](https://github.com/etlegacy/etlegacy/issues/1641) feature.
+* Adjusted various texture alignments.
+* Slightly reduced number of verts and shaders in first valley.
 
 ### version 6
 

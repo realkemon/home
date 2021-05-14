@@ -138,6 +138,7 @@ For new players the multitude of ET maps can be confusing and especially in docu
 * [CHECK] Reworked forward flag functionality to prevent spawn glitch after `/map_restart`.
 * Added optional flag secure mechanic when Side Wall destroyed.
 * Added optional health and ammo cabinets in southern tunnel.
+* [CHECK] Fixed forward flag cm icon shown twice for Axis team.
 
 ### version 6
 

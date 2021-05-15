@@ -162,6 +162,7 @@ To support the movement and overview of spectators and shoutcasters, not only is
 
 * Fixed `crane_sound` (constructed controls) playing in second round after `/map_restart`.
 * [TODO] Add unique ids for spawn slots to prepare [this](https://github.com/etlegacy/etlegacy/issues/1641) feature.
+* Change truck to Detoeni's Opel Blitz model.
 
 ### version 4
 

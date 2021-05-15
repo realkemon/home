@@ -142,7 +142,7 @@ For new players the multitude of ET maps can be confusing and especially in docu
 ### version 14 (pending)
 
 * [TODO] Fix command map icons not having shaders making them appear outside of compass. *(Thank you spyhawk for reporting)*
-* Adjusted back wheels position of inner courtyard truck. (Clips remain unchanged)
+* [CHECK] Adjusted position of inner courtyard truck. *(TJ from hood of truck still possible)*
 * Changed back cover on tunnel truck from green to grey to match rest of truck.
 * Fixed CP sounds playing in second round after `/map_restart`.
 * Removed Allied CP spawns `startactive` spawnflag. Changed `setstate invisible` to `alertentity` functionality to prevent spawn glitch after `/map_restart`.
@@ -153,6 +153,7 @@ For new players the multitude of ET maps can be confusing and especially in docu
 * Fixed invalid shader on rear faces of terrain brushes near transmitter.
 * Fixed incorrect use of skyshader at backside of two random brushes.
 * [TODO] Add unique ids for spawn slots to prepare [this](https://github.com/etlegacy/etlegacy/issues/1641) feature.
+* Fixed glass shader on trucks.
 
 ### version 13
 

@@ -139,6 +139,8 @@ For new players the multitude of ET maps can be confusing and especially in docu
 * Added optional flag secure mechanic when Side Wall destroyed.
 * Added optional health and ammo cabinets in southern tunnel.
 * [CHECK] Fixed forward flag cm icon shown twice for Axis team.
+* Adjusted colour of lighting in transmitter building to be less obnoxiously orange.
+* Fixed glass shader on trucks.
 
 ### version 6
 

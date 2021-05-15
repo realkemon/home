@@ -142,6 +142,8 @@ To support the movement and overview of spectators and shoutcasters, not only is
 
 * Fixed further sounds active at map start in second round after `/map_restart`.
 * [TODO] Add unique ids for spawn slots to prepare [this](https://github.com/etlegacy/etlegacy/issues/1641) feature.
+* Fixed glass shader on trucks.
+* [TODO] Adjust projection axis and scaling of terrain textures.
 
 ### version 6
 

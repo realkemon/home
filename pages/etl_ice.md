@@ -132,7 +132,7 @@ For new players the multitude of ET maps can be confusing and especially in docu
 ### version 7 (pending)
 
 * Changed from `Axial Projection` to `Brush Primitives`.
-* [TODO] Add unique ids for spawn slots to prepare [this](https://github.com/etlegacy/etlegacy/issues/1641) feature.
+* Added unique `id`s for spawn slots to prepare [this](https://github.com/etlegacy/etlegacy/issues/1641) feature.
 * Adjusted various texture alignments.
 * Slightly reduced number of verts and shaders in first valley.
 * [CHECK] Reworked forward flag functionality to prevent spawn glitch after `/map_restart`.

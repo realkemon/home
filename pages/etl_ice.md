@@ -136,9 +136,9 @@ For new players the multitude of ET maps can be confusing and especially in docu
 * Adjusted various texture alignments.
 * Slightly reduced number of verts and shaders in first valley.
 * Reworked forward flag functionality to prevent spawn glitch after `/map_restart`.
-* Added optional flag secure mechanic when Side Wall destroyed.
-* Added optional health and ammo cabinets in southern tunnel.
-* Removed Axis flag cm icon as it was causing problems.
+* Added optional flag secure mechanic when Side Wall destroyed. *(enabled by default)*
+* Added optional health and ammo cabinets in southern tunnel. *(diabled by default)*
+* Removed Axis flag cm icon for Allied team as it was causing problems.
 * Adjusted colour of lighting in transmitter building to be less obnoxiously orange.
 * Fixed glass shader on trucks.
 

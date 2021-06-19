@@ -146,13 +146,14 @@ For new players the multitude of ET maps can be confusing and especially in docu
 * Changed back cover on tunnel truck from green to grey to match rest of truck.
 * Fixed CP sounds playing in second round after `/map_restart`.
 * Removed Allied CP spawns `startactive` spawnflag. Changed `setstate invisible` to `alertentity` functionality to prevent spawn glitch after `/map_restart`.
-* [TODO] Change from `Axial Projection` to `Brush Primitives`.
+* Change from `Axial Projection` to `Brush Primitives` to enable better texture alignment/projection options.
 * Adjusted various texture alignments.
 * Fixed caulked surfaces visible to the player at shelf in Allied spawn.
 * Changed bark texture of dead trees from temperate to winter.
 * Fixed invalid shader on rear faces of terrain brushes near transmitter.
 * Fixed incorrect use of skyshader at backside of two random brushes.
-* [TODO] Add unique ids for spawn slots to prepare [this](https://github.com/etlegacy/etlegacy/issues/1641) feature.
+* Added unique `id`s for spawn slots to prepare [this](https://github.com/etlegacy/etlegacy/issues/1641) feature.
+* Increased spawn slot count in garage to 32.
 * Fixed glass shader on trucks.
 
 ### version 13

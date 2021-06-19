@@ -135,10 +135,10 @@ For new players the multitude of ET maps can be confusing and especially in docu
 * Added unique `id`s for spawn slots to prepare [this](https://github.com/etlegacy/etlegacy/issues/1641) feature.
 * Adjusted various texture alignments.
 * Slightly reduced number of verts and shaders in first valley.
-* [CHECK] Reworked forward flag functionality to prevent spawn glitch after `/map_restart`.
+* Reworked forward flag functionality to prevent spawn glitch after `/map_restart`.
 * Added optional flag secure mechanic when Side Wall destroyed.
 * Added optional health and ammo cabinets in southern tunnel.
-* [CHECK] Fixed forward flag cm icon shown twice for Axis team.
+* Removed Axis flag cm icon as it was causing problems.
 * Adjusted colour of lighting in transmitter building to be less obnoxiously orange.
 * Fixed glass shader on trucks.
 

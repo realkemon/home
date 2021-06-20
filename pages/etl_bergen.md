@@ -140,10 +140,12 @@ To support the movement and overview of spectators and shoutcasters, not only is
 
 ### version 7 (pending)
 
-* Fixed further sounds active at map start in second round after `/map_restart`.
-* [TODO] Add unique ids for spawn slots to prepare [this](https://github.com/etlegacy/etlegacy/issues/1641) feature.
+* Fix command map icons not having shaders making them appear outside of compass. (Thank you spyhawk for reporting)
+* Fixed sounds active at map start in second round after `/map_restart`.
+* Added unique `id`s for spawn slots to prepare [this](https://github.com/etlegacy/etlegacy/issues/1641) feature.
 * Fixed glass shader on trucks.
-* [TODO] Adjust projection axis and scaling of terrain textures.
+* Adjusted projection axis and scaling of terrain textures.
+* 
 
 ### version 6
 

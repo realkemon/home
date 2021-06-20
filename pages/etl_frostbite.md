@@ -141,7 +141,7 @@ For new players the multitude of ET maps can be confusing and especially in docu
 
 ### version 14 (pending)
 
-* [TODO] Fix command map icons not having shaders making them appear outside of compass. *(Thank you spyhawk for reporting)*
+* Fixed command map icons not having shaders making them appear outside of compass. *(Thank you spyhawk for reporting)*
 * [CHECK] Adjusted position of inner courtyard truck. *(TJ from hood of truck still possible)*
 * Changed back cover on tunnel truck from green to grey to match rest of truck.
 * Fixed CP sounds playing in second round after `/map_restart`.

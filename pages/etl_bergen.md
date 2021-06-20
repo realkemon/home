@@ -145,7 +145,6 @@ To support the movement and overview of spectators and shoutcasters, not only is
 * Added unique `id`s for spawn slots to prepare [this](https://github.com/etlegacy/etlegacy/issues/1641) feature.
 * Fixed glass shader on trucks.
 * Adjusted projection axis and scaling of terrain textures.
-* 
 
 ### version 6
 

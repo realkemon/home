@@ -131,6 +131,7 @@ For new players the multitude of ET maps can be confusing and especially in docu
 
 ### version 7 (pending)
 
+* Fixed command map icons showing outside of compass. *(Thank you spyhawk for reporting)*
 * Changed from `Axial Projection` to `Brush Primitives`.
 * Added unique `id`s for spawn slots to prepare [this](https://github.com/etlegacy/etlegacy/issues/1641) feature.
 * Adjusted various texture alignments.

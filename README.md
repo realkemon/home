@@ -84,7 +84,7 @@ These overhauls are primarily intended as visual enhancements. Generally, all ch
 ### Campaign: Rocket Base
 Local resistance managed to leak information about the existence of a secret rocket base to the OSA headquarters. According to the intel, the Axis are developing a new rocket of devastating power, which would turn the tide in the war. OSA organised a stealth attack to gain access and steal the prototype. Unfortunately, the exact location of the rocket base remains yet unknown. Therefore, a strike group of Allied soldiers is sent to a known Axis coastal fortification in the area to gather further intel and do what is necessary to get their hands on the secret rocket prototype.
 
-<a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#"><img align="left" src="https://github.com/realkemon/home/blob/master/levelshots/ice.png" width="256"/></a>
+<a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#"><img align="left" src="https://github.com/realkemon/home/blob/master/levelshots/ice/ice.png" width="256"/></a>
 
 **Mission 1:** ['Ice, by id software'](https://github.com/realkemon/home/blob/master/pages/etl_ice.md#)
 
@@ -96,7 +96,7 @@ Local resistance managed to leak information about the existence of a secret roc
 <br>
 
 
-<a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#"><img align="left" src="https://github.com/realkemon/home/blob/master/levelshots/frostbite.png" width="256"/></a>
+<a href="https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#"><img align="left" src="https://github.com/realkemon/home/blob/master/levelshots/frostbite/frostbite.png" width="256"/></a>
 
 **Mission 2:** ['Frostbite, by Moonkey'](https://github.com/realkemon/home/blob/master/pages/etl_frostbite.md#)
 
@@ -120,7 +120,7 @@ Local resistance managed to leak information about the existence of a secret roc
 ### Campaign: Submarine Depot
 Axis submarines from a naval base near Bergen, Norway are cause for much distress in the Northern Atlantic. After failed attempts of disabling the base from sea and air, the OSA headquarters decided to send paratroopers behind enemy lines. As a direct attack proved fruitless, the ALlies paratroopers are tasked with disrupting the  naval base's supply lines and subsequently strike a then vulnerable base from land. The Axis are attempting to defend their storage facilities to keep a continuous resupply line open to the naval base.
 
-<a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#"><img align="left" src="https://github.com/realkemon/home/blob/master/levelshots/supply.png" width="256"/></a>
+<a href="https://github.com/realkemon/home/blob/master/pages/etl_supply.md#"><img align="left" src="https://github.com/realkemon/home/blob/master/levelshots/supply/supply.png" width="256"/></a>
 
 **Mission 1:** ['Supply Depot, by ginc'](https://github.com/realkemon/home/blob/master/pages/etl_supply.md#)
 
@@ -131,9 +131,9 @@ Axis submarines from a naval base near Bergen, Norway are cause for much distres
 
 <br>
 
-<a href="https://et.trackbase.net/map/64/"><img align="left" src="https://github.com/realkemon/home/blob/master/levelshots/etl_adlernest.png" width="256"/></a>
+<a href="https://et.trackbase.net/map/64/"><img align="left" src="https://github.com/realkemon/home/blob/master/levelshots/adlernest/adlernest.png" width="256"/></a>
 
-**Mission 2:** ['Adlernest, by Dersaidin'](https://et.trackbase.net/map/64/) *(work-in-progress)*
+**Mission 2:** ['Adlernest, by Dersaidin'](https://et.trackbase.net/map/64/)
 
 ---
 *After successfully intercepting the first supply shipment, the Allies continue their attacks with the infiltration of a larger storage facility in the remote mountains. Their attempt is to get their hands on confidential documents that will prove invaluable for future war efforts. The Axis cannot allow this storage facility to be compromised and must defend the documents at all costs.*
@@ -143,7 +143,7 @@ Axis submarines from a naval base near Bergen, Norway are cause for much distres
 <br>
 <br>
 
-<a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#"><img align="left" src="https://github.com/realkemon/home/blob/master/levelshots/bergen.png" width="256"/></a>
+<a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#"><img align="left" src="https://github.com/realkemon/home/blob/master/levelshots/bergen/bergen.png" width="256"/></a>
 
 **Mission 3:** ['Bergen, by Detoeni'](https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#)
 

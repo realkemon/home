@@ -2,8 +2,8 @@
 
 <table>
  <tr>
-  <td><a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice.png" width="256"/></a></td>
-  <td><a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice_cc.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice_cc.png" width="256"/></a></td>
+  <td><a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice.png" width="256"/></a></td>
+  <td><a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice_cc.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice_cc.png" width="256"/></a></td>
   <td rowspan="8"><b>Index:</b><br>
 <a href="https://github.com/realkemon/home/blob/master/README.md">Home</a><br>
 <ul>
@@ -86,26 +86,44 @@ A small Axis coastal fortress is the target of the Allies strike group sent by O
 * Prevent the Axis from fortifying their position with a Command Post.
 
 ## Media
-<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice1.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice1.png"></a>
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice1.jpg"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice1.jpg"></a>
 
 
-<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice2.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice2.png"></a>
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice2.jpg"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice2.jpg"></a>
 
-<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice3.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice3.png"></a>
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice3.jpg"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice3.jpg"></a>
 
-<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice4.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice4.png"></a>
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice4.jpg"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice4.jpg"></a>
 
-<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice5.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice5.png"></a>
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice5.jpg"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice5.jpg"></a>
 
-<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice6.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice6.png"></a>
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice6.jpg"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice6.jpg"></a>
 
-<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice7.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice7.png"></a>
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice7.jpg"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice7.jpg"></a>
 
-<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice8.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice8.png"></a>
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice8.jpg"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice8.jpg"></a>
 
-<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice9.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice9.png"></a>
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice9.jpg"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice9.jpg"></a>
 
-<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice10.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice10.png"></a>
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice10.jpg"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice10.jpg"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice11.jpg"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice11.jpg"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice12.jpg"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice12.jpg"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice13.jpg"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice13.jpg"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice14.jpg"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice14.jpg"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice15.jpg"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice15.jpg"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice16.jpg"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice16.jpg"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice17.jpg"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice17.jpg"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice18.jpg"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice18.jpg"></a>
+
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice19.jpg"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice19.jpg"></a>
 
 
 ## Options

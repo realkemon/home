@@ -10,6 +10,7 @@
  <br>
 After slowing down the Allied attack at the coastal fortress, the Axis set up position in a fortified storage facility. Having narrowly lost the confidential documents in Ice, the Allies have to launch a direct attack on this storage facility, as it is the only way to gain intel on the exact whereabouts of the secret rocket base reported in this area. Hence, the Allies attempt to infiltrate the facility, steal those documents and radio them to OSA headquarters for decyphering.
 <br>
+ 
  <a href="https://www.moddb.com/mods/etlegacy/addons/frostbite-by-moonkey-v13" title="Download 'Frostbite, by Moonkey' (v13) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/211217.png" alt="'Frostbite, by Moonkey' (v13)" /></a>
  
 ## Objectives

@@ -17,7 +17,7 @@ According to OSA intel, a local supply depot is currently preparing a shipment t
 
 ## Objectives
  
-<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply_cc.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply_cc.png" width="256"/></a>
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply_cc_overlay.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply_cc_overlay.png" width="256"/></a>
  
 * [ ] The Allies will attempt to escort a truck safely into the Supply Depot.
 * [ ] The Allies need to repair a crane to lift the shipment onto the truck.

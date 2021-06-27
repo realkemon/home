@@ -5,7 +5,6 @@
 
 # Bergen
  
-<!-- TOC -->
 <a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#objectives">Objectives</a> ● <a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#media">Media</a> ● <a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#options">Options</a> ● <a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#changelog">Changelog</a> ● <a href="https://github.com/realkemon/home/blob/master/pages/etl_bergen.md#specs_and_credits">Specs and Credits</a>
 <!-- STORY -->
 **Campaign: 'Submarine Depot' (3/3)**

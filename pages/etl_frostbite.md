@@ -15,7 +15,7 @@ After slowing down the Allied attack at the coastal fortress, the Axis set up po
  
 ## Objectives
  
-<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite_cc.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite_cc.png" width="256"/></a>
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite_cc_overlay.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite_cc_overlay.png" width="256"/></a>
  
 * [ ] The Allies will attempt to infiltrate the storage facility.
 * [ ] The Allies need to steal documents locating the rocket base.

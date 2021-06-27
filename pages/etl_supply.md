@@ -13,7 +13,7 @@
 According to OSA intel, a local supply depot is currently preparing a shipment to the Bergen submarine depot, which is blocking Allied naval convoys from reaching shore. Threfore, Allied paratroopers are tasked with the seizure of those resources and use them to strengthen the local resistance. The Axis cannot, under any circumstances, allow this shipment to fall into Allied hands as it would disrupt operability of the naval base and will attempt to defend the depot at all cost.
 <br>
  
-<a href="https://www.moddb.com/mods/etlegacy/addons/supply-depot-by-ginc-v4" title="Download 'Supply Depot, by ginc' (v4) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/210427.png" alt="'Supply Depot, by ginc' (v4)" /></a>
+<a href="https://www.moddb.com/mods/etlegacy/addons/etl-supply-depot-v5" title="Download ETL Supply Depot (v5) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/216198.png" alt="ETL Supply Depot (v5)" /></a>
 
 ## Objectives
  

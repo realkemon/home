@@ -22,7 +22,7 @@
  
 * [ ] The Axis will attempt to infiltrate the coastal fortress, which has fallen into Allied hands.
 * [ ] The Axis need to retrieve the confidential documents left behind in their initial retreat.
-* [ ] The Axis need to transmit the documents to prevent them from falling into Allied hands.
+* [ ] The Axis need to transmit the documents depicting the location of the secret rocket base.
 
 
 ## Media

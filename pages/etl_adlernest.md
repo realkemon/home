@@ -17,7 +17,7 @@ After successfully intercepting the shipment from the supply depot, the Allies c
 
 ## Objectives
  
-<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/adlernest/adlernest_cc_overlay.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/adlernest/adlernest_cc_overlay.png" width="256"/></a>
+<a href="https://www.moddb.com/mods/etlegacy/addons/etl-adlernest-v1" title="Download ETL Adlernest (v1) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/216200.png" alt="ETL Adlernest (v1)" /></a>
  
 * [ ] The Allies will attempt to breach the facility by dynamiting the door controls.
 * [ ] The Allies need to steal the confidential documents from the office in the rear.

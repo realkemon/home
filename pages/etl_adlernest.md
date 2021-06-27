@@ -13,11 +13,9 @@
 After successfully intercepting the shipment from the supply depot, the Allies continue their efforts with the infiltration of a larger storage facility in the remote mountains. According to OSA intel, this facility houses confidential documents that will prove invaluable for future war efforts. The Axis cannot allow this storage facility to be compromised as it would further weaken the operability of the Northern Atlantic submarine fleet, which is the last bulwark against an Allied naval invasion.
 <br>
  
-<a href="https://www.moddb.com/mods/etlegacy/addons/supply-depot-by-ginc-v4" title="Download 'Supply Depot, by ginc' (v4) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/210427.png" alt="'Supply Depot, by ginc' (v4)" /></a>
+<a href="https://www.moddb.com/mods/etlegacy/addons/etl-adlernest-v1" title="Download ETL Adlernest (v1) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/216200.png" alt="ETL Adlernest (v1)" /></a>
 
 ## Objectives
- 
-<a href="https://www.moddb.com/mods/etlegacy/addons/etl-adlernest-v1" title="Download ETL Adlernest (v1) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/216200.png" alt="ETL Adlernest (v1)" /></a>
  
 * [ ] The Allies will attempt to breach the facility by dynamiting the door controls.
 * [ ] The Allies need to steal the confidential documents from the office in the rear.

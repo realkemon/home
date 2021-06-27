@@ -13,7 +13,7 @@
 Having disrupted recent supply shipments, the Allies launch their final attack on the now vulnerable naval base in Bergen. Their goal is clear: use an armoured vehicle to breach the gates of the base, sabotage the transmitter to disrupt submarine communication forcing them to retreat. To prevent Allied convoys reaching shores, the Axis have to hold the naval base at all cost and keep the transmitter operational.
 <br>
  
-<a href="https://www.moddb.com/mods/etlegacy/addons/bergen-by-detoeni-v6" title="Download 'Bergen, by Detoeni' (v6) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/210424.png" alt="'Bergen, by Detoeni' (v6)" /></a>
+<a href="https://www.moddb.com/mods/etlegacy/addons/etl-bergen-v7" title="Download ETL Bergen (v7) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/216197.png" alt="ETL Bergen (v7)" /></a>
  
 ## Objectives
  

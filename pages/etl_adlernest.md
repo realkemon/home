@@ -17,7 +17,7 @@ After successfully intercepting the shipment from the supply depot, the Allies c
 
 ## Objectives
  
-<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/adlernest/adlernest_cc.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/adlernest/adlernest_cc.png" width="256"/></a>
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/adlernest/adlernest_cc_overlay.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/adlernest/adlernest_cc_overlay.png" width="256"/></a>
  
 * [ ] The Allies will attempt to breach the facility by dynamiting the door controls.
 * [ ] The Allies need to steal the confidential documents from the office in the rear.

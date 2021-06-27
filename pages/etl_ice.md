@@ -18,7 +18,7 @@
  
 ## Objectives
  
-<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice_cc.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice_cc.png" width="256"/></a>
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice_cc_overlay.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice_cc_overlay.png" width="256"/></a>
  
 * [ ] The Axis will attempt to infiltrate the coastal fortress, which has fallen into Allied hands.
 * [ ] The Axis need to retrieve the confidential documents left behind in their initial retreat.

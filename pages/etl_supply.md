@@ -64,7 +64,6 @@ According to OSA intel, a local supply depot is currently preparing a shipment t
 <a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply19.jpg"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/supply/supply19.jpg"></a>
 
 ## Changelog
-`NOTE: Version 3 is a fresh start from the original, which is why previous iterations aren't listed below.`
 
 </div>
 

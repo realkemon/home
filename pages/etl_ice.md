@@ -13,7 +13,7 @@
  A small Axis coastal fortress is the target of the Allies strike group sent by OSA. Overwhelmed by the surprise attack, the Axis hastily abandoned the fortress, only to realise that confidential documents were left behind depicting supply routes to a nearby secret rocket base. Under no circumstances can the Axis let the Allies get hold of the new rocket prototype built in this base. Hence, the Axis attempt to retrieve the confidential documents left behind in the coastal fortress and transmit them to safety at all cost.
 <br>
  
-<a href="https://www.moddb.com/mods/etlegacy/addons/ice-by-id-software-v6" title="Download 'Ice, by id software' (v6) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/210426.png" alt="'Ice, by id software' (v6)" /></a>
+<a href="https://www.moddb.com/mods/etlegacy/addons/etl-ice-v7" title="Download ETL Ice (v7) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/216196.png" alt="ETL Ice (v7)" /></a>
 
  
 ## Objectives

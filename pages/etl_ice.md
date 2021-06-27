@@ -6,48 +6,28 @@
 # Ice
  
 <!-- TOC -->
-<a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#objectives">Objectives</a> ● <a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#media">Media</a> ● <a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#options">Options</a> ● <a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#changelog">Changelog</a> ● <a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#development">Specs</a> ● <a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#credits">Credits</a>
-
-<!-- SUMMARY -->
+<a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#objectives">Objectives</a> ● <a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#media">Media</a> ● <a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#options">Options</a> ● <a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#changelog">Changelog</a> ● <a href="https://github.com/realkemon/home/blob/master/pages/etl_ice.md#specs_and_credits">Specs and Credits</a>
+<!-- STORY -->
 **Campaign: 'Rocket Base' (1/3)**
  <br>
- A small Axis coastal fortress is the target of the Allies strike group sent by OSA. Overwhelmed by the surprise attack, the Axis hastily abandoned the fortress, only to realise that confidential documents were left behind depicting supply routes to the nearby secret rocket base. Under no circumstances do the Axis intend to let the Allies get hold of the new rocket prototype. Hence, the Axis attempt to retrieve the confidential documents left behind in the coastal fortress at all costs, to transmit them to safety.
+ A small Axis coastal fortress is the target of the Allies strike group sent by OSA. Overwhelmed by the surprise attack, the Axis hastily abandoned the fortress, only to realise that confidential documents were left behind depicting supply routes to a nearby secret rocket base. Under no circumstances can the Axis let the Allies get hold of the new rocket prototype built in this base. Hence, the Axis attempt to retrieve the confidential documents left behind in the coastal fortress and transmit them to safety at all cost.
 <br>
  
 <a href="https://www.moddb.com/mods/etlegacy/addons/ice-by-id-software-v6" title="Download 'Ice, by id software' (v6) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/210426.png" alt="'Ice, by id software' (v6)" /></a>
-----
+
  
 ## Objectives
+ 
 <a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice_cc.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice_cc.png" width="256"/></a>
-
- </div>
  
-### Axis
-* [ ] Retrieve the documents.
-* [ ] Capture the forward bunker.
-* [ ] Destroy the main entrance.
-* [ ] Destroy the side wall.
-* [ ] Don't let them construct the guardtower.
-* [ ] Prevent the Allies from establishing a Command Post.
-* [ ] Set up a Command Post.
-
-### Allies
-* [ ] Defend the documents until reinforcements arrive.
-* [ ] Capture the forward bunker.
-* [ ] Do not let the Axis destroy the main entrance.
-* [ ] Defend the side wall.
-* [ ] Construct the guardtower.
-* [ ] Establish a forward Command Post.
-* [ ] Prevent the Axis from fortifying their position with a Command Post.
- 
+* [ ] The Axis will attempt to infiltrate the coastal fortress, which has fallen into Allied hands.
+* [ ] The Axis need to retrieve the confidential documents left behind in their initial retreat.
+* [ ] The Axis need to transmit the documents to prevent them from falling into Allied hands.
 
 
-
- 
- 
 ## Media
-<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice1.jpg"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice1.jpg"></a>
 
+<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice1.jpg"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice1.jpg"></a>
 
 <a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice2.jpg"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice2.jpg"></a>
 
@@ -86,19 +66,13 @@
 <a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice19.jpg"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/ice/ice19.jpg"></a>
 
 
-## Options
-ET maps are played in very different settings depending on the active gamemode and server configuration. To avoid maintaining different variations of the same map version, the overhauls come with optional features that server admins can specify in the map script. If additional optional features are desired, please reach out on [Discord](https://discord.gg/QECRUG9VAY).
-
-'Ice, by id software' currently does not provide optional features. To request a feature, please reach out on [Discord](https://discord.gg/QECRUG9VAY).
-
-
 ## Changelog
-> **NOTE:** Version 3 is a fresh start from the original, which is why previous iterations aren't listed below.
+`NOTE: Version 3 is a fresh start from the original, which is why previous iterations aren't listed below.`
 
+</div>
 
-### version 7 (pending)
 <details>
- <summary><i>Click to expand</i></summary>
+ <summary><b>version 7</b> <i>(Jun 27 2021)</i></summary>
  
 * [x] Fixed command map icons showing outside of compass. *(Thank you spyhawk for reporting)*
 * [x] Changed from `Axial Projection` to `Brush Primitives`.
@@ -111,11 +85,11 @@ ET maps are played in very different settings depending on the active gamemode a
 * [x] Removed Axis flag cm icon for Allied team as it was causing problems.
 * [x] Adjusted colour of lighting in transmitter building to be less obnoxiously orange.
 * [x] Fixed glass shader on trucks.
+* [x] Fixed wood textures z-fighting in south tunnel shelf.
 </details>
 
-### version 6
 <details>
- <summary><i>Click to expand</i></summary>
+ <summary><b>version 6</b> <i>(Mar 11 2021)</i></summary>
  
 * [x] Fixed side wall cm icon being upside down in vanilla ET due to incorrect field order in .tga. *(Thank you Aciz for reporting)*
 * [x] Adjusted terrain clipping to be a bit less aggressive. *(Thank you Aciz for reporting)*
@@ -124,9 +98,8 @@ ET maps are played in very different settings depending on the active gamemode a
 * [x] Adjusted shader for winter trees to prevent overwriting default shaders on other maps. *(Thank you Aciz for reporting)*
 </details>
 
-### version 5
 <details>
- <summary><i>Click to expand</i></summary>
+ <summary><b>version 5</b> <i>(Jan 20 2021)</i></summary>
  
 * [x] Adjusted lighting and terrain blending to improve performance.
 * [x] Increased playercount from 16vs16 to 32vs32.
@@ -136,17 +109,15 @@ ET maps are played in very different settings depending on the active gamemode a
 * [x] Fixed setstate error for non-existent entities.
 </details>
 
-### version 4
 <details>
- <summary><i>Click to expand</i></summary>
+ <summary><b>version 4</b> <i>(Dec 20 2020)</i></summary>
  
 * [x] Adjusted height of swinglights to be flush with ceiling.
 * [x] Improved overall lighting.
 </details>
 
-### version 3
 <details>
- <summary><i>Click to expand</i></summary>
+ <summary><b>version 3</b> <i>(Apr 20 2020)</i></summary>
  
 * [x] Improved VO announcements.
     * As long as both Main Entrance and Side Wall are active VO is: “defend/destroy entrances”.
@@ -166,53 +137,41 @@ ET maps are played in very different settings depending on the active gamemode a
 * [x] Simplified player collision near shelves, crates, etc.
 </details>
 
-## Development
-
-<table>
- <tr>
-  <td>BSP name</td>
-  <td>etl_ice_v6.bsp</td>
- </tr>
- <tr>
-  <td>Status</td>
-  <td>version 6</td>
- </tr>
- <tr> 
-  <td>Latest Release</td>
-  <td>March 2021</td>
- </tr>
- <tr>
-  <td>Players</td>
-  <td>32 vs 32</td>
- </tr>
- <tr>
-  <td>Original map by</td>
-  <td>id software</td>
- </tr>
- <tr>
-  <td>Visual overhaul by</td>
-  <td>kemon</td>
- </tr>
-</table>
+<div align="center">
  
-### Source
+## Specs and Credits
 
-Since we are talking about an open-sourced game, in my opinion as much as possible should be available to the public. In that spirit, the map source, along with sources of my other maps, can be found in this repo. It is kept updated with all latest changes, which means the map-source does not necessarily reflect the status of the last release. If you encounter any issues, I would prefer it if you contacted me or simply opened an issue on the tracker, instead of recompiling a version yourself.
-
-[Download](https://github.com/realkemon/home/tree/master/maps)
-|:---|
-[Activity Tracker](https://github.com/realkemon/home/milestone/1)
-
+### Options
+ 
+ET maps are played in different gamemodes and configurations, occasionally calling for different settings. To avoid maintaining separate variations of the same map, optional features have been added, which can be toggled in the map script `pk3/maps/<mapname>.script`. Toggle the optional features by (un-)commenting the respective line. Upload the changed mapscript to your server's mapscript directory *(path depends on mod)*. The following optional features are included in **Ice**:
+* [ ] Additional health and ammo cabinets in the southern tunnel. *(default disabled)*
+* [x] Secure functionality for the Axis flag when Side Wall is destroyed. *(default enabled)*
+ 
 ### Compile parameters
+
+</div>
+
 ```
-<build name="Ice, by id software">
+<build name="Ice">
 <command>[q3map2] -bsp -meta -samplesize 8 -v -mv 1024 -mi 6144 &quot;[MapFile]&quot;</command>
 <command>[q3map2] -vis -saveprt -v &quot;[MapFile]&quot;</command>
-<command>[q3map2] -light -fast -samples 4 -samplesize 8 -bounce 3 -bouncegrid -v -thresh 0.5 -shade -dirty -dirtdepth 256 -lightmapsize 2048 -patchshadows -external &quot;[MapFile]&quot;</command>
+<command>[q3map2] -light -fast -samples 4 -samplesize 8 -bounce 3 -bouncegrid -v -thresh 0.5 -shade -dirty -dirtdepth 256 -lightmapsize 1024 -patchshadows -external &quot;[MapFile]&quot;</command>
 </build>
 ```
 
-## Credits
+<div align="center">
+ 
+### Source
+Since we are talking about an open-source game, in my opinion as much as possible should be available to the public. In that spirit, the map source, along with sources of my other maps, can be found in this repo. It is kept up-to-date with all latest changes, which means the map source does not necessarily reflect the status of the last release.
+<br>
+<a href="https://github.com/realkemon/home/tree/master/maps">> DOWNLOAD <</a>
+ 
+### Credits
+This is not my own map. It is a visual overhaul of an existing map created by [**id software**](https://www.idsoftware.com).
+<br>
+They still hold all the rights to the map design and original idea and I do not claim ownership of it.
+
+</div>
 
 ----
-[:arrow_backward: Return to Home](https://github.com/realkemon/home/blob/master/README.md) [:arrow_double_up: Back to the Top](https://github.com/realkemon/home/blob/master/pages/etl_ice.md)
+[:arrow_backward: Return to Home](https://github.com/realkemon/home/blob/master/README.md) [:arrow_double_up: Back to Top](https://github.com/realkemon/home/blob/master/pages/etl_ice.md)

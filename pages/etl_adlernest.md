@@ -54,6 +54,12 @@ After successfully intercepting the shipment from the supply depot, the Allies c
 </div>
 
 <details>
+ <summary><b>version 2</b> <i>(pending)</i></summary>
+ 
+* [ ] Fixed Allied Command Post spawn not being set as autospawn. *(Thank you <=TM=>Flo for reporting)*
+</details>
+
+<details>
  <summary><b>version 1</b> <i>(Jun 27 2021)</i></summary>
  
 * [x] Added targetname and scriptname to nearly all in-game entities to enable server admins to build custom scripts if desired.

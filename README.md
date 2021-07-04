@@ -1,62 +1,59 @@
-# <img src="https://github.com/realkemon/home/blob/master/gfx/avatar.png" width="64"/> Cedric *'kemon'* Easton
-I'm Cedric *'kemon'* Easton, a Europe-based Level Designer, Environment- and Texture Artist and as of late also a <a href="https://www.twitch.tv/realkemon">Twitch streamer</a>. I'm part of the game development team of <a href="https://github.com/etlegacy">ET: Legacy</a>, an open source project aiming to restore the good old days of <a href="https://github.com/id-Software/Enemy-Territory">Wolfenstein: Enemy Territory</a>. So far, my game development experience mainly revolves around the idtech3 engine environment. However, I have also gained experience in both Unity and Unreal Engine 4 through various tutorial sessions and the Global Game Jams in <a href="https://github.com/realkemon/ggj2020">2020</a> and <a href="https://stefan.ensmann.de/en/among-silhouettes/">2019</a>.
+<div align="center">
+ 
+<a href="https://github.com/realkemon/home/blob/master/gfx/avatar.png"><img src="https://github.com/realkemon/home/blob/master/gfx/avatar.png" width="512"/></a>
+ 
+# Cedric *'kemon'* Easton
+<a href="https://github.com/realkemon/home/blob/master/README.md#level-design">Level Design</a> ● <a href="https://github.com/realkemon/home/blob/master/README.md#computer-science">Computer Science</a>
 
-<table>
- <tr>
-  <td>
-   <b>Index:</b><br>
-   <ul>
-    <li><a href="https://github.com/realkemon/home/blob/master/README.md#level-design">Level Design</a></li>
-    <ul>
-     <li><a href="https://github.com/realkemon/home/blob/master/README.md#own-maps">Own Maps</a></li>
-     <li><a href="https://github.com/realkemon/home/blob/master/README.md#map-overhauls">Map Overhauls</a></li>
-     <li><a href="https://github.com/realkemon/home/blob/master/README.md#concept-maps">Concept Maps</a></li>
-     <li><a href="https://github.com/realkemon/home/blob/master/README.md#tutorials">Tutorials</a></li>
-    </ul>
-    <li><a href="https://github.com/realkemon/home/blob/master/README.md#game-development">Game Development</a></li>
-    <li><a href="https://github.com/realkemon/home/blob/master/README.md#computer-science">Computer Science</a></li>
-    <ul>
-     <li><a href="https://github.com/realkemon/home/blob/master/README.md#computer-science">Surroundings-based location categorisation in R</a></li>
-    </ul>
-   </ul>
-  </td>
- </tr>
-</table>
-
----
-
+ I'm a Europe-based Game Developer and Twitch streamer, primarily involved in community projects surrounding the old-school titles **Wolfenstein: Enemy Territory** and **Return to Castle Wolfenstein** in the id Tech 3 engine environment. My primary activity in that regard is my commitment as an Asset Developer and Community Manager to [**ET: Legacy**](https://github.com/etlegacy), an open source project aiming to restore the good old days of <a href="https://github.com/id-Software/Enemy-Territory">Wolfenstein: Enemy Territory</a> - whose gameplay is still considered unmatched by many, despite its great age. 
+ 
 # Level Design
 
-## Own Maps
-These are maps that I created from scratch, start to finish. I started my Level Design journey around 2008, when Splash Damage <a href="https://www.splashdamage.com/news/wolfenstein-enemy-territory-map-source-files-released/">released</a> the source files of the 6 standard maps from Wolfenstein: Enemy Territory.
+<a href="https://www.splashdamage.com/games/wolfenstein-enemy-territory/"><img src="https://ue3s31vhmez1o77f81aycos1-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/Games-Logo-Wolf-ET.png" width="256"/></a>
+ 
+These are own maps that I created from scratch, start to finish and are the first projects that I worked on during my Level Design journey. They are not directly related to any community project, so I listed them under the base game Wolfenstein: Enemy Territory. However, they are compatible with all community mods as well as ET: Legacy.
 
-<a href="https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md#"><img align="left" src="https://github.com/realkemon/home/blob/master/levelshots/dingenskirchen.png" width="256"/></a>
-**Dingenskirchen** *(December, 1944)*
+<a href="https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md#"><img src="https://github.com/realkemon/home/blob/master/levelshots/dingenskirchen.png" width="256"/></a>
 
----
-*The noose tightens around the Reich's neck as Allied forces threaten to cross the Siegfried Line and invade Germany. An Eifel castle has become a central location for the Kraut High Command in this area to coordinate their troop movements. It is the last obstacle on the road into Germany and one of the final chances for the Axis to ever turn the tables. Not taking any chances, the Allies are attempting to sneak a suitcase bomb into the High Command conference room to disrupt the Axis strategy at its core.*
+<details>
+ <summary><b>Dingenskirchen</b> <i>(December, 1944)</i></summary>
+ 
+<i>The noose tightens around the Reich's neck as Allied forces threaten to cross the Siegfried Line and invade Germany. An Eifel castle has become a central location for the Kraut High Command in this area to coordinate their troop movements. It is the last obstacle on the road into Germany and one of the final chances for the Axis to ever turn the tables. Not taking any chances, the Allies are attempting to sneak a suitcase bomb into the High Command conference room to disrupt the Axis strategy at its core.</i>
 <br>
 <a href="https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md#"> >> Read more</a>
+</details>
+ 
 
-<br>
-
-<a href="https://github.com/realkemon/home/blob/master/pages/stiglitz.md#"><img align="left" src="https://github.com/realkemon/home/blob/master/levelshots/stiglitz.png" width="256"/></a>
-**Stiglitz** *(July, 1943)*
-
----
-*Local resistance reported a branch of Deathshead’s X-Labs in a small remote village. Hugo Stiglitz, an OSA agent, has been sent to infiltrate the facility and gather intel of Deathshead’s activities. Communication went dead some days ago and Stiglitz' true identity has likely been uncovered, which means almost certain death. The Allies are trying to make their way through the village, free Stiglitz and escort him back to safety for debriefing at the OSA headquarters.*
+<a href="https://github.com/realkemon/home/blob/master/pages/stiglitz.md#"><img src="https://github.com/realkemon/home/blob/master/levelshots/stiglitz.png" width="256"/></a>
+ 
+<details>
+ <summary><b>Stiglitz</b> <i>(July, 1943)</i></summary>
+ 
+<i>Local resistance reported a branch of Deathshead’s X-Labs in a small remote village. Hugo Stiglitz, an OSA agent, has been sent to infiltrate the facility and gather intel of Deathshead’s activities. Communication went dead some days ago and Stiglitz' true identity has likely been uncovered, which means almost certain death. The Allies are trying to make their way through the village, free Stiglitz and escort him back to safety for debriefing at the OSA headquarters.</i>
 <br>
 <a href="https://github.com/realkemon/home/blob/master/pages/stiglitz.md#"> >> Read more</a>
-
-<br>
-
-<a href="https://github.com/realkemon/home/blob/master/pages/pointe_du_hoc.md#"><img align="left" src="https://github.com/realkemon/home/blob/master/levelshots/hoc.png" width="256"/></a>
-**Pointe du Hoc** *(June, 1944)*
-
----
-*To grant safe passage for the Allied ships during D-Day a small operation is launched to disable the artillery guns of Pointe du Hoc. The Allies will attempt to gain control of the bunkers on top of the cliff and disable all Axis defense. Expecting a raid at a different section of Normandy, the Axis moved the artillery guns to a railway station in the hinterlands for transport further West. The Allies need to locate and disable those guns. The Axis have to prevent the loss of this strategic part of Normandy and the artillery guns at all costs.*
+</details>
+ 
+ 
+<a href="https://github.com/realkemon/home/blob/master/pages/pointe_du_hoc.md#"><img src="https://github.com/realkemon/home/blob/master/levelshots/hoc.png" width="256"/></a>
+ 
+<details>
+ <summary><b>Pointe du Hoc</b> <i>(June, 1944)</i></summary>
+ 
+<i>To grant safe passage for the Allied ships during D-Day a small operation is launched to disable the artillery guns of Pointe du Hoc. The Allies will attempt to gain control of the bunkers on top of the cliff and disable all Axis defense. Expecting a raid at a different section of Normandy, the Axis moved the artillery guns to a railway station in the hinterlands for transport further West. The Allies need to locate and disable those guns. The Axis have to prevent the loss of this strategic part of Normandy and the artillery guns at all costs.</i>
 <br>
 <a href="https://github.com/realkemon/home/blob/master/pages/pointe_du_hoc.md#"> >> Read more</a>
+</details>
+ 
+</div>
+ 
+ 
+ 
+ 
+
+
+
+
 
 
 ## Map Overhauls

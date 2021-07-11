@@ -11,7 +11,7 @@
 
 <a href="https://www.splashdamage.com/games/wolfenstein-enemy-territory/"><img src="https://ue3s31vhmez1o77f81aycos1-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/Games-Logo-Wolf-ET.png" width="256"/></a>
  
-These are own maps that I created from scratch, start to finish and are the first projects that I worked on during my Level Design journey. They are not directly related to any community project, so I listed them under the base game Wolfenstein: Enemy Territory. However, they are compatible with all community mods as well as ET: Legacy.
+These are own maps that I created from scratch, start to finish. They are not directly related to any community project, so I listed them under the base game Wolfenstein: Enemy Territory. However, they are compatible with all community mods as well as ET: Legacy.
 
 <a href="https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md#"><img src="https://github.com/realkemon/home/blob/master/levelshots/dingenskirchen.png" width="256"/></a>
 
@@ -45,23 +45,17 @@ These are own maps that I created from scratch, start to finish and are the firs
 <a href="https://github.com/realkemon/home/blob/master/pages/pointe_du_hoc.md#"> >> Read more</a>
 </details>
  
-</div>
+----
  
+<a href="https://www.etlegacy.com//"><img src="https://raw.githubusercontent.com/etlegacy/etlegacy-assets/master/logo/horizontal_black.png" width="256"/></a>
  
- 
- 
-
-
-
-
-
-
-## Map Overhauls
-These overhauls are primarily intended as visual enhancements. Generally, all changes are intended to be as subtle as possible and emphasise on strengthening the original style rather than forcing a different style onto the map. Basically, what was aimed for is what CS:GO did to original CS maps. [(Reference)](https://sjackm.wordpress.com/2012/08/15/csgo-first-impressions/)
-
+These overhauls stem from the attempt to breathe new life into proven maps, the same way that CS:GO reimagined old CS maps. Primarily, they are part of the ET: Legacy project, but also compatible with the base game and all its mods.
 <details>
- <summary>Reference images <i>(click to expand)</i></summary>
-  <table>
+<summary>Reference images</summary>
+<table>
+ <tr>
+  <td colspan="4"><a href="https://sjackm.wordpress.com/2012/08/15/csgo-first-impressions/"><b>Reference article:</b> CS:GO first impressions</a></td>
+ </tr>
  <tr>
   <td><b>CS_OFFICE</b></td>
   <td><b>DE_AZTEC</b></td>
@@ -76,8 +70,10 @@ These overhauls are primarily intended as visual enhancements. Generally, all ch
  </tr>
 </table>
 </details>
-
-
+</div>
+ 
+ 
+ 
 ### Campaign: Rocket Base
 Local resistance managed to leak information about the existence of a secret rocket base to the OSA headquarters. According to the intel, the Axis are developing a new rocket of devastating power, which would turn the tide in the war. OSA organised a stealth attack to gain access and steal the prototype. Unfortunately, the exact location of the rocket base remains yet unknown. Therefore, a strike group of Allied soldiers is sent to a known Axis coastal fortification in the area to gather further intel and do what is necessary to get their hands on the secret rocket prototype.
 
@@ -128,14 +124,14 @@ Axis submarines from a naval base near Bergen, Norway are cause for much distres
 
 <br>
 
-<a href="https://et.trackbase.net/map/64/"><img align="left" src="https://github.com/realkemon/home/blob/master/levelshots/adlernest/adlernest.png" width="256"/></a>
+<a href="https://github.com/realkemon/home/blob/master/pages/etl_adlernest.md#"><img align="left" src="https://github.com/realkemon/home/blob/master/levelshots/adlernest/adlernest.png" width="256"/></a>
 
-**Mission 2:** ['Adlernest, by Dersaidin'](https://et.trackbase.net/map/64/)
+**Mission 2:** ['Adlernest, by Dersaidin'](https://github.com/realkemon/home/blob/master/pages/etl_adlernest.md#)
 
 ---
 *After successfully intercepting the first supply shipment, the Allies continue their attacks with the infiltration of a larger storage facility in the remote mountains. Their attempt is to get their hands on confidential documents that will prove invaluable for future war efforts. The Axis cannot allow this storage facility to be compromised and must defend the documents at all costs.*
 <br>
-[>> Catch development streams here](https://www.twitch.tv/realkemon)
+[>> Read more](https://github.com/realkemon/home/blob/master/pages/etl_adlernest.md#)
 
 <br>
 <br>

@@ -57,6 +57,7 @@ After successfully intercepting the shipment from the supply depot, the Allies c
  <summary><b>version 2</b> <i>(pending)</i></summary>
  
 * [ ] Fixed Allied Command Post spawn not being set as autospawn. *(Thank you <=TM=>Flo for reporting)*
+* [x] Added missing clip brush to right-most radio of transmitter equipment.
 </details>
 
 <details>

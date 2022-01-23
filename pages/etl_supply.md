@@ -13,7 +13,7 @@
 According to OSA intel, a local supply depot is currently preparing a shipment to the Bergen submarine depot, which is blocking Allied naval convoys from reaching shore. Threfore, Allied paratroopers are tasked with the seizure of those resources and use them to strengthen the local resistance. The Axis cannot, under any circumstances, allow this shipment to fall into Allied hands as it would disrupt operability of the naval base and will attempt to defend the depot at all cost.
 <br>
  
-<a href="https://www.moddb.com/mods/etlegacy/addons/etl-supply-depot-v5" title="Download ETL Supply Depot (v5) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/216198.png" alt="ETL Supply Depot (v5)" /></a>
+<a href="https://www.moddb.com/mods/etlegacy/addons/etl-supply-depot-v7" title="Download ETL Supply Depot (v7) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/227097.png" alt="ETL Supply Depot (v7)" /></a>
 
 ## Objectives
  
@@ -66,6 +66,28 @@ According to OSA intel, a local supply depot is currently preparing a shipment t
 ## Changelog
 
 </div>
+
+<details>
+ <summary><b>version 7</b> <i>(Jan 23 2022)</i></summary>
+ 
+* [x] Removed glitchy rock at cave exit near depot gates. *(Thank you Kimi for reporting.)*
+* [x] Fixed flying vent at forward gate in first stage.
+* [x] Fixed sun being in wrong position on 2.60b clients by adding dummy `q3map_sun` shader. *(Thank you Aciz for reporting.)*
+* [x] Increased `-bounce` from 3 to 6. *(Thank you Aciz for suggesting.)*
+* [x] Adjusted height of central mountain to reenable riflenade shots. *(Thank you ET: Legacy competitive community for reporting.)*
+* [x] Removed versioning from pk3 contents. *(Thank you bystry and Aciz for suggesting.)*
+* [x] Adjusted lighting settings for improved performance. *(Thank you Aciz for suggesting.)*
+* [x] Adjusted etl_lights.shader to enable remapshader use. *(Thank you Aciz for reporting.)*
+
+</details>
+
+<details>
+ <summary><b>version 6</b> <i>(semi-public test release)</i></summary>
+ 
+* [x] Adjusted terrain near Depot Gates tunnel exit to allow a riflenade trickshot again. *(Thank you zenixje for reporting.)*
+* [x] Merged terrain brushes directly in front of Depot Gates to allow for 'edge sliding' again. *(Thank you WuT for reporting.)*
+* [x] Reduced height of middle mountain to allow various riflenade shots again. *(Thank you detdet, keithms and iQA for reporting.)*
+</details>
 
 <details>
  <summary><b>version 5</b> <i>(Jun 27 2021)</i></summary>
@@ -160,7 +182,7 @@ ET maps are played in different gamemodes and configurations, occasionally calli
 <build name="Supply Depot">
 <command>[q3map2] -bsp -meta -samplesize 4 -v -mv 1024 -mi 6144 &quot;[MapFile]&quot;</command>
 <command>[q3map2] -vis -saveprt -v &quot;[MapFile]&quot;</command>
-<command>[q3map2] -light -fast -samples 4 -samplesize 4 -bounce 3 -bouncegrid -v -thresh 0.5 -shade -dirty -dirtdepth 256 -lightmapsize 1024 -patchshadows -external &quot;[MapFile]&quot;</command>
+<command>[q3map2] -light -fast -samples 4 -samplesize 4 -bounce 6 -bouncegrid -v -thresh 0.5 -shade -dirty -dirtdepth 256 -lightmapsize 2048 -patchshadows -external &quot;[MapFile]&quot;</command>
 </build>
 ```
 

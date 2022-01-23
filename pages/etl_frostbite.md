@@ -60,6 +60,16 @@ After slowing down the Allied attack at the coastal fortress, the Axis set up po
 </details>
 
 <details>
+ <summary><b>version 15</b> <i>(semi-public test release)</i></summary>
+ 
+* [x] Adjusted height of railings in Allied CP room to allow jump onto the CP again. *(Thank you ohnoes for reporting.)*
+* [x] Added second bunk bed and adjusted position to match original, to allow hiding again. *(Thank you zenixje for reporting.)*
+* [x] Adjusted terrain at big crate near transmitter to allow TJing onto the crate again. *(Thank you WuT for reporting.)*
+* [x] Removed backboard of rear truck in lower garage to allow hiding there again. *(Thank you uYop for reporting.)*
+* [x] Removed gap in stacked boxes on balcony at middle courtyard. *(Thank you Aciz for reporting.)*
+</details>
+
+<details>
  <summary><b>version 14</b> <i>(Jun 27 2021)</i></summary>
  
 * [x] Fixed command map icons not having shaders making them appear outside of compass. *(Thank you spyhawk for reporting)*

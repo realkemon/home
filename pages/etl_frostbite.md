@@ -11,11 +11,9 @@
 After slowing down the Allied attack at the coastal fortress, the Axis set up position in a fortified storage facility. Having narrowly lost the confidential documents in Ice, the Allies have to launch a direct attack on this storage facility, as it is the only way to gain intel on the exact whereabouts of the secret rocket base reported in this area. Hence, the Allies attempt to infiltrate the facility, steal those documents and radio them to OSA headquarters for decyphering.
 <br>
  
-<a href="https://www.moddb.com/mods/etlegacy/addons/etl-frostbite-v14" title="Download ETL Frostbite (v14) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/216195.png" alt="ETL Frostbite (v14)" /></a>
+<a href="https://www.moddb.com/mods/etlegacy/addons/etl-frostbite-v16" title="Download ETL Frostbite (v16) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/227094.png" alt="ETL Frostbite (v16)" /></a>
  
 ## Objectives
- 
-<a href="https://www.moddb.com/mods/etlegacy/addons/etl-frostbite-v16" title="Download ETL Frostbite (v16) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/227094.png" alt="ETL Frostbite (v16)" /></a>
  
 * [ ] The Allies will attempt to infiltrate the storage facility.
 * [ ] The Allies need to steal documents locating the rocket base.

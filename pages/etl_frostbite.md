@@ -15,7 +15,7 @@ After slowing down the Allied attack at the coastal fortress, the Axis set up po
  
 ## Objectives
  
-<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite_cc_overlay.png"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite_cc_overlay.png" width="256"/></a>
+<a href="https://www.moddb.com/mods/etlegacy/addons/etl-frostbite-v16" title="Download ETL Frostbite (v16) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/227094.png" alt="ETL Frostbite (v16)" /></a>
  
 * [ ] The Allies will attempt to infiltrate the storage facility.
 * [ ] The Allies need to steal documents locating the rocket base.
@@ -51,6 +51,15 @@ After slowing down the Allied attack at the coastal fortress, the Axis set up po
  </div>
  
 <details>
+ <summary><b>version 16</b> <i>(Jan 23 2022)</i></summary>
+ 
+* [x] Changed CP spawns to face the CP instead of stairs. *(Thank you bystry and Aciz for judgement.)*
+* [x] Removed versioning from pk3 contents. *(Thank you bystry and Aciz for suggesting.)*
+* [x] Adjusted lighting settings for improved performance. *(Thank you Aciz for suggesting.)*
+* [x] Adjusted etl_lights.shader to enable remapshader use. *(Thank you Aciz for reporting.)*
+</details>
+
+<details>
  <summary><b>version 14</b> <i>(Jun 27 2021)</i></summary>
  
 * [x] Fixed command map icons not having shaders making them appear outside of compass. *(Thank you spyhawk for reporting)*
@@ -69,7 +78,7 @@ After slowing down the Allied attack at the coastal fortress, the Axis set up po
 * [x] Fixed glass shader on trucks.
 </details>
  
-
+ 
 <details>
  <summary><b>version 13</b> <i>(Mar 25 2021)</i></summary>
  
@@ -171,9 +180,9 @@ ET maps are played in different gamemodes and configurations, occasionally calli
 
 ```
 <build name="Frostbite">
-<command>[q3map2] -bsp -meta -samplesize 2 -v -mv 1024 -mi 6144 &quot;[MapFile]&quot;</command>
+<command>[q3map2] -bsp -meta -samplesize 4 -v -mv 1024 -mi 6144 &quot;[MapFile]&quot;</command>
 <command>[q3map2] -vis -saveprt -v &quot;[MapFile]&quot;</command>
-<command>[q3map2] -light -fast -samples 4 -samplesize 2 -bounce 3 -bouncegrid -v -thresh 0.5 -shade -dirty -dirtdepth 256 -lightmapsize 1024 -patchshadows -external &quot;[MapFile]&quot;</command>
+<command>[q3map2] -light -fast -samples 4 -samplesize 2 -bounce 3 -bouncegrid -v -thresh 0.5 -shade -dirty -dirtdepth 256 -lightmapsize 2048 -patchshadows -external &quot;[MapFile]&quot;</command>
 </build>
 ```
 

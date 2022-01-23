@@ -61,6 +61,7 @@ After successfully intercepting the shipment from the supply depot, the Allies c
 * [x] Removed flying pipe support at Main Door generator. *(Thank you Aciz for reporting.)*
 * [x] Removed versioning from pk3 contents. *(Thank you bystry and Aciz for suggesting.)*
 * [x] Adjusted lighting settings for improved performance. *(Thank you Aciz for suggesting.)*
+* [x] Adjusted etl_lights.shader to enable remapshader use. *(Thank you Aciz for reporting.)*
 </details>
  
  <details>

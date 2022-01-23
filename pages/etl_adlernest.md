@@ -13,7 +13,7 @@
 After successfully intercepting the shipment from the supply depot, the Allies continue their efforts with the infiltration of a larger storage facility in the remote mountains. According to OSA intel, this facility houses confidential documents that will prove invaluable for future war efforts. The Axis cannot allow this storage facility to be compromised as it would further weaken the operability of the Northern Atlantic submarine fleet, which is the last bulwark against an Allied naval invasion.
 <br>
  
-<a href="https://www.moddb.com/mods/etlegacy/addons/etl-adlernest-v1" title="Download ETL Adlernest (v1) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/216200.png" alt="ETL Adlernest (v1)" /></a>
+<a href="https://www.moddb.com/mods/etlegacy/addons/etl-adlernest-v3" title="Download ETL Adlernest (v3) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/227092.png" alt="ETL Adlernest (v3)" /></a>
 
 ## Objectives
  
@@ -54,9 +54,19 @@ After successfully intercepting the shipment from the supply depot, the Allies c
 </div>
 
 <details>
- <summary><b>version 2</b> <i>(pending)</i></summary>
+ <summary><b>version 3</b> <i>(Jan 23 2022)</i></summary>
  
-* [ ] Fixed Allied Command Post spawn not being set as autospawn. *(Thank you <=TM=>Flo for reporting)*
+* [x] Fixed brush not being aligned correctly above Axis spawn canyon window. *(Thank you Aciz for reporting.)*
+* [x] Extended 'flying' health and ammo trigger to the ground for Allied cabinets.
+* [x] Removed flying pipe support at Main Door generator. *(Thank you Aciz for reporting.)*
+* [x] Removed versioning from pk3 contents. *(Thank you bystry and Aciz for suggesting.)*
+* [x] Adjusted lighting settings for improved performance. *(Thank you Aciz for suggesting.)*
+</details>
+ 
+ <details>
+ <summary><b>version 2</b> <i>(semi-public test release)</i></summary>
+ 
+* [x] Fixed Allied Command Post spawn not being set as autospawn. *(Thank you ryven and <=TM=>Flo for reporting)*
 * [x] Added missing clip brush to right-most radio of transmitter equipment.
 </details>
 

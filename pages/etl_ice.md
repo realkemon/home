@@ -13,7 +13,7 @@
  A small Axis coastal fortress is the target of the Allies strike group sent by OSA. Overwhelmed by the surprise attack, the Axis hastily abandoned the fortress, only to realise that confidential documents were left behind depicting supply routes to a nearby secret rocket base. Under no circumstances can the Axis let the Allies get hold of the new rocket prototype built in this base. Hence, the Axis attempt to retrieve the confidential documents left behind in the coastal fortress and transmit them to safety at all cost.
 <br>
  
-<a href="https://www.moddb.com/mods/etlegacy/addons/etl-ice-v7" title="Download ETL Ice (v7) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/216196.png" alt="ETL Ice (v7)" /></a>
+<a href="https://www.moddb.com/mods/etlegacy/addons/etl-ice-v9" title="Download ETL Ice (v9) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/227096.png" alt="ETL Ice (v9)" /></a>
 
  
 ## Objectives
@@ -70,6 +70,28 @@
 `NOTE: Version 3 is a fresh start from the original, which is why previous iterations aren't listed below.`
 
 </div>
+
+<details>
+ <summary><b>version 9</b> <i>(Jan 23 2022)</i></summary>
+ 
+* [x] Changed default of flag secure mechanic to be always captureable by default. *(Thank you ET: Legacy competitive community for reporting.)*
+* [x] Fixed flying tree near Axis North spawn. *(Thank you semik for reporting.)*
+* [x] Fixed caulk leak near tunnel exit at side wall. *(Thank you semik for reporting.)*
+* [x] Split forward flag spawn to allow disabling additional slots. *(Thank you Helldembez and ohnoes for reporting.)*
+* [x] Removed versioning from pk3 contents. *(Thank you bystry and Aciz for suggesting.)*
+* [x] Adjusted lighting settings for improved performance. *(Thank you Aciz for suggesting.)*
+* [x] Adjusted etl_lights.shader to enable remapshader use. *(Thank you Aciz for reporting.)*
+ 
+</details>
+
+<details>
+ <summary><b>version 8</b> <i>(semi-public test release)</i></summary>
+ 
+* [x] Adjusted terrain near Side Wall to allow getting onto the upper floor again. *(Thank you h2o and WuT for reporting.)*
+* [x] Adjusted terrain near the tunnel bunker at Side Wall to allow getting onto the roof again. *(Thank you uYop for reporting.)*
+* [x] Adjusted terrain near Side Wall to remove the need of jumping onto boxes before walking up the ramp. *(Thank you h2o and WuT for reporting.)*
+* [x] Removed one tree near Side Wall and adjusted scale of second to improve line of sight again. *(Thank you h2o for reporting.)*
+</details>
 
 <details>
  <summary><b>version 7</b> <i>(Jun 27 2021)</i></summary>
@@ -153,9 +175,9 @@ ET maps are played in different gamemodes and configurations, occasionally calli
 
 ```
 <build name="Ice">
-<command>[q3map2] -bsp -meta -samplesize 8 -v -mv 1024 -mi 6144 &quot;[MapFile]&quot;</command>
+<command>[q3map2] -bsp -meta -samplesize 4 -v -mv 1024 -mi 6144 &quot;[MapFile]&quot;</command>
 <command>[q3map2] -vis -saveprt -v &quot;[MapFile]&quot;</command>
-<command>[q3map2] -light -fast -samples 4 -samplesize 8 -bounce 3 -bouncegrid -v -thresh 0.5 -shade -dirty -dirtdepth 256 -lightmapsize 1024 -patchshadows -external &quot;[MapFile]&quot;</command>
+<command>[q3map2] -light -fast -samples 4 -samplesize 4 -bounce 3 -bouncegrid -v -thresh 0.5 -shade -dirty -dirtdepth 256 -lightmapsize 2048 -patchshadows -external &quot;[MapFile]&quot;</command>
 </build>
 ```
 

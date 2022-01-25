@@ -13,7 +13,7 @@
  A small Axis coastal fortress is the target of the Allies strike group sent by OSA. Overwhelmed by the surprise attack, the Axis hastily abandoned the fortress, only to realise that confidential documents were left behind depicting supply routes to a nearby secret rocket base. Under no circumstances can the Axis let the Allies get hold of the new rocket prototype built in this base. Hence, the Axis attempt to retrieve the confidential documents left behind in the coastal fortress and transmit them to safety at all cost.
 <br>
  
-<a href="https://www.moddb.com/mods/etlegacy/addons/etl-ice-v9" title="Download ETL Ice (v9) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/227096.png" alt="ETL Ice (v9)" /></a>
+<a href="https://www.moddb.com/mods/etlegacy/addons/etl-ice-v10" title="Download ETL Ice (v10) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/227178.png" alt="ETL Ice (v10)" /></a>
 
  
 ## Objectives
@@ -70,6 +70,13 @@
 `NOTE: Version 3 is a fresh start from the original, which is why previous iterations aren't listed below.`
 
 </div>
+
+<details>
+ <summary><b>version 10</b> <i>(Jan 25 2022)</i></summary>
+ 
+* [x] Fixed game crash: `ERROR: G_Scripting: alertentity cannot find targetname "forward_bunker_spawn_east"`. *(Thank you Dmxj and Jay for reporting.)*
+ 
+</details>
 
 <details>
  <summary><b>version 9</b> <i>(Jan 23 2022)</i></summary>

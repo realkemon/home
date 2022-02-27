@@ -13,7 +13,7 @@
  A small Axis coastal fortress is the target of the Allies strike group sent by OSA. Overwhelmed by the surprise attack, the Axis hastily abandoned the fortress, only to realise that confidential documents were left behind depicting supply routes to a nearby secret rocket base. Under no circumstances can the Axis let the Allies get hold of the new rocket prototype built in this base. Hence, the Axis attempt to retrieve the confidential documents left behind in the coastal fortress and transmit them to safety at all cost.
 <br>
  
-<a href="https://www.moddb.com/mods/etlegacy/addons/etl-ice-v10" title="Download ETL Ice (v10) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/227178.png" alt="ETL Ice (v10)" /></a>
+<a href="https://www.moddb.com/mods/etlegacy/addons/etl-ice-v11" title="Download ETL Ice (v11) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/228790.png" alt="ETL Ice (v11)" /></a>
 
  
 ## Objectives
@@ -70,6 +70,17 @@
 `NOTE: Version 3 is a fresh start from the original, which is why previous iterations aren't listed below.`
 
 </div>
+
+<details>
+ <summary><b>version 11</b> <i>(Feb 27 2022)</i></summary>
+ 
+* [x] Removed collision from window shutters to improve player movement. *(Thank you Aciz for reporting.)*
+* [x] Improved collision around doors to prevent players from getting stuck. *(Thank you Aciz for reporting.)*
+* [x] Adjusted terrain blending at Allied ruins for better looks. *(Thank you Aciz for reporting.)*
+* [x] Fixed caulk leak at boxes near Allied tunnel entrance.
+* [x] Fixed missing command map icons for third-party mods. *(Thank you Aciz for reporting.)*
+ 
+</details>
 
 <details>
  <summary><b>version 10</b> <i>(Jan 25 2022)</i></summary>

@@ -13,7 +13,7 @@
 According to OSA intel, a local supply depot is currently preparing a shipment to the Bergen submarine depot, which is blocking Allied naval convoys from reaching shore. Threfore, Allied paratroopers are tasked with the seizure of those resources and use them to strengthen the local resistance. The Axis cannot, under any circumstances, allow this shipment to fall into Allied hands as it would disrupt operability of the naval base and will attempt to defend the depot at all cost.
 <br>
  
-<a href="https://www.moddb.com/mods/etlegacy/addons/etl-supply-depot-v8" title="Download ETL Supply Depot (v8) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/227179.png" alt="ETL Supply Depot (v8)" /></a>
+<a href="https://www.moddb.com/mods/etlegacy/addons/etl-supply-depot-v9" title="Download ETL Supply Depot (v9) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/228791.png" alt="ETL Supply Depot (v9)" /></a>
 
 ## Objectives
  
@@ -66,6 +66,13 @@ According to OSA intel, a local supply depot is currently preparing a shipment t
 ## Changelog
 
 </div>
+
+<details>
+ <summary><b>version 9</b> <i>(Feb 27 2022)</i></summary>
+ 
+* [x] Lowered central mountain to enable riflenade shots again. *(Thank you detdet for reporting and testing.)*
+
+</details>
 
 <details>
  <summary><b>version 8</b> <i>(Jan 25 2022)</i></summary>

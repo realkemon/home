@@ -1,20 +1,12 @@
 <div align="center">
  
-<a href="https://github.com/realkemon/home/blob/master/gfx/avatar.png"><img src="https://github.com/realkemon/home/blob/master/gfx/avatar.png" width="512"/></a>
+<a href="https://github.com/realkemon/home/blob/master/gfx/avatar.png"><img src="https://raw.githubusercontent.com/realkemon/home/main/gfx/avatar.png" width="256"/></a>
  
 # Cedric *'kemon'* Easton
-<a href="https://github.com/realkemon/home/blob/master/README.md#level-design">Level Design</a> ● <a href="https://github.com/realkemon/home/blob/master/README.md#computer-science">Computer Science</a>
-
- I'm a Europe-based Game Developer and Twitch streamer, primarily involved in community projects surrounding the old-school titles **Wolfenstein: Enemy Territory** and **Return to Castle Wolfenstein** in the id Tech 3 engine environment. My primary activity in that regard is my commitment as an Asset Developer and Community Manager to [**ET: Legacy**](https://github.com/etlegacy), an open source project aiming to restore the good old days of <a href="https://github.com/id-Software/Enemy-Territory">Wolfenstein: Enemy Territory</a> - whose gameplay is still considered unmatched by many, despite its great age. 
+I'm a Europe-based professional Data Scientist and hobby Game Developer, primarily involved in community projects surrounding the old-school titles <a href="https://github.com/id-Software/Enemy-Territory">**Wolfenstein: Enemy Territory**</a> and <a href="https://github.com/id-Software/RTCW-MP">**Return to Castle Wolfenstein**</a> in the idTech 3 engine environment. My primary activity in that regard is my commitment as an Level Designer and Community Manager to [**ET: Legacy**](https://github.com/etlegacy), an open source project aiming to restore the good old days of **Wolfenstein: Enemy Territory** - whose gameplay is still considered unmatched by many, despite its great age. However, with a rather small, but surprisingly dedicated community surrounding both titles, the ties to other related community projects are very strong.
  
 # Level Design
-
-<a href="https://www.splashdamage.com/games/wolfenstein-enemy-territory/"><img src="https://ue3s31vhmez1o77f81aycos1-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/Games-Logo-Wolf-ET.png" width="256"/></a>
- 
-These are own maps that I created from scratch, start to finish. They are not directly related to any community project, so I listed them under the base game Wolfenstein: Enemy Territory. However, they are compatible with all community mods as well as ET: Legacy.
-
-<a href="https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md#"><img src="https://github.com/realkemon/home/blob/master/levelshots/dingenskirchen.png" width="256"/></a>
-
+<a href="https://github.com/realkemon/home/blob/master/pages/dingenskirchen.md#"><img src="https://raw.githubusercontent.com/realkemon/home/main/levelshots/dingenskirchen.png" width="256"/></a>
 <details>
  <summary><b>Dingenskirchen</b> <i>(December, 1944)</i></summary>
  

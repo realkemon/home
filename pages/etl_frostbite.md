@@ -252,7 +252,7 @@ Since we are talking about an open-source game, in my opinion as much as possibl
 <a href="https://github.com/realkemon/home/tree/master/maps">> DOWNLOAD <</a>
  
 ### Credits
-This is not my own map. It is a visual overhaul of an existing map created by **Moonkey**.
+This is not my own map. It is a faithful overhaul of an existing map created by **Moonkey**.
 <br>
 They still hold all the rights to the map design and original idea and I do not claim ownership of it.
 

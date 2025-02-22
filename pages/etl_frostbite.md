@@ -15,8 +15,9 @@ After slowing down the Allied attack at the coastal fortress, the Axis set up po
  
 ## Objectives
 
+https://github.com/user-attachments/assets/92089766-5b09-4fc4-91e4-dc8081a0d641
 
- 
+
 * [ ] The Allies will attempt to infiltrate the storage facility.
 * [ ] The Allies need to steal documents locating the rocket base.
 * [ ] The Allies need to transmit the documents to headquarters.

@@ -11,9 +11,11 @@
 After slowing down the Allied attack at the coastal fortress, the Axis set up position in a fortified storage facility. Having narrowly lost the confidential documents in Ice, the Allies have to launch a direct attack on this storage facility, as it is the only way to gain intel on the exact whereabouts of the secret rocket base reported in this area. Hence, the Allies attempt to infiltrate the facility, steal those documents and radio them to OSA headquarters for decyphering.
 <br>
  
-<a href="https://www.moddb.com/mods/etlegacy/addons/etl-frostbite-v16" title="Download ETL Frostbite (v16) - Mod DB" target="_blank"><img src="https://button.moddb.com/download/medium/227094.png" alt="ETL Frostbite (v16)" /></a>
+<a href="https://www.etlegacy.com/packages/etl_frostbite_v18"><b>DOWNLOAD</b></a>
  
 ## Objectives
+
+
  
 * [ ] The Allies will attempt to infiltrate the storage facility.
 * [ ] The Allies need to steal documents locating the rocket base.
@@ -41,13 +43,53 @@ After slowing down the Allied attack at the coastal fortress, the Axis set up po
 
 <a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite10.jpg"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite10.jpg"></a>
 
-<a href="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite11.jpg"><img src="https://raw.githubusercontent.com/realkemon/home/master/levelshots/frostbite/frostbite11.jpg"></a>
-
 ## Changelog
 `NOTE: Version 7 is a fresh start from the original, which is why previous iterations aren't listed below.`
 
  </div>
  
+<details>
+ <summary><b>version 18</b> <i>(Feb 22 2025)</i></summary>
+ 
+* [x] Reworked Axis spawn gramophone. It now continuously loops in the background and can be enabled/disabled by activation whenever.
+* [x] Also reduced volume of gramophone by 80%. *(Thank you jenik and kajto for reporting.)*
+* [x] Added optional functionality to make the outer Transmitter ladder retractable by activating a lever up top. *(Thank you u!ps and Seto for reporting.)*
+* [x] Improved player collision around the entire Transmitter building to prevent bumping into angled walls.
+* [x] Exchanged interior textures in the Transmitter building for brighter ones to improve visibility.
+* [x] Added weapon/missile collision to first railings in Transmitter building.
+* [x] Added optional functionality to widen the Allied spawn hut exits by hiding the other door half. *(Thank you u!ps and Seto for reporting.)*
+* [x] Fixed clip brushes for rear truck in the garage not being aligned with the truck model.
+* [x] Adjusted sloped player collision on the stairs from Axis upper spawn to garage. *(Thank you Aciz for reporting.)*
+* [x] Changed lower generator trim near document room to non-solid to smoothen out player collision and prevent messing up aim spread. *(Thank you Vorschreibung for reporting.)*
+* [x] Changed weaponclip around barrels at documents to playerclip to match original Frostbite.
+* [x] Improved player collision around potted plants and couches in Offices. *(Thank you Vorschreibung and jENiK for reporting.)*
+* [x] Removed wire mesh from all railings for less visual clutter. *(Thank you jENiK for reporting.)*
+* [x] Reworked collision of various steps from slopes to steps to prevent grenades from bouncing off in unexpected angles. *(Thank you jENiK for reporting.)*
+* [x] Reverted gate setup between inner courtyard and lower catwalk to match the original Frostbite.
+* [x] Shifted railing near main door to allow jumping over the railing from Allied spawn side again. Thank you jENiK for reporting.)*
+* [x] Enlarged upper Axis barracks spawn for better spawn slot placement. *(Thank you uips for reporting.)* NOTE: The position of the front slots has not changed, however, the slot ids have been reassigned!
+* [x] Added optional connecting door from upper Axis barracks spawn to a drop into Axis garage spawn. *(Thanks uips for reporting.)*
+* [x] Raised ceiling height in document hallways to match original collision and reenable riflenade shots that were possible in the original. *(Thank you jenik for reporting.)*
+* [x] Removed collision from window glass debris at main entrance. *(Thank you jENiK for reporting.)*
+* [x] Reworked Allied spawn hut ladder to prevent glitchy movement up an angled ladder. *(Thank you Vorschreibung for reporting.)*
+* [x] Fixed one bunk bed in Allied spawn hut being full weapon clip rather than player clip.
+* [x] Reintroduced and strengthened peek over wall onto documents from Axis spawn side. *(Thank you jENiK for reporting.)*
+* [x] Reverted truck in garage tunnel from tanker to flatbed with covered boxes to reenable observation spot. *(Thank you jENiK for reporting.)*
+* [x] Reworked terrain outside of CP to simplify jumping from balcony towards Allied spawn huts without losing speed. *(Thank you Aciz, u!ps, Oksii and jENiK for reporting and testing.
+* [x] Added lamp on table in Offices to reinstate movement boost. *(Thank you jENiK for reporting.)*
+* [x] Reinstated railing leading up to documents from Axis spawn to allow quicker access to the top. *(Thank you jENiK and Oksii for reporting and testing.
+* [x] Removed double glass from various doors to improve visibility.
+* [x] Changed doorframe setup from nonsolid to solid to prevent shooting through and generally improve WYSIWYG.
+* [x] Removed various wired-off maintenance rooms at end of hallways for a uniform background to improve visibility of players.
+* [x] Transformed the guidance system into an entity so it can be disabled via mapscript.
+* [x] Added translucent-red placeholder model for secret documents at transmitter analoguous to goldcrate/radar parts placeholder in vanilla maps.
+* [x] Added skylights to the catwalk area for easier shoutcaster movement.
+* [x] Adjusted floodlighting for a more gloomy look.
+* [x] Added entirely new voice operator lines and news announcement for limbo menu.
+* [x] Coloured map name to match other ET: Legacy overhauls. *(Thank you u!ps for reporting.)*
+* [x] Separated levelshot and command map icon shaders from other shaders for easier server administration. *(Thank you u!ps for reporting.)*
+</details>
+
 <details>
  <summary><b>version 16</b> <i>(Jan 23 2022)</i></summary>
  
@@ -179,18 +221,25 @@ After slowing down the Allied attack at the coastal fortress, the Axis set up po
 
 ### Options
  
-ET maps are played in different gamemodes and configurations, occasionally calling for different settings. To avoid maintaining separate variations of the same map, optional features have been added, which can be toggled in the map script `pk3/maps/<mapname>.script`. Toggle the optional features by (un-)commenting the respective line. Upload the changed mapscript to your server's mapscript directory *(path depends on mod)*. The following optional features are included in **Frostbite**:
-* [ ] A **one-sided** clip preventing jumps over the Storage Wall from outside. *(default disabled)*
+ET maps are played in different gamemodes and configurations, occasionally calling for different settings. To avoid maintaining separate variations of the same map, optional features have been added, which can be toggled in the map script `pk3/maps/<mapname>.script`. Toggle the optional features by (un-)commenting the respective line. Upload the changed mapscript to your server's mapscript directory *(path depends on mod)*. The following optional features are included:</div>
+
+* [x] setstate TJ_clip invisible				        // clip preventing TJ over storage wall (default disabled)
+* [x] trigger radio_ladder_original remove	 // make outer radio bunker ladder retractable with a lever up top (default static ladder)
+* [x] setstate allied_hut_doors invisible  	// widen the Allied spawn hut exits by opening up the other door half (default open)
+* [x] trigger gramophone_hint remove		      // disable the gramophone entirely (default enabled)
+* [x] trigger axis_barracks_door open_door	 // open a connection doorway from Axis upper barracks spawn to garage spawn (default closed)
+* [x] setstate guidance_system invisible	   // hide the wire-based guidance system connecting documents and transmitter (default enabled)
+* [x] globalaccum 2 bitset 1				            // disable map explanation routine during warm-up (non-functional in v18. Can be disregarded.)
  
 ### Compile parameters
 
-</div>
+
 
 ```
-<build name="Frostbite">
+<build name="Frostbite, by Moonkey">
 <command>[q3map2] -bsp -meta -samplesize 4 -v -mv 1024 -mi 6144 &quot;[MapFile]&quot;</command>
 <command>[q3map2] -vis -saveprt -v &quot;[MapFile]&quot;</command>
-<command>[q3map2] -light -fast -samples 4 -samplesize 2 -bounce 3 -bouncegrid -v -thresh 0.5 -shade -dirty -dirtdepth 256 -lightmapsize 2048 -patchshadows -external &quot;[MapFile]&quot;</command>
+<command>[q3map2] -light -fastbounce -samples 4 -samplesize 4 -bounce 5 -bouncegrid -v -thresh 0.5 -shade -dirty -dirtdepth 512 -lightmapsize 2048 -patchshadows -external &quot;[MapFile]&quot;</command>
 </build>
 ```
 

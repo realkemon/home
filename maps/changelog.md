@@ -26,6 +26,7 @@
 * [TODO] Give all CP entities scriptnames for better modification. Thank you u!ps for reporting.
 * [TODO] Service Door announcement always playing when CP constructed even if already destroyed. Thank you u!ps for reporting.
 * [TODO] Added CP ladder indicator visible from Axis garage spawn. Thank you u!ps for reporting.
+* [TODO] Fuel dump has existing voice line for allies on depotdef construction, which is missing in ETL_supply. Thank you u!ps for reporting.
 
 
 # Adlernest

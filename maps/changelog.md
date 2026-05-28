@@ -65,6 +65,7 @@
 * [TODO] compass icon outside bounds - u!ps
 * [TODO] Warbell fucks up Ice shaders - u!ps
 * [TODO] bugged door: https://discord.com/channels/@me/1037054322426532041/1248367587075559454
+* [TODO] TomekKromek: If Guardhouse gate or generator is destroyed while teamdoors are in the process of closing, then it becomes impossible to open them again because the levers disappear. Calling the sequence from the death block doesn’t work either, because the closing sequence is still being executed. https://discord.com/channels/@me/1498926386554081341/1509230610030399641
 
 
 # Supply
